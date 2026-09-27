@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T17:34:40.325993+00:00",
+ "updated": "2026-09-27T22:13:23.073272+00:00",
  "daily": {
   "period_start": "2026-09-27T12:00:00-04:00",
   "resets_at": "2026-09-28T12:00:00-04:00",
@@ -7,31 +7,37 @@
    {
     "id": "acf1d5df8d13",
     "title": "Scrap junk to produce Wood",
-    "detail": "Craft Bulk Wood at a Tinker's Workbench and scrap it, or collect wood from fallen trees northeast of Black Bear Lodge",
+    "detail": "Craft and scrap Bulk Wood at a Tinker's Workbench",
     "score": 10
+   },
+   {
+    "id": "c92c55382b34",
+    "title": "Collect a Nuka-Grape",
+    "detail": "Use a Nuka-Cola Collectron Station",
+    "score": 2
    },
    {
     "id": "08e790cd1872",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town Bounty Board in The Last Resort, obtain a wanted poster, and eliminate the assigned Outlaw",
+    "detail": "Start at Highway Town Bounty Board in The Last Resort",
     "score": 2
    },
    {
     "id": "b75b13662787",
     "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Finish a public event to receive a Pint-Sized Phantoms map, locate and dig up the grave marked on it",
+    "detail": "Available only during The Slasher season",
     "score": 1
    },
    {
     "id": "151808b494cc",
     "title": "Kill a Gulper",
-    "detail": "Fast travel to Gulper Lagoon where 3-4 Gulpers reliably spawn; target the head as weak spot",
+    "detail": "Gulpers spawn reliably at Gulper Lagoon",
     "score": 3
    },
    {
     "id": "efc713fe3b93",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any outfit, hat or mask with 'Costume' in description before killing a Phantom at cabins or fairgrounds",
+    "detail": "Equip any outfit or mask with 'Costume' in its description",
     "score": 5
    }
   ]
@@ -43,56 +49,68 @@
    {
     "id": "b0788bb48860",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Fast travel to your C.A.M.P. or claim a workshop, then place any small decoration or building piece",
+    "detail": "Place any decoration or building piece at your C.A.M.P. or a claimed workshop",
     "score": 25
    },
    {
     "id": "32b9bf5c9d17",
     "title": "Collect a Garden Gnome",
-    "detail": "Visit The General's Steakhouse in the Mire; gnomes are in the walled garden and shed behind the main building",
+    "detail": "Garden Gnomes spawn at The General's Steakhouse in the Mire",
     "score": 5
    },
    {
     "id": "e426cce7f073",
     "title": "Collect any flavor of Nuka-Cola",
-    "detail": "Use a Nuka-Cola Collectron Station at a C.A.M.P. or program any Collectron for Nuka-Cola collection",
+    "detail": "Use a Nuka-Cola Collectron Station",
     "score": 20
    },
    {
     "id": "8cb0262fc71d",
     "title": "Complete a Head Hunt",
-    "detail": "Get a wanted poster from Highway Town Bounty Board, hang it on the board outside The Last Resort, then complete the public event",
+    "detail": "Start at Highway Town Bounty Board, obtain poster, hang it, then fast travel to event",
+    "score": 4
+   },
+   {
+    "id": "eeb92ac968c8",
+    "title": "Complete the Quest: Disturbed Grave",
+    "detail": "Available only during The Slasher season",
     "score": 4
    },
    {
     "id": "c8abeb186cd9",
     "title": "Drink Nuka-Cola",
-    "detail": "Collect Nuka-Cola from a Nuka-Cola Collectron Station and consume it",
+    "detail": "Collect and consume from a Nuka-Cola Collectron Station",
     "score": 25
    },
    {
     "id": "28f5b78cf918",
     "title": "Kill a Pint-Sized Phantom while in a Team",
-    "detail": "Join or create a team, then kill a masked Phantom cultist at cabins, campgrounds or fairgrounds",
+    "detail": "Join or create a team before killing any Phantom",
     "score": 30
    },
    {
     "id": "b72e56d0a87e",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any costume outfit, hat or mask before killing a Phantom; one qualifying piece is sufficient",
+    "detail": "Equip any outfit or mask with 'Costume' in its description",
     "score": 18
    },
    {
     "id": "b272cebcbcbc",
     "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-    "detail": "Activate Disturbed Grave quest, equip a shovel, and kill any enemy before finishing the quest; low-level insects are easiest",
+    "detail": "Equip shovel while quest is active; kills anywhere count",
     "score": 20
    },
    {
-    "id": "eeb92ac968c8",
-    "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Finish a public event to receive map, locate grave, dig it up and collect ritual pile",
-    "score": 4
+    "id": "fd1ffeeb0883",
+    "title": "Repeatable Under Rank 100: Gain XP",
+    "detail": "Only appears if Scoreboard rank is below 100",
+    "score": 10000
+   },
+   {
+    "id": "db7e9a614294",
+    "title": "Repeatable at Rank 100 or above: Complete a Public Event",
+    "detail": "Only appears if Scoreboard rank is 100 or above",
+    "score": null
    }
   ]
  },
@@ -103,7 +121,7 @@
    "type": "seasonal",
    "starts": "2026-09-24",
    "ends": "2026-09-28",
-   "description": "Participate in special fishing, Treasure Hunter encounters, and double mutation effects during this limited-time seasonal event."
+   "description": "Limited-time event featuring seasonal fish, Treasure Hunter rewards, and double mutation chances in Daily Ops."
   },
   {
    "id": "6d2f82244538",
@@ -111,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "Mutated versions of public events appear with modified difficulty and rewards."
+   "description": "Public events have a chance to spawn with mutations, offering enhanced rewards through Mutated Party Packages."
   },
   {
    "id": "126ed829adb2",
@@ -119,15 +137,15 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double SCORE progress on all challenges during this weekend event."
+   "description": "Earn double SCORE progress toward the seasonal Scoreboard."
   },
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "seasonal",
+   "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-20",
-   "description": "Compete in a C.A.M.P. building contest with Slasher-themed elements for exclusive rewards."
+   "description": "Community competition for the best Slasher-themed C.A.M.P. builds."
   },
   {
    "id": "20e482890416",
@@ -135,15 +153,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Participate in spooky Halloween-themed activities and earn exclusive seasonal rewards."
-  },
-  {
-   "id": "7699c943cfd7",
-   "name": "Double Mutations",
-   "type": "seasonal",
-   "starts": "2026-10-15",
-   "ends": "2026-10-19",
-   "description": "Double mutation effects are active on all creatures during this limited-time event."
+   "description": "Halloween-themed event with new seasonal rewards and spooky-themed activities."
   },
   {
    "id": "f1217905f981",
@@ -151,7 +161,39 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Face Halloween-themed Scorched enemies with unique rewards and special challenges available."
+   "description": "Hunt Scorched enemies for exclusive Halloween-themed rewards and cosmetics."
+  },
+  {
+   "id": "5a08f0b191aa",
+   "name": "Spooky Scorched (continuation)",
+   "type": "seasonal",
+   "starts": "2026-10-20",
+   "ends": "2026-11-03",
+   "description": "Hunt Scorched enemies for exclusive Halloween-themed rewards and cosmetics."
+  },
+  {
+   "id": "28dc13296c20",
+   "name": "Double XP and Legendary Sale",
+   "type": "weekend",
+   "starts": "2026-10-22",
+   "ends": "2026-10-26",
+   "description": "Earn double XP while leveling and purchase Legendary weapons and armor at reduced prices."
+  },
+  {
+   "id": "d8085ca52c2c",
+   "name": "Double SCORE and Caps-A-Plenty",
+   "type": "weekend",
+   "starts": "2026-11-05",
+   "ends": "2026-11-09",
+   "description": "Earn double SCORE and find additional caps from enemies and containers."
+  },
+  {
+   "id": "126bb8c1df9f",
+   "name": "Anniversary Events",
+   "type": "update",
+   "starts": "2026-11-10",
+   "ends": "2026-11-17",
+   "description": "Special anniversary celebration events with unique rewards."
   }
  ],
  "season": {
