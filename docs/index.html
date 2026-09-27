@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1d3f7d">
+<title>FO76 Companion</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bungee&family=Barlow:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<main>
+  <div class="top">
+    <div class="brand">
+      <svg viewBox="0 0 40 40" aria-hidden="true">
+        <circle cx="20" cy="20" r="19.5" fill="#f5c518"/>
+        <circle cx="20" cy="20" r="17.5" fill="#15223a"/>
+        <g fill="#f5c518"><path d="M17.23 18.40 L4.50 20.00 L12.25 6.58 Z"/><path d="M22.77 18.40 L27.75 6.58 L35.50 20.00 Z"/><path d="M20.00 23.20 L27.75 33.42 L12.25 33.42 Z"/></g>
+      </svg>
+      <h1>FO76 Companion<small>Appalachia, organized</small></h1>
+    </div>
+    <button class="sync" id="sync" aria-label="Sync settings">…</button>
+  </div>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" data-tab="builds" aria-selected="true"><span data-icon="builds"></span>Builds</button>
+    <button role="tab" data-tab="checklist" aria-selected="false"><span data-icon="checklist"></span>Checklist</button>
+    <button role="tab" data-tab="challenges" aria-selected="false"><span data-icon="challenges"></span>Challenges</button>
+    <button role="tab" data-tab="market" aria-selected="false"><span data-icon="market"></span>Market</button>
+  </div>
+
+  <section data-panel="builds"><div id="b-root"></div></section>
+
+  <section data-panel="checklist" hidden><div id="c-root"></div></section>
+
+  <section data-panel="challenges" hidden><div id="ch-root"></div></section>
+
+  <section data-panel="market" id="tab-market" hidden>
+    <p class="meta" id="m-meta"></p>
+    <div class="subtabs" id="m-view">
+      <button class="btn small" data-v="prices" aria-pressed="true">Prices</button>
+      <button class="btn small" data-v="db" aria-pressed="false">Item database</button>
+    </div>
+    <div class="searchrow">
+      <input id="m-q" type="search" placeholder="Search items or effects" aria-label="Search" autocomplete="off">
+      <button class="btn" id="m-filterBtn" aria-pressed="false" aria-controls="m-panel">Filters</button>
+    </div>
+    <div class="chips" id="m-chips" aria-label="Categories"></div>
+    <div class="panel" id="m-panel" hidden>
+      <label>Type<select id="m-sub"></select></label>
+      <label>Sort by<select id="m-sort"></select></label>
+      <div class="wide legendary-only">
+        <label style="margin-bottom:6px">Legendary stars</label>
+        <div class="stars" id="m-stars">
+          <button class="btn" data-v="" aria-pressed="true">Any</button>
+          <button class="btn" data-v="0" aria-pressed="false">None</button>
+          <button class="btn" data-v="1" aria-pressed="false">1★</button>
+          <button class="btn" data-v="2" aria-pressed="false">2★</button>
+          <button class="btn" data-v="3" aria-pressed="false">3★</button>
+          <button class="btn" data-v="4" aria-pressed="false">4★</button>
+        </div>
+      </div>
+      <label class="legendary-only">1★ effect<select id="m-fx1"></select></label>
+      <label class="legendary-only">2★ effect<select id="m-fx2"></select></label>
+      <label class="legendary-only">3★ effect<select id="m-fx3"></select></label>
+      <label class="legendary-only">4★ effect<select id="m-fx4"></select></label>
+      <label class="prices-only">Listing type<select id="m-side">
+        <option value="">Selling or buying</option><option value="selling">Sellers asking</option><option value="buying">Buyers offering</option>
+      </select></label>
+      <label class="prices-only">Paid in<select id="m-cur">
+        <option value="">Caps or leaders</option><option value="caps">Caps</option><option value="leaders">Leaders</option><option value="other">Item trades</option>
+      </select></label>
+      <label class="prices-only">Minimum posts<select id="m-minPosts">
+        <option value="1">1</option><option value="2">2</option><option value="3">3 (more reliable)</option><option value="5">5</option>
+      </select></label>
+      <label class="check db-only"><input type="checkbox" id="m-tradable" checked> Tradable items only</label>
+      <label class="check db-only"><input type="checkbox" id="m-hasPrice"> Only items with prices</label>
+      <div class="wide"><button class="btn" id="m-reset">Clear filters</button></div>
+    </div>
+    <div class="bar"><span class="small" id="m-count"></span></div>
+    <div id="m-list"></div>
+    <button class="btn more" id="m-more" hidden>Show more</button>
+    <p class="small" style="margin-top:28px">Prices come from r/Market76 Xbox posts from the last 30 days. Items not posted lately show their most recent prices, marked "Older". These are what sellers ask and buyers offer, not confirmed sales. Item data comes from the game files via fo76-dumps and updates after each patch.</p>
+  </section>
+</main>
+
+<dialog id="settings">
+  <h2 style="margin-top:4px">Sync settings</h2>
+  <p class="small">Connect to your group's server so your builds, inventory, and ticks sync across your devices. You and your friend each use your own name; you never see or change each other's data. Leave blank to keep everything on this device.</p>
+  <label>Server address<input type="url" id="set-server" placeholder="https://fo76.yourname.workers.dev"></label>
+  <label>Group key<input type="password" id="set-key" autocomplete="off"></label>
+  <label>Your name (use the same one on each of your devices; your friend uses a different one)<input type="text" id="set-person" placeholder="Matt"></label>
+  <p class="small" id="set-status"></p>
+  <div class="bar"><button class="btn" id="set-cancel">Cancel</button><button class="btn primary" id="set-save">Save</button></div>
+</dialog>
+
+<dialog id="chg-dialog">
+  <h2 style="margin-top:4px">Changes to this build</h2>
+  <p class="small">Game updates changed some things in this build since you last looked.</p>
+  <div id="chg-list"></div>
+  <div class="bar" style="margin-top:12px"><span></span><button class="btn primary" id="chg-ok">Got it</button></div>
+</dialog>
+
+<script src="js/icons.js"></script>
+<script src="js/core.js"></script>
+<script src="js/market.js"></script>
+<script src="js/builds.js"></script>
+<script src="js/checklist.js"></script>
+<script src="js/challenges.js"></script>
+<script src="js/confetti.js"></script>
+<script>
+  document.querySelectorAll("[data-icon]").forEach(el => el.outerHTML = App.icon(el.dataset.icon));
+  App.boot(window.INLINE_DATA);
+</script>
+</body>
+</html>
