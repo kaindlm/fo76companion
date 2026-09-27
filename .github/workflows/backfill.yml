@@ -1,0 +1,56 @@
+name: Backfill price history (run once)
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "quick = weapons, armor, power armor, legendary mods, serums (1 to 2 hours). full = also every plan and apparel (about 3 runs). deep = the quick list searched 7 ways to reach further back for common items (about 2 to 3 runs; run quick first)."
+        type: choice
+        options: [quick, full, deep]
+        default: quick
+      max_posts:
+        description: "Most posts to send to Claude this run (spending cap). 3000 is roughly $1.50."
+        default: "3000"
+      extra_terms:
+        description: "Optional extra searches, separated by commas (e.g. Beta Wave Tuner, Fasnacht Crown)"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Search and read older posts
+        working-directory: scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+          MODE: ${{ inputs.mode }}
+          MAX_POSTS: ${{ inputs.max_posts }}
+          EXTRA_TERMS: ${{ inputs.extra_terms }}
+          SEARCH_MINUTES: "240"
+          BATCH_WAIT: "3600"
+        run: python backfill.py
+      - name: Save results
+        if: always()
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add -A data docs/data
+          git diff --staged --quiet || git commit -m "Backfill price history"
+          git pull --rebase
+          git push
