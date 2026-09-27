@@ -1,0 +1,2812 @@
+{
+ "patches": [
+  {
+   "id": "wiki:Fallout 76 patch 1.7.25.39",
+   "title": "Patch 1.7.25.39",
+   "date": "2026-07-21",
+   "url": "https://fallout.fandom.com/wiki/Fallout_76_patch_1.7.25.39",
+   "source": "Fallout wiki"
+  },
+  {
+   "id": "wiki:Fallout 76 patch 1.7.25.13",
+   "title": "Patch 1.7.25.13: Infestations",
+   "date": "2026-05-28",
+   "url": "https://fallout.fandom.com/wiki/Fallout_76_patch_1.7.25.13",
+   "source": "Fallout wiki"
+  },
+  {
+   "id": "wiki:Fallout 76 patch 1.7.24.12",
+   "title": "Patch 1.7.24.12",
+   "date": "2026-04-21",
+   "url": "https://fallout.fandom.com/wiki/Fallout_76_patch_1.7.24.12",
+   "source": "Fallout wiki"
+  },
+  {
+   "id": "wiki:Fallout 76 patch 1.7.23.39",
+   "title": "Patch 1.7.23.39",
+   "date": "2026-03-17",
+   "url": "https://fallout.fandom.com/wiki/Fallout_76_patch_1.7.23.39",
+   "source": "Fallout wiki"
+  },
+  {
+   "id": "wiki:Fallout 76 patch 1.7.26.13",
+   "title": "Patch 1.7.26.13: The Slasher",
+   "date": "",
+   "url": "https://fallout.fandom.com/wiki/Fallout_76_patch_1.7.26.13",
+   "source": "Fallout wiki"
+  },
+  {
+   "id": "wiki:Fallout 76 patch 1.7.23.30",
+   "title": "Patch 1.7.23.30: The Backwoods",
+   "date": "",
+   "url": "https://fallout.fandom.com/wiki/Fallout_76_patch_1.7.23.30",
+   "source": "Fallout wiki"
+  }
+ ],
+ "changes": [
+  {
+   "name": "Lighter Build",
+   "kind": "other",
+   "direction": "buff",
+   "summary": "AP bonus increased from 2 to 5 on limbs and from 2 to 10 on the torso",
+   "id": "995d5365c9d9e1",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Ultra-Light Build",
+   "kind": "other",
+   "direction": "buff",
+   "summary": "AP bonus increased from 5 to 10 on limbs and from 5 to 20 on the torso",
+   "id": "816a8c892c521c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Pocketed",
+   "kind": "other",
+   "direction": "buff",
+   "summary": "Torso slot now grants twice the carry weight that limbs do",
+   "id": "e645aa0fc0ceac",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Deep Pocketed",
+   "kind": "other",
+   "direction": "buff",
+   "summary": "Torso slot now grants twice the carry weight that limbs do",
+   "id": "b52ee9907f8316",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Nocturnal Fortitude",
+   "kind": "legendary_perk",
+   "direction": "buff",
+   "summary": "HP per rank increased from 20 to 50",
+   "id": "e5e75559d75c02",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Photosynthetic",
+   "kind": "legendary_perk",
+   "direction": "buff",
+   "summary": "Now regenerates 3 HP/s per rank",
+   "id": "689bd5888f3ecc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Night Person",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "Is now a single rank 2-point card with INT & PER bonus increased to 5",
+   "id": "90100b08e8333c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Solar Powered",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "Is now a single rank 2-point card with STR & END bonus increased to 5",
+   "id": "9c959516163b4b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Lone Wanderer",
+   "kind": "perk",
+   "direction": "buff",
+   "summary": "Now provides damage reduction against all damage types",
+   "id": "55f04638b1e549",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Awareness",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "Will no longer show the skull icon of raid bosses next to resistances",
+   "id": "c09702c18a980a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Pumpkin Grenade",
+   "kind": "consumable",
+   "direction": "nerf",
+   "summary": "Bleed Damage removed",
+   "id": "db2e84b050518f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Lucky Tea",
+   "kind": "consumable",
+   "direction": "change",
+   "summary": "Drinking no longer dispels effects from Chems and buff will now last 1 hour",
+   "id": "11b60f46eba2e4",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Canned Radscorpion",
+   "kind": "consumable",
+   "direction": "fix",
+   "summary": "Now provides same resistances as the cooked version",
+   "id": "dbdf5a9533a962",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Canned Rad Scorpion Steak",
+   "kind": "consumable",
+   "direction": "nerf",
+   "summary": "Will no longer benefit from Super Duper",
+   "id": "128a62ade9a065",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Gatling Plasma",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Large Core Receptacle now shows 50% ammo capacity upgrade that matches gameplay",
+   "id": "bc5e63acdccd9e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Auto-Axe",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed issues causing it to be unresponsive in third person with weapon wheel and when player is crippled",
+   "id": "c10086739889a6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Chainsaw",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed issue causing it to be unresponsive if selected with the weapon wheel in third person",
+   "id": "2e178ff9eb97db",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "All Rise",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed issue that caused it to display an incorrect model after applying a skin",
+   "id": "b4888fb381ac70",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": ".44 pistol",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed bug that prevented it from being repaired",
+   "id": "cb8205a66b9ce3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Bowie Knife",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed missing blood textures",
+   "id": "dc30f36336971a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Baseball Bat",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Sharp mod name adjusted to Bladed and fixed issue with two paint mod slots",
+   "id": "c516544c393392",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Knuckles",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Sharp mod name adjusted to Sharp",
+   "id": "127630f9a49e4c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Chinese Officer Sword",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Serrated mod now correctly applies bleed and Electrified Serrated Blade now adds bleed damage; No Upgrade renamed to Standard Blade",
+   "id": "cbb7d9351b39cc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Pipe Wrench",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed issue where attaching the Hooked mod would cause it to no longer be modifiable",
+   "id": "5209910087a737",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "V63 Zweihaender",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Can now be crafted once you complete the Skyline Valley main quest",
+   "id": "32e395ca61db2d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "10mm SMG",
+   "kind": "weapon",
+   "direction": "buff",
+   "summary": "Basic reflex sight can now be learned via scrapping",
+   "id": "7822e10a087112",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Railway Rifle",
+   "kind": "weapon",
+   "direction": "buff",
+   "summary": "Base ammo capacity increased from 10 to 16, fire delay on semi-auto receivers decreased, base weight of Railway Spikes lowered from 0.2 to 0.15, added Prime Shotgun Receiver and Automatic Prime Receiver mods",
+   "id": "d70ef80d1f3004",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Combat Shotgun",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Prime Automatic Receiver mod added",
+   "id": "f913cb58f0f1d6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Death Tambo",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Added two new mods \u2013 Bladed and Sharp",
+   "id": "da1296a285a1dd",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Lever Action Rifle",
+   "kind": "weapon",
+   "direction": "buff",
+   "summary": "Clip size increased from 5 to 6",
+   "id": "b9dfda71620399",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "The Brotherhood Recon Rifle",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Replaced with recipe for Recon Scope in Activity: Distant Thunder and crafting restrictions removed",
+   "id": "ac8f0db690668f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "The Fancy Single Action Revolver",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Replaced with weapon skin for the Single Action Revolver",
+   "id": "f664dfada913a8",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Pump Action Shotgun",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Fancy variant replaced with weapon skin for the Pump Action Shotgun",
+   "id": "44829bbe958aae",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Weapon swing speed",
+   "kind": "weapon",
+   "direction": "nerf",
+   "summary": "Capped at 200% bonus from effects",
+   "id": "e6cccf23de8d45",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Beasts of Burden",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed issue that could cause it to fail despite placing all the bombs on doors",
+   "id": "7c085054e4c412",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Activity: Death Blossoms",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Corpse Flower Stamen will now be rewarded after successfully completing the activity",
+   "id": "09863af02050d9",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Elusive Crane",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed issue with ID Card Reader remaining unresponsive while progressing through the quest",
+   "id": "7d514654f69e08",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Legendary weapon scrip value",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Increased from 1/2/4/6 to 3/5/10/30 stars when scrapping",
+   "id": "c722f9b34ecae6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Legendary armor scrip value",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Increased from 1/2/4/6 to 3/5/10/30 stars when scrapping",
+   "id": "f07c3802b1e0b3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Weapon sell price to Purveyor",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Increased from 5/15/40 to 15/25/50 for stars",
+   "id": "567530b3b86668",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Armor sell price to Purveyor",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Increased from 3/9/24 to 15/25/50 for stars",
+   "id": "618a8299da4b39",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Power Armor sell price to Purveyor",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Increased from 10/20/45 to 15/25/50 for stars",
+   "id": "9dcb1bcc800af2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Weapon buy price from Purveyor",
+   "kind": "item",
+   "direction": "nerf",
+   "summary": "Changed from 25/50/100 to 25/35/60 for stars",
+   "id": "1b2fb6bc67d20c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Armor buy price from Purveyor",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Changed from 15/30/60 to 25/35/60 for stars",
+   "id": "ce240f1fa31fff",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Power Armor buy price from Purveyor",
+   "kind": "item",
+   "direction": "nerf",
+   "summary": "Changed from 50/75/120 to 25/35/60 for stars",
+   "id": "4598d292a502d3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Legendary Module",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Weight in stash reduced from 0.15 to 0.05",
+   "id": "5c241a069867e0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Tarnished",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Fixed bug that prevented it from awarding better player damage",
+   "id": "08d26dd7650a8d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Polished",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Fixed bug that prevented it from awarding better player damage",
+   "id": "ef98e3fd514fae",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Unyielding",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "Effect boundaries now at 20%, 40%, 60% instead of below",
+   "id": "46c407435fcf6f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Explosive",
+   "kind": "legendary_effect",
+   "direction": "nerf",
+   "summary": "Arrow explosion count adjusted from 15 to 1 and no longer based on world orientation",
+   "id": "6d0bc75ad67e4b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Infestation Boss",
+   "kind": "event",
+   "direction": "nerf",
+   "summary": "Health reduced",
+   "id": "831351ae4213f8",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Head Hunts",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed an issue causing Head Hunts to fail despite killing the target.",
+   "id": "a11dfdeec54c8f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Dangerous Pastimes",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed spawn issues with the Power Armor enemies.",
+   "id": "adf3736373f9b1",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Poisoned Hogsplitter",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "The Rusted Hogsplitter is now called the Poisoned Hogsplitter.",
+   "id": "eec6408086c1ee",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Moo-Moo Curd",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Moo-Moo Curd now appears correctly when placed in a display case.",
+   "id": "09f5ea43d562ca",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Powering Up",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed an issue where completing Powering Up activity for Monongah resulted in the incorrect amount of XP.",
+   "id": "6ae323ff88621a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Heart of the Swamp",
+   "kind": "event",
+   "direction": "nerf",
+   "summary": "Greatly reduced the health of the Mirelurk Queen that spawns during the Heart of the Swamp event.",
+   "id": "83082289a704f7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Leather Left Arm",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "Fixed a visual issue that could be seen on female characters in first person with the Leather Left Arm.",
+   "id": "9b96d239d61847",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Daring Underarmor",
+   "kind": "armor",
+   "direction": "buff",
+   "summary": "Updated the Daring Underarmor to allow different lining mods.",
+   "id": "ab24dcf677f0de",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Responder Civil Engineer armor",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "Fixed an issue where Responder Civil Engineer armor required Secret Service Underarmor Mod plans instead of the intended Civil Engineer Underarmor.",
+   "id": "8f546ebeca109a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Rainbow Weather Machine",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Rainbow Weather Machine is now more scientifically accurate with the 2nd rainbow's coloring order.",
+   "id": "83223e08187d28",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Dog C.A.M.P. Pets",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed an issue where Dog C.A.M.P. Pets could jitter while resting in their doghouse.",
+   "id": "70e693c83be723",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Cyprus Cat Bed",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed naming of the Cyprus Cat Bed.",
+   "id": "11e2b01c19237e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Glowing Doghouse",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed naming of the Glowing Doghouse.",
+   "id": "a431887dd19005",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Glowing Radhog Bed",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed naming of the Glowing Radhog Bed.",
+   "id": "c85796d284e6ac",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Nuka-Stool",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "The Nuka-Stool can now be found in the Furniture > Seating category of the Workshop.",
+   "id": "eb47d7254f960d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Framed Blue Tarp Roof",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Framed Blue Tarp Roof can now be built correctly.",
+   "id": "354fbf1998ea91",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Backpack Flairs",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Backpack Flairs are now properly aligned when a Backpack is put on display.",
+   "id": "4142f4a97f4491",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Camden Park Claw Machine",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed animation issues with the Camden Park Claw Machine.",
+   "id": "73826f4a56fe5f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Ghoul Vault Boy Lamp",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed inconsistent lighting seen between the Ghoul Vault Boy Lamp and Ghoul Vault Girl Lamp.",
+   "id": "f9d64059b6bfb2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Ghoul Vault Girl Lamp",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed inconsistent lighting seen between the Ghoul Vault Boy Lamp and Ghoul Vault Girl Lamp.",
+   "id": "a4d300766e9570",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Wise Mothman Throne",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Wise Mothman Throne now has a build limit of 20.",
+   "id": "ca4876ace792b3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Teal sink",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Added a description to the Teal sink that indicates it produces water and cannot be built in a shelter.",
+   "id": "bc484098aa9694",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Harvest a Prickeye",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed an issue where the Harvest a Prickeye challenge was shown as Harvest a Slipper Cactus.",
+   "id": "51eb5807004130",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Scrap Headwear",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Addressed an issue where the Scrap Headwear Challenge did not function properly.",
+   "id": "f75bd0bc12ae87",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Super Duper",
+   "kind": "perk",
+   "direction": "nerf",
+   "summary": "Cannery Recipes are now blocked from the benefits of Super Duper.",
+   "id": "29c9d61ae63228",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "V.A.T.S.",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Fixed an issue that prevented players from using V.A.T.S. to punch enemies.",
+   "id": "b178d6e26c5bc2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Player Ghouls",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Player Ghouls with health damage will no longer load in as having an active Glow meter.",
+   "id": "d122643e8278d5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Fasnacht Bosses",
+   "kind": "event",
+   "direction": "change",
+   "summary": "All Fasnacht Bosses are now a 3* Legendary with increased health.",
+   "id": "b31408901ddb3e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Scrap Kits",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Scrap Kits should now drop with the Atomic Shop symbol.",
+   "id": "0eca90527674d0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Fort Defiance",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Fixed an issue where the map location was not properly displaying for Fort Defiance.",
+   "id": "60cb99cea422b5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Protectrons",
+   "kind": "other",
+   "direction": "buff",
+   "summary": "Protectrons will now attack if unarmed.",
+   "id": "9bc11074a2d812",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Super Mutant Floaters",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Super Mutant Floaters Now Explode Correctly On Death.",
+   "id": "2170d4c52d9ebf",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Melee enemies",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Melee enemies will now properly attack if spawned unarmed.",
+   "id": "8c61d24884a44c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Infestation enemies",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Increased amount of ammo dropped by enemies.",
+   "id": "d32390ad2faf4d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Infestation non-boss enemies",
+   "kind": "other",
+   "direction": "nerf",
+   "summary": "Decreased chance of legendary items from non-boss enemies.",
+   "id": "dc75a5769a5ecc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Infestation Bosses",
+   "kind": "other",
+   "direction": "nerf",
+   "summary": "Bosses have been rebalanced to make them more challenging for large groups of players to fight.",
+   "id": "a76af6bd112f77",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Rad Specialist",
+   "kind": "perk",
+   "direction": "fix",
+   "summary": "Fixed an issue where the perk Rad Specialist was not showing the correct amount of Glow intake within the Pip-Boy.",
+   "id": "480362f157a805",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "LMG Critical .308 Receiver mod",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "LMG Critical .308 Receiver mod now properly changes ammo type to .308 instead of 5.56.",
+   "id": "39ad645713f454",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Dom Pedro's fortunate magazine mods",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "The ammo refund mechanic should be working again with Dom Pedro's fortunate magazine mods.",
+   "id": "239ca4efede2e3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Plasma Caster",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "The Plasma Caster's short scope now has visible glass lenses.",
+   "id": "7e7afa1e4ca774",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Handmade Rifle",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "The Handmade Rifle's drum magazine reload animation is now correct when the Light 'Em Up Paint skin is applied.",
+   "id": "4d1f67ff1c4938",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Electrified Hogsplitter",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "The Electrified Hogsplitter's visual effects stay attached to the blade better when playing in 3rd person.",
+   "id": "c82294c016f470",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Retribution",
+   "kind": "legendary_perk",
+   "direction": "fix",
+   "summary": "Now works with Defender's mod.",
+   "id": "500bc8707660c7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Gutter",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Added new legendary mods Inertial and Ghost's, plus implicit poison damage.",
+   "id": "313f0eed8b5e67",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "V63-HELGA",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "New mod added that penetrates targets.",
+   "id": "55b193b13dc786",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Scattershot",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Fixed issue where it provided more limb damage than expected.",
+   "id": "eba4699b97ce38",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Tormentor",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Fixed issue where it provided more damage than expected.",
+   "id": "a0a657318b049b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Gamma Gun",
+   "kind": "weapon",
+   "direction": "buff",
+   "summary": "Added energy damage in addition to existing radiation damage.",
+   "id": "27cc9dd81c636a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Diver's",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "Changed effect to regenerate health while in water at +3 HP/s.",
+   "id": "0b2d54f1a8924f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Nuka-Orange",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from +25 to +50.",
+   "id": "2e08781a49fbe3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "RadShield",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from +300 to +600, but can no longer be stacked by repeated consumption.",
+   "id": "6c28a21928f596",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Rad-X",
+   "kind": "consumable",
+   "direction": "nerf",
+   "summary": "Radiation exposure resistance decreased from +600 to +300.",
+   "id": "8a677970d40d2d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Rad-X: Diluted",
+   "kind": "consumable",
+   "direction": "nerf",
+   "summary": "Radiation exposure resistance decreased from +250 to +125.",
+   "id": "351e45e68ded15",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Soot Flower Herb Paste",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from 20 to 25.",
+   "id": "72d409cf7253e5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Glowing Fungus Soup",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from 20 to 25.",
+   "id": "98e6ee7eaac09d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Steeped Strangler Pod Tea",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from 20 to 25.",
+   "id": "dab1780a9d8caf",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Steeped Strangler Bloom Tea",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from 20 to 25.",
+   "id": "7764f341c9198d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Mirelurk Cake With Bloodleaf Aioli",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from +25 to +50.",
+   "id": "7d8252c0aada06",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Bloatfly Loaf",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from +25 to +50.",
+   "id": "91bd26789d9efa",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Tesla Science 6",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation exposure resistance increased from +15 to +100.",
+   "id": "bbfc51535a7be8",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Rad Specialist",
+   "kind": "perk",
+   "direction": "buff",
+   "summary": "Environmental glow bonus increased from +5/10/15% to +10/20/30%.",
+   "id": "84dcc5a7962e1f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Glowing One",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "Glow radius doubled but glow granted reduced from 6/12 to 4/8.",
+   "id": "9379aeeb72fc7d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Grenadier",
+   "kind": "perk",
+   "direction": "buff",
+   "summary": "Expanded radius bonus now affects damage radius for explosive ammo.",
+   "id": "c0bc3545fe25cd",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Cryo Frame",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Crossbow cryo frame mod fixed to deal correct cryo damage.",
+   "id": "6d2a277685e3c1",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Dissipating",
+   "kind": "legendary_effect",
+   "direction": "buff",
+   "summary": "Armor mods now recover rads at constant rate with significantly increased recovery in some cases.",
+   "id": "7f912e1c6b70eb",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Resolve Breaker",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed issue where projectiles could be destroyed prematurely or targeted in V.A.T.S.",
+   "id": "cfffd4a886b308",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Glowing Blood Pack",
+   "kind": "consumable",
+   "direction": "fix",
+   "summary": "Fixed issue where it added radiation resist to player ghouls and can no longer be stacked.",
+   "id": "3c5c49a133a2e2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Irradiated Blood Pack",
+   "kind": "consumable",
+   "direction": "change",
+   "summary": "Adjusted to no longer apply radiation resist to player ghouls and now affected by Bloodsucker perk.",
+   "id": "bd8c653a12559d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.25.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Distinguished Guests",
+   "kind": "event",
+   "direction": "buff",
+   "summary": "Increased chances of legendary enemies spawning.",
+   "id": "b1e54289ade5ca",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Battle Bots",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed an issue where the activity would remain active if players never engage with it.",
+   "id": "6f12416a548114",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Colossal Problem",
+   "kind": "event",
+   "direction": "buff",
+   "summary": "The Casual Underarmor Style can now be earned upon event completion.",
+   "id": "dc631b05442d1b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Grunt Hunts",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed an issue that could cause Grunt Hunts to fail to start for some players.",
+   "id": "950a6fdf72b458",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Powering Up",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Doors locked by terminals at the Power Plants have been unlocked.",
+   "id": "3fc5589362f53d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Feed the People",
+   "kind": "event",
+   "direction": "change",
+   "summary": "The amount of legendary enemies have been adjusted to follow similar amounts of other events.",
+   "id": "74679c1de0d5e7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Legion Legate Helmet",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "No longer clips into the neck of the player.",
+   "id": "63db7d5437a44d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Liberty Prime",
+   "kind": "power_armor",
+   "direction": "fix",
+   "summary": "Pieces no longer display in the inspect menu while the Patriot Prime PA Skin is applied.",
+   "id": "404bedb4c48494",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Abraxodyne Coveralls",
+   "kind": "armor",
+   "direction": "change",
+   "summary": "Changed the name from Abraxodyne Overalls to Abraxodyne Coveralls.",
+   "id": "6c2270e00935cc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Deathclaw Skin Outfit",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "No longer counts as Mothman Cultist disguise.",
+   "id": "c7fd530efabfac",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "NCR Trooper Outfit",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "No longer increases the weight of the player when wearing underarmor.",
+   "id": "e87e077925cc7f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Nuka-Cola Collectors Power Armor",
+   "kind": "power_armor",
+   "direction": "fix",
+   "summary": "No longer has a dark void when equipped.",
+   "id": "ed9cfffe7041f5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Vault Suit Underarmor Style",
+   "kind": "plan",
+   "direction": "change",
+   "summary": "Plan is now worth 200 Gold Bullion.",
+   "id": "119b941e82fbba",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Lady Liberty Prime Power Armor",
+   "kind": "power_armor",
+   "direction": "change",
+   "summary": "Reduced amount of screen space occupied when certain Heavy Weapons are equipped.",
+   "id": "6882a91a9f251c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Rust Raider Light/Medium/Heavy",
+   "kind": "armor",
+   "direction": "buff",
+   "summary": "Weight reduced to intended amounts.",
+   "id": "cc655f83588d98",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Lady Liberty Prime Paint",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "Fixed an unintended opening.",
+   "id": "b7f70a2392dea1",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Armor condition damage",
+   "kind": "other",
+   "direction": "buff",
+   "summary": "Reduced condition damage dealt to all player armor from self-damage.",
+   "id": "75153c411d98b3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Armor condition damage",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Fixed issue where armor condition would degrade based on health damage taken rather than the health damage the armor piece prevented.",
+   "id": "a41f416813635f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Power Armor condition damage",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Fixed percentage reductions to damage incorrectly applying to Power Armor condition damage.",
+   "id": "10a4eee7447030",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Wood Armor",
+   "kind": "armor",
+   "direction": "buff",
+   "summary": "Fixed cases where it took condition damage unexpectedly fast relative to other armor.",
+   "id": "b57943dddfd3e0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Player limb durability",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Fixed increasing player max health not resulting in proportionally hardier limbs.",
+   "id": "12ac387d898062",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Raven Perch",
+   "kind": "item",
+   "direction": "added",
+   "summary": "Added sound effects.",
+   "id": "aaade1938ac62a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Caged Owl",
+   "kind": "item",
+   "direction": "added",
+   "summary": "Added sound effects.",
+   "id": "eff50e6b406157",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Raider Punk's Radio",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Added \"'s\" to the name in the build menu.",
+   "id": "12c9ca9f33dfa6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Collectron terminals",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Now work properly in public workshops.",
+   "id": "147bf554ef9db3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "C.A.M.P. allies and pets",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed an issue preventing players from building them in their C.A.M.P.",
+   "id": "a2834eea6f7aa7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Diner Letters",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed destroyed state display.",
+   "id": "cb9cae02fa2d64",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Jack-O'-Lantern Backpack Flair",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed display issue when placed in a display case.",
+   "id": "ca693da0060f93",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Blue Nuka-Cola Billboard",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed an issue where players who earned it couldn't place it.",
+   "id": "60e6358f1ad4e3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Axolotl plushie",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Names have been updated to be consistent.",
+   "id": "12ad8a72d857c4",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Armoire Stash Box",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed visibility in the Workshop Menu.",
+   "id": "a5fa2b3271e46a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Starlight Drive-In Marquee",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Snaps properly with floors and foundations.",
+   "id": "66c0c9ce855bed",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Nukashine beer kegs",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed incorrect display in the C.A.M.P. build menu.",
+   "id": "b17c84d82ddbd9",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Cold Shoulder Pip-Boy Paint",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Now displays its frost effect when on the display stand.",
+   "id": "c61dc3e726a6f8",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Raider Fermenter",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Can no longer be crafted in shelters.",
+   "id": "fd90436cbedc3f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Fusion and Plasma Core Rechargers",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Can no longer be built in Shelters.",
+   "id": "1230fb9dbfb5e2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Fasnacht Captain Masks",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Now sit in displays properly.",
+   "id": "6344fdf1c86afe",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Mystery Magazine Box",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed an issue where it was not lootable from the Evidence Collection Assistant Collectron.",
+   "id": "bf8ec0e317b1df",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Crashed Cargo Bot and Rip Daring Survival Cache",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed build limit being shared between them.",
+   "id": "67fe57a435f067",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Burning Springs Weather Machine",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "No longer shows missing VFX and displays correctly.",
+   "id": "419a3cc9d1b473",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Vault Tec Bed 1",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Renamed to Simple Bed.",
+   "id": "1d473967058ce3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Vault Tec Bed 2",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Renamed to Simple Made Bed.",
+   "id": "5932fe398dbf5a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Starlight Drive-In",
+   "kind": "other",
+   "direction": "change",
+   "summary": "C.A.M.P.s can no longer be built in proximity of it.",
+   "id": "9dc752c345eaa0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Water Purifiers",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed being listed in the Metal Doors category of the Workshop Menu.",
+   "id": "30250f1d3d196d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Rabbit Plushie",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Workshop icon realigned in the Workshop Menu.",
+   "id": "81ee0ed7c64e47",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Galaxy Map",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Workshop icon enlarged in the Workshop Menu.",
+   "id": "d7e95c776de5b5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Fish Tank C.A.M.P. display",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Improved the animation of fish inside.",
+   "id": "849f2a54fc3f9e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Abraxodyne HQ Sign",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed being unable to craft after completing the relevant challenge.",
+   "id": "ff1020e3bd1289",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Talons",
+   "kind": "mutation",
+   "direction": "fix",
+   "summary": "Fixed bleed damage over time affecting bleed-immune targets.",
+   "id": "fec39352508b62",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "War Drum",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed incorrect damage assignments on NPC version.",
+   "id": "9ee2c249d3f9fc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Meat Hook",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed incorrect damage assignments on NPC version.",
+   "id": "aac5aca86c80f3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Cryolator",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed incorrect damage assignments on NPC version.",
+   "id": "21d702c2034c5b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Scrap kits",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Will now ignore locked items.",
+   "id": "37f36f356fcd76",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Prototype ABX03",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Updated the critical death goo effect.",
+   "id": "30429f186b8534",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Sentry Bot Helmet",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Now uses Military Circuit Board as part of its recipe.",
+   "id": "c3b957139efbed",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Janky Fishing Rod",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Animates properly when reeling in fish.",
+   "id": "09dd984de6d3c4",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Thrill-Seeker's mod box",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed scrapping resulting in fewer modules than intended.",
+   "id": "2cbd9c9b9ee2c9",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Potbelly Kelt",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed using the incorrect texture.",
+   "id": "f73a4a798075ca",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Armored Spinefish",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed using the incorrect texture.",
+   "id": "95b4ba5a91dc60",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "XB-55",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed higher resistances than intended in the \"Over and Out\" quest.",
+   "id": "188f3d408734d7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "XB-55",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Will now scale down to lower levels when encountered by low-level players.",
+   "id": "c553b1f31391bc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "XB-55",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Increased XP rewarded when killing it.",
+   "id": "ec8067f56beb65",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Explosions",
+   "kind": "other",
+   "direction": "buff",
+   "summary": "Now retain more of their damage when not directly hitting the target.",
+   "id": "e8a1e9ccd27722",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Multi-projectile explosion damage",
+   "kind": "other",
+   "direction": "buff",
+   "summary": "Should now retain more damage when facing enemies with high resistances.",
+   "id": "dd0d6c1990d14d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Demolition Expert",
+   "kind": "perk",
+   "direction": "buff",
+   "summary": "Bonuses to explosion damage are no longer skipped for self-damage.",
+   "id": "9e295e9ed0e534",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Center Masochist",
+   "kind": "perk",
+   "direction": "fix",
+   "summary": "Now properly displays its effect in the Pip-Boy.",
+   "id": "3aa0c39107876b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Glowing One",
+   "kind": "perk",
+   "direction": "added",
+   "summary": "Now shows in the Perk Tab with how much Glow it grants to other Ghouls.",
+   "id": "488fef95393ae8",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Fancy Single Action Revolver",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Increased weight by 10%, decreased durability, larger cone of fire, increased AP cost by 10%, smaller cone of fire when sneaking, 25% faster reload speed, 10% faster fire rate.",
+   "id": "07e468910c4ff4",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Fancy Pump Action Shotgun",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Increased weight by 10%, decreased durability, larger cone of fire, increased AP cost by 10%, smaller cone of fire when sneaking, 25% faster reload speed, 10% faster fire rate.",
+   "id": "05af962ab1973e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Rip Daring paint",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "Fixed an issue preventing it from working with some Cremators.",
+   "id": "51065b9fd4c744",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Peepers paint",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "Fixed an issue preventing it from working with some Cremators.",
+   "id": "587650dc97e255",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Dom Pedro Aligned Grips",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Now has Aligned Properties.",
+   "id": "62de9897b8f266",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Dom Pedro Stabilized Grips",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Now has Stabilized Properties.",
+   "id": "3c61352eda2a35",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Dom Pedro True Grips",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Now has True Properties.",
+   "id": "c73e01e7f68a6e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Fierce",
+   "kind": "legendary_effect",
+   "direction": "buff",
+   "summary": "Now costs the same as other 2-Star legendary mods.",
+   "id": "af03e538ab9922",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Lucid",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "Is now shown as a prefix.",
+   "id": "554885cf0c68bb",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Blue Moon",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed differences between the VO and subtitles for conversations between Aries and Carver.",
+   "id": "44c0c3434c6e1b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Insurrection",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed an issue where Team Members could progress Optional Objectives for the Team Leader.",
+   "id": "2cf5ab12274e18",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Clean Industrial Fan",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Now sounds like it was made of metal instead of wood when destroyed.",
+   "id": "b0cba6b709e854",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Fasnacht Porcelain Steins",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Prevented from being auto-scrapped.",
+   "id": "a7c7fd8be6d73c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.24.12",
+   "found": 1790530480
+  },
+  {
+   "name": "Chainsaw Flamer",
+   "kind": "weapon",
+   "direction": "nerf",
+   "summary": "Fixed an issue where it hit targets too fast and dealt more damage than intended.",
+   "id": "2bdeeb38f5e6ec",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Scorchbeast Queen",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed an issue where reflected damage could kill it in one hit.",
+   "id": "ae47d4736b45fe",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Pip-Boy",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed shortcuts for increasing quantity of items to drop.",
+   "id": "76afc142ff7935",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Open Season Menu",
+   "kind": "other",
+   "direction": "change",
+   "summary": "Changed PC key bind from CTRL to Y.",
+   "id": "8c29d98d76356e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Mutations",
+   "kind": "mutation",
+   "direction": "change",
+   "summary": "Adjusted naming of several mutation effects that were confusingly worded.",
+   "id": "59521e83c90076",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Emotes",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed being unequipped whenever the game is launched.",
+   "id": "e99411cdbe5ed9",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Loot Bags",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed being unequipped whenever the game is launched.",
+   "id": "fc6aa643229752",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Survival Tents",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed being unequipped whenever the game is launched.",
+   "id": "d2d62284ad3adc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Server response messages",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Players will no longer receive frequent \"Waiting for response from server\" messages when there are no server issues.",
+   "id": "a6ea57a8acea3d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Heart of the Enemy",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed an issue preventing players from extracting DNA from the Scorchbeast Queen during this daily mission.",
+   "id": "c12d907dd689a3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Workbench",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed instances where the game could crash while scrapping legendary items or while in a Workbench.",
+   "id": "2712dc3c532bd6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Pip-Boy Display",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed replica Pip-Boys not showing when placed in the display.",
+   "id": "dbaa7c1f90f225",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.39",
+   "found": 1790530480
+  },
+  {
+   "name": "Bigfoot",
+   "kind": "other",
+   "direction": "added",
+   "summary": "New 4-Star Legendary creature added that appears at the end of select Public Events with a chance to drop the new Thrillseeker 4-Star mod.",
+   "id": "a32cad63da3e8b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Thrillseeker",
+   "kind": "legendary_effect",
+   "direction": "added",
+   "summary": "New 4-Star legendary mod exclusive to Bigfoot that can be applied to legendary items.",
+   "id": "1d1b803129b226",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Portable Power",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "New effect added: increases movement speed while in Power Armor by 10% per rank.",
+   "id": "f838016703c9ce",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Sturdy Frame",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "New effect added: reduces the amount of stagger taken per rank.",
+   "id": "2d5438df6ae771",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Blocker",
+   "kind": "perk",
+   "direction": "buff",
+   "summary": "Now reduces damage from blocked attacks by 15-25% depending on rank (up from previous effect).",
+   "id": "4aac27f07f835b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Fireproof",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "Renamed to Hardy and fire damage reduction removed.",
+   "id": "dcbfb1543969db",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Blood Luster",
+   "kind": "perk",
+   "direction": "fix",
+   "summary": "Fixed issue where effect didn't work with certain weapons' bleed mods.",
+   "id": "73ea1768a2792b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "All Night Long",
+   "kind": "perk",
+   "direction": "fix",
+   "summary": "Now appropriately doubles the duration of Nuka Cola Dark.",
+   "id": "446fff0c11dc6e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Hack and Slash",
+   "kind": "legendary_perk",
+   "direction": "buff",
+   "summary": "Now applies bleeding damage over time to applicable melee weapons.",
+   "id": "40cabc2dbe767e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Ironclad",
+   "kind": "perk",
+   "direction": "fix",
+   "summary": "Now correctly applies armor bonuses.",
+   "id": "3bedd60caff3e5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Homebody",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "Description adjusted for clarity.",
+   "id": "75af8c3556297c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Mutant's",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "New effect: up to 5% damage reduction as you acquire more mutations.",
+   "id": "f89b60850afd3c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Bolstering",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "New effect: up to 10% damage reduction when health is below 5% max health.",
+   "id": "89c656b972cf8f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Vanguard's",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "New effect: up to 10% damage reduction based on max health, capping at 1000 health.",
+   "id": "55d04e773de92d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Overeater's",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "New effect: increases max health by up to 40 per piece.",
+   "id": "00213b8fb469f2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Aristocrat's",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "New effect: up to 10% damage reflection based on caps held, capping at 40,000 caps.",
+   "id": "c8f7348c8a8ff5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Elementalist",
+   "kind": "legendary_effect",
+   "direction": "buff",
+   "summary": "Increased all resistances from +5 to +25.",
+   "id": "5607ee1ce97641",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Warming",
+   "kind": "legendary_effect",
+   "direction": "buff",
+   "summary": "Increased resistance value from +25 to +50.",
+   "id": "83e905f49359ed",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Fireproof",
+   "kind": "legendary_effect",
+   "direction": "buff",
+   "summary": "Increased resistance value from +25 to +50.",
+   "id": "b03981ab20de41",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "HazMat",
+   "kind": "legendary_effect",
+   "direction": "buff",
+   "summary": "Increased resistance value from +25 to +50.",
+   "id": "e5b59fd1dcb33b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Poisoner's",
+   "kind": "legendary_effect",
+   "direction": "buff",
+   "summary": "Increased resistance value from +25 to +50.",
+   "id": "c58b9251551e89",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Defender's",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "New effect: 40% chance to automatically block attacks for weapons and 5% for armor.",
+   "id": "89ea6039c6f840",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Blocker",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "Renamed from Cavalier's weapon mod and now explicitly applies damage reduction to blocked damage.",
+   "id": "00dcd07d608e41",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Cavalier's",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "Armor mod now grants -10% damage taken while sprinting.",
+   "id": "0a2089361c3200",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Riposting",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "Now specifically reflects blocked damage and works with the new auto block effect.",
+   "id": "0877e4885bb555",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Heavyweight",
+   "kind": "legendary_effect",
+   "direction": "added",
+   "summary": "New effect: grants up to 10% reduced damage at 150% carry weight (replaces Weightless 3-Star mod).",
+   "id": "61034de11ea55b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Trail Warden",
+   "kind": "other",
+   "direction": "change",
+   "summary": "Metal armor with default legendary mods Hunter's, Perception, and Thru-hiker's plus unique effect of +50% throwing weapon damage, now available from Lode Baring terminal.",
+   "id": "8162f328c72051",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Stand Fast",
+   "kind": "other",
+   "direction": "change",
+   "summary": "Combat armor with default legendary mods Chameleon, Hardy, and Sentinel's plus unique effect of armor increasing up to +50 as speed increases, now drops from One Violent Night.",
+   "id": "7df76b3da4834b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Silver Lining",
+   "kind": "other",
+   "direction": "change",
+   "summary": "Leather armor with default legendary mods Life Saving, Endurance, and Belted plus unique effect of reflecting 10% of damage, now drops from Breach and Clear.",
+   "id": "40153a4a3ae62a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Last Bastion",
+   "kind": "other",
+   "direction": "change",
+   "summary": "Urban Scout armor with default legendary mods Bolstering, Luck, and Durability plus unique effect of accuracy increasing up to +35% as health decreases, now drops from Enclave Activities.",
+   "id": "0e5afa48525e69",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Last Stand",
+   "kind": "other",
+   "direction": "added",
+   "summary": "New Brotherhood Recon armor with default mods Zealot's, Agility, and Reflex plus unique effect of gaining 50% of evade chance as damage reduction, drops from Nuka World on Tour.",
+   "id": "e6533549e27419",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Bulwark",
+   "kind": "other",
+   "direction": "added",
+   "summary": "New Secret Service armor with default mods Assassin's, Elementalist, and Adamantium plus unique effect of weighing twice as much while providing 35% more protection, drops from Storm Goliath.",
+   "id": "9cfe05edf6bd65",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Road Kill",
+   "kind": "other",
+   "direction": "added",
+   "summary": "New Trapper left arm with default mods Overeater's, Glutton, and Thru-Hikers plus unique effect of eating animal corpses to restore life, drops from Meat Week.",
+   "id": "99da86134c22de",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Rage",
+   "kind": "other",
+   "direction": "added",
+   "summary": "New Raider armor with default mods Auto Stim, Pain Killer, and Burning plus unique effect of dealing +1% damage when hit and taking +1% damage up to 100%, drops from Earle.",
+   "id": "c8028a9c180fb0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Rad-X",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation resistance increased from 200 to 600.",
+   "id": "835d148ecc53ec",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Rad-X: Diluted",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Radiation resistance increased from 100 to 250.",
+   "id": "985cfb360f1a41",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Med-X",
+   "kind": "consumable",
+   "direction": "buff",
+   "summary": "Damage resistance increased from 25 to 125.",
+   "id": "23a04b20922242",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Civil Unrest",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Added legendary effects Assassin's, Inertial, and Swift with AP bonus increased from 10 to 50.",
+   "id": "948ddc882f9bc5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Perfect Storm",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Added legendary effects Quad, Hitman's, and Nimble.",
+   "id": "c9e41b9ebb502f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Black Diamond",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Added legendary effects Anti-Armor, Riposting, and Strength plus bonus cryo damage.",
+   "id": "a589a4d1e364f9",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Gauss Minigun",
+   "kind": "weapon",
+   "direction": "change",
+   "summary": "Removed overheat mechanic and slightly lowered damage as temporary change pending future reevaluation.",
+   "id": "6f9d4e4c21100d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Stabilizer",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Fixed inconsistencies with 4-Star mod to now improve weapon cone of fire, recoil, and stability by 40%.",
+   "id": "b8c77d9ebd2a64",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Cursed weapons",
+   "kind": "weapon",
+   "direction": "buff",
+   "summary": "Damage increased from 15% to 35% and attack speed reduced from 20% to 15%, now modifiable in Legendary Crafting.",
+   "id": "00bd7174348946",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Feral's",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Now only applies to melee weapons as intended.",
+   "id": "84509286bb0c6c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Barbed",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Harpoon gun's barbed mod now works with its base bleed effect rather than removing it, fix also applies to Ski Sword, Revolutionary Sword, Chinese Officer Sword, Machete, Shishkebab, and Headhunter Scythe.",
+   "id": "3dc1366e67d262",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Sniper's",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Should no longer be disabled for any hostile creature close to you.",
+   "id": "7f7934db96218d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Reflex",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Wearing full set of armor with reflex mod now applies correct bonus.",
+   "id": "0d91fb0b348f45",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Always Vigilant",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, timer reduced to 3 minutes, enemies spawn more frequently, Roverbot health increased.",
+   "id": "7327800f37ba67",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "AWOL Armaments",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Recall beacon can be activated immediately after talking to Sergeant Gutsy, robot variety increased, Sentry Bot guaranteed legendary.",
+   "id": "8b8c1f6906ed8d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Back on the Beat",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional loot added to saferooms, enemy waves adjusted, Steelheart's speed increased and health decreased.",
+   "id": "c8bae0e232a77d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Battle Bot",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Card swipe time increased from 4 seconds to 10, Sentry Bot spawns as legendary.",
+   "id": "8ff17a8f561c36",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Beasts of Burden",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, Ogua now always 3-star legendary with increased strength.",
+   "id": "05bf75badfb3db",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Bots on Parade",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, repair sequence time reduced.",
+   "id": "80ae8e05a972b3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Breach and Clear",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Locked Hornwright boxes now drop legendary items and U-Mine-It maps, start time reduced from 60 to 5 minutes, collection timer reduced from 45 to 30 seconds.",
+   "id": "e69df3f0824fd6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Campfire Tales",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, players can receive Tadpole or Possum badges, Flatwoods Monster strength increased.",
+   "id": "ea7df4bfa18518",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Census Violence",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, Census Taker can no longer be crippled, speed and health increased, activity duration reduced from 5 to 4 minutes.",
+   "id": "d04abd0bcf5449",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Collision Course",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, overall time reduced by 2.5 minutes.",
+   "id": "51e0c756956bef",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Dangerous Pastimes",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, enemy balance adjusted.",
+   "id": "158a7574937468",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Death Blossoms",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Duration and wait times reduced, Corpse Flower health increased, Mole Rats replaced with Cultists, health bars added.",
+   "id": "598841bcfe881c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Distinguished Guests",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, Wait Staff health increased, place settings and centerpieces now glow, Robot Waitstaff quest targets adjusted.",
+   "id": "9171c3b515be92",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Dropped Connection",
+   "kind": "event",
+   "direction": "change",
+   "summary": "New rewards in final cache drop, legendary creature odds increased.",
+   "id": "88b702f04a4210",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Eviction Notice",
+   "kind": "event",
+   "direction": "nerf",
+   "summary": "Legendary enemy count slightly reduced to align with other events but remains more lucrative, quest markers added to meat bags, enemy balance adjusted.",
+   "id": "0de5e850c2058b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Feed the People",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn.",
+   "id": "91598ab85b8a1b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Fertile Soil",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Farmhand Supervisors now all guaranteed legendary enemies.",
+   "id": "f30c4b019f4d7a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Fly Swatter",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Vertibot strength increased.",
+   "id": "ca04791421fb05",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Free Range",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, Brahmin no longer attempts to attack, Sheepsquatch always legendary with increased strength.",
+   "id": "55e441c8309281",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Heart of the Swamp",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, Grafton Monster difficulty adjusted.",
+   "id": "26b1f5244dbe1f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Irrational Fear",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, quest trackers added to enemies.",
+   "id": "bcf8f975b63084",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "It's a Trap",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Scorchbeast now always spawns as 3-star legendary.",
+   "id": "d90b5e7ed6d573",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Leader of the Pack",
+   "kind": "event",
+   "direction": "change",
+   "summary": "No longer triggers a horde upon completion; new objective to hunt the Alpha Wolf added instead.",
+   "id": "ade4c387bac348",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Line in the Sand",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Spawn timers adjusted for more frequent spawns, enemies no longer spawn outside event radius, Scorched pathing improved.",
+   "id": "bd6ac82fbdba18",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Lode Baring",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Rewards available from kiosk adjusted.",
+   "id": "21eb79c02d3a59",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Manhunt",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Grafton Dam adjusted for infiltration feel, Mad Dog Malone's health and damage increased, guards spawn as legendary.",
+   "id": "53a5103ca421af",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Monster Mash",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, rewards in Candy Machine adjusted, monster mask appearance stuck issue fixed.",
+   "id": "75c88b897d35cf",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Moonshine Jamboree",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Ghouls replaced with Floaters, stage durations reduced.",
+   "id": "7ff7442c877563",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Most Wanted",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Buckaroos needed reduced to 500, Golden Varmint now drops 500 caps and random legendary item when defeated, Nuka Point increased to 7,500, additional legendary enemies spawn.",
+   "id": "3597776b60dfef",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "One Violent Night",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, Nightstalker guaranteed 3-star legendary with increased strength.",
+   "id": "28693341f31c2e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Path to Enlightenment",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, Cultists added to attack waves, required bioluminescent fluid reduced from 50 to 30.",
+   "id": "f67aadc678c1b3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Patrol Duty",
+   "kind": "event",
+   "direction": "change",
+   "summary": "More enemies in defense stage, Penitentiary Guard can no longer be crippled, guard speed and health increased, emergency broadcast message now plays on failure.",
+   "id": "a1ae255112b505",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Project Beanstalk",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Overall duration reduced, Pharmabot JD-7E movement speed increased, Pharmabot can no longer be crippled.",
+   "id": "f735f2df7d0fdc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Project Paradise",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Enemy wave variety adjusted, ambient creature difficulty reduced, required collectables per habitat reduced.",
+   "id": "c7ba855bee0025",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Riding Shotgun",
+   "kind": "event",
+   "direction": "change",
+   "summary": "More loot added along event path, Brahmin health balanced, Blue Ridge Supplies no longer available before speaking with Caravan guard.",
+   "id": "f3fca50e9f4fdc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Safe and Sound",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Blue Devil strength increased.",
+   "id": "27748aad322829",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Spin the Wheel",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, statue health increased, button timer adjusted from 30 to 45 seconds, Nuka Point increased to 7,500.",
+   "id": "723caec8435a4a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Surface to Air",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Turret repair now costs 1 steel, 1 gear, 1 oil, 1 circuitry, overall time reduced to 3 minutes, enemy count increased.",
+   "id": "86750df4b0bd96",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Tea Time",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, overall time reduced.",
+   "id": "8a9eda865c139b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Test Your Metal",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Golden Eyebot drops 500 caps and random legendary item when defeated, start timer reduced to 5 minutes, overall time reduced.",
+   "id": "632bedae84f567",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Tunnel of Love",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Additional legendary enemies spawn, Nuka Point increased to 7,500.",
+   "id": "98edad3650ae5e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Uranium Fever",
+   "kind": "event",
+   "direction": "change",
+   "summary": "Molerats added to enemy waves, extractor health reduced.",
+   "id": "a254da17281938",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Jail Break",
+   "kind": "event",
+   "direction": "removed",
+   "summary": "Event disabled pending quality improvements.",
+   "id": "213c1527187ec1",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Dogwood Die Off",
+   "kind": "event",
+   "direction": "removed",
+   "summary": "Event disabled pending quality improvements.",
+   "id": "53f88a2577f169",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Mischief Night",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed issue where event did not drop Treasury Notes.",
+   "id": "aa93503b3b334b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Season 24",
+   "kind": "other",
+   "direction": "added",
+   "summary": "New season featuring Rip Daring adventure against extraterrestrial creatures with rewards including Pip-Boy display, Bigfoot Stein Display, and Alien Weather Machine.",
+   "id": "4caae6791a4ec3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Center Masochist",
+   "kind": "perk",
+   "direction": "fix",
+   "summary": "Fixed display issue showing +25% increased damage; actual damage dealing was working correctly at 50% rank 2 and 75% rank 3.",
+   "id": "e0119b04951e2f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Legendary Perks",
+   "kind": "legendary_perk",
+   "direction": "buff",
+   "summary": "No longer require Perk Coins to unequip.",
+   "id": "c227de8ab9fcc7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  },
+  {
+   "name": "Perk Coins",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Limit increased to accommodate very high-level players.",
+   "id": "d97d8b563c6328",
+   "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
+   "found": 1790530480
+  }
+ ],
+ "updated": "2026-09-27T17:37:28.105273+00:00"
+}

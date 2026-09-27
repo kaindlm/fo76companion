@@ -1,0 +1,186 @@
+{
+ "updated": "2026-09-27T17:34:40.325993+00:00",
+ "daily": {
+  "period_start": "2026-09-27T12:00:00-04:00",
+  "resets_at": "2026-09-28T12:00:00-04:00",
+  "items": [
+   {
+    "id": "acf1d5df8d13",
+    "title": "Scrap junk to produce Wood",
+    "detail": "Craft Bulk Wood at a Tinker's Workbench and scrap it, or collect wood from fallen trees northeast of Black Bear Lodge",
+    "score": 10
+   },
+   {
+    "id": "08e790cd1872",
+    "title": "Complete a Grunt Hunt",
+    "detail": "Start at Highway Town Bounty Board in The Last Resort, obtain a wanted poster, and eliminate the assigned Outlaw",
+    "score": 2
+   },
+   {
+    "id": "b75b13662787",
+    "title": "Complete the Quest: Disturbed Grave",
+    "detail": "Finish a public event to receive a Pint-Sized Phantoms map, locate and dig up the grave marked on it",
+    "score": 1
+   },
+   {
+    "id": "151808b494cc",
+    "title": "Kill a Gulper",
+    "detail": "Fast travel to Gulper Lagoon where 3-4 Gulpers reliably spawn; target the head as weak spot",
+    "score": 3
+   },
+   {
+    "id": "efc713fe3b93",
+    "title": "Kill a Pint-Sized Phantom while wearing a Costume",
+    "detail": "Equip any outfit, hat or mask with 'Costume' in description before killing a Phantom at cabins or fairgrounds",
+    "score": 5
+   }
+  ]
+ },
+ "weekly": {
+  "period_start": "2026-09-22T12:00:00-04:00",
+  "resets_at": "2026-09-29T12:00:00-04:00",
+  "items": [
+   {
+    "id": "b0788bb48860",
+    "title": "Build Anything in a Workshop or C.A.M.P.",
+    "detail": "Fast travel to your C.A.M.P. or claim a workshop, then place any small decoration or building piece",
+    "score": 25
+   },
+   {
+    "id": "32b9bf5c9d17",
+    "title": "Collect a Garden Gnome",
+    "detail": "Visit The General's Steakhouse in the Mire; gnomes are in the walled garden and shed behind the main building",
+    "score": 5
+   },
+   {
+    "id": "e426cce7f073",
+    "title": "Collect any flavor of Nuka-Cola",
+    "detail": "Use a Nuka-Cola Collectron Station at a C.A.M.P. or program any Collectron for Nuka-Cola collection",
+    "score": 20
+   },
+   {
+    "id": "8cb0262fc71d",
+    "title": "Complete a Head Hunt",
+    "detail": "Get a wanted poster from Highway Town Bounty Board, hang it on the board outside The Last Resort, then complete the public event",
+    "score": 4
+   },
+   {
+    "id": "c8abeb186cd9",
+    "title": "Drink Nuka-Cola",
+    "detail": "Collect Nuka-Cola from a Nuka-Cola Collectron Station and consume it",
+    "score": 25
+   },
+   {
+    "id": "28f5b78cf918",
+    "title": "Kill a Pint-Sized Phantom while in a Team",
+    "detail": "Join or create a team, then kill a masked Phantom cultist at cabins, campgrounds or fairgrounds",
+    "score": 30
+   },
+   {
+    "id": "b72e56d0a87e",
+    "title": "Kill a Pint-Sized Phantom while wearing a Costume",
+    "detail": "Equip any costume outfit, hat or mask before killing a Phantom; one qualifying piece is sufficient",
+    "score": 18
+   },
+   {
+    "id": "b272cebcbcbc",
+    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
+    "detail": "Activate Disturbed Grave quest, equip a shovel, and kill any enemy before finishing the quest; low-level insects are easiest",
+    "score": 20
+   },
+   {
+    "id": "eeb92ac968c8",
+    "title": "Complete the Quest: Disturbed Grave",
+    "detail": "Finish a public event to receive map, locate grave, dig it up and collect ritual pile",
+    "score": 4
+   }
+  ]
+ },
+ "events": [
+  {
+   "id": "c4d9e3b263a8",
+   "name": "Seasonal Fish Run, Treasure Hunter and Double Mutations",
+   "type": "seasonal",
+   "starts": "2026-09-24",
+   "ends": "2026-09-28",
+   "description": "Participate in special fishing, Treasure Hunter encounters, and double mutation effects during this limited-time seasonal event."
+  },
+  {
+   "id": "6d2f82244538",
+   "name": "Mutated Public Events",
+   "type": "seasonal",
+   "starts": "2026-09-29",
+   "ends": "2026-10-06",
+   "description": "Mutated versions of public events appear with modified difficulty and rewards."
+  },
+  {
+   "id": "126ed829adb2",
+   "name": "Double SCORE Weekend",
+   "type": "weekend",
+   "starts": "2026-10-01",
+   "ends": "2026-10-05",
+   "description": "Earn double SCORE progress on all challenges during this weekend event."
+  },
+  {
+   "id": "496dffc39078",
+   "name": "Slasher C.A.M.P. Contest",
+   "type": "seasonal",
+   "starts": "2026-10-02",
+   "ends": "2026-10-20",
+   "description": "Compete in a C.A.M.P. building contest with Slasher-themed elements for exclusive rewards."
+  },
+  {
+   "id": "20e482890416",
+   "name": "Mischief Night",
+   "type": "seasonal",
+   "starts": "2026-10-06",
+   "ends": "2026-10-20",
+   "description": "Participate in spooky Halloween-themed activities and earn exclusive seasonal rewards."
+  },
+  {
+   "id": "7699c943cfd7",
+   "name": "Double Mutations",
+   "type": "seasonal",
+   "starts": "2026-10-15",
+   "ends": "2026-10-19",
+   "description": "Double mutation effects are active on all creatures during this limited-time event."
+  },
+  {
+   "id": "f1217905f981",
+   "name": "Spooky Scorched",
+   "type": "seasonal",
+   "starts": "2026-10-20",
+   "ends": "2026-11-03",
+   "description": "Face Halloween-themed Scorched enemies with unique rewards and special challenges available."
+  }
+ ],
+ "season": {
+  "name": "Beware the Blood Moon",
+  "number": 26,
+  "ends": "2026-12-01"
+ },
+ "sources": [
+  {
+   "name": "fo76challenges.com",
+   "url": "https://fo76challenges.com/",
+   "ok": true
+  },
+  {
+   "name": "Index76",
+   "url": "https://index76.com/challenges",
+   "ok": true
+  },
+  {
+   "name": "FalloutBuilds events",
+   "url": "https://www.falloutbuilds.com/fo76/events/",
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://www.falloutbuilds.com/fo76/events/"
+  },
+  {
+   "name": "Nuka Knights calendar",
+   "url": "https://nukaknights.com/events-calendar.html",
+   "ok": true
+  }
+ ],
+ "notes": []
+}
