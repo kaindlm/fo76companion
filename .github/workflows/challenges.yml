@@ -1,0 +1,46 @@
+name: Challenges, events, and patch notes
+
+on:
+  schedule:
+    - cron: "30 17 * * *"   # about 1:30 PM Eastern, after the noon reset and fan-site updates
+    - cron: "0 22 * * *"    # second pass in case sources were late
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Read challenge and event sources
+        working-directory: scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+        run: python fetch_challenges.py
+      - name: Read new patch notes
+        working-directory: scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PATCH_SOURCE_URLS: ${{ secrets.PATCH_SOURCE_URLS }}
+        run: python fetch_patch_notes.py
+      - name: Save results
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add -A docs/data data
+          git diff --staged --quiet || git commit -m "Update challenges, events, and patch log"
+          git pull --rebase
+          git push
