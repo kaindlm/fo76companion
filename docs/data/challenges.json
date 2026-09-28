@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T17:37:04.408512+00:00",
+ "updated": "2026-09-28T22:14:33.329282+00:00",
  "daily": {
   "period_start": "2026-09-28T12:00:00-04:00",
   "resets_at": "2026-09-29T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "f931bee0c134",
     "title": "Collect a Blood pack",
-    "detail": "Check first aid boxes and loot blood eagles in Summersville",
+    "detail": "Check tables and first aid boxes in Summersville, Laundromat area",
     "score": 3
    },
    {
     "id": "785a4d2f2b9b",
     "title": "Catch a Fish in the Ash Heap Region",
-    "detail": "Fish at Lake Reynolds with a fishing rod",
+    "detail": "Fast travel to Lake Reynolds with a fishing rod",
     "score": 2
    },
    {
     "id": "fb0a5295de5b",
     "title": "Collect a Burnt Book",
-    "detail": "Burnt Books in burned buildings; house north of Summersville has 200+",
+    "detail": "Head to the marked house in Summersville with 200+ Burnt Books on shelves",
     "score": 10
    },
    {
     "id": "a837dbff633f",
     "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Available only during The Slasher season; complete a public event to get the map",
+    "detail": "Finish a public event to get a Pint-Sized Phantoms map, locate and dig the grave",
     "score": 1
    },
    {
     "id": "b2be71c416e2",
     "title": "Drink Nuka-Cola Wild",
-    "detail": "Obtain from Nuka-Cola Collectron Station and drink it",
+    "detail": "Get from a Nuka-Cola Collectron Station and drink it",
     "score": 2
    },
    {
     "id": "fff4afbe7dd4",
     "title": "Kill a Honey Beast",
-    "detail": "Kill at The Freak Show; target the head weakness",
+    "detail": "Fast travel to The Freak Show for a reliable spawn, target the head",
     "score": 1
    },
    {
     "id": "599f7d78f0eb",
     "title": "Kill an Enemy in the Ash Heap Region",
-    "detail": "Camden Park has dense Scorched population",
+    "detail": "Fast travel to Camden Park for dense Scorched concentration",
     "score": 5
    }
   ]
@@ -55,55 +55,55 @@
    {
     "id": "b0788bb48860",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any small decoration or building piece at your C.A.M.P. or claimed workshop",
+    "detail": "Place any small decoration or piece from build menu at your C.A.M.P. or claimed workshop",
     "score": 25
    },
    {
     "id": "32b9bf5c9d17",
     "title": "Collect a Garden Gnome",
-    "detail": "Five to eight gnomes at The General's Steakhouse garden in the Cranberry Bog",
+    "detail": "Found at The General's Steakhouse in the Cranberry Bog, in the walled garden area",
     "score": 5
    },
    {
     "id": "e426cce7f073",
     "title": "Collect any flavor of Nuka-Cola",
-    "detail": "Use Nuka-Cola Collectron Station or program any Collectron for Nuka-Cola",
+    "detail": "Use a Nuka-Cola Collectron Station or program any Collectron with Nuka-Cola settings",
     "score": 20
    },
    {
     "id": "8cb0262fc71d",
     "title": "Complete a Head Hunt",
-    "detail": "Start at Highway Town bounty board; buy a wanted poster or earn via grunt hunts",
+    "detail": "Start at Highway Town Bounty Board, obtain poster, wait for others to join before triggering flare",
     "score": 4
    },
    {
     "id": "c8abeb186cd9",
     "title": "Drink Nuka-Cola",
-    "detail": "Collect from Nuka-Cola Collectron and drink it",
+    "detail": "Get Nuka-Cola from Collectron Station and consume it",
     "score": 25
    },
    {
     "id": "28f5b78cf918",
     "title": "Kill a Pint-Sized Phantom while in a Team",
-    "detail": "Join any team first; Phantoms spawn at cabins and campgrounds",
+    "detail": "Join or create a team first, then kill a masked cultist from the Slasher event",
     "score": 30
    },
    {
     "id": "b72e56d0a87e",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any costume piece with 'Costume' in the description before killing",
+    "detail": "Equip any outfit piece with 'Costume' in description before killing a Phantom",
     "score": 18
    },
    {
     "id": "b272cebcbcbc",
     "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-    "detail": "Activate Disturbed Grave quest; equip shovel and kill any enemy",
+    "detail": "Set Disturbed Grave active and equip shovel as weapon, kill any enemy before digging grave",
     "score": 20
    },
    {
     "id": "eeb92ac968c8",
     "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Available only during The Slasher season; dig up the marked grave",
+    "detail": "Finish a public event to get map, locate bloodied grave and dig it up",
     "score": 4
    }
   ]
@@ -115,7 +115,7 @@
    "type": "seasonal",
    "starts": "2026-09-15",
    "ends": "2026-10-06",
-   "description": "Seasonal event featuring Pint-Sized Phantoms and The Slasher questline with unique rewards."
+   "description": "Hunt Pint-Sized Phantoms and complete seasonal quests during this Halloween-themed event."
   },
   {
    "id": "6d2f82244538",
@@ -123,7 +123,7 @@
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "Public events feature mutated variants with bonus rewards from Mutated Party Packages."
+   "description": "Participate in mutated versions of public events with enhanced difficulty and unique rewards."
   },
   {
    "id": "126ed829adb2",
@@ -131,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double SCORE progress on all challenges during this weekend period."
+   "description": "Earn double Scoreboard progress on all challenges for accelerated season progression."
   },
   {
    "id": "496dffc39078",
@@ -139,7 +139,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-20",
-   "description": "Community contest to showcase Slasher-themed C.A.M.P. builds with prizes."
+   "description": "Build and submit Slasher-themed C.A.M.P. designs to compete for special prizes."
   },
   {
    "id": "20e482890416",
@@ -147,23 +147,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Halloween-themed seasonal event with new rewards and festive activities."
-  },
-  {
-   "id": "7699c943cfd7",
-   "name": "Double Mutations",
-   "type": "weekend",
-   "starts": "2026-10-15",
-   "ends": "2026-10-19",
-   "description": "Daily Operations feature double mutations with enhanced rewards."
-  },
-  {
-   "id": "f1217905f981",
-   "name": "Spooky Scorched",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Scorched enemies spawn with spooky Halloween variants and exclusive event rewards."
+   "description": "Celebrate Halloween with special events and earn exclusive seasonal rewards."
   }
  ],
  "season": {
