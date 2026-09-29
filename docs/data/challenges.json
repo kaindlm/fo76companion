@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T17:38:03.654058+00:00",
+ "updated": "2026-09-29T22:14:33.900438+00:00",
  "daily": {
   "period_start": "2026-09-29T12:00:00-04:00",
   "resets_at": "2026-09-30T12:00:00-04:00",
@@ -7,19 +7,19 @@
    {
     "id": "709b1159e0a6",
     "title": "Cripple a Mirelurk's Limb",
-    "detail": "Fast travel to Spruce Knob Lake and use V.A.T.S. for easier limb targeting",
+    "detail": "Fast travel to Spruce Knob Lake and cripple a Mirelurk's Limb by aiming at the Limb with a rifle. Using V.A.T.S. makes this easier.",
     "score": 2
    },
    {
     "id": "a773089d84ae",
     "title": "Collect a Teddy Bear",
-    "detail": "Northeast of Knife Edge in a half-destroyed shack; use grenades to knock them down from the ledge",
+    "detail": "Northeast of Knife Edge in a half-destroyed shack are several Teddy Bears up on a ledge. Toss a grenade onto the ledge in order to knock them down.",
     "score": 3
    },
    {
     "id": "ac45a12c3c67",
     "title": "Cripple a Ghoul's Leg",
-    "detail": "Fast travel to The Whitespring Golf Club and use V.A.T.S. targeting",
+    "detail": "Fast travel to The Whitespring Golf Club on the grounds of the Whitespring and cripple a Ghoul's Leg by aiming at the Leg with a rifle. Using V.A.T.S. makes this easier.",
     "score": 2
    },
    {
@@ -55,44 +55,38 @@
    {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your C.A.M.P. shelter, use build menu, select Decorations category, and place any item",
+    "detail": "Enter the Shelter at your C.A.M.P. Access the build menu (press \"Q\" on PC) and select the \"Decorations\" category. Place any decoration such as a small balloon or clutter that requires minimal resources.",
     "score": 25
    },
    {
     "id": "3bfdebbf9a04",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in The Mire is a convenient location",
+    "detail": "Fast travel to Fisherman's Rest and start the 'Big Fish in a Small Pond' daily so the same catch credits both challenges. Fisherman's Rest sits east of Valley Galleria in The Mire region.",
     "score": 21
    },
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Find in world loot or craft diluted versions at a chemistry station",
+    "detail": "Collect RadAway or Rad-X from world loot, containers, or vendors to credit the challenge. A quick option if you have any RadAway or Rad-X in your stash is to craft the diluted forms at a chemistry station with Purified Water.",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "Find at The Whitespring Resort in showers and tables, or use a Collectron station",
+    "detail": "If your C.A.M.P. has a Whitespring Robo Butler Collectron station, collect the Soap it produces passively. A reliable option is to fast travel to The Whitespring Resort and go behind the main building to the red brick building.",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "Use a Games Cupboard at your C.A.M.P. to collect board games",
+    "detail": "If your C.A.M.P. has a Games Cupboard, take a Board Game from it directly; it produces Blast Radius, Autopsy, Catch the Commie, Rad Poker, and Unstoppables! board games.",
     "score": 4
    },
    {
     "id": "c752bd724bd1",
     "title": "Eat a Vegetable",
-    "detail": "Harvest and eat any raw vegetable such as Tato, Corn, or Razorgrain",
+    "detail": "Eating any raw vegetable credits this daily. Harvest Tato, Corn, or Razorgrain from your C.A.M.P. or from Billings Homestead, then eat one.",
     "score": 25
-   },
-   {
-    "id": "e8283630c4a5",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six daily challenges on three separate days during the week",
-    "score": null
    },
    {
     "id": "2ac32fef8b9e",
@@ -109,7 +103,7 @@
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "Participate in mutated versions of public events for special rewards."
+   "description": "All public events are mutated with increased difficulty and enhanced rewards."
   },
   {
    "id": "bc837beea22c",
@@ -117,7 +111,7 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double Scoreboard progression and access Murmrgh's curated legendary weapon offers."
+   "description": "Earn double SCORE on all challenges and Murmrgh offers special legendary weapon and armor mods at a discount."
   },
   {
    "id": "496dffc39078",
@@ -125,7 +119,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-20",
-   "description": "Compete to have your C.A.M.P. designs featured in a community contest."
+   "description": "Showcase your C.A.M.P. building skills during the Blood Moon season for a chance to win exclusive rewards."
   },
   {
    "id": "20e482890416",
@@ -133,7 +127,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Return of the spooky seasonal event with unique rewards and Halloween-themed activities."
+   "description": "Return of the Halloween-themed event featuring spooky rewards and seasonal challenges."
   },
   {
    "id": "7699c943cfd7",
@@ -141,7 +135,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Doubled mutation spawn rates in Daily Operations with increased reward chances."
+   "description": "Double the chance of receiving mutation rewards from Daily Operations."
   },
   {
    "id": "f1217905f981",
@@ -149,7 +143,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Hunt Scorched creatures with spooky twists for exclusive Halloween event rewards."
+   "description": "Hunt Scorched enemies for spooky-themed loot and seasonal rewards."
   },
   {
    "id": "54197332cee8",
@@ -157,7 +151,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn double experience points for all activities across Appalachia."
+   "description": "Earn double XP from all activities to level up your character and scoreboard faster."
   },
   {
    "id": "9ee75e191915",
@@ -165,7 +159,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chances to catch rare seasonal fish during this special fishing weekend."
+   "description": "Increased chance of catching seasonal fish during this special fishing event."
   }
  ],
  "season": {
