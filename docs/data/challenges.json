@@ -1,137 +1,123 @@
 {
- "updated": "2026-09-28T22:14:33.329282+00:00",
+ "updated": "2026-09-29T17:38:03.654058+00:00",
  "daily": {
-  "period_start": "2026-09-28T12:00:00-04:00",
-  "resets_at": "2026-09-29T12:00:00-04:00",
+  "period_start": "2026-09-29T12:00:00-04:00",
+  "resets_at": "2026-09-30T12:00:00-04:00",
   "items": [
    {
-    "id": "f931bee0c134",
-    "title": "Collect a Blood pack",
-    "detail": "Check tables and first aid boxes in Summersville, Laundromat area",
+    "id": "709b1159e0a6",
+    "title": "Cripple a Mirelurk's Limb",
+    "detail": "Fast travel to Spruce Knob Lake and use V.A.T.S. for easier limb targeting",
+    "score": 2
+   },
+   {
+    "id": "a773089d84ae",
+    "title": "Collect a Teddy Bear",
+    "detail": "Northeast of Knife Edge in a half-destroyed shack; use grenades to knock them down from the ledge",
     "score": 3
    },
    {
-    "id": "785a4d2f2b9b",
-    "title": "Catch a Fish in the Ash Heap Region",
-    "detail": "Fast travel to Lake Reynolds with a fishing rod",
+    "id": "ac45a12c3c67",
+    "title": "Cripple a Ghoul's Leg",
+    "detail": "Fast travel to The Whitespring Golf Club and use V.A.T.S. targeting",
     "score": 2
    },
    {
-    "id": "fb0a5295de5b",
-    "title": "Collect a Burnt Book",
-    "detail": "Head to the marked house in Summersville with 200+ Burnt Books on shelves",
+    "id": "e7902337a7a6",
+    "title": "Collect a can of Cajun Rice & Beans",
+    "detail": "",
+    "score": 2
+   },
+   {
+    "id": "f8610d7ad64a",
+    "title": "Eat a can of Cajun Rice & Beans",
+    "detail": "",
+    "score": 2
+   },
+   {
+    "id": "a6e3adf17338",
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
+    "detail": "",
     "score": 10
    },
    {
-    "id": "a837dbff633f",
-    "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Finish a public event to get a Pint-Sized Phantoms map, locate and dig the grave",
+    "id": "30739467d3f6",
+    "title": "Sell a Sweet Roll to an NPC vendor",
+    "detail": "",
     "score": 1
-   },
-   {
-    "id": "b2be71c416e2",
-    "title": "Drink Nuka-Cola Wild",
-    "detail": "Get from a Nuka-Cola Collectron Station and drink it",
-    "score": 2
-   },
-   {
-    "id": "fff4afbe7dd4",
-    "title": "Kill a Honey Beast",
-    "detail": "Fast travel to The Freak Show for a reliable spawn, target the head",
-    "score": 1
-   },
-   {
-    "id": "599f7d78f0eb",
-    "title": "Kill an Enemy in the Ash Heap Region",
-    "detail": "Fast travel to Camden Park for dense Scorched concentration",
-    "score": 5
    }
   ]
  },
  "weekly": {
-  "period_start": "2026-09-22T12:00:00-04:00",
-  "resets_at": "2026-09-29T12:00:00-04:00",
+  "period_start": "2026-09-29T12:00:00-04:00",
+  "resets_at": "2026-10-06T12:00:00-04:00",
   "items": [
    {
-    "id": "b0788bb48860",
-    "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any small decoration or piece from build menu at your C.A.M.P. or claimed workshop",
+    "id": "1d1da4b7cf57",
+    "title": "Build a Decoration in a Shelter",
+    "detail": "Enter your C.A.M.P. shelter, use build menu, select Decorations category, and place any item",
     "score": 25
    },
    {
-    "id": "32b9bf5c9d17",
-    "title": "Collect a Garden Gnome",
-    "detail": "Found at The General's Steakhouse in the Cranberry Bog, in the walled garden area",
-    "score": 5
+    "id": "3bfdebbf9a04",
+    "title": "Catch a Fish",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is a convenient location",
+    "score": 21
    },
    {
-    "id": "e426cce7f073",
-    "title": "Collect any flavor of Nuka-Cola",
-    "detail": "Use a Nuka-Cola Collectron Station or program any Collectron with Nuka-Cola settings",
-    "score": 20
+    "id": "e89e2f304023",
+    "title": "Collect RadAway or Rad-X",
+    "detail": "Find in world loot or craft diluted versions at a chemistry station",
+    "score": 15
    },
    {
-    "id": "8cb0262fc71d",
-    "title": "Complete a Head Hunt",
-    "detail": "Start at Highway Town Bounty Board, obtain poster, wait for others to join before triggering flare",
+    "id": "f68ff43ac199",
+    "title": "Collect Soap",
+    "detail": "Find at The Whitespring Resort in showers and tables, or use a Collectron station",
+    "score": 14
+   },
+   {
+    "id": "32aa6391a1de",
+    "title": "Collect a Board Game",
+    "detail": "Use a Games Cupboard at your C.A.M.P. to collect board games",
     "score": 4
    },
    {
-    "id": "c8abeb186cd9",
-    "title": "Drink Nuka-Cola",
-    "detail": "Get Nuka-Cola from Collectron Station and consume it",
+    "id": "c752bd724bd1",
+    "title": "Eat a Vegetable",
+    "detail": "Harvest and eat any raw vegetable such as Tato, Corn, or Razorgrain",
     "score": 25
    },
    {
-    "id": "28f5b78cf918",
-    "title": "Kill a Pint-Sized Phantom while in a Team",
-    "detail": "Join or create a team first, then kill a masked cultist from the Slasher event",
-    "score": 30
+    "id": "e8283630c4a5",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six daily challenges on three separate days during the week",
+    "score": null
    },
    {
-    "id": "b72e56d0a87e",
-    "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any outfit piece with 'Costume' in description before killing a Phantom",
-    "score": 18
-   },
-   {
-    "id": "b272cebcbcbc",
-    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-    "detail": "Set Disturbed Grave active and equip shovel as weapon, kill any enemy before digging grave",
+    "id": "2ac32fef8b9e",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "",
     "score": 20
-   },
-   {
-    "id": "eeb92ac968c8",
-    "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Finish a public event to get map, locate bloodied grave and dig it up",
-    "score": 4
    }
   ]
  },
  "events": [
-  {
-   "id": "164aef187fd5",
-   "name": "The Slasher",
-   "type": "seasonal",
-   "starts": "2026-09-15",
-   "ends": "2026-10-06",
-   "description": "Hunt Pint-Sized Phantoms and complete seasonal quests during this Halloween-themed event."
-  },
   {
    "id": "6d2f82244538",
    "name": "Mutated Public Events",
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "Participate in mutated versions of public events with enhanced difficulty and unique rewards."
+   "description": "Participate in mutated versions of public events for special rewards."
   },
   {
-   "id": "126ed829adb2",
-   "name": "Double SCORE Weekend",
+   "id": "bc837beea22c",
+   "name": "Double SCORE Weekend and Murmrgh's Special Pick",
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double Scoreboard progress on all challenges for accelerated season progression."
+   "description": "Earn double Scoreboard progression and access Murmrgh's curated legendary weapon offers."
   },
   {
    "id": "496dffc39078",
@@ -139,7 +125,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-20",
-   "description": "Build and submit Slasher-themed C.A.M.P. designs to compete for special prizes."
+   "description": "Compete to have your C.A.M.P. designs featured in a community contest."
   },
   {
    "id": "20e482890416",
@@ -147,7 +133,39 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Celebrate Halloween with special events and earn exclusive seasonal rewards."
+   "description": "Return of the spooky seasonal event with unique rewards and Halloween-themed activities."
+  },
+  {
+   "id": "7699c943cfd7",
+   "name": "Double Mutations",
+   "type": "weekend",
+   "starts": "2026-10-15",
+   "ends": "2026-10-19",
+   "description": "Doubled mutation spawn rates in Daily Operations with increased reward chances."
+  },
+  {
+   "id": "f1217905f981",
+   "name": "Spooky Scorched",
+   "type": "seasonal",
+   "starts": "2026-10-20",
+   "ends": "2026-11-03",
+   "description": "Hunt Scorched creatures with spooky twists for exclusive Halloween event rewards."
+  },
+  {
+   "id": "54197332cee8",
+   "name": "Double XP",
+   "type": "weekend",
+   "starts": "2026-10-22",
+   "ends": "2026-10-26",
+   "description": "Earn double experience points for all activities across Appalachia."
+  },
+  {
+   "id": "9ee75e191915",
+   "name": "Seasonal Fish Run Weekend",
+   "type": "weekend",
+   "starts": "2026-10-29",
+   "ends": "2026-11-02",
+   "description": "Increased chances to catch rare seasonal fish during this special fishing weekend."
   }
  ],
  "season": {
