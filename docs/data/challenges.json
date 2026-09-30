@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T17:37:32.030018+00:00",
+ "updated": "2026-09-30T22:15:17.245067+00:00",
  "daily": {
   "period_start": "2026-09-30T12:00:00-04:00",
   "resets_at": "2026-10-01T12:00:00-04:00",
@@ -7,26 +7,26 @@
    {
     "id": "fc19ff893eb5",
     "title": "Cripple a Blood Eagle's Arm",
-    "detail": "Fast travel to The Kill Box and aim at the arm with a rifle, using V.A.T.S. for easier targeting.",
+    "detail": "Fast travel to The Kill Box and use V.A.T.S. for easier arm targeting",
     "score": 2
    },
    {
     "id": "8be5b9dca49e",
     "title": "Complete a Daily Operation!",
-    "detail": "Join or start a Daily Ops team and enter the operation from World Activity on the map.",
+    "detail": "Easier with a team; join or start a Daily Ops public team",
     "score": 1
    },
    {
     "id": "b416fcc57971",
     "title": "Cripple a Human's Head",
-    "detail": "Fast travel to Point Pleasant or Lucky Hole Mine for dense groups of human cultists.",
+    "detail": "Point Pleasant or Lucky Hole Mine have dense cultist groups",
     "score": 2
    },
    {
-    "id": "35246e152cd0",
-    "title": "Take a Camera Picture of an Eyebot",
-    "detail": "Fast travel to 98 NAR Regional, find an Eyebot, and photograph it with your Camera equipped.",
-    "score": 1
+    "id": "f7de0af7354c",
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
+    "detail": "Join any team first; you can be the only member and it counts",
+    "score": 10
    },
    {
     "id": "32a3d72fe7ca",
@@ -41,10 +41,10 @@
     "score": 1
    },
    {
-    "id": "f7de0af7354c",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
-    "detail": "",
-    "score": 10
+    "id": "35246e152cd0",
+    "title": "Take a Camera Picture of an Eyebot",
+    "detail": "Fast travel to 98 NAR Regional and photograph with Camera equipped",
+    "score": 1
    }
   ]
  },
@@ -55,55 +55,55 @@
    {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your shelter, open the build menu, select Decorations category, and place any decoration.",
+    "detail": "Enter your shelter, use build menu, select Decorations category and place any item",
     "score": 25
    },
    {
     "id": "3bfdebbf9a04",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source. Fisherman's Rest in The Mire is recommended for combining with other challenges.",
+    "detail": "Fish at Fisherman's Rest in The Mire to combine with Big Fish in a Small Pond daily",
     "score": 21
    },
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Collect from world loot or craft diluted forms at a chemistry station with Purified Water.",
+    "detail": "Craft diluted versions at a chemistry station using Purified Water for quick completion",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "Use a Whitespring Robo Butler Collectron or find soap in the bathrooms of Whitespring Resort.",
+    "detail": "Find soap and toilet paper behind Whitespring Resort main building or use a Collectron station",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "Take a board game from a Games Cupboard at your C.A.M.P. if you have one placed.",
+    "detail": "Use a Games Cupboard at your C.A.M.P. to collect board games directly",
     "score": 4
    },
    {
     "id": "c752bd724bd1",
     "title": "Eat a Vegetable",
-    "detail": "Harvest a raw vegetable like Tato, Corn, or Razorgrain from your C.A.M.P. or Billings Homestead and eat it.",
+    "detail": "Harvest and eat raw vegetables like Tato, Corn, or Razorgrain",
     "score": 25
    },
    {
     "id": "a1eb77a1fd66",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Pint-Sized Phantoms are seasonal cultists. Kill one inside Daily Ops; you don't need to complete the operation.",
+    "detail": "Phantoms are masked cultists; kill counts as soon as they go down",
     "score": 30
    },
    {
     "id": "2ac32fef8b9e",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find an active Infestation on your map and kill Phantoms within the marked area.",
+    "detail": "Look for gray cloudy area on map; Phantoms may take over Infestation encounters",
     "score": 20
    },
    {
     "id": "e8283630c4a5",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other daily challenges on three separate days during the week.",
+    "detail": "Complete all six other daily challenges on three separate days during the week",
     "score": null
    }
   ]
@@ -115,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "All public events have a chance to spawn mutated variants with additional rewards from mutated packages."
+   "description": "All public events are mutated with special rewards in Party Packages."
   },
   {
    "id": "bc837beea22c",
@@ -123,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double Scoreboard points during this weekend while Murmrgh offers a special legendary weapon rotation."
+   "description": "Earn double Scoreboard points and access Murmrgh's special weapon offers."
   },
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "seasonal",
+   "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-20",
-   "description": "Build and display your best Slasher-themed C.A.M.P. decoration for a community contest."
+   "description": "Community contest to showcase your best Slasher-themed C.A.M.P. builds."
   },
   {
    "id": "20e482890416",
@@ -139,7 +139,31 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "A spooky seasonal event featuring new rewards and Halloween-themed activities."
+   "description": "Halloween-themed event with new seasonal rewards."
+  },
+  {
+   "id": "7699c943cfd7",
+   "name": "Double Mutations",
+   "type": "weekend",
+   "starts": "2026-10-15",
+   "ends": "2026-10-19",
+   "description": "Double mutation chance during Daily Operations with new seasonal rewards."
+  },
+  {
+   "id": "f1217905f981",
+   "name": "Spooky Scorched",
+   "type": "seasonal",
+   "starts": "2026-10-20",
+   "ends": "2026-11-03",
+   "description": "Scorched enemies appear with spooky Halloween theme and new rewards."
+  },
+  {
+   "id": "54197332cee8",
+   "name": "Double XP",
+   "type": "weekend",
+   "starts": "2026-10-22",
+   "ends": "2026-10-26",
+   "description": "Earn double experience points for all activities."
   },
   {
    "id": "9ee75e191915",
@@ -147,7 +171,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this special weekend fishing event."
+   "description": "Increased chance to catch seasonal fish during this special weekend."
   }
  ],
  "season": {
