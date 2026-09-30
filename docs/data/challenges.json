@@ -1,50 +1,50 @@
 {
- "updated": "2026-09-29T22:14:33.900438+00:00",
+ "updated": "2026-09-30T17:37:32.030018+00:00",
  "daily": {
-  "period_start": "2026-09-29T12:00:00-04:00",
-  "resets_at": "2026-09-30T12:00:00-04:00",
+  "period_start": "2026-09-30T12:00:00-04:00",
+  "resets_at": "2026-10-01T12:00:00-04:00",
   "items": [
    {
-    "id": "709b1159e0a6",
-    "title": "Cripple a Mirelurk's Limb",
-    "detail": "Fast travel to Spruce Knob Lake and cripple a Mirelurk's Limb by aiming at the Limb with a rifle. Using V.A.T.S. makes this easier.",
+    "id": "fc19ff893eb5",
+    "title": "Cripple a Blood Eagle's Arm",
+    "detail": "Fast travel to The Kill Box and aim at the arm with a rifle, using V.A.T.S. for easier targeting.",
     "score": 2
    },
    {
-    "id": "a773089d84ae",
-    "title": "Collect a Teddy Bear",
-    "detail": "Northeast of Knife Edge in a half-destroyed shack are several Teddy Bears up on a ledge. Toss a grenade onto the ledge in order to knock them down.",
-    "score": 3
+    "id": "8be5b9dca49e",
+    "title": "Complete a Daily Operation!",
+    "detail": "Join or start a Daily Ops team and enter the operation from World Activity on the map.",
+    "score": 1
    },
    {
-    "id": "ac45a12c3c67",
-    "title": "Cripple a Ghoul's Leg",
-    "detail": "Fast travel to The Whitespring Golf Club on the grounds of the Whitespring and cripple a Ghoul's Leg by aiming at the Leg with a rifle. Using V.A.T.S. makes this easier.",
+    "id": "b416fcc57971",
+    "title": "Cripple a Human's Head",
+    "detail": "Fast travel to Point Pleasant or Lucky Hole Mine for dense groups of human cultists.",
     "score": 2
    },
    {
-    "id": "e7902337a7a6",
-    "title": "Collect a can of Cajun Rice & Beans",
+    "id": "35246e152cd0",
+    "title": "Take a Camera Picture of an Eyebot",
+    "detail": "Fast travel to 98 NAR Regional, find an Eyebot, and photograph it with your Camera equipped.",
+    "score": 1
+   },
+   {
+    "id": "32a3d72fe7ca",
+    "title": "Collect a tin of Imitation Seafood",
     "detail": "",
     "score": 2
    },
    {
-    "id": "f8610d7ad64a",
-    "title": "Eat a can of Cajun Rice & Beans",
-    "detail": "",
-    "score": 2
-   },
-   {
-    "id": "a6e3adf17338",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "",
-    "score": 10
-   },
-   {
-    "id": "30739467d3f6",
-    "title": "Sell a Sweet Roll to an NPC vendor",
+    "id": "f988bc5cbe6f",
+    "title": "Eat a tin of Imitation Seafood",
     "detail": "",
     "score": 1
+   },
+   {
+    "id": "f7de0af7354c",
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
+    "detail": "",
+    "score": 10
    }
   ]
  },
@@ -55,44 +55,56 @@
    {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter the Shelter at your C.A.M.P. Access the build menu (press \"Q\" on PC) and select the \"Decorations\" category. Place any decoration such as a small balloon or clutter that requires minimal resources.",
+    "detail": "Enter your shelter, open the build menu, select Decorations category, and place any decoration.",
     "score": 25
    },
    {
     "id": "3bfdebbf9a04",
     "title": "Catch a Fish",
-    "detail": "Fast travel to Fisherman's Rest and start the 'Big Fish in a Small Pond' daily so the same catch credits both challenges. Fisherman's Rest sits east of Valley Galleria in The Mire region.",
+    "detail": "Fish at any water source. Fisherman's Rest in The Mire is recommended for combining with other challenges.",
     "score": 21
    },
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Collect RadAway or Rad-X from world loot, containers, or vendors to credit the challenge. A quick option if you have any RadAway or Rad-X in your stash is to craft the diluted forms at a chemistry station with Purified Water.",
+    "detail": "Collect from world loot or craft diluted forms at a chemistry station with Purified Water.",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "If your C.A.M.P. has a Whitespring Robo Butler Collectron station, collect the Soap it produces passively. A reliable option is to fast travel to The Whitespring Resort and go behind the main building to the red brick building.",
+    "detail": "Use a Whitespring Robo Butler Collectron or find soap in the bathrooms of Whitespring Resort.",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "If your C.A.M.P. has a Games Cupboard, take a Board Game from it directly; it produces Blast Radius, Autopsy, Catch the Commie, Rad Poker, and Unstoppables! board games.",
+    "detail": "Take a board game from a Games Cupboard at your C.A.M.P. if you have one placed.",
     "score": 4
    },
    {
     "id": "c752bd724bd1",
     "title": "Eat a Vegetable",
-    "detail": "Eating any raw vegetable credits this daily. Harvest Tato, Corn, or Razorgrain from your C.A.M.P. or from Billings Homestead, then eat one.",
+    "detail": "Harvest a raw vegetable like Tato, Corn, or Razorgrain from your C.A.M.P. or Billings Homestead and eat it.",
     "score": 25
+   },
+   {
+    "id": "a1eb77a1fd66",
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
+    "detail": "Pint-Sized Phantoms are seasonal cultists. Kill one inside Daily Ops; you don't need to complete the operation.",
+    "score": 30
    },
    {
     "id": "2ac32fef8b9e",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "",
+    "detail": "Find an active Infestation on your map and kill Phantoms within the marked area.",
     "score": 20
+   },
+   {
+    "id": "e8283630c4a5",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other daily challenges on three separate days during the week.",
+    "score": null
    }
   ]
  },
@@ -103,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "All public events are mutated with increased difficulty and enhanced rewards."
+   "description": "All public events have a chance to spawn mutated variants with additional rewards from mutated packages."
   },
   {
    "id": "bc837beea22c",
@@ -111,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double SCORE on all challenges and Murmrgh offers special legendary weapon and armor mods at a discount."
+   "description": "Earn double Scoreboard points during this weekend while Murmrgh offers a special legendary weapon rotation."
   },
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "other",
+   "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-20",
-   "description": "Showcase your C.A.M.P. building skills during the Blood Moon season for a chance to win exclusive rewards."
+   "description": "Build and display your best Slasher-themed C.A.M.P. decoration for a community contest."
   },
   {
    "id": "20e482890416",
@@ -127,31 +139,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Return of the Halloween-themed event featuring spooky rewards and seasonal challenges."
-  },
-  {
-   "id": "7699c943cfd7",
-   "name": "Double Mutations",
-   "type": "weekend",
-   "starts": "2026-10-15",
-   "ends": "2026-10-19",
-   "description": "Double the chance of receiving mutation rewards from Daily Operations."
-  },
-  {
-   "id": "f1217905f981",
-   "name": "Spooky Scorched",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Hunt Scorched enemies for spooky-themed loot and seasonal rewards."
-  },
-  {
-   "id": "54197332cee8",
-   "name": "Double XP",
-   "type": "weekend",
-   "starts": "2026-10-22",
-   "ends": "2026-10-26",
-   "description": "Earn double XP from all activities to level up your character and scoreboard faster."
+   "description": "A spooky seasonal event featuring new rewards and Halloween-themed activities."
   },
   {
    "id": "9ee75e191915",
@@ -159,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance of catching seasonal fish during this special fishing event."
+   "description": "Increased chance to catch seasonal fish during this special weekend fishing event."
   }
  ],
  "season": {
