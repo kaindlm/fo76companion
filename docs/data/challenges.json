@@ -1,49 +1,49 @@
 {
- "updated": "2026-09-30T22:15:17.245067+00:00",
+ "updated": "2026-10-01T17:38:31.972957+00:00",
  "daily": {
-  "period_start": "2026-09-30T12:00:00-04:00",
-  "resets_at": "2026-10-01T12:00:00-04:00",
+  "period_start": "2026-10-01T12:00:00-04:00",
+  "resets_at": "2026-10-02T12:00:00-04:00",
   "items": [
    {
-    "id": "fc19ff893eb5",
-    "title": "Cripple a Blood Eagle's Arm",
-    "detail": "Fast travel to The Kill Box and use V.A.T.S. for easier arm targeting",
-    "score": 2
-   },
-   {
-    "id": "8be5b9dca49e",
-    "title": "Complete a Daily Operation!",
-    "detail": "Easier with a team; join or start a Daily Ops public team",
+    "id": "a081622562a6",
+    "title": "Collect a tin of Cram",
+    "detail": "Fast travel to Summersville diner; up to two tins in kitchen",
     "score": 1
    },
    {
-    "id": "b416fcc57971",
-    "title": "Cripple a Human's Head",
-    "detail": "Point Pleasant or Lucky Hole Mine have dense cultist groups",
-    "score": 2
+    "id": "84019d620a37",
+    "title": "Complete an Event or Activity",
+    "detail": "Public events spawn every 20 minutes; fast travel free",
+    "score": 1
    },
    {
-    "id": "f7de0af7354c",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
-    "detail": "Join any team first; you can be the only member and it counts",
-    "score": 10
+    "id": "d2fd53245fe2",
+    "title": "Complete the Quest: Disturbed Grave",
+    "detail": "Finish an event/activity to get Phantom map; dig up grave in marked circle",
+    "score": 1
    },
    {
-    "id": "32a3d72fe7ca",
-    "title": "Collect a tin of Imitation Seafood",
-    "detail": "",
-    "score": 2
+    "id": "0281d33daad1",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "Find gray cloudy Infestation area on map; search for red hotspot",
+    "score": 6
    },
    {
-    "id": "f988bc5cbe6f",
-    "title": "Eat a tin of Imitation Seafood",
+    "id": "797587c97ca1",
+    "title": "Kill an Angler",
+    "detail": "Fast travel to Gnarled Shallows for reliable spawns; target head with V.A.T.S.",
+    "score": 3
+   },
+   {
+    "id": "0096a5745da9",
+    "title": "Collect a box of Blamco Brand Mac and Cheese",
     "detail": "",
     "score": 1
    },
    {
-    "id": "35246e152cd0",
-    "title": "Take a Camera Picture of an Eyebot",
-    "detail": "Fast travel to 98 NAR Regional and photograph with Camera equipped",
+    "id": "d79146acc82f",
+    "title": "Eat a box of Blamco Brand Mac and Cheese",
+    "detail": "",
     "score": 1
    }
   ]
@@ -55,56 +55,50 @@
    {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your shelter, use build menu, select Decorations category and place any item",
+    "detail": "Enter C.A.M.P. shelter, use build menu, place decoration from Decorations category",
     "score": 25
    },
    {
     "id": "3bfdebbf9a04",
     "title": "Catch a Fish",
-    "detail": "Fish at Fisherman's Rest in The Mire to combine with Big Fish in a Small Pond daily",
+    "detail": "Fish at any water source; Fisherman's Rest east of Valley Galleria in The Mire works well",
     "score": 21
    },
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Craft diluted versions at a chemistry station using Purified Water for quick completion",
+    "detail": "Collect from world loot or craft diluted forms at chemistry station with Purified Water",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "Find soap and toilet paper behind Whitespring Resort main building or use a Collectron station",
+    "detail": "Find in Whitespring Resort exterior red brick building showers, or collect from Robo Butler Collectron",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "Use a Games Cupboard at your C.A.M.P. to collect board games directly",
+    "detail": "Take from Games Cupboard at C.A.M.P. if you have one placed",
     "score": 4
    },
    {
     "id": "c752bd724bd1",
     "title": "Eat a Vegetable",
-    "detail": "Harvest and eat raw vegetables like Tato, Corn, or Razorgrain",
+    "detail": "Harvest and eat any raw vegetable like Tato, Corn, or Razorgrain",
     "score": 25
    },
    {
     "id": "a1eb77a1fd66",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Phantoms are masked cultists; kill counts as soon as they go down",
+    "detail": "Enter Daily Ops from World Activity map; Phantoms are masked cultists from Slasher event",
     "score": 30
    },
    {
     "id": "2ac32fef8b9e",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Look for gray cloudy area on map; Phantoms may take over Infestation encounters",
+    "detail": "Find Infestation on map as gray cloudy area; search for red hotspot encounter",
     "score": 20
-   },
-   {
-    "id": "e8283630c4a5",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other daily challenges on three separate days during the week",
-    "score": null
    }
   ]
  },
@@ -115,7 +109,7 @@
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "All public events are mutated with special rewards in Party Packages."
+   "description": "All public events have mutated variants with special rewards from Mutated Packages."
   },
   {
    "id": "bc837beea22c",
@@ -123,7 +117,7 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double Scoreboard points and access Murmrgh's special weapon offers."
+   "description": "Earn double Scoreboard progress this weekend."
   },
   {
    "id": "496dffc39078",
@@ -131,7 +125,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-20",
-   "description": "Community contest to showcase your best Slasher-themed C.A.M.P. builds."
+   "description": "Build themed C.A.M.P. structures for the Slasher seasonal event."
   },
   {
    "id": "20e482890416",
@@ -139,7 +133,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Halloween-themed event with new seasonal rewards."
+   "description": "Seasonal Halloween-themed event with new rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -147,7 +141,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Double mutation chance during Daily Operations with new seasonal rewards."
+   "description": "All creatures have double mutation chance this weekend."
   },
   {
    "id": "f1217905f981",
@@ -155,7 +149,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Scorched enemies appear with spooky Halloween theme and new rewards."
+   "description": "Scorched enemies spawn with spooky variants and unique rewards."
   },
   {
    "id": "54197332cee8",
@@ -163,7 +157,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn double experience points for all activities."
+   "description": "Earn double experience points this weekend."
   },
   {
    "id": "9ee75e191915",
@@ -171,7 +165,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this special weekend."
+   "description": "Increased chance to catch seasonal fish species."
   }
  ],
  "season": {
