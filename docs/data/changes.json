@@ -31,7 +31,7 @@
   {
    "id": "wiki:Fallout 76 patch 1.7.26.13",
    "title": "Patch 1.7.26.13: The Slasher",
-   "date": "",
+   "date": "2024-09-17",
    "url": "https://fallout.fandom.com/wiki/Fallout_76_patch_1.7.26.13",
    "source": "Fallout wiki"
   },
@@ -44,465 +44,6 @@
   }
  ],
  "changes": [
-  {
-   "name": "Lighter Build",
-   "kind": "other",
-   "direction": "buff",
-   "summary": "AP bonus increased from 2 to 5 on limbs and from 2 to 10 on the torso",
-   "id": "995d5365c9d9e1",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Ultra-Light Build",
-   "kind": "other",
-   "direction": "buff",
-   "summary": "AP bonus increased from 5 to 10 on limbs and from 5 to 20 on the torso",
-   "id": "816a8c892c521c",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Pocketed",
-   "kind": "other",
-   "direction": "buff",
-   "summary": "Torso slot now grants twice the carry weight that limbs do",
-   "id": "e645aa0fc0ceac",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Deep Pocketed",
-   "kind": "other",
-   "direction": "buff",
-   "summary": "Torso slot now grants twice the carry weight that limbs do",
-   "id": "b52ee9907f8316",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Nocturnal Fortitude",
-   "kind": "legendary_perk",
-   "direction": "buff",
-   "summary": "HP per rank increased from 20 to 50",
-   "id": "e5e75559d75c02",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Photosynthetic",
-   "kind": "legendary_perk",
-   "direction": "buff",
-   "summary": "Now regenerates 3 HP/s per rank",
-   "id": "689bd5888f3ecc",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Night Person",
-   "kind": "perk",
-   "direction": "change",
-   "summary": "Is now a single rank 2-point card with INT & PER bonus increased to 5",
-   "id": "90100b08e8333c",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Solar Powered",
-   "kind": "perk",
-   "direction": "change",
-   "summary": "Is now a single rank 2-point card with STR & END bonus increased to 5",
-   "id": "9c959516163b4b",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Lone Wanderer",
-   "kind": "perk",
-   "direction": "buff",
-   "summary": "Now provides damage reduction against all damage types",
-   "id": "55f04638b1e549",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Awareness",
-   "kind": "perk",
-   "direction": "change",
-   "summary": "Will no longer show the skull icon of raid bosses next to resistances",
-   "id": "c09702c18a980a",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Pumpkin Grenade",
-   "kind": "consumable",
-   "direction": "nerf",
-   "summary": "Bleed Damage removed",
-   "id": "db2e84b050518f",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Lucky Tea",
-   "kind": "consumable",
-   "direction": "change",
-   "summary": "Drinking no longer dispels effects from Chems and buff will now last 1 hour",
-   "id": "11b60f46eba2e4",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Canned Radscorpion",
-   "kind": "consumable",
-   "direction": "fix",
-   "summary": "Now provides same resistances as the cooked version",
-   "id": "dbdf5a9533a962",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Canned Rad Scorpion Steak",
-   "kind": "consumable",
-   "direction": "nerf",
-   "summary": "Will no longer benefit from Super Duper",
-   "id": "128a62ade9a065",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Gatling Plasma",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Large Core Receptacle now shows 50% ammo capacity upgrade that matches gameplay",
-   "id": "bc5e63acdccd9e",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Auto-Axe",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Fixed issues causing it to be unresponsive in third person with weapon wheel and when player is crippled",
-   "id": "c10086739889a6",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Chainsaw",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Fixed issue causing it to be unresponsive if selected with the weapon wheel in third person",
-   "id": "2e178ff9eb97db",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "All Rise",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Fixed issue that caused it to display an incorrect model after applying a skin",
-   "id": "b4888fb381ac70",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": ".44 pistol",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Fixed bug that prevented it from being repaired",
-   "id": "cb8205a66b9ce3",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Bowie Knife",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Fixed missing blood textures",
-   "id": "dc30f36336971a",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Baseball Bat",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Sharp mod name adjusted to Bladed and fixed issue with two paint mod slots",
-   "id": "c516544c393392",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Knuckles",
-   "kind": "weapon",
-   "direction": "change",
-   "summary": "Sharp mod name adjusted to Sharp",
-   "id": "127630f9a49e4c",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Chinese Officer Sword",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Serrated mod now correctly applies bleed and Electrified Serrated Blade now adds bleed damage; No Upgrade renamed to Standard Blade",
-   "id": "cbb7d9351b39cc",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Pipe Wrench",
-   "kind": "weapon",
-   "direction": "fix",
-   "summary": "Fixed issue where attaching the Hooked mod would cause it to no longer be modifiable",
-   "id": "5209910087a737",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "V63 Zweihaender",
-   "kind": "weapon",
-   "direction": "added",
-   "summary": "Can now be crafted once you complete the Skyline Valley main quest",
-   "id": "32e395ca61db2d",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "10mm SMG",
-   "kind": "weapon",
-   "direction": "buff",
-   "summary": "Basic reflex sight can now be learned via scrapping",
-   "id": "7822e10a087112",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Railway Rifle",
-   "kind": "weapon",
-   "direction": "buff",
-   "summary": "Base ammo capacity increased from 10 to 16, fire delay on semi-auto receivers decreased, base weight of Railway Spikes lowered from 0.2 to 0.15, added Prime Shotgun Receiver and Automatic Prime Receiver mods",
-   "id": "d70ef80d1f3004",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Combat Shotgun",
-   "kind": "weapon",
-   "direction": "added",
-   "summary": "Prime Automatic Receiver mod added",
-   "id": "f913cb58f0f1d6",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Death Tambo",
-   "kind": "weapon",
-   "direction": "added",
-   "summary": "Added two new mods \u2013 Bladed and Sharp",
-   "id": "da1296a285a1dd",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Lever Action Rifle",
-   "kind": "weapon",
-   "direction": "buff",
-   "summary": "Clip size increased from 5 to 6",
-   "id": "b9dfda71620399",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "The Brotherhood Recon Rifle",
-   "kind": "weapon",
-   "direction": "change",
-   "summary": "Replaced with recipe for Recon Scope in Activity: Distant Thunder and crafting restrictions removed",
-   "id": "ac8f0db690668f",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "The Fancy Single Action Revolver",
-   "kind": "weapon",
-   "direction": "change",
-   "summary": "Replaced with weapon skin for the Single Action Revolver",
-   "id": "f664dfada913a8",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Pump Action Shotgun",
-   "kind": "weapon",
-   "direction": "change",
-   "summary": "Fancy variant replaced with weapon skin for the Pump Action Shotgun",
-   "id": "44829bbe958aae",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Weapon swing speed",
-   "kind": "weapon",
-   "direction": "nerf",
-   "summary": "Capped at 200% bonus from effects",
-   "id": "e6cccf23de8d45",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Beasts of Burden",
-   "kind": "quest",
-   "direction": "fix",
-   "summary": "Fixed issue that could cause it to fail despite placing all the bombs on doors",
-   "id": "7c085054e4c412",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Activity: Death Blossoms",
-   "kind": "quest",
-   "direction": "fix",
-   "summary": "Corpse Flower Stamen will now be rewarded after successfully completing the activity",
-   "id": "09863af02050d9",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Elusive Crane",
-   "kind": "quest",
-   "direction": "fix",
-   "summary": "Fixed issue with ID Card Reader remaining unresponsive while progressing through the quest",
-   "id": "7d514654f69e08",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Legendary weapon scrip value",
-   "kind": "item",
-   "direction": "buff",
-   "summary": "Increased from 1/2/4/6 to 3/5/10/30 stars when scrapping",
-   "id": "c722f9b34ecae6",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Legendary armor scrip value",
-   "kind": "item",
-   "direction": "buff",
-   "summary": "Increased from 1/2/4/6 to 3/5/10/30 stars when scrapping",
-   "id": "f07c3802b1e0b3",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Weapon sell price to Purveyor",
-   "kind": "item",
-   "direction": "buff",
-   "summary": "Increased from 5/15/40 to 15/25/50 for stars",
-   "id": "567530b3b86668",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Armor sell price to Purveyor",
-   "kind": "item",
-   "direction": "buff",
-   "summary": "Increased from 3/9/24 to 15/25/50 for stars",
-   "id": "618a8299da4b39",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Power Armor sell price to Purveyor",
-   "kind": "item",
-   "direction": "buff",
-   "summary": "Increased from 10/20/45 to 15/25/50 for stars",
-   "id": "9dcb1bcc800af2",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Weapon buy price from Purveyor",
-   "kind": "item",
-   "direction": "nerf",
-   "summary": "Changed from 25/50/100 to 25/35/60 for stars",
-   "id": "1b2fb6bc67d20c",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Armor buy price from Purveyor",
-   "kind": "item",
-   "direction": "buff",
-   "summary": "Changed from 15/30/60 to 25/35/60 for stars",
-   "id": "ce240f1fa31fff",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Power Armor buy price from Purveyor",
-   "kind": "item",
-   "direction": "nerf",
-   "summary": "Changed from 50/75/120 to 25/35/60 for stars",
-   "id": "4598d292a502d3",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Legendary Module",
-   "kind": "item",
-   "direction": "buff",
-   "summary": "Weight in stash reduced from 0.15 to 0.05",
-   "id": "5c241a069867e0",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Tarnished",
-   "kind": "legendary_effect",
-   "direction": "fix",
-   "summary": "Fixed bug that prevented it from awarding better player damage",
-   "id": "08d26dd7650a8d",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Polished",
-   "kind": "legendary_effect",
-   "direction": "fix",
-   "summary": "Fixed bug that prevented it from awarding better player damage",
-   "id": "ef98e3fd514fae",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Unyielding",
-   "kind": "legendary_effect",
-   "direction": "change",
-   "summary": "Effect boundaries now at 20%, 40%, 60% instead of below",
-   "id": "46c407435fcf6f",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Explosive",
-   "kind": "legendary_effect",
-   "direction": "nerf",
-   "summary": "Arrow explosion count adjusted from 15 to 1 and no longer based on world orientation",
-   "id": "6d0bc75ad67e4b",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
-  {
-   "name": "Infestation Boss",
-   "kind": "event",
-   "direction": "nerf",
-   "summary": "Health reduced",
-   "id": "831351ae4213f8",
-   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
-   "found": 1790530480
-  },
   {
    "name": "Head Hunts",
    "kind": "event",
@@ -2806,7 +2347,1060 @@
    "id": "d97d8b563c6328",
    "patch_id": "wiki:Fallout 76 patch 1.7.23.30",
    "found": 1790530480
+  },
+  {
+   "name": "Lighter Build",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "AP bonus increased from 2 to 5 on limbs and from 2 to 10 on the torso",
+   "id": "6e3158ea3b74fb",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Ultra-Light Build",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "AP bonus increased from 5 to 10 on limbs and from 5 to 20 on the torso",
+   "id": "9b9acbc16f8867",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Pocketed",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Torso slot now grants twice the carry weight that limbs do",
+   "id": "fce4be5227860a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Deep Pocketed",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Torso slot now grants twice the carry weight that limbs do",
+   "id": "f75309dd9cf8ff",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Nocturnal Fortitude",
+   "kind": "legendary_perk",
+   "direction": "buff",
+   "summary": "HP per rank increased from 20 to 50",
+   "id": "e5e75559d75c02",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Photosynthetic",
+   "kind": "legendary_perk",
+   "direction": "buff",
+   "summary": "Now regenerates 3 HP/s per rank",
+   "id": "689bd5888f3ecc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Night Person",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "Now a single rank 2-point card with INT & PER bonus increased to 5",
+   "id": "90100b08e8333c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Solar Powered",
+   "kind": "perk",
+   "direction": "change",
+   "summary": "Now a single rank 2-point card with STR & END bonus increased to 5",
+   "id": "9c959516163b4b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Lone Wanderer",
+   "kind": "perk",
+   "direction": "buff",
+   "summary": "Now provides damage reduction against all damage types",
+   "id": "55f04638b1e549",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Lucky Tea",
+   "kind": "consumable",
+   "direction": "change",
+   "summary": "Drinking Lucky Tea no longer dispels effects from Chems and buff now lasts 1 hour",
+   "id": "11b60f46eba2e4",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Pumpkin Grenade",
+   "kind": "consumable",
+   "direction": "nerf",
+   "summary": "Bleed Damage removed",
+   "id": "db2e84b050518f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Canned Radscorpion",
+   "kind": "consumable",
+   "direction": "fix",
+   "summary": "Now provides same resistances as the cooked version",
+   "id": "dbdf5a9533a962",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Canned Rad Scorpion Steak",
+   "kind": "consumable",
+   "direction": "nerf",
+   "summary": "Will no longer benefit from Super Duper",
+   "id": "128a62ade9a065",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Lucky-Leaf Tea",
+   "kind": "consumable",
+   "direction": "fix",
+   "summary": "Now works for players with the Carnivore perk",
+   "id": "e8751dbd8d4dce",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Legendary Modules",
+   "kind": "item",
+   "direction": "buff",
+   "summary": "Weight reduced from 0.15 to 0.05 while in stash",
+   "id": "1f2c8381d1ea82",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Tarnished",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Fixed bug that prevented mod from awarding better player damage",
+   "id": "08d26dd7650a8d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Polished",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Fixed bug that prevented mod from awarding better player damage",
+   "id": "ef98e3fd514fae",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Explosive",
+   "kind": "legendary_effect",
+   "direction": "nerf",
+   "summary": "Explosive Arrow explosion count adjusted from 15 to 1 for bow weapons",
+   "id": "6d0bc75ad67e4b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Unyielding",
+   "kind": "legendary_effect",
+   "direction": "change",
+   "summary": "Effect boundaries now at 20%, 40%, 60% instead of below, requiring 20% HP or less for full effect",
+   "id": "46c407435fcf6f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "10mm SMG",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Basic reflex sight can now be learned via scrapping",
+   "id": "7677f81dc48180",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Railway Rifle",
+   "kind": "weapon",
+   "direction": "buff",
+   "summary": "Base ammo capacity increased from 10 to 16, fire delay decreased on semi-auto receivers, weight lowered from 0.2 to 0.15",
+   "id": "d70ef80d1f3004",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Railway Rifle",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Added Prime Shotgun Receiver mod, Shotgun Receiver mod, and Automatic Prime Receiver mod",
+   "id": "d6ce1c599097dd",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Combat Shotgun",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Added Prime Automatic Receiver mod",
+   "id": "f913cb58f0f1d6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Death Tambo",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Added Bladed and Sharp mods",
+   "id": "da1296a285a1dd",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "V63 Zweihaender",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Added Standard Blade slot which adds Energy Damage and can now be crafted after completing Skyline Valley main quest",
+   "id": "32e395ca61db2d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Lever Action Rifle",
+   "kind": "weapon",
+   "direction": "buff",
+   "summary": "Clip size increased from 5 to 6",
+   "id": "b9dfda71620399",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Gatling Plasma",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Large Core Receptacle now shows 50% ammo capacity upgrade to match gameplay",
+   "id": "bc5e63acdccd9e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Chinese Officer Sword",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Electrified Serrated Blade now correctly adds bleed damage",
+   "id": "cbb7d9351b39cc",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Weapon swing speed",
+   "kind": "other",
+   "direction": "nerf",
+   "summary": "Now capped at 200% (a bonus of +100% from effects)",
+   "id": "906ebf51a3fb16",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Old Guard",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Added as rare reward from Daily Ops",
+   "id": "a0657d73c8e977",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Nailer",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Blocking now inflicts Bleeding",
+   "id": "5cd41c2c7724e0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Meteoritic sword",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants Radicool Perk",
+   "id": "0d074c4d28f622",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "The Gutter",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Poison Damage",
+   "id": "978559189e20d0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Camden Whacker",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Random Elemental Damage",
+   "id": "a23d30caa1855e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Acceptable Overkill",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +1 Rank to Perk Concentrated Fire and available as rare reward from Daily Ops",
+   "id": "d1e6fd36266069",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Commander's Charge",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants 30% Chance to Block Projectiles and available as rare reward from Daily Ops",
+   "id": "3c35d6f883e69e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Crushing Blow",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +10% Damage per Crippled Limb Your Target Has and available as rare reward from Daily Ops",
+   "id": "ed1194d0ed5dec",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Disorderly Conduct",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +20% Attack Speed",
+   "id": "e2971d1fba78e7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Kingfisher",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +10% Damage per Local Legend Challenge Completed and available as rare reward from Daily Ops",
+   "id": "fc9d48e80f1cd6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Night Light",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now allows ignoring Time of Day Requirements on Perks and available as rare reward from Daily Ops",
+   "id": "3d371a669bcdd8",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Salt of the Earth",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now fires both barrels at once and available as rare reward from Daily Ops",
+   "id": "eb2905b5e74289",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "The Action Hero",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +1% Deflect Chance per Bullet Storm Stack and available as rare reward from Daily Ops",
+   "id": "edee0854f7f0a2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Resolute Veteran",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Minimum Bullet Storm Stack Count is now 5 and available as rare reward from Daily Ops",
+   "id": "bbd338501a1b55",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "The Guarantee",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants Demo Expert (Rank 3) and available as rare reward from Daily Ops",
+   "id": "7b2a98b7a79a65",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Unstoppable Monster",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now reduces Damage Taken by 5% and an Additional 1% per Killstreak (Max 10)",
+   "id": "4bc41492fdec99",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "The Quick Fix",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +5% Swing Speed per Addiction and available as rare reward from Daily Ops",
+   "id": "a5ec3f3445efbe",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Whistle in the Dark",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants Mister Sandman Perk Card (Rank 2)",
+   "id": "52123b952cb5d7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Medical Malpractice",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants Bonuses to Stimpak Healing Also Increase Damage",
+   "id": "d929ca69672077",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Mechanic's Best Friend",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now makes Makeshift Warrior Also Increase Damage",
+   "id": "0367851cd87578",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Sole Survivor",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +3% Weak Spot Damage per Kill while on a Kill Streak (Max 10)",
+   "id": "4d519520660125",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Cultist Piercer",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +50% Armor Penetrations vs Cryptids",
+   "id": "7f6e055854a891",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Elder's Mark",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +2% V.A.T.S. Critical Damage per Onslaught Stack",
+   "id": "95302aeba46fce",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Holy Fire",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "You and Teammates Hit by Your Flame gain +30% Damage and +50 DR for 15 Seconds",
+   "id": "20eabde80874b6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Luca's switchblade",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +50% Explosive Damage",
+   "id": "ead91e6e861023",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Ogua gauntlet",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +30% More Damage Blocked",
+   "id": "11da7611a43ab2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Kabloom",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Poison Damage",
+   "id": "df472c22d30733",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Blue Ridge branding iron",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Fire Damage",
+   "id": "a08cb3c296140f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Face Breaker",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +10% Damage to Weak Point",
+   "id": "bab5f9c73577ba",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Boiling Point",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Poison Damage",
+   "id": "dcf0765dc0f67d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Cauterizer",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Energy Damage",
+   "id": "858cce05791aa0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Drill Fist",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Fire Damage",
+   "id": "6b3a4e445addaf",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Flatliner",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Fully Charged Shots now deal 100% More Damage",
+   "id": "b7c3b69d2901ab",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Lickety-Split",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Railway Spikes now chain 2 Times",
+   "id": "8be46e693f869f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Ultracite Terror sword",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Poison Damage",
+   "id": "a0c265076e5a8d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Boomstick",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now fires 2 Additional Missiles",
+   "id": "9a9beff7fab8fa",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Longshot",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +30% Damage to Far Targets While Aiming",
+   "id": "5ac4c25a44f54e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Overkill",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Kills now grant +5 Killstreak Count",
+   "id": "f0060f2177910e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Peacemaker",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants Bonus Explosive Damage Based on CHA",
+   "id": "aa1f0b902e409d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Daisycutter",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +20% Damage for Every 1000 RAD Resistance",
+   "id": "2f6f73f77c4347",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Pyrolyzer",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Burning Enemies now Burst into a Firey Mess Based on Luck",
+   "id": "d5d81b56673fc0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Somerset Special",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +15% Damage to Distant Targets",
+   "id": "e23db549815dda",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "The Fact Finder",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +15% Damage to Weak Point While Aiming",
+   "id": "6e3d49976acb97",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "V63-BERTHA",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Modifiers to Explosive Radius now Apply to Damage Instead",
+   "id": "e6674918d017a5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Bunker Buster",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +25% Explosive Radius",
+   "id": "57d5107cb32d19",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Final Word",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now gains 1 Bullet Storm Stack on Kill",
+   "id": "e959e2340a6fa3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "The V.A.T.S. Unknown",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "V.A.T.S. Criticals now deal Between 20% to 200% Damage",
+   "id": "d5aa977f89d6b4",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Slug Buster",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now replenishes 60 Action Points with Each Kill",
+   "id": "b88837441f395a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Oathbreaker",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +1 Rank to Perk Bloody Mess",
+   "id": "4762b604ff4858",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Nuka-Launcher",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now launches Nuka Quantum Grenades",
+   "id": "e9644833302791",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Super Stimpike",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Attacks now heal Friendly Targets by 10% Health",
+   "id": "9485806febaab6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Love Tap",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Bashing now grants You and Teammates +30% Damage for 30 Seconds and available as rare reward from Daily Ops",
+   "id": "cc2898983827dd",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Crowd Control",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Bleed Damage",
+   "id": "423c652fb5e701",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Doctor's Orders",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Attacks Against Weak Points now have 30% Chance to Reset a Revive Effect Cooldown",
+   "id": "7e7681ba3e12b1",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Foundation's Vengeance",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +5 Bullet Storm Stacks While Under 25% HP",
+   "id": "a0f5724b0718e7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Pirate Punch",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +5% Damage per Lockpick Skill",
+   "id": "9e9ea67c28eb61",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "The Debilitator",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +2% Limb Damage per STR",
+   "id": "5558e951998e8d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Tone Death",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +20% Damage while Well Tuned and available as rare reward from Daily Ops",
+   "id": "6612a2bc177df1",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Mind Over Matter",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +1 INT per kill during a kill streak and available as rare reward from Daily Ops",
+   "id": "2f7c22a31490d0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Molerat Bat",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +50% Damage to Molerats",
+   "id": "81f429a8d531c0",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Grand Finale",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Fire Damage",
+   "id": "cc4f5d0cfbc982",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "The Farmhand",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants Bonus Melee Damage per END and available as rare reward from Daily Ops",
+   "id": "5e927cd71f6d32",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Western Spirit",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants Gunslinger Master Perk",
+   "id": "c2004968077d4b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Gunther's Big Iron",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +45% Reload Speed",
+   "id": "a8234c82f4b26f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Whacker Smacker",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +5% Power Attack Damage per Onslaught Stack",
+   "id": "0b9ad597d54e5f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Shattered Grounds",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Bleed Damage",
+   "id": "9cec155758845b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Anchorage Ace",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now has Prototype Integrated Silencer",
+   "id": "91f3120a6f2c38",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Red Terror",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Fire Damage",
+   "id": "58f40fcc97894e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Ticket to Revenge",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +3% Armor Penetration per Onslaught stack",
+   "id": "423bf95f487cfb",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "V63-OLGA",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Projectiles now gain +63% Chance to Refract Towards a Nearby Target",
+   "id": "483a6b7842da5f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "V63-HELGA",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now has Piercing Attacks",
+   "id": "f7c3e58fb00efb",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Civil Unrest",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +50 Action Points",
+   "id": "c7e8db74dba4ff",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Relic Reaper",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants Random Collection Perk",
+   "id": "5892d18e1ef627",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "V63 shock baton",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Energy Damage",
+   "id": "a3c4c7b5b83857",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Meadow Breeze Sprayer",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now sprays Toxic Meadow Breeze",
+   "id": "617313c40ed39c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Prototype ABX03",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now sprays Burning Meadow Breeze",
+   "id": "275da4d8663869",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Resolve Breaker",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now fires Cryogenic Grenades",
+   "id": "b942b24dd1a45c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "All Rise",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +50 HP",
+   "id": "41bdd3326d0324",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Black Diamond",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Cryo Damage",
+   "id": "e6b67f958e963e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Super Slasher",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now deals Bleed Damage",
+   "id": "98395b110af095",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Cryptid jawbone knife",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now grants +50% damage to Cryptids",
+   "id": "c157e384242eb1",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Minty Breather",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Attacks now restore Teammates Health",
+   "id": "4bd7f261fd402a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Xerxo's gamma ray gun",
+   "kind": "weapon",
+   "direction": "added",
+   "summary": "Now emits Radiation at 6 RAD/s",
+   "id": "17b8a3337e2d6f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Beasts of Burden",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed issue that could cause quest to fail despite placing all bombs on doors",
+   "id": "7c085054e4c412",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "Activity: Death Blossoms",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Corpse Flower Stamen is now properly rewarded after successful completion",
+   "id": "09863af02050d9",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790530480
+  },
+  {
+   "name": "The Slasher",
+   "kind": "event",
+   "direction": "added",
+   "summary": "New limited-time event where players help stop a cult of fanatics creating chaos across Appalachia",
+   "id": "93ba13f263fa62",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Legacy Seasons",
+   "kind": "other",
+   "direction": "added",
+   "summary": "Players can now earn rewards from past seasons including Armor Ace and the Power Patrol in Cold Steel",
+   "id": "55e89fd9f3dfb6",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
+  },
+  {
+   "name": "Season 26: Beware The Blood Moon",
+   "kind": "other",
+   "direction": "added",
+   "summary": "New seasonal rewards inspired by the upcoming spooky season now available",
+   "id": "3b93eac60eb916",
+   "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
+   "found": 1790892814
   }
  ],
- "updated": "2026-10-01T17:38:33.565123+00:00"
+ "updated": "2026-10-01T22:14:25.123490+00:00"
 }

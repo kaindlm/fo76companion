@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T17:38:31.972957+00:00",
+ "updated": "2026-10-01T22:13:34.817098+00:00",
  "daily": {
   "period_start": "2026-10-01T12:00:00-04:00",
   "resets_at": "2026-10-02T12:00:00-04:00",
@@ -7,31 +7,31 @@
    {
     "id": "a081622562a6",
     "title": "Collect a tin of Cram",
-    "detail": "Fast travel to Summersville diner; up to two tins in kitchen",
+    "detail": "Available at Summersville diner in the Forest",
     "score": 1
    },
    {
     "id": "84019d620a37",
     "title": "Complete an Event or Activity",
-    "detail": "Public events spawn every 20 minutes; fast travel free",
+    "detail": "Public events spawn every 20 minutes on the map",
     "score": 1
    },
    {
     "id": "d2fd53245fe2",
     "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Finish an event/activity to get Phantom map; dig up grave in marked circle",
+    "detail": "Finish any public event first to get the map, then dig up the marked grave",
     "score": 1
    },
    {
     "id": "0281d33daad1",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find gray cloudy Infestation area on map; search for red hotspot",
+    "detail": "Find the gray cloudy area on map, locate the red hotspot, kill Phantoms there",
     "score": 6
    },
    {
     "id": "797587c97ca1",
     "title": "Kill an Angler",
-    "detail": "Fast travel to Gnarled Shallows for reliable spawns; target head with V.A.T.S.",
+    "detail": "Fast travel to Gnarled Shallows for reliable spawns, use V.A.T.S. for the head",
     "score": 3
    },
    {
@@ -53,33 +53,39 @@
   "resets_at": "2026-10-06T12:00:00-04:00",
   "items": [
    {
+    "id": "e8283630c4a5",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other daily challenges on three separate days",
+    "score": null
+   },
+   {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter C.A.M.P. shelter, use build menu, place decoration from Decorations category",
+    "detail": "Enter your C.A.M.P. shelter, place any decoration from the build menu",
     "score": 25
    },
    {
     "id": "3bfdebbf9a04",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest east of Valley Galleria in The Mire works well",
+    "detail": "Fish at any water source; Fisherman's Rest in the Mire is reliable",
     "score": 21
    },
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Collect from world loot or craft diluted forms at chemistry station with Purified Water",
+    "detail": "Find in world loot or craft diluted forms at a chemistry station",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "Find in Whitespring Resort exterior red brick building showers, or collect from Robo Butler Collectron",
+    "detail": "Find at Whitespring Resort showers and tables, or use Collectron station",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "Take from Games Cupboard at C.A.M.P. if you have one placed",
+    "detail": "Take from a Games Cupboard at your C.A.M.P. if you have one placed",
     "score": 4
    },
    {
@@ -91,13 +97,13 @@
    {
     "id": "a1eb77a1fd66",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Enter Daily Ops from World Activity map; Phantoms are masked cultists from Slasher event",
+    "detail": "Enter Daily Ops, kill a Phantom; you don't need to finish the operation",
     "score": 30
    },
    {
     "id": "2ac32fef8b9e",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find Infestation on map as gray cloudy area; search for red hotspot encounter",
+    "detail": "Find gray cloudy infestation areas on map, locate hotspot, kill Phantoms",
     "score": 20
    }
   ]
@@ -109,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "All public events have mutated variants with special rewards from Mutated Packages."
+   "description": "All public event rewards come from Mutated packages with bonus rewards."
   },
   {
    "id": "bc837beea22c",
@@ -117,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double Scoreboard progress this weekend."
+   "description": "Earn double SCORE and Murmrgh offers special legendary weapon modules."
   },
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "other",
+   "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-20",
-   "description": "Build themed C.A.M.P. structures for the Slasher seasonal event."
+   "description": "Build Slasher-themed C.A.M.P. decorations and contest entries for community voting."
   },
   {
    "id": "20e482890416",
@@ -133,15 +139,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal Halloween-themed event with new rewards."
-  },
-  {
-   "id": "7699c943cfd7",
-   "name": "Double Mutations",
-   "type": "weekend",
-   "starts": "2026-10-15",
-   "ends": "2026-10-19",
-   "description": "All creatures have double mutation chance this weekend."
+   "description": "Seasonal Halloween event with new rewards and mischievous activities."
   },
   {
    "id": "f1217905f981",
@@ -149,15 +147,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Scorched enemies spawn with spooky variants and unique rewards."
-  },
-  {
-   "id": "54197332cee8",
-   "name": "Double XP",
-   "type": "weekend",
-   "starts": "2026-10-22",
-   "ends": "2026-10-26",
-   "description": "Earn double experience points this weekend."
+   "description": "Spooky-themed Scorched enemies spawn with exclusive rewards and cosmetics."
   },
   {
    "id": "9ee75e191915",
@@ -165,7 +155,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish species."
+   "description": "Increased chances to catch seasonal fish and new fishing-related rewards."
   }
  ],
  "season": {
