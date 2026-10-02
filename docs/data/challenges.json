@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-01T22:13:34.817098+00:00",
+ "updated": "2026-10-02T17:37:54.255465+00:00",
  "daily": {
-  "period_start": "2026-10-01T12:00:00-04:00",
-  "resets_at": "2026-10-02T12:00:00-04:00",
+  "period_start": "2026-10-02T12:00:00-04:00",
+  "resets_at": "2026-10-03T12:00:00-04:00",
   "items": [
    {
-    "id": "a081622562a6",
-    "title": "Collect a tin of Cram",
-    "detail": "Available at Summersville diner in the Forest",
+    "id": "ed63a6246adc",
+    "title": "Collect a box of Sugar Bombs",
+    "detail": "Check Santatron/Fasnacht Collectron at C.A.M.P., or fast travel to New River Gorge Bridge - West",
     "score": 1
    },
    {
-    "id": "84019d620a37",
-    "title": "Complete an Event or Activity",
-    "detail": "Public events spawn every 20 minutes on the map",
-    "score": 1
+    "id": "bf297e9a2894",
+    "title": "Collect Toilet Paper",
+    "detail": "Whitespring Robo Butler Collectron or red brick maintenance building behind Whitespring Resort",
+    "score": 2
    },
    {
-    "id": "d2fd53245fe2",
-    "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Finish any public event first to get the map, then dig up the marked grave",
-    "score": 1
-   },
-   {
-    "id": "0281d33daad1",
-    "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find the gray cloudy area on map, locate the red hotspot, kill Phantoms there",
-    "score": 6
-   },
-   {
-    "id": "797587c97ca1",
-    "title": "Kill an Angler",
-    "detail": "Fast travel to Gnarled Shallows for reliable spawns, use V.A.T.S. for the head",
+    "id": "9494bc76ec1c",
+    "title": "Collect a Plunger",
+    "detail": "Red brick maintenance building north of Whitespring Resort, or Wavy Willard's Water Park restrooms",
     "score": 3
    },
    {
-    "id": "0096a5745da9",
-    "title": "Collect a box of Blamco Brand Mac and Cheese",
-    "detail": "",
+    "id": "12ea99c085bb",
+    "title": "Complete a Daily Quest",
+    "detail": "Cop a Squatter Daily at Watoga Emergency Services is quick",
     "score": 1
    },
    {
-    "id": "d79146acc82f",
-    "title": "Eat a box of Blamco Brand Mac and Cheese",
-    "detail": "",
-    "score": 1
+    "id": "50285da96993",
+    "title": "Cripple a Protectron or a Robobrain's Arm",
+    "detail": "RobCo Research Center has Protectrons; use V.A.T.S. for easier limb targeting",
+    "score": 2
+   },
+   {
+    "id": "affbfa82102f",
+    "title": "Kill a Creature",
+    "detail": "Whitespring Golf Club has dense Feral Ghouls",
+    "score": 12
+   },
+   {
+    "id": "c6c889622d31",
+    "title": "Kill a Pint-Sized Phantom during an Infestation while on a Team",
+    "detail": "Join any team; find Infestation marked on map and kill Phantoms inside",
+    "score": 6
    }
   ]
  },
@@ -53,58 +53,58 @@
   "resets_at": "2026-10-06T12:00:00-04:00",
   "items": [
    {
-    "id": "e8283630c4a5",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other daily challenges on three separate days",
-    "score": null
-   },
-   {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your C.A.M.P. shelter, place any decoration from the build menu",
+    "detail": "Enter your Shelter, access build menu, place any decoration like a balloon",
     "score": 25
    },
    {
     "id": "3bfdebbf9a04",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in the Mire is reliable",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is ideal",
     "score": 21
    },
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Find in world loot or craft diluted forms at a chemistry station",
+    "detail": "Collect from world loot or craft diluted forms at chemistry station with Purified Water",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "Find at Whitespring Resort showers and tables, or use Collectron station",
+    "detail": "Whitespring Robo Butler Collectron or behind main Whitespring Resort building",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "Take from a Games Cupboard at your C.A.M.P. if you have one placed",
+    "detail": "Use Games Cupboard at C.A.M.P. to take board games directly",
     "score": 4
    },
    {
     "id": "c752bd724bd1",
     "title": "Eat a Vegetable",
-    "detail": "Harvest and eat any raw vegetable like Tato, Corn, or Razorgrain",
+    "detail": "Harvest and eat raw vegetables like Tato or Corn from C.A.M.P. or Billings Homestead",
     "score": 25
    },
    {
     "id": "a1eb77a1fd66",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Enter Daily Ops, kill a Phantom; you don't need to finish the operation",
+    "detail": "Enter Daily Ops from World Activity; Phantoms are the masked cultists from Slasher event",
     "score": 30
    },
    {
     "id": "2ac32fef8b9e",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find gray cloudy infestation areas on map, locate hotspot, kill Phantoms",
+    "detail": "Find gray Infestation area on Pip-Boy map, locate red hotspot and kill Phantoms",
     "score": 20
+   },
+   {
+    "id": "e8283630c4a5",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other dailies on three separate days during the week",
+    "score": null
    }
   ]
  },
@@ -112,10 +112,10 @@
   {
    "id": "6d2f82244538",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "All public event rewards come from Mutated packages with bonus rewards."
+   "description": "Public events spawn with mutations, awarding Mutated Party Packages with exclusive rewards."
   },
   {
    "id": "bc837beea22c",
@@ -123,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double SCORE and Murmrgh offers special legendary weapon modules."
+   "description": "Earn double SCORE points while Murmrgh offers special legendary weapon modules for sale."
   },
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
    "type": "seasonal",
    "starts": "2026-10-02",
-   "ends": "2026-10-20",
-   "description": "Build Slasher-themed C.A.M.P. decorations and contest entries for community voting."
+   "ends": "2026-10-26",
+   "description": "Community competition to build the best C.A.M.P. designs related to the Slasher seasonal event."
   },
   {
    "id": "20e482890416",
@@ -139,7 +139,15 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal Halloween event with new rewards and mischievous activities."
+   "description": "Seasonal Halloween-themed event featuring prankster gameplay and exclusive cosmetic rewards."
+  },
+  {
+   "id": "7699c943cfd7",
+   "name": "Double Mutations",
+   "type": "weekend",
+   "starts": "2026-10-15",
+   "ends": "2026-10-19",
+   "description": "Daily Ops feature double mutation encounters with new and seasonal reward options."
   },
   {
    "id": "f1217905f981",
@@ -147,7 +155,15 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Spooky-themed Scorched enemies spawn with exclusive rewards and cosmetics."
+   "description": "Face mutated scorched enemies in seasonal encounters with new exclusive rewards."
+  },
+  {
+   "id": "54197332cee8",
+   "name": "Double XP",
+   "type": "weekend",
+   "starts": "2026-10-22",
+   "ends": "2026-10-26",
+   "description": "Earn double experience points on all activities to level up faster."
   },
   {
    "id": "9ee75e191915",
@@ -155,7 +171,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chances to catch seasonal fish and new fishing-related rewards."
+   "description": "Increased chance to catch seasonal fish with new local legend and recipes available."
   }
  ],
  "season": {
