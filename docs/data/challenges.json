@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-02T22:14:03.892881+00:00",
+ "updated": "2026-10-03T20:54:01.396718+00:00",
  "daily": {
-  "period_start": "2026-10-02T12:00:00-04:00",
-  "resets_at": "2026-10-03T12:00:00-04:00",
+  "period_start": "2026-10-03T12:00:00-04:00",
+  "resets_at": "2026-10-04T12:00:00-04:00",
   "items": [
    {
-    "id": "ed63a6246adc",
-    "title": "Collect a box of Sugar Bombs",
-    "detail": "Check Santatron or Fasnacht Collectron at C.A.M.P., or New River Gorge Bridge - West",
+    "id": "a9f959bb8928",
+    "title": "Scrap junk to produce Cloth",
+    "detail": "Craft Bulk Cloth at a Tinker's Workbench and scrap it for fastest completion.",
+    "score": 10
+   },
+   {
+    "id": "0f81f666d27e",
+    "title": "Collect a Board Game",
+    "detail": "Take from a Games Cupboard at your C.A.M.P., or find one at various locations.",
     "score": 1
    },
    {
-    "id": "bf297e9a2894",
-    "title": "Collect Toilet Paper",
-    "detail": "Whitespring Robo Butler Collectron or maintenance building behind Whitespring Resort",
-    "score": 2
-   },
-   {
-    "id": "9494bc76ec1c",
-    "title": "Collect a Plunger",
-    "detail": "Whitespring Resort maintenance building or Wavy Willard's Water Park restrooms",
-    "score": 3
-   },
-   {
-    "id": "12ea99c085bb",
-    "title": "Complete a Daily Quest",
-    "detail": "Cop a Squatter Daily from Watoga Emergency Services is quick",
+    "id": "ddabf3867b1e",
+    "title": "Kill a Legendary Enemy",
+    "detail": "Join public events like Eviction Notice, Radiation Rumble, or Uranium Fever.",
     "score": 1
    },
    {
-    "id": "50285da96993",
-    "title": "Cripple a Protectron or a Robobrain's Arm",
-    "detail": "Use V.A.T.S. at RobCo Research Center",
-    "score": 2
+    "id": "1bd66df7d975",
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
+    "detail": "Enter Daily Ops and kill a Phantom; you don't need to complete the operation.",
+    "score": 10
    },
    {
-    "id": "affbfa82102f",
-    "title": "Kill a Creature",
-    "detail": "Whitespring Golf Club has dense Feral Ghouls",
-    "score": 12
+    "id": "a905e2433aa9",
+    "title": "Scrap junk to produce Glass",
+    "detail": "Craft Bulk Glass at a Tinker's Workbench and scrap it for fastest completion.",
+    "score": 10
    },
    {
-    "id": "c6c889622d31",
-    "title": "Kill a Pint-Sized Phantom during an Infestation while on a Team",
-    "detail": "Join any team and find Phantoms in active Infestation areas",
-    "score": 6
+    "id": "6817ea8fb3f0",
+    "title": "Travel on foot (KM)",
+    "detail": "Sprint on foot without fast traveling; running near Vault-Tec Agricultural Research Center works well.",
+    "score": 10
+   },
+   {
+    "id": "77d9b5d7ff6e",
+    "title": "Use Photomode while in a Team",
+    "detail": "Join any team and open Photomode to take a photo.",
+    "score": 1
    }
   ]
  },
@@ -55,49 +55,49 @@
    {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your Shelter, use build menu, place any decoration like a balloon",
+    "detail": "Enter your shelter, use build menu, select Decorations category, and place any item.",
     "score": 25
    },
    {
     "id": "3bfdebbf9a04",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in The Mire is convenient",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is convenient.",
     "score": 21
    },
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Collect from world loot or craft diluted versions at chemistry station",
+    "detail": "Collect from world loot or craft diluted versions at a chemistry station.",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "Whitespring Robo Butler Collectron or maintenance building behind Whitespring Resort",
+    "detail": "Find at The Whitespring Resort bathrooms, or collect from a Whitespring Robo Butler Collectron.",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "Use Games Cupboard at C.A.M.P. to collect board games",
+    "detail": "Take from a Games Cupboard at your C.A.M.P.",
     "score": 4
    },
    {
     "id": "c752bd724bd1",
     "title": "Eat a Vegetable",
-    "detail": "Harvest and eat raw vegetables like Tato, Corn, or Razorgrain",
+    "detail": "Harvest and eat any raw vegetable like Tato, Corn, or Razorgrain.",
     "score": 25
    },
    {
     "id": "a1eb77a1fd66",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Enter Daily Ops and kill Phantoms; you don't need to finish the operation",
+    "detail": "Enter Daily Ops and kill a Phantom; completion of the operation is not required.",
     "score": 30
    },
    {
     "id": "2ac32fef8b9e",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find Phantoms in active Infestation hotspots on the map",
+    "detail": "Find an active Infestation on the map and eliminate Phantoms within the hotspot.",
     "score": 20
    }
   ]
@@ -106,10 +106,10 @@
   {
    "id": "6d2f82244538",
    "name": "Mutated Public Events",
-   "type": "seasonal",
+   "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "Public events spawn with mutations offering enhanced rewards in mutated event packages."
+   "description": "All rewards from Mutated Party Packages are available during this event."
   },
   {
    "id": "bc837beea22c",
@@ -117,15 +117,15 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Double SCORE rewards with Murmrgh offering special legendary weapon drops."
+   "description": "Earn double SCORE on challenges and access Murmrgh's special weapons inventory."
   },
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "seasonal",
+   "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build and compete with themed C.A.M.P. designs for seasonal rewards."
+   "description": "Community competition to design the best themed C.A.M.P. builds."
   },
   {
    "id": "20e482890416",
@@ -133,31 +133,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal Halloween event with new 2025 rewards available."
-  },
-  {
-   "id": "7699c943cfd7",
-   "name": "Double Mutations",
-   "type": "weekend",
-   "starts": "2026-10-15",
-   "ends": "2026-10-19",
-   "description": "Daily Ops features double mutation effects with new seasonal 2026 rewards."
-  },
-  {
-   "id": "f1217905f981",
-   "name": "Spooky Scorched",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Encounter Spooky Scorched enemies with new 2026 event rewards."
-  },
-  {
-   "id": "54197332cee8",
-   "name": "Double XP",
-   "type": "weekend",
-   "starts": "2026-10-22",
-   "ends": "2026-10-26",
-   "description": "Gain experience at double rate for faster leveling and scoreboard progression."
+   "description": "Spooky-themed event with new rewards for costumed trick-or-treating activities."
   },
   {
    "id": "9ee75e191915",
@@ -165,7 +141,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance of catching seasonal fish during this special weekend event."
+   "description": "Increased chance of catching seasonal fish during this weekend event."
   }
  ],
  "season": {
