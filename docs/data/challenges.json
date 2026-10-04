@@ -1,49 +1,49 @@
 {
- "updated": "2026-10-04T02:55:08.095865+00:00",
+ "updated": "2026-10-04T21:03:40.466787+00:00",
  "daily": {
-  "period_start": "2026-10-03T12:00:00-04:00",
-  "resets_at": "2026-10-04T12:00:00-04:00",
+  "period_start": "2026-10-04T12:00:00-04:00",
+  "resets_at": "2026-10-05T12:00:00-04:00",
   "items": [
    {
-    "id": "a9f959bb8928",
-    "title": "Scrap junk to produce Cloth",
-    "detail": "Craft Bulk Cloth at a Tinker's Workbench and scrap it for the fastest completion",
+    "id": "0ef080f6f824",
+    "title": "Craft or Scrap a Melee Weapon",
+    "detail": "Scrap a melee weapon at any workbench",
+    "score": 5
+   },
+   {
+    "id": "1b306f9dc939",
+    "title": "Catch a Fish",
+    "detail": "Fish at any water source; Fisherman's Rest in the Mire is convenient",
+    "score": 3
+   },
+   {
+    "id": "a8ee505139af",
+    "title": "Cook Grilled Fish",
+    "detail": "Need Grilled Fish recipe; craft at cooking station with fish bits, salt, and wood",
+    "score": 2
+   },
+   {
+    "id": "4b93a05ec6e3",
+    "title": "Kill a Blood Eagle",
+    "detail": "Dagger's Den has reliable spawns of Blood Eagles",
     "score": 10
    },
    {
-    "id": "0f81f666d27e",
-    "title": "Collect a Board Game",
-    "detail": "Take from a Games Cupboard at your C.A.M.P. or use one at Whitespring Resort",
+    "id": "5d0c755f28e5",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "Find Phantoms in active Infestation areas marked on map",
+    "score": 6
+   },
+   {
+    "id": "cae2993db14b",
+    "title": "Sell a Shotgun to an NPC vendor",
+    "detail": "Any shotgun type works; Whitespring Resort has multiple vendors",
     "score": 1
    },
    {
-    "id": "ddabf3867b1e",
-    "title": "Kill a Legendary Enemy",
-    "detail": "Join public events like Eviction Notice, Radiation Rumble, or Uranium Fever",
-    "score": 1
-   },
-   {
-    "id": "1bd66df7d975",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Enter Daily Ops from World Activity on the map; Phantoms are masked cultists from the Slasher event",
-    "score": 10
-   },
-   {
-    "id": "a905e2433aa9",
-    "title": "Scrap junk to produce Glass",
-    "detail": "Craft Bulk Glass at a Tinker's Workbench and scrap it",
-    "score": 10
-   },
-   {
-    "id": "6817ea8fb3f0",
-    "title": "Travel on foot (KM)",
-    "detail": "Fast travel does not count; sprint on foot in open areas for faster progress",
-    "score": 10
-   },
-   {
-    "id": "77d9b5d7ff6e",
-    "title": "Use Photomode while in a Team",
-    "detail": "Join any team and open Photomode to take a photo",
+    "id": "cf9e60818e56",
+    "title": "Take a Camera Picture at the Starlight Drive-In",
+    "detail": "Fast travel to Prospect Hill and head east to the drive-in",
     "score": 1
    }
   ]
@@ -55,56 +55,50 @@
    {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your Shelter, access build menu, select Decorations category and place any item",
+    "detail": "Place any decoration in your C.A.M.P. shelter using the build menu",
     "score": 25
    },
    {
     "id": "3bfdebbf9a04",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in The Mire is recommended for combining with other challenges",
+    "detail": "Fish at any water source deep enough to fish",
     "score": 21
    },
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Collect from world loot or craft diluted forms at a chemistry station with Purified Water",
+    "detail": "Collect from world loot, containers, or craft diluted forms at chemistry station",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "Check showers and tables at Whitespring Resort exterior, or use a Whitespring Robo Butler Collectron",
+    "detail": "Found at Whitespring Resort bathrooms or produced by Games Cupboard",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "Take from a Games Cupboard at your C.A.M.P.",
+    "detail": "Retrieve from Games Cupboard at C.A.M.P. if available",
     "score": 4
    },
    {
     "id": "c752bd724bd1",
     "title": "Eat a Vegetable",
-    "detail": "Harvest and eat any raw vegetable like Tato, Corn, or Razorgrain",
+    "detail": "Harvest and eat raw vegetables like tato, corn, or razorgrain",
     "score": 25
    },
    {
     "id": "a1eb77a1fd66",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Pint-Sized Phantoms appear in Daily Ops during the Slasher event phase",
+    "detail": "Phantoms spawn as enemies during Daily Ops; kill one inside the operation",
     "score": 30
    },
    {
     "id": "2ac32fef8b9e",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Look for gray cloudy areas on the map and search for Phantom mobs in the marked region",
+    "detail": "Find and kill Phantoms in active Infestation hotspots",
     "score": 20
-   },
-   {
-    "id": "e8283630c4a5",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six daily challenges on three separate days this week",
-    "score": null
    }
   ]
  },
@@ -115,7 +109,7 @@
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "All rewards from Mutated Party Packages are available during this weekly event period."
+   "description": "All public events spawn with mutated variants offering special rewards."
   },
   {
    "id": "bc837beea22c",
@@ -123,15 +117,15 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double Scoreboard points this weekend while Murmrgh has a special weapons vendor rotation active."
+   "description": "Earn double SCORE progress on all challenges this weekend."
   },
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "other",
+   "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community building contest featuring Pint-Sized Phantom cultist cosmetics and Slasher event themed rewards."
+   "description": "Community contest to build the best Slasher-themed C.A.M.P. design."
   },
   {
    "id": "20e482890416",
@@ -139,15 +133,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal Halloween event with new rewards and trick-or-treat themed activities."
-  },
-  {
-   "id": "f1217905f981",
-   "name": "Spooky Scorched",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Halloween-themed seasonal event featuring Scorched enemies with spooky cosmetics and exclusive rewards."
+   "description": "Seasonal Halloween event with spooky scorched enemies and festive rewards."
   },
   {
    "id": "9ee75e191915",
@@ -155,7 +141,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this extended weekend event period."
+   "description": "Increased chance to catch seasonal fish during this special weekend event."
   }
  ],
  "season": {
