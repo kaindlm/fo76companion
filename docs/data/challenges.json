@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T21:03:40.466787+00:00",
+ "updated": "2026-10-04T22:14:22.090991+00:00",
  "daily": {
   "period_start": "2026-10-04T12:00:00-04:00",
   "resets_at": "2026-10-05T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "0ef080f6f824",
     "title": "Craft or Scrap a Melee Weapon",
-    "detail": "Scrap a melee weapon at any workbench",
+    "detail": "Scrap any melee weapon at a workbench or craft one at a weapons workbench",
     "score": 5
    },
    {
     "id": "1b306f9dc939",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in the Mire is convenient",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is a reliable location",
     "score": 3
    },
    {
     "id": "a8ee505139af",
     "title": "Cook Grilled Fish",
-    "detail": "Need Grilled Fish recipe; craft at cooking station with fish bits, salt, and wood",
+    "detail": "Requires Grilled Fish recipe plan; craft at cooking station with 3 Fish Bits, 2 Salt, 1 Wood",
     "score": 2
    },
    {
     "id": "4b93a05ec6e3",
     "title": "Kill a Blood Eagle",
-    "detail": "Dagger's Den has reliable spawns of Blood Eagles",
+    "detail": "Fast travel to Dagger's Den for reliable spawns of Blood Eagles",
     "score": 10
    },
    {
     "id": "5d0c755f28e5",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find Phantoms in active Infestation areas marked on map",
+    "detail": "Find Infestations on map as gray cloudy areas; Phantoms spawn during this event",
     "score": 6
    },
    {
     "id": "cae2993db14b",
     "title": "Sell a Shotgun to an NPC vendor",
-    "detail": "Any shotgun type works; Whitespring Resort has multiple vendors",
+    "detail": "Sell any shotgun to any NPC vendor; Whitespring Resort has multiple vendors",
     "score": 1
    },
    {
     "id": "cf9e60818e56",
     "title": "Take a Camera Picture at the Starlight Drive-In",
-    "detail": "Fast travel to Prospect Hill and head east to the drive-in",
+    "detail": "Fast travel to Starlight Drive-In in Burning Springs, equip camera and take a photo",
     "score": 1
    }
   ]
@@ -55,7 +55,7 @@
    {
     "id": "1d1da4b7cf57",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Place any decoration in your C.A.M.P. shelter using the build menu",
+    "detail": "Enter your C.A.M.P. shelter and place any decoration from the build menu",
     "score": 25
    },
    {
@@ -67,37 +67,37 @@
    {
     "id": "e89e2f304023",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Collect from world loot, containers, or craft diluted forms at chemistry station",
+    "detail": "Collect from world loot or craft diluted versions at a chemistry station",
     "score": 15
    },
    {
     "id": "f68ff43ac199",
     "title": "Collect Soap",
-    "detail": "Found at Whitespring Resort bathrooms or produced by Games Cupboard",
+    "detail": "Find at Whitespring Resort in showers or behind main building; or collect from Games Cupboard",
     "score": 14
    },
    {
     "id": "32aa6391a1de",
     "title": "Collect a Board Game",
-    "detail": "Retrieve from Games Cupboard at C.A.M.P. if available",
+    "detail": "Take from Games Cupboard at your C.A.M.P. if you have one placed",
     "score": 4
    },
    {
     "id": "c752bd724bd1",
     "title": "Eat a Vegetable",
-    "detail": "Harvest and eat raw vegetables like tato, corn, or razorgrain",
+    "detail": "Harvest and eat any raw vegetable like Tato, Corn, or Razorgrain",
     "score": 25
    },
    {
     "id": "a1eb77a1fd66",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Phantoms spawn as enemies during Daily Ops; kill one inside the operation",
+    "detail": "Enter Daily Ops and kill Pint-Sized Phantoms; they are the enemy during Slasher event",
     "score": 30
    },
    {
     "id": "2ac32fef8b9e",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find and kill Phantoms in active Infestation hotspots",
+    "detail": "Find Phantoms in Infestation areas marked on your map",
     "score": 20
    }
   ]
@@ -109,7 +109,7 @@
    "type": "weekend",
    "starts": "2026-09-29",
    "ends": "2026-10-06",
-   "description": "All public events spawn with mutated variants offering special rewards."
+   "description": "All public events have a chance to spawn as mutated variants with bonus rewards."
   },
   {
    "id": "bc837beea22c",
@@ -117,7 +117,7 @@
    "type": "weekend",
    "starts": "2026-10-01",
    "ends": "2026-10-05",
-   "description": "Earn double SCORE progress on all challenges this weekend."
+   "description": "Earn double SCORE from challenges and Murmrgh offers a special legendary weapon mod rotation."
   },
   {
    "id": "496dffc39078",
@@ -125,7 +125,7 @@
    "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community contest to build the best Slasher-themed C.A.M.P. design."
+   "description": "Compete in a building contest themed around the Slasher seasonal event for community recognition."
   },
   {
    "id": "20e482890416",
@@ -133,7 +133,15 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal Halloween event with spooky scorched enemies and festive rewards."
+   "description": "Seasonal Halloween-themed event featuring Pint-Sized Phantoms and exclusive rewards."
+  },
+  {
+   "id": "f1217905f981",
+   "name": "Spooky Scorched",
+   "type": "seasonal",
+   "starts": "2026-10-20",
+   "ends": "2026-11-03",
+   "description": "Halloween-themed event with special scorched variants and spooky seasonal rewards."
   },
   {
    "id": "9ee75e191915",
@@ -141,7 +149,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this special weekend event."
+   "description": "Increased chance to catch seasonal fish varieties during this special weekend event."
   }
  ],
  "season": {
