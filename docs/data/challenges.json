@@ -1,50 +1,62 @@
 {
- "updated": "2026-10-06T22:14:51.192889+00:00",
+ "updated": "2026-10-07T17:40:43.102339+00:00",
  "daily": {
-  "period_start": "2026-10-06T12:00:00-04:00",
-  "resets_at": "2026-10-07T12:00:00-04:00",
+  "period_start": "2026-10-07T12:00:00-04:00",
+  "resets_at": "2026-10-08T12:00:00-04:00",
   "items": [
    {
-    "id": "a957138e98b6",
-    "title": "Collect a box of Fancy Lads Snack Cakes",
-    "detail": "Use C.A.M.P. Cookie Jar if available, otherwise check Overseer's Home bookshelf",
-    "score": 250
+    "id": "233a2ef6acca",
+    "title": "Eat a box of Fancy Lads Snack Cakes",
+    "detail": "Use Cookie Jar from Atomic Shop or find at Overseer's Home bookshelf",
+    "score": null
    },
    {
-    "id": "1c0568cb572c",
-    "title": "Collect Pre-War Money",
-    "detail": "Check Shredder at C.A.M.P., or loot safes at Camden Park or Wavy Willard's",
-    "score": 250
+    "id": "7c146bf8b126",
+    "title": "Collect Canned Coffee",
+    "detail": "",
+    "score": null
    },
    {
-    "id": "a0cb642ddc52",
-    "title": "Collect a Lighter, Cigarette or Cigar",
-    "detail": "Use Doctor's Orders Cigarette Machine if available at your C.A.M.P.",
-    "score": 250
+    "id": "a223316738b0",
+    "title": "Complete a Daily Operation!",
+    "detail": "Easier with a team; join Daily Ops public team",
+    "score": null
    },
    {
-    "id": "da07b4281a5d",
-    "title": "Complete the Event: \"Mischief Night\"",
-    "detail": "Event runs at top of each hour at Rapidan Camp",
-    "score": 250
+    "id": "3b86a7ed991c",
+    "title": "Cook Mole Rat Chunks",
+    "detail": "Craft at cooking station using Mole Rat Meat and Wood",
+    "score": null
    },
    {
-    "id": "30d9f689c7bf",
-    "title": "Kill a Lost during the \"Mischief Night\" Event",
-    "detail": "Kill 6 Lost Dwellers during the Mischief Night public event",
-    "score": 250
+    "id": "5d63b66a1407",
+    "title": "Drink Canned Coffee",
+    "detail": "",
+    "score": null
    },
    {
-    "id": "f263436f40d7",
+    "id": "37a399f5e68d",
+    "title": "Drink Purified Water",
+    "detail": "Collect from C.A.M.P. water purifier or find at Rollins Labor Camp",
+    "score": null
+   },
+   {
+    "id": "4db84385b969",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Pint-Sized Phantoms appear in Daily Ops during Slasher event",
-    "score": 250
+    "detail": "Phantoms spawn during Daily Ops; you don't need to finish the operation",
+    "score": null
    },
    {
-    "id": "7fb81ea2efc2",
-    "title": "Scrap Pre-War Money",
-    "detail": "Shredder at C.A.M.P. or loot from Camden Park and Wavy Willard's",
-    "score": 250
+    "id": "5d2cd222b89a",
+    "title": "Kill an Enemy with any Archaic Weapon",
+    "detail": "",
+    "score": null
+   },
+   {
+    "id": "5431061cef7c",
+    "title": "Visit another Player's Shelter",
+    "detail": "Fast travel to a player C.A.M.P. with shelter marker",
+    "score": null
    }
   ]
  },
@@ -53,64 +65,64 @@
   "resets_at": "2026-10-13T12:00:00-04:00",
   "items": [
    {
+    "id": "c1306dc1e07a",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six daily challenges on three separate days",
+    "score": null
+   },
+   {
     "id": "2c57543cf114",
     "title": "Drink Tea",
-    "detail": "Use Company Tea generator at C.A.M.P. if available",
-    "score": 1500
+    "detail": "Use Company Tea generator at C.A.M.P. or find elsewhere",
+    "score": null
    },
    {
     "id": "7272744ad5b2",
     "title": "Kill a Mole Miner",
-    "detail": "Find reliable spawns at Blackwater Mine; target head with V.A.T.S.",
-    "score": 1500
+    "detail": "Fast travel to Blackwater Mine for reliable spawn",
+    "score": null
    },
    {
     "id": "331a90c5c9fb",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
-    "detail": "Join or create a team before entering Daily Ops; Phantoms are cultists from Slasher event",
-    "score": 1500
+    "detail": "Must be on a team; Phantoms are masked cultists from Slasher event",
+    "score": null
    },
    {
     "id": "9a87533954ab",
     "title": "Kill a Rusted Deathclaw",
-    "detail": "Dino Peaks Mini Golf has 3 reliable spawns; target belly with V.A.T.S.",
-    "score": 1500
+    "detail": "Fast travel to Dino Peaks Mini Golf for three spawns",
+    "score": null
    },
    {
     "id": "ee3c7525ce73",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Completes Mischief Night event, then stay nearby for Phantom spawn at Rapidan Camp",
-    "score": 1500
+    "detail": "Completes Mischief Night event first, then wait for Phantom to spawn at Rapidan Camp",
+    "score": null
    },
    {
     "id": "63fc54c08bb3",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft and scrap Bulk Aluminum at Tinker's Workbench",
-    "score": 1500
+    "detail": "Craft and scrap Bulk Aluminum at tinker's workbench",
+    "score": null
    },
    {
     "id": "f224aa3afed8",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Scrap Abraxo cleaner or kill Ticks at Big B's Rest Stop",
-    "score": 1500
+    "detail": "Scrap Abraxo cleaner or other items containing Antiseptic",
+    "score": null
    },
    {
     "id": "3faaa3c7d4fc",
     "title": "Sell Mirelurk Queen Steak to an NPC vendor",
-    "detail": "Hunt Mirelurk Queens at Mac's Farm or Spruce Knob Lake",
-    "score": 1500
+    "detail": "Kill Mirelurk queen at Mac's Farm or Spruce Knob Lake",
+    "score": null
    },
    {
     "id": "3f8ac168c6fc",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint without fast traveling; Vault-Tec to Morgantown is a good route",
-    "score": 1500
-   },
-   {
-    "id": "c1306dc1e07a",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete three Gold Star daily achievements during the week",
-    "score": 1500
+    "detail": "Fast travel does not count; sprinting and staying light builds distance faster",
+    "score": null
    }
   ]
  },
@@ -121,7 +133,7 @@
    "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Show off your best Slasher-themed C.A.M.P. builds in this community contest."
+   "description": "Seasonal Slasher event with C.A.M.P. building contest featuring Pint-Sized Phantoms as enemies."
   },
   {
    "id": "20e482890416",
@@ -129,7 +141,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal public event featuring pranks and mayhem at Rapidan Camp with themed rewards."
+   "description": "Seasonal event where players defend against party crashers and Uninvited Pint-Sized Phantoms."
   },
   {
    "id": "d54d192926b2",
@@ -137,7 +149,7 @@
    "type": "weekend",
    "starts": "2026-10-08",
    "ends": "2026-10-12",
-   "description": "Special merchant Minerva offers discounted plans and exclusive items with bonus gold rewards."
+   "description": "Minerva offers discounted plans and Gold Rush bonus weekend event."
   },
   {
    "id": "7699c943cfd7",
@@ -145,7 +157,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Double mutation rate event with new and seasonal Daily Ops rewards available."
+   "description": "Double mutations chance during Daily Operations with new seasonal rewards."
   },
   {
    "id": "f1217905f981",
@@ -153,15 +165,15 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Halloween-themed event featuring spooky Scorched enemies with seasonal rewards."
+   "description": "Spooky-themed Scorched event with new rewards and special enemy variants."
   },
   {
-   "id": "8db4f9c603b1",
-   "name": "Double XP Weekend",
+   "id": "54197332cee8",
+   "name": "Double XP",
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn double experience points during this weekend event."
+   "description": "Double experience points earned from all activities and combat."
   },
   {
    "id": "9ee75e191915",
@@ -169,7 +181,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish with new recipes and challenges."
+   "description": "Increased chance to catch seasonal fish species during this weekend event."
   }
  ],
  "season": {
