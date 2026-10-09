@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:39:14.558387+00:00",
+ "updated": "2026-10-09T22:14:53.650491+00:00",
  "daily": {
   "period_start": "2026-10-09T12:00:00-04:00",
   "resets_at": "2026-10-10T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "eb7aed38ba7c",
     "title": "Eat a box of Dandy Boy Apples",
-    "detail": "Check Vault 51 shelters or use a Whitespring Robo Butler Collectron",
+    "detail": "Check Vault 51 Shelters Claim Center kitchen shelves or Whitespring Robo Butler Collectron",
     "score": null
    },
    {
     "id": "fd103dac6183",
     "title": "Build a Decoration in a Workshop or C.A.M.P. in Free Cam",
-    "detail": "Place any decoration like a small rug in free cam mode",
+    "detail": "Toggle free cam in build menu and place any decoration",
     "score": null
    },
    {
     "id": "8e44a55d91c4",
     "title": "Collect RadAway or Rad-X",
-    "detail": "Craft diluted forms at a chemistry station if needed",
+    "detail": "Craft diluted forms at chemistry station with Purified Water",
     "score": null
    },
    {
     "id": "f3f00cc70be0",
     "title": "Complete an Infestation",
-    "detail": "Find and finish the marked infestation hotspot for rare 4-star loot",
+    "detail": "Find gray cloudy area on map and clear the event to completion",
     "score": null
    },
    {
     "id": "aa56e181ddc3",
     "title": "Destroy an Assaultron",
-    "detail": "Whitespring Resort has one near the entrance",
+    "detail": "Whitespring Resort entrance has one, or find three at Watoga Station",
     "score": null
    },
    {
     "id": "d3ec658d9055",
     "title": "Kill a Pint-Sized Phantom during an Infestation while on a Team",
-    "detail": "Join a team and kill Phantoms inside an infestation hotspot",
+    "detail": "Join a team, find an Infestation hotspot, and kill Phantoms inside",
     "score": null
    },
    {
     "id": "67c071a1a695",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Kill Ticks at Big B's Rest Stop or scrap Abraxo cleaner and similar items",
+    "detail": "Kill Ticks at Big B's Rest Stop shack or scrap Abraxo cleaner and solvents",
     "score": null
    }
   ]
@@ -55,7 +55,7 @@
    {
     "id": "2c57543cf114",
     "title": "Drink Tea",
-    "detail": "Use a Company Tea generator at your C.A.M.P. or collect elsewhere",
+    "detail": "Use Company Tea generator at C.A.M.P. or collect and drink",
     "score": null
    },
    {
@@ -67,43 +67,49 @@
    {
     "id": "331a90c5c9fb",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
-    "detail": "Join a team and enter Daily Ops to fight Phantoms",
+    "detail": "Join a team and enter Daily Ops; Phantom kills count without finishing",
     "score": null
    },
    {
     "id": "9a87533954ab",
     "title": "Kill a Rusted Deathclaw",
-    "detail": "Dino Peaks Mini Golf has three reliable spawns",
+    "detail": "Dino Peaks Mini Golf has 3 spawns; target belly for weak spot",
     "score": null
    },
    {
     "id": "ee3c7525ce73",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event and wait for Phantom to spawn at Rapidan Camp",
+    "detail": "Complete Mischief Night event and stay in Vertibot area for spawn",
     "score": null
    },
    {
     "id": "63fc54c08bb3",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft and scrap Bulk Aluminum at a Tinker's Workbench",
+    "detail": "Craft Bulk Aluminum at Tinker's Workbench then scrap it",
     "score": null
    },
    {
     "id": "f224aa3afed8",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Kill Ticks at Big B's Rest Stop or scrap relevant materials",
+    "detail": "Kill Ticks at Big B's Rest Stop or scrap Abraxo cleaner",
     "score": null
    },
    {
     "id": "3faaa3c7d4fc",
     "title": "Sell Mirelurk Queen Steak to an NPC vendor",
-    "detail": "Hunt Mirelurk queens at Mac's Farm or Spruce Knob Lake",
+    "detail": "Hunt Mirelurk Queen at Mac's Farm or Spruce Knob Lake",
     "score": null
    },
    {
     "id": "3f8ac168c6fc",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint on foot with weapon holstered; fast travel does not count",
+    "detail": "Sprint under overencumbered limit on open ground; fast travel doesn't count",
+    "score": null
+   },
+   {
+    "id": "c1306dc1e07a",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other daily challenges on three separate days",
     "score": null
    }
   ]
@@ -112,10 +118,10 @@
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "seasonal",
+   "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit to contest for prizes including Atoms and exclusive titles."
+   "description": "Build slasher-themed C.A.M.P. or Shelter and submit for prizes including Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -123,15 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "A seasonal spooky event where masked cultist Pint-Sized Phantoms can crash your C.A.M.P. at Rapidan Camp."
-  },
-  {
-   "id": "d54d192926b2",
-   "name": "Minerva's Big Sale (List 4) and Gold Rush",
-   "type": "update",
-   "starts": "2026-10-08",
-   "ends": "2026-10-12",
-   "description": "Limited-time vendor sale featuring plans and armor mods at reduced gold costs."
+   "description": "Seasonal event featuring Pint-Sized Phantoms and special challenges at Rapidan Camp."
   },
   {
    "id": "7699c943cfd7",
@@ -139,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Increased mutation acquisition rates during Daily Operations."
+   "description": "Increased mutation drop rates during Daily Operations."
   },
   {
    "id": "f1217905f981",
@@ -147,7 +145,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring spooky Scorched enemies with unique rewards and challenges."
+   "description": "Special scorched enemy variants with seasonal rewards available."
   },
   {
    "id": "54197332cee8",
@@ -155,7 +153,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Double experience points from all activities including kills and events."
+   "description": "Double experience points earned for all activities and progression."
   },
   {
    "id": "9ee75e191915",
@@ -163,7 +161,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this special weekend event."
+   "description": "Increased chance to catch seasonal fish this weekend."
   }
  ],
  "season": {
