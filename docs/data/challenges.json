@@ -1,49 +1,49 @@
 {
- "updated": "2026-10-08T22:14:55.583252+00:00",
+ "updated": "2026-10-09T17:39:14.558387+00:00",
  "daily": {
-  "period_start": "2026-10-08T12:00:00-04:00",
-  "resets_at": "2026-10-09T12:00:00-04:00",
+  "period_start": "2026-10-09T12:00:00-04:00",
+  "resets_at": "2026-10-10T12:00:00-04:00",
   "items": [
    {
-    "id": "75629315a5c2",
-    "title": "Collect a box of Dandy Boy Apples",
-    "detail": "Check wooden shelves in Vault 51's Shelters Claim Center makeshift kitchen, or use Whitespring Robo Butler Collectron",
+    "id": "eb7aed38ba7c",
+    "title": "Eat a box of Dandy Boy Apples",
+    "detail": "Check Vault 51 shelters or use a Whitespring Robo Butler Collectron",
     "score": null
    },
    {
-    "id": "ceebd6fbc419",
-    "title": "Collect a box of InstaMash",
-    "detail": "Find at Vault 51 Shelters Claim Center or the shack west of Mosstown",
+    "id": "fd103dac6183",
+    "title": "Build a Decoration in a Workshop or C.A.M.P. in Free Cam",
+    "detail": "Place any decoration like a small rug in free cam mode",
     "score": null
    },
    {
-    "id": "ebc1cdff61dc",
-    "title": "Complete the Event: Mischief Night",
-    "detail": "Join at Rapidan Camp, light the pyre, and complete all acts of mayhem with Eyebot JES-2R",
+    "id": "8e44a55d91c4",
+    "title": "Collect RadAway or Rad-X",
+    "detail": "Craft diluted forms at a chemistry station if needed",
     "score": null
    },
    {
-    "id": "7e9eb3b1d4c7",
-    "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Finish a public event to receive a Phantom map, then dig up the marked grave",
+    "id": "f3f00cc70be0",
+    "title": "Complete an Infestation",
+    "detail": "Find and finish the marked infestation hotspot for rare 4-star loot",
     "score": null
    },
    {
-    "id": "ea0774399d25",
-    "title": "Eat a box of InstaMash",
-    "detail": "Collect InstaMash and consume it from your Pip-Boy inventory",
+    "id": "aa56e181ddc3",
+    "title": "Destroy an Assaultron",
+    "detail": "Whitespring Resort has one near the entrance",
     "score": null
    },
    {
-    "id": "1fe2b690c14a",
-    "title": "Kill a Lost during the Mischief Night Event",
-    "detail": "Join Mischief Night at Rapidan Camp and kill Lost Dwellers that appear during the event",
+    "id": "d3ec658d9055",
+    "title": "Kill a Pint-Sized Phantom during an Infestation while on a Team",
+    "detail": "Join a team and kill Phantoms inside an infestation hotspot",
     "score": null
    },
    {
-    "id": "eaf5775b9184",
-    "title": "Kill a Pint-Sized Phantom",
-    "detail": "Hunt Pint-Sized Phantoms near cabins and campgrounds; listen for child laughter",
+    "id": "67c071a1a695",
+    "title": "Scrap junk to produce Antiseptic",
+    "detail": "Kill Ticks at Big B's Rest Stop or scrap Abraxo cleaner and similar items",
     "score": null
    }
   ]
@@ -55,81 +55,67 @@
    {
     "id": "2c57543cf114",
     "title": "Drink Tea",
-    "detail": "Collect Company Tea from a C.A.M.P. generator or find it elsewhere, then drink it",
+    "detail": "Use a Company Tea generator at your C.A.M.P. or collect elsewhere",
     "score": null
    },
    {
     "id": "7272744ad5b2",
     "title": "Kill a Mole Miner",
-    "detail": "Travel to Blackwater Mine for reliable spawns and use V.A.T.S. targeting the head",
+    "detail": "Fast travel to Blackwater Mine for reliable spawn",
     "score": null
    },
    {
     "id": "331a90c5c9fb",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team",
-    "detail": "Join or create a team, enter Daily Ops, and eliminate Pint-Sized Phantoms as enemies",
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
+    "detail": "Join a team and enter Daily Ops to fight Phantoms",
     "score": null
    },
    {
     "id": "9a87533954ab",
     "title": "Kill a Rusted Deathclaw",
-    "detail": "Fast travel to Dino Peaks Mini Golf for three reliable spawns; target the belly with V.A.T.S.",
+    "detail": "Dino Peaks Mini Golf has three reliable spawns",
     "score": null
    },
    {
     "id": "ee3c7525ce73",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event at Rapidan Camp and wait for the party crasher Phantom to spawn nearby",
+    "detail": "Complete Mischief Night event and wait for Phantom to spawn at Rapidan Camp",
     "score": null
    },
    {
     "id": "63fc54c08bb3",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it for credit",
+    "detail": "Craft and scrap Bulk Aluminum at a Tinker's Workbench",
     "score": null
    },
    {
     "id": "f224aa3afed8",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Scrap Abraxo cleaner, Industrial solvent, Turpentine, or Tick blood sacs at a workbench",
+    "detail": "Kill Ticks at Big B's Rest Stop or scrap relevant materials",
     "score": null
    },
    {
     "id": "3faaa3c7d4fc",
     "title": "Sell Mirelurk Queen Steak to an NPC vendor",
-    "detail": "Hunt a Mirelurk Queen at Mac's Farm or Spruce Knob Lake, cook the steak, and sell it",
+    "detail": "Hunt Mirelurk queens at Mac's Farm or Spruce Knob Lake",
     "score": null
    },
    {
     "id": "3f8ac168c6fc",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint with weapon holstered on open ground to cover 50 km; fast travel does not count",
-    "score": null
-   },
-   {
-    "id": "c1306dc1e07a",
-    "title": "Complete a Gold Star Daily Challenge",
-    "detail": "Earn the daily Gold Star on three separate days during the week by completing all six other dailies",
+    "detail": "Sprint on foot with weapon holstered; fast travel does not count",
     "score": null
    }
   ]
  },
  "events": [
   {
-   "id": "164aef187fd5",
-   "name": "The Slasher",
-   "type": "seasonal",
-   "starts": "2026-09-15",
-   "ends": "2026-11-01",
-   "description": "Pint-Sized Phantom cultists appear in the world and during Daily Ops; complete Mischief Night and Disturbed Grave challenges for seasonal rewards."
-  },
-  {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "other",
+   "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit entries to the Bethesda Discord for a chance to win atoms and exclusive titles."
+   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit to contest for prizes including Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -137,15 +123,15 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Hourly public event at Rapidan Camp where players help an Eyebot commit acts of mayhem and fight Lost Dwellers."
+   "description": "A seasonal spooky event where masked cultist Pint-Sized Phantoms can crash your C.A.M.P. at Rapidan Camp."
   },
   {
    "id": "d54d192926b2",
    "name": "Minerva's Big Sale (List 4) and Gold Rush",
-   "type": "weekend",
+   "type": "update",
    "starts": "2026-10-08",
    "ends": "2026-10-12",
-   "description": "Minerva offers discounted plans across multiple lists with double gold rewards for completing events."
+   "description": "Limited-time vendor sale featuring plans and armor mods at reduced gold costs."
   },
   {
    "id": "7699c943cfd7",
@@ -153,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Increased mutation rates during Daily Operations with new and seasonal rewards available."
+   "description": "Increased mutation acquisition rates during Daily Operations."
   },
   {
    "id": "f1217905f981",
@@ -161,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Modified Scorched enemies spawn with spooky variants offering new seasonal rewards."
+   "description": "Seasonal event featuring spooky Scorched enemies with unique rewards and challenges."
   },
   {
    "id": "54197332cee8",
@@ -169,7 +155,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Experience points gain is doubled for all activities during this weekend event."
+   "description": "Double experience points from all activities including kills and events."
   },
   {
    "id": "9ee75e191915",
@@ -177,7 +163,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Seasonal fish spawn rates are increased, making it easier to catch rare fishing rewards."
+   "description": "Increased chance to catch seasonal fish during this special weekend event."
   }
  ],
  "season": {
