@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-10T22:13:07.881397+00:00",
+ "updated": "2026-10-11T17:38:20.413130+00:00",
  "daily": {
-  "period_start": "2026-10-10T12:00:00-04:00",
-  "resets_at": "2026-10-11T12:00:00-04:00",
+  "period_start": "2026-10-11T12:00:00-04:00",
+  "resets_at": "2026-10-12T12:00:00-04:00",
   "items": [
    {
-    "id": "92202a92a625",
-    "title": "Collect a Nuka-Cola Dark",
-    "detail": "Check Eta Psi house basement or buy from Bubbles at Whitespring Resort",
-    "score": 250
+    "id": "b88a45a24560",
+    "title": "Harvest a Prickeye",
+    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest the orange bulbs.",
+    "score": null
    },
    {
-    "id": "5143be935cbb",
-    "title": "Collect Pre-war Food",
-    "detail": "Use C.A.M.P. food generator or loot Sunday Brothers' Cabin basement",
-    "score": 250
+    "id": "33c579c3d5d1",
+    "title": "Complete a Grunt Hunt",
+    "detail": "Start at Highway Town bounty board in The Last Resort saloon, then eliminate the assigned Outlaw.",
+    "score": null
    },
    {
-    "id": "0e534fe99100",
-    "title": "Collect a Microscope or Biometric Scanner",
-    "detail": "West Tek Research Center has multiple Microscopes in various rooms",
-    "score": 250
+    "id": "7bf17af278fd",
+    "title": "Harvest a Wild Plant or Fungi",
+    "detail": "Harvest from wild locations or plant vegetables at your C.A.M.P.",
+    "score": null
    },
    {
-    "id": "a202fa36fe28",
-    "title": "Complete the Event: \"Mischief Night\"",
-    "detail": "Join at Rapidan Camp on the hour, light the pyre and follow the Eyebot",
-    "score": 250
+    "id": "c1758a503a81",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "Look for infestations on the map and eliminate Phantoms in the marked area.",
+    "score": null
    },
    {
-    "id": "e9dcb05d1716",
-    "title": "Kill a Lost during the \"Mischief Night\" Event",
-    "detail": "Kill Lost Dwellers during the Mischief Night event; need 6 kills",
-    "score": 250
+    "id": "b595c8b284f0",
+    "title": "Kill a Wendigo",
+    "detail": "Fast travel to Vault 51 and eliminate the Wendigo in the Atrium area.",
+    "score": null
    },
    {
-    "id": "f8ecb030a1da",
-    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-    "detail": "Equip shovel after starting quest; kills anywhere count, not just at grave",
-    "score": 250
+    "id": "76920d1fcc0c",
+    "title": "Sell Glowing Fungus Soup to an NPC vendor",
+    "detail": "Craft at a cooking station using glowing fungus, boiled water, and wood.",
+    "score": null
    },
    {
-    "id": "b4fb9f38e4b5",
-    "title": "Visit your Shelter",
-    "detail": "Fast travel to your C.A.M.P. and enter your Shelter",
-    "score": 250
+    "id": "2d39104f51c0",
+    "title": "Visit another Player's Shelter",
+    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter.",
+    "score": null
    }
   ]
  },
@@ -55,62 +55,62 @@
    {
     "id": "2c57543cf114",
     "title": "Drink Tea",
-    "detail": "Use C.A.M.P. Company Tea generator or find tea at locations",
-    "score": 1500
+    "detail": "Use a Company Tea generator or craft tea, then drink it.",
+    "score": null
    },
    {
     "id": "7272744ad5b2",
     "title": "Kill a Mole Miner",
-    "detail": "Fast travel to Blackwater Mine for reliable spawn; aim for head with V.A.T.S.",
-    "score": 1500
+    "detail": "Fast travel to Blackwater Mine for a reliable spawn location.",
+    "score": null
    },
    {
     "id": "331a90c5c9fb",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
-    "detail": "Join any team, enter Daily Ops; Phantoms are the masked cultists; no need to finish the op",
-    "score": 1500
+    "detail": "Join or create a team, enter Daily Ops, and eliminate Phantoms.",
+    "score": null
    },
    {
     "id": "9a87533954ab",
     "title": "Kill a Rusted Deathclaw",
-    "detail": "Fast travel to Dino Peaks Mini Golf for 3 spawns; aim for belly with V.A.T.S.",
-    "score": 1500
+    "detail": "Fast travel to Dino Peaks Mini Golf where three spawn reliably.",
+    "score": null
    },
    {
     "id": "ee3c7525ce73",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event and stay near Vertibot to find party crasher spawn",
-    "score": 1500
+    "detail": "Complete Mischief Night at Rapidan Camp, then wait for Phantom to spawn in Vertibot area.",
+    "score": null
    },
    {
     "id": "63fc54c08bb3",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at Tinker's Workbench then scrap it",
-    "score": 1500
+    "detail": "Craft or scrap items containing Aluminum at a workbench.",
+    "score": null
    },
    {
     "id": "f224aa3afed8",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Scrap Abraxo cleaner or other Antiseptic items; farm Ticks at Big B's Rest Stop",
-    "score": 1500
+    "detail": "Scrap Abraxo cleaner, industrial solvent, turpentine, or tick blood sacs.",
+    "score": null
    },
    {
     "id": "3faaa3c7d4fc",
     "title": "Sell Mirelurk Queen Steak to an NPC vendor",
-    "detail": "Kill Mirelurk Queen at Mac's Farm or Spruce Knob Lake; sell to any vendor",
-    "score": 1500
+    "detail": "Defeat a Mirelurk Queen at Mac's Farm or Spruce Knob Lake, cook steak, sell it.",
+    "score": null
    },
    {
     "id": "3f8ac168c6fc",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint without fast traveling; aim for 50 km; keep weapon holstered for speed",
-    "score": 1500
+    "detail": "Sprint on foot without fast traveling; cover 50 km total.",
+    "score": null
    },
    {
     "id": "c1306dc1e07a",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six daily challenges on three separate days this week",
-    "score": 1500
+    "detail": "Complete all six daily challenges on three separate days this week.",
+    "score": null
    }
   ]
  },
@@ -118,10 +118,10 @@
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "update",
+   "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit for a chance to win Atoms and exclusive titles."
+   "description": "Community building contest with themes inspired by classic slasher movies; submit builds for a chance to win Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal public event at Rapidan Camp featuring Pint-Sized Phantoms and mayhem activities with themed rewards."
+   "description": "Seasonal event featuring Pint-Sized Phantoms and exclusive rewards tied to the Slasher theme."
   },
   {
    "id": "7699c943cfd7",
@@ -137,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Increased mutation acquisition rate during Daily Operations with seasonal rewards."
+   "description": "Weekend event offering increased mutation spawns and enhanced rewards from Daily Operations."
   },
   {
    "id": "f1217905f981",
@@ -145,15 +145,15 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Spooky-themed Scorched enemies appear with special seasonal rewards and challenges."
+   "description": "Seasonal event featuring themed Scorched variants with new cosmetic and gameplay rewards."
   },
   {
-   "id": "8db4f9c603b1",
-   "name": "Double XP Weekend",
+   "id": "54197332cee8",
+   "name": "Double XP",
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Experience gains are doubled, perfect for leveling up and Scoreboard progression."
+   "description": "Weekend event doubling experience point gains from all activities."
   },
   {
    "id": "9ee75e191915",
@@ -161,7 +161,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this limited-time fishing event."
+   "description": "Fishing event with increased chances to catch seasonal fish species."
   }
  ],
  "season": {
