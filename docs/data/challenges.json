@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T17:38:20.413130+00:00",
+ "updated": "2026-10-11T22:14:18.053986+00:00",
  "daily": {
   "period_start": "2026-10-11T12:00:00-04:00",
   "resets_at": "2026-10-12T12:00:00-04:00",
@@ -7,44 +7,44 @@
    {
     "id": "b88a45a24560",
     "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest the orange bulbs.",
-    "score": null
+    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest orange bulbs, or plant in C.A.M.P.",
+    "score": 250
    },
    {
     "id": "33c579c3d5d1",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town bounty board in The Last Resort saloon, then eliminate the assigned Outlaw.",
-    "score": null
+    "detail": "Start at Highway Town bounty board in Burning Springs, track and eliminate the assigned Outlaw.",
+    "score": 250
    },
    {
     "id": "7bf17af278fd",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from wild locations or plant vegetables at your C.A.M.P.",
-    "score": null
+    "detail": "Harvest from the wild or plant vegetables in C.A.M.P. to gather on demand.",
+    "score": 250
    },
    {
-    "id": "c1758a503a81",
-    "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Look for infestations on the map and eliminate Phantoms in the marked area.",
-    "score": null
+    "id": "3fd57c619ae4",
+    "title": "Kill a Pint-Sized Phantom during an Infestation while on a Team",
+    "detail": "Join a team, find an active Infestation on the map, and kill Phantoms in the hotspot.",
+    "score": 250
    },
    {
     "id": "b595c8b284f0",
     "title": "Kill a Wendigo",
-    "detail": "Fast travel to Vault 51 and eliminate the Wendigo in the Atrium area.",
-    "score": null
+    "detail": "Fast travel to Vault 51, head to the Atrium and north through dining area; target the head with V.A.T.S.",
+    "score": 250
    },
    {
     "id": "76920d1fcc0c",
     "title": "Sell Glowing Fungus Soup to an NPC vendor",
-    "detail": "Craft at a cooking station using glowing fungus, boiled water, and wood.",
-    "score": null
+    "detail": "Gather glowing fungus at the Wayward, craft soup with boiled water and wood, sell to any vendor.",
+    "score": 250
    },
    {
     "id": "2d39104f51c0",
     "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter.",
-    "score": null
+    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter (marked with radiation symbol).",
+    "score": 250
    }
   ]
  },
@@ -55,62 +55,62 @@
    {
     "id": "2c57543cf114",
     "title": "Drink Tea",
-    "detail": "Use a Company Tea generator or craft tea, then drink it.",
-    "score": null
+    "detail": "Use C.A.M.P. Company Tea generator or find tea and drink it.",
+    "score": 1500
    },
    {
     "id": "7272744ad5b2",
     "title": "Kill a Mole Miner",
-    "detail": "Fast travel to Blackwater Mine for a reliable spawn location.",
-    "score": null
+    "detail": "Fast travel to Blackwater Mine and kill Mole Miner; target head with V.A.T.S.",
+    "score": 1500
    },
    {
     "id": "331a90c5c9fb",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
-    "detail": "Join or create a team, enter Daily Ops, and eliminate Phantoms.",
-    "score": null
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team",
+    "detail": "Join a team, enter Daily Ops, and kill Pint-Sized Phantoms (masked cultists); no need to finish the operation.",
+    "score": 1500
    },
    {
     "id": "9a87533954ab",
     "title": "Kill a Rusted Deathclaw",
-    "detail": "Fast travel to Dino Peaks Mini Golf where three spawn reliably.",
-    "score": null
+    "detail": "Fast travel to Dino Peaks Mini Golf where three spawn; target belly with V.A.T.S.",
+    "score": 1500
    },
    {
     "id": "ee3c7525ce73",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night at Rapidan Camp, then wait for Phantom to spawn in Vertibot area.",
-    "score": null
+    "detail": "Complete a Mischief Night event at Rapidan Camp, stay in Vertibot area for Phantom to spawn.",
+    "score": 1500
    },
    {
     "id": "63fc54c08bb3",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft or scrap items containing Aluminum at a workbench.",
-    "score": null
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it.",
+    "score": 1500
    },
    {
     "id": "f224aa3afed8",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Scrap Abraxo cleaner, industrial solvent, turpentine, or tick blood sacs.",
-    "score": null
+    "detail": "Scrap Abraxo cleaner, industrial solvent, turpentine, or tick blood sacs at any workbench.",
+    "score": 1500
    },
    {
     "id": "3faaa3c7d4fc",
     "title": "Sell Mirelurk Queen Steak to an NPC vendor",
-    "detail": "Defeat a Mirelurk Queen at Mac's Farm or Spruce Knob Lake, cook steak, sell it.",
-    "score": null
+    "detail": "Hunt Mirelurk queen at Mac's Farm or Spruce Knob Lake, cook steak, sell to any vendor.",
+    "score": 1500
    },
    {
     "id": "3f8ac168c6fc",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint on foot without fast traveling; cover 50 km total.",
-    "score": null
+    "detail": "Sprint in open ground with weapon holstered; Vault-Tec Agricultural Research Center to Morgantown works well.",
+    "score": 1500
    },
    {
     "id": "c1306dc1e07a",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six daily challenges on three separate days this week.",
-    "score": null
+    "title": "Complete a Gold Star Daily Challenge",
+    "detail": "Complete all six other daily challenges on three separate days during the week.",
+    "score": 1500
    }
   ]
  },
@@ -121,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community building contest with themes inspired by classic slasher movies; submit builds for a chance to win Atoms and exclusive titles."
+   "description": "Build contest for slasher-inspired C.A.M.P.s and shelters with atom and exclusive title prizes."
   },
   {
    "id": "20e482890416",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal event featuring Pint-Sized Phantoms and exclusive rewards tied to the Slasher theme."
+   "description": "Seasonal Halloween event featuring the Slasher-themed Pint-Sized Phantom cultists and themed rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -137,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Weekend event offering increased mutation spawns and enhanced rewards from Daily Operations."
+   "description": "Increased mutation spawn rates during Daily Operations with new seasonal rewards."
   },
   {
    "id": "f1217905f981",
@@ -145,7 +145,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring themed Scorched variants with new cosmetic and gameplay rewards."
+   "description": "Seasonal event featuring spooky scorched enemies with exclusive rewards and cosmetics."
   },
   {
    "id": "54197332cee8",
@@ -153,7 +153,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Weekend event doubling experience point gains from all activities."
+   "description": "Doubled experience gain across all activities and quests."
   },
   {
    "id": "9ee75e191915",
@@ -161,7 +161,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Fishing event with increased chances to catch seasonal fish species."
+   "description": "Increased chance to catch seasonal fish with new recipes and challenges."
   }
  ],
  "season": {
