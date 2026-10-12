@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-11T22:14:18.053986+00:00",
+ "updated": "2026-10-12T17:41:39.474293+00:00",
  "daily": {
-  "period_start": "2026-10-11T12:00:00-04:00",
-  "resets_at": "2026-10-12T12:00:00-04:00",
+  "period_start": "2026-10-12T12:00:00-04:00",
+  "resets_at": "2026-10-13T12:00:00-04:00",
   "items": [
    {
-    "id": "b88a45a24560",
-    "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest orange bulbs, or plant in C.A.M.P.",
-    "score": 250
+    "id": "4d431d4f6316",
+    "title": "Drink Purified Water",
+    "detail": "Collect from C.A.M.P. water purifier or find in chem boxes",
+    "score": null
    },
    {
-    "id": "33c579c3d5d1",
-    "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town bounty board in Burning Springs, track and eliminate the assigned Outlaw.",
-    "score": 250
+    "id": "226890d6a477",
+    "title": "Collect a Fuel Tank or Gas Canister",
+    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go",
+    "score": null
    },
    {
-    "id": "7bf17af278fd",
-    "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from the wild or plant vegetables in C.A.M.P. to gather on demand.",
-    "score": 250
+    "id": "090da0e76008",
+    "title": "Collect a Plunger",
+    "detail": "Check Whitespring Resort maintenance building or Wavy Willard's Water Park restrooms",
+    "score": null
    },
    {
-    "id": "3fd57c619ae4",
-    "title": "Kill a Pint-Sized Phantom during an Infestation while on a Team",
-    "detail": "Join a team, find an active Infestation on the map, and kill Phantoms in the hotspot.",
-    "score": 250
+    "id": "0a64bf6a07b0",
+    "title": "Complete a Daily Operation!",
+    "detail": "Easier with a team; join or start a Daily Ops public team",
+    "score": null
    },
    {
-    "id": "b595c8b284f0",
-    "title": "Kill a Wendigo",
-    "detail": "Fast travel to Vault 51, head to the Atrium and north through dining area; target the head with V.A.T.S.",
-    "score": 250
+    "id": "0c9c0bab3764",
+    "title": "Craft a Grenade, Mine, or Thrown Weapon",
+    "detail": "Use Tinker's or weapons workbench at C.A.M.P. or Whitespring",
+    "score": null
    },
    {
-    "id": "76920d1fcc0c",
-    "title": "Sell Glowing Fungus Soup to an NPC vendor",
-    "detail": "Gather glowing fungus at the Wayward, craft soup with boiled water and wood, sell to any vendor.",
-    "score": 250
+    "id": "5b0f65e9bbca",
+    "title": "Kill a Lost",
+    "detail": "Fast travel to Slumber Mill Motel in Skyline Valley and head north to Red Rocket",
+    "score": null
    },
    {
-    "id": "2d39104f51c0",
-    "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter (marked with radiation symbol).",
-    "score": 250
+    "id": "3cb03068c1cd",
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
+    "detail": "Complete Daily Ops; Phantoms are masked cultists from the seasonal Slasher event",
+    "score": null
    }
   ]
  },
@@ -55,62 +55,62 @@
    {
     "id": "2c57543cf114",
     "title": "Drink Tea",
-    "detail": "Use C.A.M.P. Company Tea generator or find tea and drink it.",
-    "score": 1500
+    "detail": "Use Company Tea generator at C.A.M.P. or collect and drink from one",
+    "score": null
    },
    {
     "id": "7272744ad5b2",
     "title": "Kill a Mole Miner",
-    "detail": "Fast travel to Blackwater Mine and kill Mole Miner; target head with V.A.T.S.",
-    "score": 1500
+    "detail": "Fast travel to Blackwater Mine for reliable spawn; target head as weak spot",
+    "score": null
    },
    {
     "id": "331a90c5c9fb",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team",
-    "detail": "Join a team, enter Daily Ops, and kill Pint-Sized Phantoms (masked cultists); no need to finish the operation.",
-    "score": 1500
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
+    "detail": "Join any team from Social menu; team can have only you in it",
+    "score": null
    },
    {
     "id": "9a87533954ab",
     "title": "Kill a Rusted Deathclaw",
-    "detail": "Fast travel to Dino Peaks Mini Golf where three spawn; target belly with V.A.T.S.",
-    "score": 1500
+    "detail": "Fast travel to Dino Peaks Mini Golf for 3 spawns; target belly as weak spot",
+    "score": null
    },
    {
     "id": "ee3c7525ce73",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete a Mischief Night event at Rapidan Camp, stay in Vertibot area for Phantom to spawn.",
-    "score": 1500
+    "detail": "Complete Mischief Night event; Phantom spawns afterward at Rapidan Camp",
+    "score": null
    },
    {
     "id": "63fc54c08bb3",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it.",
-    "score": 1500
+    "detail": "Craft Bulk Aluminum at Tinker's Workbench and scrap it",
+    "score": null
    },
    {
     "id": "f224aa3afed8",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Scrap Abraxo cleaner, industrial solvent, turpentine, or tick blood sacs at any workbench.",
-    "score": 1500
+    "detail": "Kill Ticks at Big B's Rest Stop and scrap their blood sacs",
+    "score": null
    },
    {
     "id": "3faaa3c7d4fc",
     "title": "Sell Mirelurk Queen Steak to an NPC vendor",
-    "detail": "Hunt Mirelurk queen at Mac's Farm or Spruce Knob Lake, cook steak, sell to any vendor.",
-    "score": 1500
+    "detail": "Hunt Mirelurk Queen at Mac's Farm or Spruce Knob Lake; sell at any vendor",
+    "score": null
    },
    {
     "id": "3f8ac168c6fc",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint in open ground with weapon holstered; Vault-Tec Agricultural Research Center to Morgantown works well.",
-    "score": 1500
+    "detail": "Fast travel does not count; sprinting covers distance faster than walking",
+    "score": null
    },
    {
     "id": "c1306dc1e07a",
-    "title": "Complete a Gold Star Daily Challenge",
-    "detail": "Complete all six other daily challenges on three separate days during the week.",
-    "score": 1500
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other daily challenges on three separate days this week",
+    "score": null
    }
   ]
  },
@@ -118,10 +118,10 @@
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "other",
+   "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build contest for slasher-inspired C.A.M.P.s and shelters with atom and exclusive title prizes."
+   "description": "Community challenge to build slasher-themed C.A.M.P.s or Shelters with prizes including atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal Halloween event featuring the Slasher-themed Pint-Sized Phantom cultists and themed rewards."
+   "description": "Seasonal event featuring Pint-Sized Phantom encounters and special rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -137,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Increased mutation spawn rates during Daily Operations with new seasonal rewards."
+   "description": "Double mutation spawn rate during Daily Operations and public events."
   },
   {
    "id": "f1217905f981",
@@ -145,7 +145,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring spooky scorched enemies with exclusive rewards and cosmetics."
+   "description": "Seasonal event featuring spooky-themed Scorched enemies and exclusive rewards."
   },
   {
    "id": "54197332cee8",
@@ -153,7 +153,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Doubled experience gain across all activities and quests."
+   "description": "Weekend event providing double experience points for all activities."
   },
   {
    "id": "9ee75e191915",
@@ -161,7 +161,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish with new recipes and challenges."
+   "description": "Increased chance to catch seasonal fish during this fishing-focused weekend."
   }
  ],
  "season": {
