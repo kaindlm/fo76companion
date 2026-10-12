@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T17:41:39.474293+00:00",
+ "updated": "2026-10-12T22:14:06.107888+00:00",
  "daily": {
   "period_start": "2026-10-12T12:00:00-04:00",
   "resets_at": "2026-10-13T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "4d431d4f6316",
     "title": "Drink Purified Water",
-    "detail": "Collect from C.A.M.P. water purifier or find in chem boxes",
+    "detail": "Collect from a Water Purifier or Vintage Water Cooler at your C.A.M.P.",
     "score": null
    },
    {
     "id": "226890d6a477",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go",
+    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go.",
     "score": null
    },
    {
     "id": "090da0e76008",
     "title": "Collect a Plunger",
-    "detail": "Check Whitespring Resort maintenance building or Wavy Willard's Water Park restrooms",
+    "detail": "Check the Whitespring Resort maintenance buildings or Wavy Willard's Water Park restrooms.",
     "score": null
    },
    {
     "id": "0a64bf6a07b0",
     "title": "Complete a Daily Operation!",
-    "detail": "Easier with a team; join or start a Daily Ops public team",
+    "detail": "Easier with a team; join or start a Daily Ops public team.",
     "score": null
    },
    {
     "id": "0c9c0bab3764",
     "title": "Craft a Grenade, Mine, or Thrown Weapon",
-    "detail": "Use Tinker's or weapons workbench at C.A.M.P. or Whitespring",
+    "detail": "Use a Tinker's or weapons workbench at your C.A.M.P. or Whitespring Resort.",
     "score": null
    },
    {
     "id": "5b0f65e9bbca",
     "title": "Kill a Lost",
-    "detail": "Fast travel to Slumber Mill Motel in Skyline Valley and head north to Red Rocket",
+    "detail": "Fast travel to Slumber Mill Motel in Skyline Valley and head north to the Red Rocket.",
     "score": null
    },
    {
     "id": "3cb03068c1cd",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Complete Daily Ops; Phantoms are masked cultists from the seasonal Slasher event",
+    "detail": "These masked cultists appear in Daily Ops during the Slasher event.",
     "score": null
    }
   ]
@@ -55,61 +55,55 @@
    {
     "id": "2c57543cf114",
     "title": "Drink Tea",
-    "detail": "Use Company Tea generator at C.A.M.P. or collect and drink from one",
+    "detail": "Use a Company Tea generator at your C.A.M.P. or collect tea elsewhere.",
     "score": null
    },
    {
     "id": "7272744ad5b2",
     "title": "Kill a Mole Miner",
-    "detail": "Fast travel to Blackwater Mine for reliable spawn; target head as weak spot",
+    "detail": "Fast travel to Blackwater Mine for reliable spawn.",
     "score": null
    },
    {
     "id": "331a90c5c9fb",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
-    "detail": "Join any team from Social menu; team can have only you in it",
+    "detail": "You can be the only person on the team and still get credit.",
     "score": null
    },
    {
     "id": "9a87533954ab",
     "title": "Kill a Rusted Deathclaw",
-    "detail": "Fast travel to Dino Peaks Mini Golf for 3 spawns; target belly as weak spot",
+    "detail": "Find them at Dino Peaks Mini Golf; target the belly with V.A.T.S.",
     "score": null
    },
    {
     "id": "ee3c7525ce73",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event; Phantom spawns afterward at Rapidan Camp",
+    "detail": "Completes Mischief Night event, then stay at Rapidan Camp where the Phantom spawns.",
     "score": null
    },
    {
     "id": "63fc54c08bb3",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at Tinker's Workbench and scrap it",
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it.",
     "score": null
    },
    {
     "id": "f224aa3afed8",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Kill Ticks at Big B's Rest Stop and scrap their blood sacs",
+    "detail": "Scrap Abraxo cleaner, Industrial solvent, or Tick blood sacs.",
     "score": null
    },
    {
     "id": "3faaa3c7d4fc",
     "title": "Sell Mirelurk Queen Steak to an NPC vendor",
-    "detail": "Hunt Mirelurk Queen at Mac's Farm or Spruce Knob Lake; sell at any vendor",
+    "detail": "Find Mirelurk Queens at Mac's Farm or Spruce Knob Lake.",
     "score": null
    },
    {
     "id": "3f8ac168c6fc",
     "title": "Travel on foot (KM)",
-    "detail": "Fast travel does not count; sprinting covers distance faster than walking",
-    "score": null
-   },
-   {
-    "id": "c1306dc1e07a",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other daily challenges on three separate days this week",
+    "detail": "Fast travel does not count; sprinting on foot builds distance faster.",
     "score": null
    }
   ]
@@ -121,7 +115,7 @@
    "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community challenge to build slasher-themed C.A.M.P.s or Shelters with prizes including atoms and exclusive titles."
+   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit it for a chance to win Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -129,7 +123,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal event featuring Pint-Sized Phantom encounters and special rewards."
+   "description": "Participate in the Mischief Night public event to face Pint-Sized Phantoms and earn seasonal rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -137,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Double mutation spawn rate during Daily Operations and public events."
+   "description": "Encounter double mutation chances on creatures during this weekend event."
   },
   {
    "id": "f1217905f981",
@@ -145,7 +139,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring spooky-themed Scorched enemies and exclusive rewards."
+   "description": "Hunt Spooky Scorched enemies and collect seasonal rewards during this spooky-themed event."
   },
   {
    "id": "54197332cee8",
@@ -153,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Weekend event providing double experience points for all activities."
+   "description": "Earn double experience points for all activities to level up and progress faster."
   },
   {
    "id": "9ee75e191915",
@@ -161,7 +155,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this fishing-focused weekend."
+   "description": "Increased chance to catch seasonal fish this weekend in fishing locations."
   }
  ],
  "season": {
