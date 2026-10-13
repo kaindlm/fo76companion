@@ -1,110 +1,104 @@
 {
- "updated": "2026-10-12T22:14:06.107888+00:00",
+ "updated": "2026-10-13T17:41:45.229906+00:00",
  "daily": {
-  "period_start": "2026-10-12T12:00:00-04:00",
-  "resets_at": "2026-10-13T12:00:00-04:00",
+  "period_start": "2026-10-13T12:00:00-04:00",
+  "resets_at": "2026-10-14T12:00:00-04:00",
   "items": [
    {
-    "id": "4d431d4f6316",
-    "title": "Drink Purified Water",
-    "detail": "Collect from a Water Purifier or Vintage Water Cooler at your C.A.M.P.",
-    "score": null
+    "id": "d14b244afc19",
+    "title": "Harvest a Firecracker Berry",
+    "detail": "Fast travel to Arktos Pharma; harvest quickly before they explode.",
+    "score": 5
    },
    {
-    "id": "226890d6a477",
-    "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go.",
-    "score": null
+    "id": "e757fb1d0fec",
+    "title": "Collect Brain Fungus",
+    "detail": "Found in dark caves like Wendigo Cave, Kerwood Mine, or Abandoned Waste Dump.",
+    "score": 5
    },
    {
-    "id": "090da0e76008",
-    "title": "Collect a Plunger",
-    "detail": "Check the Whitespring Resort maintenance buildings or Wavy Willard's Water Park restrooms.",
-    "score": null
+    "id": "953f8ab237b7",
+    "title": "Collect Deathclaw eggs",
+    "detail": "Check the two nests outside Abandoned Waste Dump in The Mire; server hop if needed.",
+    "score": 1
    },
    {
-    "id": "0a64bf6a07b0",
-    "title": "Complete a Daily Operation!",
-    "detail": "Easier with a team; join or start a Daily Ops public team.",
-    "score": null
+    "id": "58b998ebdba4",
+    "title": "Complete the Event: \"Mischief Night\"",
+    "detail": "Event at Rapidan Camp on the hour; light the pyre and follow Eyebot JES-2R.",
+    "score": 1
    },
    {
-    "id": "0c9c0bab3764",
-    "title": "Craft a Grenade, Mine, or Thrown Weapon",
-    "detail": "Use a Tinker's or weapons workbench at your C.A.M.P. or Whitespring Resort.",
-    "score": null
+    "id": "8954505ee0b6",
+    "title": "Cook Brain Fungus Soup",
+    "detail": "Requires 1 Boiled Water, 1 Brain Fungus, and 1 Wood at a Cooking Station.",
+    "score": 1
    },
    {
-    "id": "5b0f65e9bbca",
-    "title": "Kill a Lost",
-    "detail": "Fast travel to Slumber Mill Motel in Skyline Valley and head north to the Red Rocket.",
-    "score": null
+    "id": "768ea94ab2c2",
+    "title": "Kill a Lost during the \"Mischief Night\" Event",
+    "detail": "Kill Lost Dwellers during the Mischief Night event at Rapidan Camp.",
+    "score": 6
    },
    {
-    "id": "3cb03068c1cd",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "These masked cultists appear in Daily Ops during the Slasher event.",
-    "score": null
+    "id": "470193c52d0c",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "Find an active Infestation (gray cloudy area on map) and defeat Phantoms inside the hotspot.",
+    "score": 6
    }
   ]
  },
  "weekly": {
-  "period_start": "2026-10-06T12:00:00-04:00",
-  "resets_at": "2026-10-13T12:00:00-04:00",
+  "period_start": "2026-10-13T12:00:00-04:00",
+  "resets_at": "2026-10-20T12:00:00-04:00",
   "items": [
    {
-    "id": "2c57543cf114",
-    "title": "Drink Tea",
-    "detail": "Use a Company Tea generator at your C.A.M.P. or collect tea elsewhere.",
-    "score": null
+    "id": "e5d09b15101e",
+    "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
+    "detail": "Enter build menu and construct basic wood or concrete floors; scrap them for credit.",
+    "score": 25
    },
    {
-    "id": "7272744ad5b2",
-    "title": "Kill a Mole Miner",
-    "detail": "Fast travel to Blackwater Mine for reliable spawn.",
-    "score": null
+    "id": "6e4096074281",
+    "title": "Catch a Fish",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is reliable.",
+    "score": 21
    },
    {
-    "id": "331a90c5c9fb",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation while on a Team!",
-    "detail": "You can be the only person on the team and still get credit.",
-    "score": null
+    "id": "ae4a10ad69d5",
+    "title": "Complete an Infestation",
+    "detail": "Fully complete an Infestation event for rare 4-Star legendary loot and exclusive mods.",
+    "score": 3
    },
    {
-    "id": "9a87533954ab",
-    "title": "Kill a Rusted Deathclaw",
-    "detail": "Find them at Dino Peaks Mini Golf; target the belly with V.A.T.S.",
-    "score": null
+    "id": "9ec915494045",
+    "title": "Craft Fish Bits",
+    "detail": "Process caught fish at a Cooking Station; small yield 1, medium yield 2, large yield 5, Axolotl yield 25.",
+    "score": 35
    },
    {
-    "id": "ee3c7525ce73",
+    "id": "9955d11d0301",
+    "title": "Destroy a Robot",
+    "detail": "RobCo Research Center has reliable robot spawns; use energy weapons or V.A.T.S.",
+    "score": 30
+   },
+   {
+    "id": "72024133ec83",
+    "title": "Eat Pre-war Food",
+    "detail": "Consume items like BlamCo Mac and Cheese, Dandy Boy Apples, or Pork n' Beans.",
+    "score": 25
+   },
+   {
+    "id": "113c5027639b",
+    "title": "Kill a Floater",
+    "detail": "Fast travel to Solomon's Pond; target the eyes with V.A.T.S. for weak spot damage.",
+    "score": 10
+   },
+   {
+    "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Completes Mischief Night event, then stay at Rapidan Camp where the Phantom spawns.",
-    "score": null
-   },
-   {
-    "id": "63fc54c08bb3",
-    "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it.",
-    "score": null
-   },
-   {
-    "id": "f224aa3afed8",
-    "title": "Scrap junk to produce Antiseptic",
-    "detail": "Scrap Abraxo cleaner, Industrial solvent, or Tick blood sacs.",
-    "score": null
-   },
-   {
-    "id": "3faaa3c7d4fc",
-    "title": "Sell Mirelurk Queen Steak to an NPC vendor",
-    "detail": "Find Mirelurk Queens at Mac's Farm or Spruce Knob Lake.",
-    "score": null
-   },
-   {
-    "id": "3f8ac168c6fc",
-    "title": "Travel on foot (KM)",
-    "detail": "Fast travel does not count; sprinting on foot builds distance faster.",
-    "score": null
+    "detail": "Complete Mischief Night event at Rapidan Camp, then stay in Vertibot area for Phantom spawn.",
+    "score": 1
    }
   ]
  },
@@ -112,10 +106,10 @@
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "seasonal",
+   "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit it for a chance to win Atoms and exclusive titles."
+   "description": "Community contest to build slasher-themed C.A.M.P.s or Shelters with prizes including Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -123,7 +117,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Participate in the Mischief Night public event to face Pint-Sized Phantoms and earn seasonal rewards."
+   "description": "Seasonal event at Rapidan Camp featuring the Eyebot JES-2R and Lost Dwellers; occurs on the hour."
   },
   {
    "id": "7699c943cfd7",
@@ -131,7 +125,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Encounter double mutation chances on creatures during this weekend event."
+   "description": "Event providing doubled mutation benefits across all public events and activities."
   },
   {
    "id": "f1217905f981",
@@ -139,7 +133,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Hunt Spooky Scorched enemies and collect seasonal rewards during this spooky-themed event."
+   "description": "Seasonal event featuring spooky-themed Scorched enemies with exclusive rewards."
   },
   {
    "id": "54197332cee8",
@@ -147,7 +141,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn double experience points for all activities to level up and progress faster."
+   "description": "Weekend event doubling all experience gain from combat, quests, and activities."
   },
   {
    "id": "9ee75e191915",
@@ -155,7 +149,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish this weekend in fishing locations."
+   "description": "Increased chances to catch seasonal fish; does not apply to local legend."
   }
  ],
  "season": {
