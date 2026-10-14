@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:56:20.617049+00:00",
+ "updated": "2026-10-14T22:24:07.867560+00:00",
  "daily": {
   "period_start": "2026-10-14T12:00:00-04:00",
   "resets_at": "2026-10-15T12:00:00-04:00",
@@ -13,37 +13,37 @@
    {
     "id": "1e03618d3cf2",
     "title": "Collect Toilet Paper",
-    "detail": "Whitespring Resort maintenance building or Collectron",
+    "detail": "Use Whitespring Robo Butler Collectron or find in maintenance building",
     "score": 2
    },
    {
     "id": "37c3e7255779",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops team and enter the instance",
+    "detail": "",
     "score": 1
    },
    {
     "id": "c34d252b6140",
     "title": "Eat Pre-war Food",
-    "detail": "BlamCo Mac and Cheese, Dandy Boy Apples, or Popcorn",
+    "detail": "BlamCo Mac and Cheese, Dandy Boy Apples, or similar",
     "score": 5
    },
    {
     "id": "7c241134282a",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume and kill creatures at Poseidon Energy Plant",
+    "detail": "Poseidon Energy Plant has reliable scorched spawns",
     "score": 10
    },
    {
     "id": "1aac0df5d8eb",
     "title": "Kill an Enemy during a Daily Operation",
-    "detail": "Kill enemies inside Daily Ops instance",
+    "detail": "",
     "score": 10
    },
    {
     "id": "3457cbcc40fc",
     "title": "Scrap junk to produce Adhesive",
-    "detail": "Craft and scrap Bulk Adhesive at Tinker's Workbench",
+    "detail": "Craft Bulk Adhesive at Tinker's Workbench then scrap it",
     "score": 5
    }
   ]
@@ -53,64 +53,64 @@
   "resets_at": "2026-10-20T12:00:00-04:00",
   "items": [
    {
+    "id": "5a8b6fb7dafa",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other dailies on three separate days",
+    "score": null
+   },
+   {
     "id": "e5d09b15101e",
     "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Build basic wood or concrete floors and scrap them",
+    "detail": "Build and scrap basic wood or concrete floors",
     "score": 25
    },
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest is reliable",
+    "detail": "Fish at Fisherman's Rest in The Mire",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Clear a gray infestation zone and defeat the boss",
+    "detail": "Clear the marked infestation area completely for rare rewards",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at Cooking Station",
+    "detail": "Process caught fish at a Cooking Station",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has reliable robot spawns",
+    "detail": "RobCo Research Center has dependable robot spawns",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume any pre-war food item",
+    "detail": "",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Solomon's Pond has reliable Floater spawns",
+    "detail": "Solomon's Pond is a reliable spawn location",
     "score": 10
    },
    {
     "id": "d261516f7e5a",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Kill masked cultists inside an active infestation hotspot",
+    "detail": "Kill the masked cultists inside an active infestation hotspot",
     "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event and wait at Rapidan Camp for spawn",
+    "detail": "Completes Mischief Night event, then wait in Vertibot area",
     "score": 1
-   },
-   {
-    "id": "5a8b6fb7dafa",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six daily challenges on three separate days",
-    "score": 3
    }
   ]
  },
@@ -121,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit for a chance to win Atoms and exclusive titles."
+   "description": "Build a slasher-themed C.A.M.P. or Shelter inspired by classic horror films for a chance to win Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal event featuring Pint-Sized Phantom enemies and Halloween-themed rewards."
+   "description": "Seasonal event featuring Pint-Sized Phantoms and exclusive spooky rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -137,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Double mutation chance during Daily Operations and events."
+   "description": "Daily Operations offer double mutation chance and special seasonal rewards."
   },
   {
    "id": "f1217905f981",
@@ -145,7 +145,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Hunt spooky variant Scorched enemies for exclusive seasonal rewards."
+   "description": "Hunt spooky-themed scorched enemies for exclusive rewards and new cosmetics."
   },
   {
    "id": "54197332cee8",
@@ -153,7 +153,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn double XP from all activities."
+   "description": "Earn double experience points during this weekend event."
   },
   {
    "id": "9ee75e191915",
@@ -161,7 +161,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this weekend event."
+   "description": "Increased chance to catch rare seasonal fish during this special weekend."
   }
  ],
  "season": {
