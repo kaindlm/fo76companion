@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-13T22:22:41.702403+00:00",
+ "updated": "2026-10-14T17:56:20.617049+00:00",
  "daily": {
-  "period_start": "2026-10-13T12:00:00-04:00",
-  "resets_at": "2026-10-14T12:00:00-04:00",
+  "period_start": "2026-10-14T12:00:00-04:00",
+  "resets_at": "2026-10-15T12:00:00-04:00",
   "items": [
    {
-    "id": "d14b244afc19",
-    "title": "Harvest a Firecracker Berry",
-    "detail": "Fast travel to Arktos Pharma; harvest quickly before plants explode",
+    "id": "c01535a27674",
+    "title": "Harvest a Firecap",
+    "detail": "Dense cluster near Slocum's Joe in The Forest",
     "score": 5
    },
    {
-    "id": "e757fb1d0fec",
-    "title": "Collect Brain Fungus",
-    "detail": "Found in dark caves like Wendigo Cave, Kerwood Mine, or Abandoned Waste Dump",
+    "id": "1e03618d3cf2",
+    "title": "Collect Toilet Paper",
+    "detail": "Whitespring Resort maintenance building or Collectron",
+    "score": 2
+   },
+   {
+    "id": "37c3e7255779",
+    "title": "Complete Daily Operations on a Public Team!",
+    "detail": "Join a Daily Ops team and enter the instance",
+    "score": 1
+   },
+   {
+    "id": "c34d252b6140",
+    "title": "Eat Pre-war Food",
+    "detail": "BlamCo Mac and Cheese, Dandy Boy Apples, or Popcorn",
     "score": 5
    },
    {
-    "id": "953f8ab237b7",
-    "title": "Collect Deathclaw Eggs",
-    "detail": "Check nests outside Abandoned Waste Dump in The Mire; server hop if needed",
-    "score": 1
+    "id": "7c241134282a",
+    "title": "Kill a Creature while Wearing a Costume",
+    "detail": "Equip any costume and kill creatures at Poseidon Energy Plant",
+    "score": 10
    },
    {
-    "id": "58b998ebdba4",
-    "title": "Complete the Event: Mischief Night",
-    "detail": "Public event at Rapidan Camp on the hour; light the pyre and follow the Eyebot",
-    "score": 1
+    "id": "1aac0df5d8eb",
+    "title": "Kill an Enemy during a Daily Operation",
+    "detail": "Kill enemies inside Daily Ops instance",
+    "score": 10
    },
    {
-    "id": "8954505ee0b6",
-    "title": "Cook Brain Fungus Soup",
-    "detail": "Collect Brain Fungus, then cook at a Cooking Station with Boiled Water and Wood",
-    "score": 1
-   },
-   {
-    "id": "768ea94ab2c2",
-    "title": "Kill a Lost during the Mischief Night Event",
-    "detail": "Complete Mischief Night and kill Lost Dwellers during the event",
-    "score": 6
-   },
-   {
-    "id": "470193c52d0c",
-    "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find active Infestation on map (gray cloudy area) and eliminate Phantoms in the hotspot",
-    "score": 6
+    "id": "3457cbcc40fc",
+    "title": "Scrap junk to produce Adhesive",
+    "detail": "Craft and scrap Bulk Adhesive at Tinker's Workbench",
+    "score": 5
    }
   ]
  },
@@ -53,58 +53,64 @@
   "resets_at": "2026-10-20T12:00:00-04:00",
   "items": [
    {
-    "id": "5a8b6fb7dafa",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other daily challenges on three separate days during the week",
-    "score": null
-   },
-   {
     "id": "e5d09b15101e",
     "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Enter build menu and construct basic wood or concrete floors, then scrap them",
+    "detail": "Build basic wood or concrete floors and scrap them",
     "score": 25
    },
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in The Mire is reliable",
+    "detail": "Fish at any water source; Fisherman's Rest is reliable",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Clear a full Infestation event from start to boss defeat for rare 4-Star legendary loot",
+    "detail": "Clear a gray infestation zone and defeat the boss",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station; yield varies by fish size",
+    "detail": "Process caught fish at Cooking Station",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for reliable spawns; use energy weapons",
+    "detail": "RobCo Research Center has reliable robot spawns",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume pre-war items like BlamCo Mac and Cheese or Fancy Lads Snack Cakes",
+    "detail": "Consume any pre-war food item",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Fast travel to Solomon's Pond; target the eyes as weak spot using V.A.T.S.",
+    "detail": "Solomon's Pond has reliable Floater spawns",
     "score": 10
+   },
+   {
+    "id": "d261516f7e5a",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "Kill masked cultists inside an active infestation hotspot",
+    "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event, then stay in Vertibot area for Phantom spawn",
+    "detail": "Complete Mischief Night event and wait at Rapidan Camp for spawn",
     "score": 1
+   },
+   {
+    "id": "5a8b6fb7dafa",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six daily challenges on three separate days",
+    "score": 3
    }
   ]
  },
@@ -115,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit to Discord for a chance to win Atoms and exclusive titles."
+   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit for a chance to win Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -123,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal public event at Rapidan Camp with exclusive rewards and masked cultist encounters."
+   "description": "Seasonal event featuring Pint-Sized Phantom enemies and Halloween-themed rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -131,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Bonus mutation chance during Daily Ops with new seasonal rewards."
+   "description": "Double mutation chance during Daily Operations and events."
   },
   {
    "id": "f1217905f981",
@@ -139,7 +145,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring spooky Scorched enemies with new rewards and themed encounters."
+   "description": "Hunt spooky variant Scorched enemies for exclusive seasonal rewards."
   },
   {
    "id": "54197332cee8",
@@ -147,7 +153,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Experience points gained are doubled for faster leveling and Scoreboard progression."
+   "description": "Earn double XP from all activities."
   },
   {
    "id": "9ee75e191915",
