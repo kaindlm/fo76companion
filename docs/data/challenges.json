@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:53:19.753263+00:00",
+ "updated": "2026-10-15T22:25:02.961940+00:00",
  "daily": {
   "period_start": "2026-10-15T12:00:00-04:00",
   "resets_at": "2026-10-16T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "9688f623b170",
     "title": "Scrap junk to produce Steel",
-    "detail": "Craft Bulk Steel at a Tinker's Workbench and scrap it",
+    "detail": "Craft Bulk Steel at a Tinker's Workbench and scrap it.",
     "score": 10
    },
    {
     "id": "9f808d9bf1ee",
     "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Find and dig up a bloodied grave marked on a Pint-Sized Phantom map",
+    "detail": "Finish a public event to receive a Pint-Sized Phantoms' map, then dig up the bloodied grave.",
     "score": 1
    },
    {
     "id": "4b2da2d4cc36",
     "title": "Cook Grilled Fish while Intoxicated",
-    "detail": "Consume an alcoholic beverage, then cook Grilled Fish at a Cooking Station",
+    "detail": "Consume an alcoholic beverage, then cook Grilled Fish at a Cooking Station.",
     "score": 1
    },
    {
     "id": "8a3cedea4cc3",
     "title": "Kill a Lost during the \"Mischief Night\" Event",
-    "detail": "Join Mischief Night at Rapidan Camp and kill Lost Dwellers",
+    "detail": "Join Mischief Night at Rapidan Camp and kill Lost Dwellers.",
     "score": 6
    },
    {
     "id": "0396f9c55b2d",
     "title": "Kill a Mirelurk",
-    "detail": "Fast travel to Spruce Knob Lake for reliable spawns",
+    "detail": "Fast travel to Spruce Knob Lake for reliable spawns.",
     "score": 5
    },
    {
     "id": "ecac8975151d",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find an active Infestation and eliminate Pint-Sized Phantoms",
+    "detail": "Check the Pip-Boy map for an Infestation area and defeat Phantoms at the hotspot.",
     "score": 6
    },
    {
     "id": "5e7f41d49c23",
     "title": "Sell Grilled Fish to an NPC vendor",
-    "detail": "Craft Grilled Fish and sell it to any NPC vendor",
+    "detail": "Cook Grilled Fish at a Cooking Station and sell it to any NPC vendor.",
     "score": 1
    }
   ]
@@ -55,56 +55,68 @@
    {
     "id": "e5d09b15101e",
     "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Enter build menu and construct basic structures",
+    "detail": "Enter build menu and construct basic floors at your C.A.M.P. or claimed workshop.",
     "score": 25
    },
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest is recommended",
+    "detail": "Fish at any deep water source; Fisherman's Rest in The Mire is reliable.",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Clear a full Infestation event marked on your Pip-Boy map",
+    "detail": "Clear a full Infestation event marked on your Pip-Boy map for rare 4-Star legendary loot.",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station",
+    "detail": "Process caught fish at a Cooking Station; yields vary by fish size.",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for spawns",
+    "detail": "Fast travel to RobCo Research Center for dependable robot spawns.",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume Pre-war Food items or collect from C.A.M.P. machines",
+    "detail": "Consume items like BlamCo Mac and Cheese or Dandy Boy Apples.",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Find Floaters at Solomon's Pond and target the eyes",
+    "detail": "Fast travel to Solomon's Pond and target the eyes as weak spots.",
     "score": 10
    },
    {
     "id": "d261516f7e5a",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Locate and kill masked cultists within an active Infestation",
+    "detail": "Defeat masked Phantom cultists at active Infestation hotspots.",
     "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event and wait for Phantom to spawn at Rapidan Camp",
+    "detail": "Complete Mischief Night at Rapidan Camp and kill the Phantom that spawns after.",
     "score": 1
+   },
+   {
+    "id": "63cadf4454ef",
+    "title": "Repeatable Under Rank 100: Gain XP",
+    "detail": "Earn XP through normal play; only available below Scoreboard rank 100.",
+    "score": 10000
+   },
+   {
+    "id": "a2be57ecad45",
+    "title": "Repeatable at Rank 100 or above: Complete a Public Event",
+    "detail": "Complete any public event; only available at Scoreboard rank 100+.",
+    "score": 3
    }
   ]
  },
@@ -112,10 +124,10 @@
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "seasonal",
+   "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community building competition featuring slasher movie-inspired C.A.M.P. and Shelter designs with atom prizes."
+   "description": "Community building contest challenging players to create C.A.M.P.s or Shelters inspired by classic slasher movies with prizes for finalists and a grand winner."
   },
   {
    "id": "20e482890416",
@@ -123,7 +135,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal event where players defend against Lost Dwellers and encounter Pint-Sized Phantoms at Rapidan Camp."
+   "description": "A seasonal public event where players light the Mischief Pyre and defend against Lost Dwellers, with Pint-Sized Phantoms as potential encounter bosses."
   },
   {
    "id": "7699c943cfd7",
@@ -131,7 +143,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Weekend event offering doubled mutation rates in Daily Ops."
+   "description": "Daily Ops event offering double mutation rewards and seasonal loot."
   },
   {
    "id": "f1217905f981",
@@ -139,15 +151,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring Scorched enemies with exclusive Halloween-themed rewards."
-  },
-  {
-   "id": "54197332cee8",
-   "name": "Double XP",
-   "type": "weekend",
-   "starts": "2026-10-22",
-   "ends": "2026-10-26",
-   "description": "Weekend event providing doubled experience point gains across all activities."
+   "description": "Seasonal event featuring Scorched enemies with new rewards available during the period."
   },
   {
    "id": "9ee75e191915",
@@ -155,7 +159,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Special fishing weekend with increased chances of catching seasonal fish species."
+   "description": "Weekend event increasing the chance to catch seasonal fish species with a new local legend fish."
   }
  ],
  "season": {
