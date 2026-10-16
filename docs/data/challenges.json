@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-15T22:25:02.961940+00:00",
+ "updated": "2026-10-16T17:53:13.720052+00:00",
  "daily": {
-  "period_start": "2026-10-15T12:00:00-04:00",
-  "resets_at": "2026-10-16T12:00:00-04:00",
+  "period_start": "2026-10-16T12:00:00-04:00",
+  "resets_at": "2026-10-17T12:00:00-04:00",
   "items": [
    {
-    "id": "9688f623b170",
-    "title": "Scrap junk to produce Steel",
-    "detail": "Craft Bulk Steel at a Tinker's Workbench and scrap it.",
-    "score": 10
+    "id": "9e14b9dcd3e6",
+    "title": "Cripple a Scorched's Leg",
+    "detail": "Fast travel to Morgantown Airport and use V.A.T.S. to target the leg.",
+    "score": 2
    },
    {
-    "id": "9f808d9bf1ee",
-    "title": "Complete the Quest: Disturbed Grave",
-    "detail": "Finish a public event to receive a Pint-Sized Phantoms' map, then dig up the bloodied grave.",
-    "score": 1
+    "id": "c9e458211956",
+    "title": "Catch a Fish in the Cranberry Bog Region",
+    "detail": "Fast travel to Quarry X3, equip a Fishing Rod, and complete the reeling mini-game.",
+    "score": 2
    },
    {
-    "id": "4b2da2d4cc36",
-    "title": "Cook Grilled Fish while Intoxicated",
-    "detail": "Consume an alcoholic beverage, then cook Grilled Fish at a Cooking Station.",
-    "score": 1
-   },
-   {
-    "id": "8a3cedea4cc3",
-    "title": "Kill a Lost during the \"Mischief Night\" Event",
-    "detail": "Join Mischief Night at Rapidan Camp and kill Lost Dwellers.",
-    "score": 6
-   },
-   {
-    "id": "0396f9c55b2d",
-    "title": "Kill a Mirelurk",
-    "detail": "Fast travel to Spruce Knob Lake for reliable spawns.",
+    "id": "a6901cde07d2",
+    "title": "Consume an Alcoholic Beverage",
+    "detail": "Collect from a Brewing Vat at your C.A.M.P. or another player's C.A.M.P.",
     "score": 5
    },
    {
-    "id": "ecac8975151d",
-    "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Check the Pip-Boy map for an Infestation area and defeat Phantoms at the hotspot.",
-    "score": 6
+    "id": "3dbe9795ac09",
+    "title": "Craft Fish Bits",
+    "detail": "Process caught fish at a Cooking Station; yields vary by fish size.",
+    "score": 5
    },
    {
-    "id": "5e7f41d49c23",
-    "title": "Sell Grilled Fish to an NPC vendor",
-    "detail": "Cook Grilled Fish at a Cooking Station and sell it to any NPC vendor.",
+    "id": "6d00b01fd3cf",
+    "title": "Gain XP",
+    "detail": "Complete kills, events, and quests; West Tek or raids are fastest.",
+    "score": 2500
+   },
+   {
+    "id": "5d70df99d3fc",
+    "title": "Kill a Yao Guai",
+    "detail": "Fast travel to High Knob Lookout and use V.A.T.S. to target the head.",
     "score": 1
+   },
+   {
+    "id": "fa33828c400c",
+    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest while on a Team",
+    "detail": "Join a team, start the Disturbed Grave quest, equip a shovel and kill enemies anywhere.",
+    "score": 6
    }
   ]
  },
@@ -55,68 +55,62 @@
    {
     "id": "e5d09b15101e",
     "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Enter build menu and construct basic floors at your C.A.M.P. or claimed workshop.",
+    "detail": "Build and scrap basic wood or concrete floors in build menu to minimize resource cost.",
     "score": 25
    },
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Fish at any deep water source; Fisherman's Rest in The Mire is reliable.",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is reliable.",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Clear a full Infestation event marked on your Pip-Boy map for rare 4-Star legendary loot.",
+    "detail": "Find and clear the gray cloudy area on map; fight through enemies to defeat the boss.",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station; yields vary by fish size.",
+    "detail": "Process caught fish at a Cooking Station.",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for dependable robot spawns.",
+    "detail": "Fast travel to RobCo Research Center for dependable spawns.",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume items like BlamCo Mac and Cheese or Dandy Boy Apples.",
+    "detail": "Consume items like BlamCo Mac and Cheese or collect from Weenie Wagon, Popcorn Machine, or Cookie Jar.",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Fast travel to Solomon's Pond and target the eyes as weak spots.",
+    "detail": "Fast travel to Solomon's Pond and use V.A.T.S. to target the eyes as weak spot.",
     "score": 10
    },
    {
     "id": "d261516f7e5a",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Defeat masked Phantom cultists at active Infestation hotspots.",
+    "detail": "Locate an active Infestation and defeat Phantoms inside the marked hotspot.",
     "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night at Rapidan Camp and kill the Phantom that spawns after.",
+    "detail": "Complete Mischief Night event at Rapidan Camp, then wait for Phantom to spawn in Vertibot area.",
     "score": 1
    },
    {
-    "id": "63cadf4454ef",
-    "title": "Repeatable Under Rank 100: Gain XP",
-    "detail": "Earn XP through normal play; only available below Scoreboard rank 100.",
-    "score": 10000
-   },
-   {
-    "id": "a2be57ecad45",
-    "title": "Repeatable at Rank 100 or above: Complete a Public Event",
-    "detail": "Complete any public event; only available at Scoreboard rank 100+.",
-    "score": 3
+    "id": "5a8b6fb7dafa",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Earn the daily Gold Star on three separate days during the week.",
+    "score": 1500
    }
   ]
  },
@@ -127,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community building contest challenging players to create C.A.M.P.s or Shelters inspired by classic slasher movies with prizes for finalists and a grand winner."
+   "description": "Community contest to build C.A.M.P.s inspired by classic slasher movies with prizes."
   },
   {
    "id": "20e482890416",
@@ -135,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "A seasonal public event where players light the Mischief Pyre and defend against Lost Dwellers, with Pint-Sized Phantoms as potential encounter bosses."
+   "description": "Seasonal event featuring Pint-Sized Phantoms and exclusive rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -143,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Daily Ops event offering double mutation rewards and seasonal loot."
+   "description": "Double mutation chance during Daily Ops with new seasonal rewards."
   },
   {
    "id": "f1217905f981",
@@ -151,7 +145,15 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring Scorched enemies with new rewards available during the period."
+   "description": "Hunt spooky variants of Scorched enemies for new cosmetic rewards."
+  },
+  {
+   "id": "54197332cee8",
+   "name": "Double XP",
+   "type": "weekend",
+   "starts": "2026-10-22",
+   "ends": "2026-10-26",
+   "description": "Earn experience points at twice the normal rate across all activities."
   },
   {
    "id": "9ee75e191915",
@@ -159,7 +161,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Weekend event increasing the chance to catch seasonal fish species with a new local legend fish."
+   "description": "Increased chance to catch seasonal fish during this special weekend event."
   }
  ],
  "season": {
