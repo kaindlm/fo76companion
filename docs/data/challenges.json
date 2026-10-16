@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T17:53:13.720052+00:00",
+ "updated": "2026-10-16T22:24:12.774416+00:00",
  "daily": {
   "period_start": "2026-10-16T12:00:00-04:00",
   "resets_at": "2026-10-17T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "9e14b9dcd3e6",
     "title": "Cripple a Scorched's Leg",
-    "detail": "Fast travel to Morgantown Airport and use V.A.T.S. to target the leg.",
+    "detail": "Fast travel to Morgantown Airport and aim at the leg with a rifle, using V.A.T.S. for easier targeting.",
     "score": 2
    },
    {
     "id": "c9e458211956",
     "title": "Catch a Fish in the Cranberry Bog Region",
-    "detail": "Fast travel to Quarry X3, equip a Fishing Rod, and complete the reeling mini-game.",
+    "detail": "Fast travel to Quarry X3 in Cranberry Bog, walk to the large lake, equip a fishing rod and cast.",
     "score": 2
    },
    {
     "id": "a6901cde07d2",
     "title": "Consume an Alcoholic Beverage",
-    "detail": "Collect from a Brewing Vat at your C.A.M.P. or another player's C.A.M.P.",
+    "detail": "Get an alcoholic beverage from a C.A.M.P. Brewing Vat or another player's C.A.M.P., then consume it.",
     "score": 5
    },
    {
     "id": "3dbe9795ac09",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station; yields vary by fish size.",
+    "detail": "Craft at a Cooking Station by processing caught fish; small yield 1, medium yield 2, large yield 5, Axolotl yield 25.",
     "score": 5
    },
    {
     "id": "6d00b01fd3cf",
     "title": "Gain XP",
-    "detail": "Complete kills, events, and quests; West Tek or raids are fastest.",
+    "detail": "Gain XP through normal gameplay; West Tek is a fast grind option for super mutants.",
     "score": 2500
    },
    {
     "id": "5d70df99d3fc",
     "title": "Kill a Yao Guai",
-    "detail": "Fast travel to High Knob Lookout and use V.A.T.S. to target the head.",
+    "detail": "Fast travel to High Knob Lookout for a reliable spawn; use V.A.T.S. targeting the head as weak spot.",
     "score": 1
    },
    {
     "id": "fa33828c400c",
     "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest while on a Team",
-    "detail": "Join a team, start the Disturbed Grave quest, equip a shovel and kill enemies anywhere.",
+    "detail": "Join a team, start the Disturbed Grave quest, equip a shovel and kill enemies; low-level insects like Fireflies are easy targets.",
     "score": 6
    }
   ]
@@ -55,62 +55,56 @@
    {
     "id": "e5d09b15101e",
     "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Build and scrap basic wood or concrete floors in build menu to minimize resource cost.",
+    "detail": "Enter build menu and construct basic wood or concrete floors, then scrap them for credit.",
     "score": 25
    },
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in The Mire is reliable.",
+    "detail": "Fish at any water source deep enough; Fisherman's Rest in The Mire is reliable.",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Find and clear the gray cloudy area on map; fight through enemies to defeat the boss.",
+    "detail": "Find the large gray cloudy area on map, fast travel to location inside it, locate the red hotspot and complete the event.",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station.",
+    "detail": "Process caught fish at a Cooking Station; varying yields based on fish size and type.",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for dependable spawns.",
+    "detail": "Fast travel to RobCo Research Center for reliable robot spawns; use energy weapons and V.A.T.S. for efficiency.",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume items like BlamCo Mac and Cheese or collect from Weenie Wagon, Popcorn Machine, or Cookie Jar.",
+    "detail": "Consume any pre-war food like BlamCo Mac and Cheese, Dandy Boy Apples, or Pork n' Beans.",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Fast travel to Solomon's Pond and use V.A.T.S. to target the eyes as weak spot.",
+    "detail": "Fast travel to Solomon's Pond for reliable spawn; target the eyes with V.A.T.S. as weak spot.",
     "score": 10
    },
    {
     "id": "d261516f7e5a",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Locate an active Infestation and defeat Phantoms inside the marked hotspot.",
+    "detail": "Find active Infestation on map, locate the red hotspot, and kill Pint-Sized Phantoms within the encounter.",
     "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event at Rapidan Camp, then wait for Phantom to spawn in Vertibot area.",
+    "detail": "Complete a Mischief Night event, stay in the Vertibot area of the final stage where the Phantom can spawn.",
     "score": 1
-   },
-   {
-    "id": "5a8b6fb7dafa",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days during the week.",
-    "score": 1500
    }
   ]
  },
@@ -121,7 +115,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community contest to build C.A.M.P.s inspired by classic slasher movies with prizes."
+   "description": "Community contest to build slasher-themed C.A.M.P.s with finalists receiving atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -129,7 +123,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal event featuring Pint-Sized Phantoms and exclusive rewards."
+   "description": "Seasonal event featuring Pint-Sized Phantoms and exclusive Slasher rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -137,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Double mutation chance during Daily Ops with new seasonal rewards."
+   "description": "Double mutation chance applies to Daily Ops and rewards during this bonus period."
   },
   {
    "id": "f1217905f981",
@@ -145,7 +139,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Hunt spooky variants of Scorched enemies for new cosmetic rewards."
+   "description": "Scorched enemies appear with seasonal spooky variants and exclusive rewards."
   },
   {
    "id": "54197332cee8",
@@ -153,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn experience points at twice the normal rate across all activities."
+   "description": "Earn double experience points from all activities during this weekend bonus."
   },
   {
    "id": "9ee75e191915",
@@ -161,7 +155,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this special weekend event."
+   "description": "Increased chances to catch seasonal fish during this special weekend event."
   }
  ],
  "season": {
