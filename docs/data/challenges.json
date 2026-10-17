@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:46:19.817367+00:00",
+ "updated": "2026-10-17T22:19:21.134368+00:00",
  "daily": {
   "period_start": "2026-10-17T12:00:00-04:00",
   "resets_at": "2026-10-18T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "f493beef21fc",
     "title": "Cripple a Scorched's Arm",
-    "detail": "Fast travel to Morgantown Airport and aim at the arm with a rifle using V.A.T.S.",
+    "detail": "Fast travel to Morgantown Airport and use V.A.T.S. to target the arm.",
     "score": 2
    },
    {
     "id": "8ec349d7bd2e",
     "title": "Catch a Fish in the Forest Region",
-    "detail": "Fast travel to Deathclaw Island, equip a fishing rod, cast and wait for the bite indicator.",
+    "detail": "Fast travel to Deathclaw Island and fish any water source.",
     "score": 2
    },
    {
     "id": "5d06c8cc1c52",
     "title": "Collect Mothman Eggs",
-    "detail": "Harvest from a C.A.M.P. Mothman Nest, or find them at Point Pleasant near the large Mothman statue.",
+    "detail": "Harvest from a C.A.M.P. Mothman Nest or find them at Point Pleasant.",
     "score": 3
    },
    {
     "id": "553a84121679",
     "title": "Cook a Meat-Based Meal",
-    "detail": "Cook any meat-based meal at a Cooking Station using recipes like Wolf Ribs or Ribeye Steak.",
+    "detail": "Cook any meat-based meal at a Cooking Station.",
     "score": 5
    },
    {
     "id": "e2c011cb9d42",
     "title": "Kill a Brahmin",
-    "detail": "Head to Flatwoods or near The Wayward for reliable spawns; target the head as weak spot.",
+    "detail": "Brahmin spawn reliably near Flatwoods and The Wayward.",
     "score": 2
    },
    {
     "id": "be79ff00ed01",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any outfit with 'Costume' in the description before killing a Phantom near cabins or campgrounds.",
+    "detail": "Any outfit with 'Costume' in the description counts; they spawn near cabins and campgrounds.",
     "score": 5
    },
    {
     "id": "bdfbe25725b4",
     "title": "Sell Mothman Egg Omelette to an NPC vendor",
-    "detail": "Craft at any Cooking Station using one Mothman Egg and one wood, then sell to any NPC vendor.",
+    "detail": "Craft with one Mothman Egg and one wood, then sell at any NPC vendor.",
     "score": 1
    }
   ]
@@ -55,62 +55,62 @@
    {
     "id": "e5d09b15101e",
     "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Enter build menu and construct basic wood or concrete floors, then scrap them for credit.",
+    "detail": "Build basic wood or concrete floors at your C.A.M.P. or claimed workshop.",
     "score": 25
    },
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Fish at any deep water source; Fisherman's Rest in The Mire is reliable.",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is reliable.",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Find the gray cloudy Infestation area on Pip-Boy map, locate the red hotspot, and defeat all enemies including the boss.",
+    "detail": "Find and clear the marked Infestation hotspot for rare legendary loot.",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station; small=1, medium=2, large=5, Axolotl=25 Fish Bits each.",
+    "detail": "Process caught fish at a Cooking Station; different sizes yield different amounts.",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for dependable spawns; use V.A.T.S. to tag them.",
+    "detail": "Fast travel to RobCo Research Center for robot spawns.",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume Pre-war Food like BlamCo Mac and Cheese, Dandy Boy Apples, or Pork n' Beans.",
+    "detail": "Eat pre-war food items or collect from C.A.M.P. machines like Weenie Wagon.",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Fast travel to Solomon's Pond; target the eyes as weak spot using V.A.T.S.",
+    "detail": "Fast travel to Solomon's Pond for reliable spawn; target the eyes.",
     "score": 10
    },
    {
     "id": "d261516f7e5a",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Locate an active Infestation, find the hotspot, and kill Phantoms inside the encounter area.",
+    "detail": "Kill masked cultists inside the Infestation hotspot encounter.",
     "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete a Mischief Night event, stay in the Vertibot area, and kill the Phantom that spawns.",
+    "detail": "Complete Mischief Night event and stay in the Vertibot area for spawns.",
     "score": 1
    },
    {
     "id": "5a8b6fb7dafa",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other daily challenges on three separate days during the week.",
-    "score": 1500
+    "detail": "Earn the daily Gold Star on three separate days this week.",
+    "score": 3
    }
   ]
  },
@@ -121,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community contest to build slasher-movie-themed C.A.M.P.s and Shelters with prizes including Atoms and exclusive titles."
+   "description": "Build a C.A.M.P. or Shelter inspired by classic slasher movies and submit to win Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal event featuring Pint-Sized Phantom enemies and exclusive rewards through October."
+   "description": "Seasonal event featuring Pint-Sized Phantom encounters and special rewards."
   },
   {
    "id": "7699c943cfd7",
@@ -137,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Weekend event featuring double mutation chance rates for Daily Ops and new seasonal rewards."
+   "description": "Double mutation chance during Daily Operations with new and seasonal rewards."
   },
   {
    "id": "f1217905f981",
@@ -145,7 +145,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring Spooky Scorched enemies with new rewards and themed content."
+   "description": "Spooky-themed Scorched event with seasonal rewards and special encounters."
   },
   {
    "id": "54197332cee8",
@@ -153,7 +153,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Weekend event providing double experience points for all activities to speed up leveling."
+   "description": "Double experience gain for normal gameplay and activities."
   },
   {
    "id": "9ee75e191915",
@@ -161,7 +161,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Weekend event increasing the catch rate for seasonal fish species."
+   "description": "Improved chances to catch seasonal fish with new recipes and challenges."
   }
  ],
  "season": {
