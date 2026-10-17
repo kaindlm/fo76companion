@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-16T22:24:12.774416+00:00",
+ "updated": "2026-10-17T17:46:19.817367+00:00",
  "daily": {
-  "period_start": "2026-10-16T12:00:00-04:00",
-  "resets_at": "2026-10-17T12:00:00-04:00",
+  "period_start": "2026-10-17T12:00:00-04:00",
+  "resets_at": "2026-10-18T12:00:00-04:00",
   "items": [
    {
-    "id": "9e14b9dcd3e6",
-    "title": "Cripple a Scorched's Leg",
-    "detail": "Fast travel to Morgantown Airport and aim at the leg with a rifle, using V.A.T.S. for easier targeting.",
+    "id": "f493beef21fc",
+    "title": "Cripple a Scorched's Arm",
+    "detail": "Fast travel to Morgantown Airport and aim at the arm with a rifle using V.A.T.S.",
     "score": 2
    },
    {
-    "id": "c9e458211956",
-    "title": "Catch a Fish in the Cranberry Bog Region",
-    "detail": "Fast travel to Quarry X3 in Cranberry Bog, walk to the large lake, equip a fishing rod and cast.",
+    "id": "8ec349d7bd2e",
+    "title": "Catch a Fish in the Forest Region",
+    "detail": "Fast travel to Deathclaw Island, equip a fishing rod, cast and wait for the bite indicator.",
     "score": 2
    },
    {
-    "id": "a6901cde07d2",
-    "title": "Consume an Alcoholic Beverage",
-    "detail": "Get an alcoholic beverage from a C.A.M.P. Brewing Vat or another player's C.A.M.P., then consume it.",
+    "id": "5d06c8cc1c52",
+    "title": "Collect Mothman Eggs",
+    "detail": "Harvest from a C.A.M.P. Mothman Nest, or find them at Point Pleasant near the large Mothman statue.",
+    "score": 3
+   },
+   {
+    "id": "553a84121679",
+    "title": "Cook a Meat-Based Meal",
+    "detail": "Cook any meat-based meal at a Cooking Station using recipes like Wolf Ribs or Ribeye Steak.",
     "score": 5
    },
    {
-    "id": "3dbe9795ac09",
-    "title": "Craft Fish Bits",
-    "detail": "Craft at a Cooking Station by processing caught fish; small yield 1, medium yield 2, large yield 5, Axolotl yield 25.",
+    "id": "e2c011cb9d42",
+    "title": "Kill a Brahmin",
+    "detail": "Head to Flatwoods or near The Wayward for reliable spawns; target the head as weak spot.",
+    "score": 2
+   },
+   {
+    "id": "be79ff00ed01",
+    "title": "Kill a Pint-Sized Phantom while wearing a Costume",
+    "detail": "Equip any outfit with 'Costume' in the description before killing a Phantom near cabins or campgrounds.",
     "score": 5
    },
    {
-    "id": "6d00b01fd3cf",
-    "title": "Gain XP",
-    "detail": "Gain XP through normal gameplay; West Tek is a fast grind option for super mutants.",
-    "score": 2500
-   },
-   {
-    "id": "5d70df99d3fc",
-    "title": "Kill a Yao Guai",
-    "detail": "Fast travel to High Knob Lookout for a reliable spawn; use V.A.T.S. targeting the head as weak spot.",
+    "id": "bdfbe25725b4",
+    "title": "Sell Mothman Egg Omelette to an NPC vendor",
+    "detail": "Craft at any Cooking Station using one Mothman Egg and one wood, then sell to any NPC vendor.",
     "score": 1
-   },
-   {
-    "id": "fa33828c400c",
-    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest while on a Team",
-    "detail": "Join a team, start the Disturbed Grave quest, equip a shovel and kill enemies; low-level insects like Fireflies are easy targets.",
-    "score": 6
    }
   ]
  },
@@ -61,50 +61,56 @@
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source deep enough; Fisherman's Rest in The Mire is reliable.",
+    "detail": "Fish at any deep water source; Fisherman's Rest in The Mire is reliable.",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Find the large gray cloudy area on map, fast travel to location inside it, locate the red hotspot and complete the event.",
+    "detail": "Find the gray cloudy Infestation area on Pip-Boy map, locate the red hotspot, and defeat all enemies including the boss.",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station; varying yields based on fish size and type.",
+    "detail": "Process caught fish at a Cooking Station; small=1, medium=2, large=5, Axolotl=25 Fish Bits each.",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for reliable robot spawns; use energy weapons and V.A.T.S. for efficiency.",
+    "detail": "Fast travel to RobCo Research Center for dependable spawns; use V.A.T.S. to tag them.",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume any pre-war food like BlamCo Mac and Cheese, Dandy Boy Apples, or Pork n' Beans.",
+    "detail": "Consume Pre-war Food like BlamCo Mac and Cheese, Dandy Boy Apples, or Pork n' Beans.",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Fast travel to Solomon's Pond for reliable spawn; target the eyes with V.A.T.S. as weak spot.",
+    "detail": "Fast travel to Solomon's Pond; target the eyes as weak spot using V.A.T.S.",
     "score": 10
    },
    {
     "id": "d261516f7e5a",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find active Infestation on map, locate the red hotspot, and kill Pint-Sized Phantoms within the encounter.",
+    "detail": "Locate an active Infestation, find the hotspot, and kill Phantoms inside the encounter area.",
     "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete a Mischief Night event, stay in the Vertibot area of the final stage where the Phantom can spawn.",
+    "detail": "Complete a Mischief Night event, stay in the Vertibot area, and kill the Phantom that spawns.",
     "score": 1
+   },
+   {
+    "id": "5a8b6fb7dafa",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other daily challenges on three separate days during the week.",
+    "score": 1500
    }
   ]
  },
@@ -115,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community contest to build slasher-themed C.A.M.P.s with finalists receiving atoms and exclusive titles."
+   "description": "Community contest to build slasher-movie-themed C.A.M.P.s and Shelters with prizes including Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -123,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal event featuring Pint-Sized Phantoms and exclusive Slasher rewards."
+   "description": "Seasonal event featuring Pint-Sized Phantom enemies and exclusive rewards through October."
   },
   {
    "id": "7699c943cfd7",
@@ -131,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-15",
    "ends": "2026-10-19",
-   "description": "Double mutation chance applies to Daily Ops and rewards during this bonus period."
+   "description": "Weekend event featuring double mutation chance rates for Daily Ops and new seasonal rewards."
   },
   {
    "id": "f1217905f981",
@@ -139,7 +145,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Scorched enemies appear with seasonal spooky variants and exclusive rewards."
+   "description": "Seasonal event featuring Spooky Scorched enemies with new rewards and themed content."
   },
   {
    "id": "54197332cee8",
@@ -147,7 +153,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn double experience points from all activities during this weekend bonus."
+   "description": "Weekend event providing double experience points for all activities to speed up leveling."
   },
   {
    "id": "9ee75e191915",
@@ -155,7 +161,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chances to catch seasonal fish during this special weekend event."
+   "description": "Weekend event increasing the catch rate for seasonal fish species."
   }
  ],
  "season": {
