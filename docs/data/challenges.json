@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T17:53:00.459890+00:00",
+ "updated": "2026-10-19T22:25:27.473048+00:00",
  "daily": {
   "period_start": "2026-10-19T12:00:00-04:00",
   "resets_at": "2026-10-20T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "9dbe26e213ef",
     "title": "Cripple a Super Mutant's Arm",
-    "detail": "Fast travel to West Tek Research Center and use V.A.T.S. to target the arm",
+    "detail": "Fast travel to West Tek Research Center and use V.A.T.S. to target the arm.",
     "score": 2
    },
    {
     "id": "d2f35b7943b4",
     "title": "Complete an Infestation",
-    "detail": "Check Pip-Boy map for gray cloudy area and defeat the boss for full completion",
+    "detail": "Check Pip-Boy map for gray cloudy area, fast travel and locate the red circle hotspot.",
     "score": 1
    },
    {
     "id": "6a1d13ce306d",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station; small fish yield 1, medium yield 2, large yield 5",
+    "detail": "Process caught fish at a Cooking Station; small fish yield 1, medium yield 2, large yield 5.",
     "score": 5
    },
    {
     "id": "36b24d87cd0f",
     "title": "Deal Fire Damage to Enemies",
-    "detail": "Use a Flamer or fire-based weapons; Whitespring Golf Club has low-level Ghouls",
+    "detail": "Use a Flamer or fire weapons; Whitespring Golf Club has low-level Ghouls for fast kills.",
     "score": 100
    },
    {
     "id": "41ebfde68523",
     "title": "Eat a Fish Bit",
-    "detail": "Craft Fish Bits at a Cooking Station then consume them",
+    "detail": "Craft Fish Bits at a Cooking Station from caught fish, then eat them.",
     "score": 6
    },
    {
     "id": "5fe630a381d8",
     "title": "Eat a box of Sugar Bombs",
-    "detail": "Check Santatron/Fasnacht Collectron at C.A.M.P. or shelves under New River Gorge Bridge",
+    "detail": "Find at New River Gorge Bridge - West under the bridge, or collect from Santatron/Fasnacht Collectron.",
     "score": 1
    },
    {
     "id": "bc9dcfed5fa0",
     "title": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
-    "detail": "Join a team, equip any costume item, find Phantoms near cabins and campgrounds",
+    "detail": "Join a team, equip any costume item, find Phantoms at Kiddie Corner Cabins or other locations.",
     "score": 5
    }
   ]
@@ -55,62 +55,56 @@
    {
     "id": "e5d09b15101e",
     "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Enter build menu and construct basic wood or concrete floors",
+    "detail": "Enter build menu and construct basic wood or concrete floors, then scrap them.",
     "score": 25
    },
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Fish at any deep water source; Fisherman's Rest in The Mire is reliable",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is reliable with no enemies.",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Find and defeat the boss in an active Infestation hotspot for rare 4-Star legendary loot",
+    "detail": "Locate and fully clear an infestation hotspot for rare 4-Star legendary loot.",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station",
+    "detail": "Process caught fish at a Cooking Station.",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for dependable robot spawns",
+    "detail": "Fast travel to RobCo Research Center for dependable robot spawns.",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume pre-war foods like BlamCo Mac and Cheese or items from Weenie Wagon/Popcorn Machine",
+    "detail": "Consume items like BlamCo Mac and Cheese, Dandy Boy Apples, or Pork n' Beans.",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Fast travel to Solomon's Pond and target the eyes as weak spots",
+    "detail": "Go to Solomon's Pond and use V.A.T.S. to target the eyes as the weak spot.",
     "score": 10
    },
    {
     "id": "d261516f7e5a",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find and kill Phantoms inside an active Infestation hotspot",
+    "detail": "Find Phantoms during an active infestation hotspot encounter.",
     "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event and stay in Vertibot area for the Phantom to spawn",
+    "detail": "Complete Mischief Night event and stay in Vertibot area for Phantom spawn.",
     "score": 1
-   },
-   {
-    "id": "5a8b6fb7dafa",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days this week",
-    "score": null
    }
   ]
  },
@@ -121,7 +115,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community building contest where players submit slasher-themed C.A.M.P. or Shelter designs for a chance to win Atoms and exclusive titles."
+   "description": "Community building contest inspired by slasher movies with Atom and title rewards."
   },
   {
    "id": "20e482890416",
@@ -129,7 +123,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "Seasonal event featuring Pint-Sized Phantoms and Halloween-themed content ending today."
+   "description": "Seasonal event featuring Pint-Sized Phantom encounters and exclusive rewards."
   },
   {
    "id": "f1217905f981",
@@ -137,7 +131,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Limited-time event featuring spooky Scorched enemies with exclusive seasonal rewards."
+   "description": "Seasonal event featuring spooky-themed Scorched enemies and limited-time rewards."
   },
   {
    "id": "54197332cee8",
@@ -145,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Double experience points event to help players level up faster."
+   "description": "Double experience points awarded for all activities throughout the weekend."
   },
   {
    "id": "9ee75e191915",
@@ -153,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chances to catch seasonal fish with new recipes and challenges."
+   "description": "Increased chance of catching seasonal fish species during this weekend event."
   }
  ],
  "season": {
