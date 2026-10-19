@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-18T22:19:31.463869+00:00",
+ "updated": "2026-10-19T17:53:00.459890+00:00",
  "daily": {
-  "period_start": "2026-10-18T12:00:00-04:00",
-  "resets_at": "2026-10-19T12:00:00-04:00",
+  "period_start": "2026-10-19T12:00:00-04:00",
+  "resets_at": "2026-10-20T12:00:00-04:00",
   "items": [
    {
-    "id": "a504e03a54dc",
-    "title": "Cripple a Super Mutant's Head",
-    "detail": "Use Enforcer perk with shotgun or aim at head in V.A.T.S.; West Tek Research Center has dense spawns.",
+    "id": "9dbe26e213ef",
+    "title": "Cripple a Super Mutant's Arm",
+    "detail": "Fast travel to West Tek Research Center and use V.A.T.S. to target the arm",
     "score": 2
    },
    {
-    "id": "266b71e5c78c",
-    "title": "Catch a Fish",
-    "detail": "Fish at any deep water source; Fisherman's Rest in The Mire is safe and easy.",
-    "score": 3
-   },
-   {
-    "id": "fff09a071370",
-    "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and enter the Daily Operation instance from World Activity.",
+    "id": "d2f35b7943b4",
+    "title": "Complete an Infestation",
+    "detail": "Check Pip-Boy map for gray cloudy area and defeat the boss for full completion",
     "score": 1
    },
    {
-    "id": "da185f0c7e59",
-    "title": "Cripple enemy limbs",
-    "detail": "Aim at limbs with rifle using V.A.T.S.; Morgantown Airport has Scorched enemies.",
-    "score": 6
-   },
-   {
-    "id": "956466a1960e",
-    "title": "Destroy a Robot",
-    "detail": "Energy weapons are effective; RobCo Research Center has reliable robot spawns.",
-    "score": 10
-   },
-   {
-    "id": "18a3fde3022f",
-    "title": "Eat a Raw Fish",
-    "detail": "Catch fish at Fisherman's Rest and eat raw from Pip-Boy before cooking.",
+    "id": "6a1d13ce306d",
+    "title": "Craft Fish Bits",
+    "detail": "Process caught fish at a Cooking Station; small fish yield 1, medium yield 2, large yield 5",
     "score": 5
    },
    {
-    "id": "c7ec6e716efb",
-    "title": "Kill a Pint-Sized Phantom",
-    "detail": "Look for masked cultists near cabins and fairgrounds; listen for child's laughter.",
-    "score": 10
+    "id": "36b24d87cd0f",
+    "title": "Deal Fire Damage to Enemies",
+    "detail": "Use a Flamer or fire-based weapons; Whitespring Golf Club has low-level Ghouls",
+    "score": 100
+   },
+   {
+    "id": "41ebfde68523",
+    "title": "Eat a Fish Bit",
+    "detail": "Craft Fish Bits at a Cooking Station then consume them",
+    "score": 6
+   },
+   {
+    "id": "5fe630a381d8",
+    "title": "Eat a box of Sugar Bombs",
+    "detail": "Check Santatron/Fasnacht Collectron at C.A.M.P. or shelves under New River Gorge Bridge",
+    "score": 1
+   },
+   {
+    "id": "bc9dcfed5fa0",
+    "title": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
+    "detail": "Join a team, equip any costume item, find Phantoms near cabins and campgrounds",
+    "score": 5
    }
   ]
  },
@@ -55,56 +55,62 @@
    {
     "id": "e5d09b15101e",
     "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Build basic wood or concrete floors in build menu and scrap them; minimal resources needed.",
+    "detail": "Enter build menu and construct basic wood or concrete floors",
     "score": 25
    },
    {
     "id": "6e4096074281",
     "title": "Catch a Fish",
-    "detail": "Complete at any water source; Fisherman's Rest is recommended.",
+    "detail": "Fish at any deep water source; Fisherman's Rest in The Mire is reliable",
     "score": 21
    },
    {
     "id": "ae4a10ad69d5",
     "title": "Complete an Infestation",
-    "detail": "Find the gray cloudy area on map, fast travel inside, locate the red circle hotspot, and clear the encounter.",
+    "detail": "Find and defeat the boss in an active Infestation hotspot for rare 4-Star legendary loot",
     "score": 3
    },
    {
     "id": "9ec915494045",
     "title": "Craft Fish Bits",
-    "detail": "Process caught fish at Cooking Station; small fish yield 1, medium yield 2, large yield 5, Axolotl yield 25.",
+    "detail": "Process caught fish at a Cooking Station",
     "score": 35
    },
    {
     "id": "9955d11d0301",
     "title": "Destroy a Robot",
-    "detail": "Any robot type counts; RobCo Research Center is reliable.",
+    "detail": "Fast travel to RobCo Research Center for dependable robot spawns",
     "score": 30
    },
    {
     "id": "72024133ec83",
     "title": "Eat Pre-war Food",
-    "detail": "Consume pre-war foods like BlamCo Mac and Cheese or collect from Weenie Wagon, Popcorn Machine, or Cookie Jar.",
+    "detail": "Consume pre-war foods like BlamCo Mac and Cheese or items from Weenie Wagon/Popcorn Machine",
     "score": 25
    },
    {
     "id": "113c5027639b",
     "title": "Kill a Floater",
-    "detail": "Solomon's Pond has reliable spawns; target the eyes as weak spot.",
+    "detail": "Fast travel to Solomon's Pond and target the eyes as weak spots",
     "score": 10
    },
    {
     "id": "d261516f7e5a",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Kill masked cultists within an active Infestation hotspot.",
+    "detail": "Find and kill Phantoms inside an active Infestation hotspot",
     "score": 20
    },
    {
     "id": "26f84d834daa",
     "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event and stay in Vertibot area for Phantom to spawn.",
+    "detail": "Complete Mischief Night event and stay in Vertibot area for the Phantom to spawn",
     "score": 1
+   },
+   {
+    "id": "5a8b6fb7dafa",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Earn the daily Gold Star on three separate days this week",
+    "score": null
    }
   ]
  },
@@ -115,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "A community contest to build C.A.M.P.s or Shelters inspired by classic slasher movies with prizes including Atoms and exclusive titles."
+   "description": "Community building contest where players submit slasher-themed C.A.M.P. or Shelter designs for a chance to win Atoms and exclusive titles."
   },
   {
    "id": "20e482890416",
@@ -123,15 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-06",
    "ends": "2026-10-20",
-   "description": "A seasonal spooky event with Pint-Sized Phantom encounters at various locations throughout Appalachia."
-  },
-  {
-   "id": "7699c943cfd7",
-   "name": "Double Mutations",
-   "type": "weekend",
-   "starts": "2026-10-15",
-   "ends": "2026-10-19",
-   "description": "Double mutation rates apply during this weekend event."
+   "description": "Seasonal event featuring Pint-Sized Phantoms and Halloween-themed content ending today."
   },
   {
    "id": "f1217905f981",
@@ -139,7 +137,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "A seasonal event featuring spooky-themed Scorched enemies with special rewards."
+   "description": "Limited-time event featuring spooky Scorched enemies with exclusive seasonal rewards."
   },
   {
    "id": "54197332cee8",
@@ -147,7 +145,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Players earn double experience points during this weekend event."
+   "description": "Double experience points event to help players level up faster."
   },
   {
    "id": "9ee75e191915",
@@ -155,7 +153,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chances to catch seasonal fish during this fishing-focused weekend event."
+   "description": "Increased chances to catch seasonal fish with new recipes and challenges."
   }
  ],
  "season": {
