@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:53:50.631479+00:00",
+ "updated": "2026-10-20T22:25:38.425810+00:00",
  "daily": {
   "period_start": "2026-10-20T12:00:00-04:00",
   "resets_at": "2026-10-21T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "b74d2039f7d2",
     "title": "Chew some Bubblegum",
-    "detail": "Open a perk card pack or find Bubblegum from Robo Butler Collectron",
+    "detail": "Open a perk card pack or collect from Whitespring Robo Butler Collectron.",
     "score": null
    },
    {
     "id": "5b3c69ffa63f",
     "title": "Complete an Event or Activity",
-    "detail": "Public Events spawn every 20 minutes; Activities rotate more frequently",
+    "detail": "Public Events spawn every 20 minutes on the map or join an Activity.",
     "score": null
    },
    {
     "id": "83cd24789e82",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Fast travel to Morgantown Airport; use V.A.T.S. to target the leg",
-    "score": null
-   },
-   {
-    "id": "807c07fadd48",
-    "title": "Kill a Spooky Scorched",
-    "detail": "Spooky Scorched spawn at Morgantown Airport and other outdoor Scorched locations",
-    "score": null
-   },
-   {
-    "id": "20bb161bd8d4",
-    "title": "Plant a Crop in a Workshop or C.A.M.P.",
-    "detail": "Harvest a plant and plant the seed at your C.A.M.P. or workshop",
-    "score": null
-   },
-   {
-    "id": "c8c52686f465",
-    "title": "Travel on foot (KM)",
-    "detail": "Sprint on foot; fast travel does not count toward this challenge",
+    "detail": "Use V.A.T.S. to target legs at Morgantown Airport during Spooky Scorched event.",
     "score": null
    },
    {
     "id": "8d0606f40f7c",
     "title": "Eat Mystery Candy",
-    "detail": "",
+    "detail": "Kill Spooky Scorched or collect from Candy Bowls in player C.A.M.P.s, then eat.",
+    "score": null
+   },
+   {
+    "id": "807c07fadd48",
+    "title": "Kill a Spooky Scorched",
+    "detail": "Fast travel to Morgantown Airport; they spawn as Legendary enemies during the event.",
+    "score": null
+   },
+   {
+    "id": "20bb161bd8d4",
+    "title": "Plant a Crop in a Workshop or C.A.M.P.",
+    "detail": "Harvest a plant and then plant the seed in your C.A.M.P. or workshop.",
+    "score": null
+   },
+   {
+    "id": "c8c52686f465",
+    "title": "Travel on foot (KM)",
+    "detail": "Sprint rather than walk; keep weapon holstered to move faster.",
     "score": null
    }
   ]
@@ -55,61 +55,61 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Sell looted items to vendors at train stations for fastest completion",
+    "detail": "Sell looted weapons, junk, chems, or food to vendors at train stations.",
     "score": null
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "Five to eight gnomes are at The General's Steakhouse in the Mire's walled garden",
+    "detail": "Find five Garden Gnomes at The General's Steakhouse in the Mire behind the main building.",
     "score": null
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and enter the Daily Operation instance",
+    "detail": "Join a Daily Ops public team and complete the Daily Operation instance.",
     "score": null
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town's Bounty Board in The Last Resort saloon",
+    "detail": "Start at Highway Town via Bounty Board in The Last Resort saloon; track and eliminate the target.",
     "score": null
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has reliable robot spawns; use energy weapons",
+    "detail": "Fast travel to RobCo Research Center for reliable spawns; use energy weapons.",
     "score": null
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Silva Homestead in the Forest or plant crops at your C.A.M.P.",
+    "detail": "Harvest from the wild or plant crops in your C.A.M.P. for on-demand gathering.",
     "score": null
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Pint-Sized Phantoms spawn at cabins and campgrounds; equip any outfit with Costume in its description",
+    "detail": "Equip any outfit, hat, or mask with 'Costume' in its description before killing.",
     "score": null
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Wavy Willard's Water Park in the Toxic Valley has reliable spawns",
+    "detail": "Fast travel to Wavy Willard's Water Park in Toxic Valley for reliable spawns.",
     "score": null
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it",
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it.",
     "score": null
    },
    {
     "id": "c4d2c3a93ca7",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days during the week",
+    "detail": "Earn the daily Gold Star on three separate days by completing all six other dailies.",
     "score": null
    }
   ]
@@ -118,10 +118,10 @@
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "other",
+   "type": "seasonal",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build and submit a slasher-themed C.A.M.P. or Shelter for a chance to win Atoms and exclusive titles."
+   "description": "Build and submit a C.A.M.P. or Shelter inspired by slasher movies for prizes including Atoms and exclusive in-game titles."
   },
   {
    "id": "f1217905f981",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Special Scorched enemies spawn with increased frequency, dropping spooky treat bags and mystery candy."
+   "description": "Hunt masked, costumed Legendary Scorched enemies to collect Mystery Candy and themed event rewards."
   },
   {
    "id": "54197332cee8",
@@ -137,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Experience gains are doubled for all activities and gameplay."
+   "description": "Earn experience at double rate during this weekend event."
   },
   {
    "id": "9ee75e191915",
@@ -145,7 +145,23 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance of catching seasonal fish this weekend."
+   "description": "Increased chance to catch seasonal fish this weekend."
+  },
+  {
+   "id": "d8085ca52c2c",
+   "name": "Double SCORE and Caps-A-Plenty",
+   "type": "weekend",
+   "starts": "2026-11-05",
+   "ends": "2026-11-09",
+   "description": "Earn double Scoreboard progress and bonus Caps during this event."
+  },
+  {
+   "id": "126bb8c1df9f",
+   "name": "Anniversary Events",
+   "type": "seasonal",
+   "starts": "2026-11-10",
+   "ends": "2026-11-17",
+   "description": "Special anniversary-themed event with unique rewards and activities."
   }
  ],
  "season": {
