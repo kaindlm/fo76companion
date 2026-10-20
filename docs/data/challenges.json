@@ -1,110 +1,116 @@
 {
- "updated": "2026-10-19T22:25:27.473048+00:00",
+ "updated": "2026-10-20T17:53:50.631479+00:00",
  "daily": {
-  "period_start": "2026-10-19T12:00:00-04:00",
-  "resets_at": "2026-10-20T12:00:00-04:00",
+  "period_start": "2026-10-20T12:00:00-04:00",
+  "resets_at": "2026-10-21T12:00:00-04:00",
   "items": [
    {
-    "id": "9dbe26e213ef",
-    "title": "Cripple a Super Mutant's Arm",
-    "detail": "Fast travel to West Tek Research Center and use V.A.T.S. to target the arm.",
-    "score": 2
+    "id": "b74d2039f7d2",
+    "title": "Chew some Bubblegum",
+    "detail": "Open a perk card pack or find Bubblegum from Robo Butler Collectron",
+    "score": null
    },
    {
-    "id": "d2f35b7943b4",
-    "title": "Complete an Infestation",
-    "detail": "Check Pip-Boy map for gray cloudy area, fast travel and locate the red circle hotspot.",
-    "score": 1
+    "id": "5b3c69ffa63f",
+    "title": "Complete an Event or Activity",
+    "detail": "Public Events spawn every 20 minutes; Activities rotate more frequently",
+    "score": null
    },
    {
-    "id": "6a1d13ce306d",
-    "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station; small fish yield 1, medium yield 2, large yield 5.",
-    "score": 5
+    "id": "83cd24789e82",
+    "title": "Cripple a Spooky Scorched's Leg",
+    "detail": "Fast travel to Morgantown Airport; use V.A.T.S. to target the leg",
+    "score": null
    },
    {
-    "id": "36b24d87cd0f",
-    "title": "Deal Fire Damage to Enemies",
-    "detail": "Use a Flamer or fire weapons; Whitespring Golf Club has low-level Ghouls for fast kills.",
-    "score": 100
+    "id": "807c07fadd48",
+    "title": "Kill a Spooky Scorched",
+    "detail": "Spooky Scorched spawn at Morgantown Airport and other outdoor Scorched locations",
+    "score": null
    },
    {
-    "id": "41ebfde68523",
-    "title": "Eat a Fish Bit",
-    "detail": "Craft Fish Bits at a Cooking Station from caught fish, then eat them.",
-    "score": 6
+    "id": "20bb161bd8d4",
+    "title": "Plant a Crop in a Workshop or C.A.M.P.",
+    "detail": "Harvest a plant and plant the seed at your C.A.M.P. or workshop",
+    "score": null
    },
    {
-    "id": "5fe630a381d8",
-    "title": "Eat a box of Sugar Bombs",
-    "detail": "Find at New River Gorge Bridge - West under the bridge, or collect from Santatron/Fasnacht Collectron.",
-    "score": 1
+    "id": "c8c52686f465",
+    "title": "Travel on foot (KM)",
+    "detail": "Sprint on foot; fast travel does not count toward this challenge",
+    "score": null
    },
    {
-    "id": "bc9dcfed5fa0",
-    "title": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
-    "detail": "Join a team, equip any costume item, find Phantoms at Kiddie Corner Cabins or other locations.",
-    "score": 5
+    "id": "8d0606f40f7c",
+    "title": "Eat Mystery Candy",
+    "detail": "",
+    "score": null
    }
   ]
  },
  "weekly": {
-  "period_start": "2026-10-13T12:00:00-04:00",
-  "resets_at": "2026-10-20T12:00:00-04:00",
+  "period_start": "2026-10-20T12:00:00-04:00",
+  "resets_at": "2026-10-27T12:00:00-04:00",
   "items": [
    {
-    "id": "e5d09b15101e",
-    "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Enter build menu and construct basic wood or concrete floors, then scrap them.",
-    "score": 25
+    "id": "2d19e3e81ce5",
+    "title": "Collect Caps",
+    "detail": "Sell looted items to vendors at train stations for fastest completion",
+    "score": null
    },
    {
-    "id": "6e4096074281",
-    "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in The Mire is reliable with no enemies.",
-    "score": 21
+    "id": "7b6f19ead788",
+    "title": "Collect a Garden Gnome",
+    "detail": "Five to eight gnomes are at The General's Steakhouse in the Mire's walled garden",
+    "score": null
    },
    {
-    "id": "ae4a10ad69d5",
-    "title": "Complete an Infestation",
-    "detail": "Locate and fully clear an infestation hotspot for rare 4-Star legendary loot.",
-    "score": 3
+    "id": "366f4aaea681",
+    "title": "Complete Daily Operations on a Public Team!",
+    "detail": "Join a Daily Ops public team and enter the Daily Operation instance",
+    "score": null
    },
    {
-    "id": "9ec915494045",
-    "title": "Craft Fish Bits",
-    "detail": "Process caught fish at a Cooking Station.",
-    "score": 35
+    "id": "3e1f08ace07c",
+    "title": "Complete a Grunt Hunt",
+    "detail": "Start at Highway Town's Bounty Board in The Last Resort saloon",
+    "score": null
    },
    {
-    "id": "9955d11d0301",
+    "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for dependable robot spawns.",
-    "score": 30
+    "detail": "RobCo Research Center has reliable robot spawns; use energy weapons",
+    "score": null
    },
    {
-    "id": "72024133ec83",
-    "title": "Eat Pre-war Food",
-    "detail": "Consume items like BlamCo Mac and Cheese, Dandy Boy Apples, or Pork n' Beans.",
-    "score": 25
+    "id": "f84c7b650a05",
+    "title": "Harvest a Wild Plant or Fungi",
+    "detail": "Silva Homestead in the Forest or plant crops at your C.A.M.P.",
+    "score": null
    },
    {
-    "id": "113c5027639b",
-    "title": "Kill a Floater",
-    "detail": "Go to Solomon's Pond and use V.A.T.S. to target the eyes as the weak spot.",
-    "score": 10
+    "id": "85a9e6934832",
+    "title": "Kill a Pint-Sized Phantom while wearing a Costume",
+    "detail": "Pint-Sized Phantoms spawn at cabins and campgrounds; equip any outfit with Costume in its description",
+    "score": null
    },
    {
-    "id": "d261516f7e5a",
-    "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find Phantoms during an active infestation hotspot encounter.",
-    "score": 20
+    "id": "b4988ff916a5",
+    "title": "Kill a Scorched",
+    "detail": "Wavy Willard's Water Park in the Toxic Valley has reliable spawns",
+    "score": null
    },
    {
-    "id": "26f84d834daa",
-    "title": "Kill an Uninvited Pint-Sized Phantom",
-    "detail": "Complete Mischief Night event and stay in Vertibot area for Phantom spawn.",
-    "score": 1
+    "id": "2022f8e7f68f",
+    "title": "Scrap junk to produce Aluminum",
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it",
+    "score": null
+   },
+   {
+    "id": "c4d2c3a93ca7",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Earn the daily Gold Star on three separate days during the week",
+    "score": null
    }
   ]
  },
@@ -115,15 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community building contest inspired by slasher movies with Atom and title rewards."
-  },
-  {
-   "id": "20e482890416",
-   "name": "Mischief Night",
-   "type": "seasonal",
-   "starts": "2026-10-06",
-   "ends": "2026-10-20",
-   "description": "Seasonal event featuring Pint-Sized Phantom encounters and exclusive rewards."
+   "description": "Build and submit a slasher-themed C.A.M.P. or Shelter for a chance to win Atoms and exclusive titles."
   },
   {
    "id": "f1217905f981",
@@ -131,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring spooky-themed Scorched enemies and limited-time rewards."
+   "description": "Special Scorched enemies spawn with increased frequency, dropping spooky treat bags and mystery candy."
   },
   {
    "id": "54197332cee8",
@@ -139,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Double experience points awarded for all activities throughout the weekend."
+   "description": "Experience gains are doubled for all activities and gameplay."
   },
   {
    "id": "9ee75e191915",
@@ -147,7 +145,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance of catching seasonal fish species during this weekend event."
+   "description": "Increased chance of catching seasonal fish this weekend."
   }
  ],
  "season": {

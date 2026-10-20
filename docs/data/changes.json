@@ -1,6 +1,13 @@
 {
  "patches": [
   {
+   "id": "wiki:Fallout 76 patch 1.7.27.11",
+   "title": "Patch 1.7.27.11",
+   "date": "2026-10-20",
+   "url": "https://fallout.fandom.com/wiki/Fallout_76_patch_1.7.27.11",
+   "source": "Fallout wiki"
+  },
+  {
    "id": "wiki:Fallout 76 patch 1.7.25.39",
    "title": "Patch 1.7.25.39",
    "date": "2026-07-21",
@@ -3400,7 +3407,376 @@
    "id": "3b93eac60eb916",
    "patch_id": "wiki:Fallout 76 patch 1.7.26.13",
    "found": 1790892814
+  },
+  {
+   "name": "Tunnel of Love",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed an issue where Tunnel of Love wasn't dropping unique C.A.M.P. and food recipes.",
+   "id": "ba5a10d3261156",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Mad Dog Malone",
+   "kind": "other",
+   "direction": "change",
+   "summary": "Mad Dog Malone now uses a Minigun instead of seeking other weapons and running at players with fists.",
+   "id": "d838cd622484ad",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Daily Ops - Uplink",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed issue with the final dialogue sometimes being given by the wrong NPC.",
+   "id": "c8998ca8cac21b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Enclave Hellfire Helmet",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "Fixed an issue with the Enclave Hellfire Helmet light always appearing to be on.",
+   "id": "47a1b04e7f0ce4",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Enclave Scientist Outfit",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "Fixed visual issues with the Enclave Scientist Outfit.",
+   "id": "d65abacbc0704c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Cutthroat Helmet",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "The Cutthroat Helmet now properly displays that it prevents damage and disease from airborne hazards when inspecting.",
+   "id": "fee44b85e733b5",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Poseidon Energy Outfit",
+   "kind": "armor",
+   "direction": "change",
+   "summary": "Updated the weight for the Poseidon Energy Outfit to the correct amount, 0.1.",
+   "id": "41a05bc4886fdf",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Poseidon Energy Headwear",
+   "kind": "armor",
+   "direction": "change",
+   "summary": "Updated the weight for the Poseidon Energy Headwear to the correct amount, 0.1.",
+   "id": "2d23d4c1b58037",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Blood Moon Hellcat Paint",
+   "kind": "armor",
+   "direction": "fix",
+   "summary": "Fixed an issue that caused the Blood Moon Hellcat Paint to not have its name properly included.",
+   "id": "366e53357c3c90",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Abandoned Nest",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Added a callout for resources that Abandoned Nest collects.",
+   "id": "fb26db7f4e1701",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Poseidon Energy Console",
+   "kind": "item",
+   "direction": "added",
+   "summary": "Added a premium flag to the Poseidon Energy Console.",
+   "id": "67762d104d75eb",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Holiday Belle Outfit",
+   "kind": "armor",
+   "direction": "change",
+   "summary": "Holiday Belle Outfit is now craftable at the Armor Workbench.",
+   "id": "ea595291c1337e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Black Ice Outfit",
+   "kind": "armor",
+   "direction": "change",
+   "summary": "Black Ice Outfit is now craftable at the Armor Workbench.",
+   "id": "5a5eed40ec3f59",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Lucky Shot Outfit",
+   "kind": "armor",
+   "direction": "change",
+   "summary": "Lucky Shot Outfit is now craftable at the Armor Workbench.",
+   "id": "171e3a57d4bf50",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Enclave Technician Outfit",
+   "kind": "armor",
+   "direction": "change",
+   "summary": "Enclave Technician Outfit is now craftable at the Armor Workbench.",
+   "id": "fa595183bc74b7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Penitentiary C.A.M.P. Kit",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed an inconsistency that appeared with wallpapers on the Penitentiary C.A.M.P. Kit.",
+   "id": "26d105acdd223f",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Atomic Light Set Ceiling and Wall Lamp",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed an issue with missing textures on the Atomic Light Set Ceiling and Wall Lamp.",
+   "id": "da99424b75f21b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Cobby Collectron",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed an issue with the Cobby Collectron where it was not granting the correct type of Fertilizer.",
+   "id": "6a594c5f21449a",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Penitentiary C.A.M.P.",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Updated player facing names for Penitentiary C.A.M.P. pieces.",
+   "id": "dde34166cc4693",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Black Piano",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed audio issues that could occur when playing the Black Piano.",
+   "id": "1c939bcc09629d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Blasted Barrel Planter",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Reduced the glow VFX of the Blasted Barrel Planter.",
+   "id": "7dca94a8ecbf73",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Light 'Em Up Weapon Rack",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed an issue that caused the Light 'Em Up Weapon Rack to have white lights instead of blue.",
+   "id": "f7e84e463a9e49",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Hunter's Blind Survival Tent",
+   "kind": "item",
+   "direction": "change",
+   "summary": "Increased entrance size of the Hunter's Blind Survival Tent.",
+   "id": "4bfc97ea810309",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Pint-Sized Slasher Wanted Posters",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Fixed placement issues that could occur when building the Pint-Sized Slasher Wanted Posters.",
+   "id": "20597ab84e53df",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Sir Loin Collectron",
+   "kind": "item",
+   "direction": "fix",
+   "summary": "Addressed several issues with the Sir Loin Collectron's item pool.",
+   "id": "a42191c76e6984",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Cupid's Arrow",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Cupid's Arrow audio should now play as expected.",
+   "id": "49f8e48a699a0b",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Flares",
+   "kind": "consumable",
+   "direction": "change",
+   "summary": "Flares will now fall with gravity after being shot.",
+   "id": "ba6c574f4d4667",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Breaking News",
+   "kind": "other",
+   "direction": "fix",
+   "summary": "Fixed an issue that could cause a non-functional Breaking News broadcast to appear in the Radio tab.",
+   "id": "48faf1a0185af2",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Slasher: Mask of Truth",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Quest objects such as the article clippings should be preserved across character loads.",
+   "id": "88caf035a197ab",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "The Slasher - Masked Truth",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed issue where a player could advance the quest by acquiring another player's dropped note.",
+   "id": "793622c529c602",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "The Slasher",
+   "kind": "quest",
+   "direction": "fix",
+   "summary": "Fixed an issue that allowed players to repeatedly use a grave digging map from their stash.",
+   "id": "bd3e880e6f661c",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Electric Absorption",
+   "kind": "legendary_perk",
+   "direction": "fix",
+   "summary": "Fixed an issue that prevented the legendary perk Electric Absorption from triggering against Infestation enemies.",
+   "id": "1ffb8c67a9ad27",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Infestation",
+   "kind": "event",
+   "direction": "fix",
+   "summary": "Fixed an issue where the Boss Skull on the Encounter Health Meter can overlap the bosses name.",
+   "id": "b698287ade7322",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Infestation",
+   "kind": "event",
+   "direction": "buff",
+   "summary": "Increased Scrip reward from completing an Infestation.",
+   "id": "6175b88db938d4",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Cosmic Knife",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed an issue that prevented the Cosmic Knife obtained through Stamps to not be able to return to its default appearance.",
+   "id": "77e70f7bf19ec3",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Gamma Gun",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Addressed explosive damage calculation issues with Gamma Gun.",
+   "id": "acb9d2e21d9dc7",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Cremator",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Addressed explosive damage calculation issues with Cremator.",
+   "id": "312d88a758281e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Resolve Breaker",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Addressed explosive damage calculation issues with Resolve Breaker.",
+   "id": "d315ec8620bc22",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Hellstorm Missile Launcher",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Addressed explosive damage calculation issues with Hellstorm Missile Launcher.",
+   "id": "c9ef0074edc781",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Gunther's Big Iron",
+   "kind": "weapon",
+   "direction": "fix",
+   "summary": "Fixed an issue that caused Gunther's Big Iron to use regular .45 Ammo when modified with a Prime Receiver.",
+   "id": "5039292c94f66d",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
+  },
+  {
+   "name": "Icemen's",
+   "kind": "legendary_effect",
+   "direction": "fix",
+   "summary": "Icemen's now properly displays cryo damage increase when a weapon is inspected.",
+   "id": "e26ce7169a228e",
+   "patch_id": "wiki:Fallout 76 patch 1.7.27.11",
+   "found": 1792518830
   }
  ],
- "updated": "2026-10-19T22:25:29.532368+00:00"
+ "updated": "2026-10-20T17:54:13.026135+00:00"
 }
