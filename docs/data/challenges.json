@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T17:54:57.323990+00:00",
+ "updated": "2026-10-21T22:26:16.844750+00:00",
  "daily": {
   "period_start": "2026-10-21T12:00:00-04:00",
   "resets_at": "2026-10-22T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "ceaf08d4e945",
     "title": "Eat Dog Food",
-    "detail": "Collect canned dog food from a Weenie Wagon or another player's C.A.M.P.",
+    "detail": "Use the Weenie Wagon at your C.A.M.P. or another player's camp",
     "score": 250
    },
    {
     "id": "12d08cc73d7f",
     "title": "Build a Heavy Cryo Turret in a Workshop or C.A.M.P.",
-    "detail": "Unlocked at rank 65 of Season 12 scoreboard; place from defense category.",
+    "detail": "Unlocked at rank 65 of Season 12 scoreboard; use re-roll if unavailable",
     "score": 250
    },
    {
     "id": "03f16f552b3a",
     "title": "Collect a Teapot",
-    "detail": "Palace of the Winding Path has several on tables in the main building.",
+    "detail": "Palace of the Winding Path has several on tables in the main building",
     "score": 250
    },
    {
     "id": "f09c43cd9a62",
     "title": "Kill a Wendigo",
-    "detail": "Vault 51 has reliable Wendigo spawns; head to the Atrium then north through dining area.",
+    "detail": "Vault 51 in the Forest has reliable spawns in the Atrium area",
     "score": 250
    },
    {
     "id": "24db435cf2aa",
     "title": "Kill an Enemy in the Forest Region",
-    "detail": "Point Pleasant has a dense concentration of cultists.",
+    "detail": "Point Pleasant has a dense concentration of Cultists",
     "score": 250
    },
    {
     "id": "ef973f47f365",
     "title": "Scrap junk to produce Antiseptic",
-    "detail": "Kill Ticks at Big B's Rest Stop or scrap cleaner, solvent, turpentine, or tick blood sacs.",
+    "detail": "Kill Ticks at Big B's Rest Stop shack west of the location",
     "score": 250
    },
    {
     "id": "03c60cd6aec3",
     "title": "Take a Camera Picture of a Radscorpion",
-    "detail": "Find Burning Radscorpions at Little League Field in Hocking Hills or at Sinkhole Solutions event.",
+    "detail": "Hocking Hills Little League Field has Burning Radscorpions near the baseball diamond",
     "score": 250
    }
   ]
@@ -55,61 +55,61 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Sell looted weapons, junk, chems, or food to vendors such as train station robots.",
-    "score": 500
+    "detail": "Sell looted weapons, junk, chems, or food to vendors at train stations",
+    "score": 1500
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "Five to eight Garden Gnomes are in the walled garden and shed at The General's Steakhouse in the Mire.",
-    "score": 500
+    "detail": "The General's Steakhouse in the Mire has 5-8 gnomes in the walled garden and shed",
+    "score": 1500
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and complete five Daily Operations.",
-    "score": 500
+    "detail": "Join or start a Daily Ops public team and complete the operation",
+    "score": 1500
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town's Bounty Board in The Last Resort saloon, then find and eliminate the assigned outlaw.",
-    "score": 500
+    "detail": "Use the Bounty Board at The Last Resort saloon in Highway Town",
+    "score": 1500
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has reliable robot spawns; use energy weapons for quick kills.",
-    "score": 500
+    "detail": "RobCo Research Center has dependable robot spawns; use energy weapons",
+    "score": 1500
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from wild locations like Silva Homestead or plant vegetables at your C.A.M.P.",
-    "score": 500
+    "detail": "Silva Homestead in the Forest has plants or plant several at your C.A.M.P.",
+    "score": 1500
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Wear any outfit, hat or mask with 'Costume' in the description; Phantoms appear near cabins and campgrounds.",
-    "score": 500
+    "detail": "Pint-Sized Phantoms spawn at cabins and campgrounds during the Slasher event; equip any costume piece",
+    "score": 1500
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Wavy Willard's Water Park in Toxic Valley has many Scorched; target the head for weak spot.",
-    "score": 500
+    "detail": "Wavy Willard's Water Park in the Toxic Valley has many Scorched; target the head in V.A.T.S.",
+    "score": 1500
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft and scrap Bulk Aluminum at a Tinker's Workbench, or scrap relevant junk.",
-    "score": 500
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench then scrap it",
+    "score": 1500
    },
    {
     "id": "c4d2c3a93ca7",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other daily challenges on three separate days during the week.",
+    "detail": "Complete all six other daily challenges on three separate days during the week",
     "score": 1500
    }
   ]
@@ -121,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build a slasher-themed C.A.M.P. or Shelter for a chance to win Atoms and exclusive titles."
+   "description": "Build a C.A.M.P. or Shelter inspired by slasher movies and submit entries for a chance to win Atoms and exclusive titles."
   },
   {
    "id": "f1217905f981",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Encounter spooky variants of Scorched creatures with themed rewards."
+   "description": "Hunt Scorched creatures for seasonal rewards including new cosmetics and collectibles."
   },
   {
    "id": "54197332cee8",
@@ -137,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn double experience points during this weekend event."
+   "description": "Earn double experience points and progress on the Scoreboard at an accelerated rate."
   },
   {
    "id": "9ee75e191915",
@@ -145,7 +145,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this special weekend."
+   "description": "Increased chances to catch seasonal fish with new recipes and challenges available."
   }
  ],
  "season": {
