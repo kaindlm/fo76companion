@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-20T22:25:38.425810+00:00",
+ "updated": "2026-10-21T17:54:57.323990+00:00",
  "daily": {
-  "period_start": "2026-10-20T12:00:00-04:00",
-  "resets_at": "2026-10-21T12:00:00-04:00",
+  "period_start": "2026-10-21T12:00:00-04:00",
+  "resets_at": "2026-10-22T12:00:00-04:00",
   "items": [
    {
-    "id": "b74d2039f7d2",
-    "title": "Chew some Bubblegum",
-    "detail": "Open a perk card pack or collect from Whitespring Robo Butler Collectron.",
-    "score": null
+    "id": "ceaf08d4e945",
+    "title": "Eat Dog Food",
+    "detail": "Collect canned dog food from a Weenie Wagon or another player's C.A.M.P.",
+    "score": 250
    },
    {
-    "id": "5b3c69ffa63f",
-    "title": "Complete an Event or Activity",
-    "detail": "Public Events spawn every 20 minutes on the map or join an Activity.",
-    "score": null
+    "id": "12d08cc73d7f",
+    "title": "Build a Heavy Cryo Turret in a Workshop or C.A.M.P.",
+    "detail": "Unlocked at rank 65 of Season 12 scoreboard; place from defense category.",
+    "score": 250
    },
    {
-    "id": "83cd24789e82",
-    "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Use V.A.T.S. to target legs at Morgantown Airport during Spooky Scorched event.",
-    "score": null
+    "id": "03f16f552b3a",
+    "title": "Collect a Teapot",
+    "detail": "Palace of the Winding Path has several on tables in the main building.",
+    "score": 250
    },
    {
-    "id": "8d0606f40f7c",
-    "title": "Eat Mystery Candy",
-    "detail": "Kill Spooky Scorched or collect from Candy Bowls in player C.A.M.P.s, then eat.",
-    "score": null
+    "id": "f09c43cd9a62",
+    "title": "Kill a Wendigo",
+    "detail": "Vault 51 has reliable Wendigo spawns; head to the Atrium then north through dining area.",
+    "score": 250
    },
    {
-    "id": "807c07fadd48",
-    "title": "Kill a Spooky Scorched",
-    "detail": "Fast travel to Morgantown Airport; they spawn as Legendary enemies during the event.",
-    "score": null
+    "id": "24db435cf2aa",
+    "title": "Kill an Enemy in the Forest Region",
+    "detail": "Point Pleasant has a dense concentration of cultists.",
+    "score": 250
    },
    {
-    "id": "20bb161bd8d4",
-    "title": "Plant a Crop in a Workshop or C.A.M.P.",
-    "detail": "Harvest a plant and then plant the seed in your C.A.M.P. or workshop.",
-    "score": null
+    "id": "ef973f47f365",
+    "title": "Scrap junk to produce Antiseptic",
+    "detail": "Kill Ticks at Big B's Rest Stop or scrap cleaner, solvent, turpentine, or tick blood sacs.",
+    "score": 250
    },
    {
-    "id": "c8c52686f465",
-    "title": "Travel on foot (KM)",
-    "detail": "Sprint rather than walk; keep weapon holstered to move faster.",
-    "score": null
+    "id": "03c60cd6aec3",
+    "title": "Take a Camera Picture of a Radscorpion",
+    "detail": "Find Burning Radscorpions at Little League Field in Hocking Hills or at Sinkhole Solutions event.",
+    "score": 250
    }
   ]
  },
@@ -55,62 +55,62 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Sell looted weapons, junk, chems, or food to vendors at train stations.",
-    "score": null
+    "detail": "Sell looted weapons, junk, chems, or food to vendors such as train station robots.",
+    "score": 500
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "Find five Garden Gnomes at The General's Steakhouse in the Mire behind the main building.",
-    "score": null
+    "detail": "Five to eight Garden Gnomes are in the walled garden and shed at The General's Steakhouse in the Mire.",
+    "score": 500
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and complete the Daily Operation instance.",
-    "score": null
+    "detail": "Join a Daily Ops public team and complete five Daily Operations.",
+    "score": 500
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town via Bounty Board in The Last Resort saloon; track and eliminate the target.",
-    "score": null
+    "detail": "Start at Highway Town's Bounty Board in The Last Resort saloon, then find and eliminate the assigned outlaw.",
+    "score": 500
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for reliable spawns; use energy weapons.",
-    "score": null
+    "detail": "RobCo Research Center has reliable robot spawns; use energy weapons for quick kills.",
+    "score": 500
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from the wild or plant crops in your C.A.M.P. for on-demand gathering.",
-    "score": null
+    "detail": "Harvest from wild locations like Silva Homestead or plant vegetables at your C.A.M.P.",
+    "score": 500
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any outfit, hat, or mask with 'Costume' in its description before killing.",
-    "score": null
+    "detail": "Wear any outfit, hat or mask with 'Costume' in the description; Phantoms appear near cabins and campgrounds.",
+    "score": 500
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Fast travel to Wavy Willard's Water Park in Toxic Valley for reliable spawns.",
-    "score": null
+    "detail": "Wavy Willard's Water Park in Toxic Valley has many Scorched; target the head for weak spot.",
+    "score": 500
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it.",
-    "score": null
+    "detail": "Craft and scrap Bulk Aluminum at a Tinker's Workbench, or scrap relevant junk.",
+    "score": 500
    },
    {
     "id": "c4d2c3a93ca7",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days by completing all six other dailies.",
-    "score": null
+    "detail": "Complete all six other daily challenges on three separate days during the week.",
+    "score": 1500
    }
   ]
  },
@@ -118,10 +118,10 @@
   {
    "id": "496dffc39078",
    "name": "Slasher C.A.M.P. Contest",
-   "type": "seasonal",
+   "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build and submit a C.A.M.P. or Shelter inspired by slasher movies for prizes including Atoms and exclusive in-game titles."
+   "description": "Build a slasher-themed C.A.M.P. or Shelter for a chance to win Atoms and exclusive titles."
   },
   {
    "id": "f1217905f981",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Hunt masked, costumed Legendary Scorched enemies to collect Mystery Candy and themed event rewards."
+   "description": "Encounter spooky variants of Scorched creatures with themed rewards."
   },
   {
    "id": "54197332cee8",
@@ -137,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn experience at double rate during this weekend event."
+   "description": "Earn double experience points during this weekend event."
   },
   {
    "id": "9ee75e191915",
@@ -145,23 +145,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish this weekend."
-  },
-  {
-   "id": "d8085ca52c2c",
-   "name": "Double SCORE and Caps-A-Plenty",
-   "type": "weekend",
-   "starts": "2026-11-05",
-   "ends": "2026-11-09",
-   "description": "Earn double Scoreboard progress and bonus Caps during this event."
-  },
-  {
-   "id": "126bb8c1df9f",
-   "name": "Anniversary Events",
-   "type": "seasonal",
-   "starts": "2026-11-10",
-   "ends": "2026-11-17",
-   "description": "Special anniversary-themed event with unique rewards and activities."
+   "description": "Increased chance to catch seasonal fish during this special weekend."
   }
  ],
  "season": {
