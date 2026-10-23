@@ -1,56 +1,50 @@
 {
- "updated": "2026-10-22T22:25:15.515219+00:00",
+ "updated": "2026-10-23T17:53:47.597712+00:00",
  "daily": {
-  "period_start": "2026-10-22T12:00:00-04:00",
-  "resets_at": "2026-10-23T12:00:00-04:00",
+  "period_start": "2026-10-23T12:00:00-04:00",
+  "resets_at": "2026-10-24T12:00:00-04:00",
   "items": [
    {
-    "id": "084739be35ce",
-    "title": "Scrap junk to produce Steel",
-    "detail": "Craft Bulk Steel at a Tinker's Workbench and scrap it",
-    "score": null
+    "id": "25810e1bb37b",
+    "title": "Drink Purified Water",
+    "detail": "Collect from C.A.M.P. purifier or Rollins Labor Camp",
+    "score": 250
    },
    {
-    "id": "be33ab2a7e88",
-    "title": "Collect a Lighter, Cigarette or Cigar",
-    "detail": "Doctor's Orders Cigarette Machine at C.A.M.P. produces these passively",
-    "score": null
+    "id": "d7ba1233645f",
+    "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
+    "detail": "Build and scrap basic structures in build menu",
+    "score": 250
    },
    {
-    "id": "1c68c64b3872",
-    "title": "Cook Mole Rat Chunks",
-    "detail": "Cook at Cooking Station using 1 Mole Rat Meat and 1 Wood",
-    "score": null
+    "id": "f0f319d92283",
+    "title": "Collect Purified Water",
+    "detail": "Gather from C.A.M.P. purifier or check chem boxes",
+    "score": 250
    },
    {
-    "id": "68aa1fa3af3b",
-    "title": "Eat a can of Cajun Rice & Beans",
-    "detail": "South Mountain Lookout shack has up to four cans on shelves",
-    "score": null
+    "id": "a6800dca72df",
+    "title": "Gain XP",
+    "detail": "Auto-completes through normal gameplay and other challenges",
+    "score": 250
    },
    {
-    "id": "3865f5e94592",
-    "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Poseidon Energy Plant Yard has reliable Scorched spawns",
-    "score": null
+    "id": "6540066bb219",
+    "title": "Kill a Feral Ghoul",
+    "detail": "Fast travel to Whitespring Golf Club for reliable spawns",
+    "score": 250
    },
    {
-    "id": "e9337a35dc83",
-    "title": "Kill a Mole Rat",
-    "detail": "Hillfolk Hotdogs has several Mole Rat spawns",
-    "score": null
+    "id": "ff81239073bd",
+    "title": "Kill a Spooky Scorched",
+    "detail": "Fast travel to Morgantown Airport during Spooky Scorched event",
+    "score": 250
    },
    {
-    "id": "c3d87d69444a",
-    "title": "Kill Insects",
-    "detail": "Giant Teapot or Tanagra Town cave have reliable spawns",
-    "score": null
-   },
-   {
-    "id": "b84756f78dae",
-    "title": "Visit your Shelter",
-    "detail": "",
-    "score": null
+    "id": "ddbff1ee0e9c",
+    "title": "Pick a Lock",
+    "detail": "Use locked tool case at West Tek Research Center",
+    "score": 250
    }
   ]
  },
@@ -61,62 +55,62 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Sell looted items to vendors at train stations",
-    "score": 2500
+    "detail": "Sell looted items to vendors like train station merchants",
+    "score": 500
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "The General's Steakhouse walled garden holds five to eight gnomes",
-    "score": null
+    "detail": "Find five gnomes at The General's Steakhouse in the Mire",
+    "score": 500
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join or start a Daily Ops public team and enter the instance",
-    "score": null
+    "detail": "Join Daily Ops public team and enter the Daily Operation instance",
+    "score": 500
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town bounty board, eliminate assigned Outlaw",
-    "score": null
+    "detail": "Start at Highway Town bounty board and eliminate the assigned outlaw",
+    "score": 500
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has dependable robot spawns",
-    "score": null
+    "detail": "Fast travel to RobCo Research Center for robot spawns",
+    "score": 500
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Silva Homestead in the Forest or plant at your C.A.M.P.",
-    "score": null
+    "detail": "Gather from wild locations or plant vegetables in C.A.M.P.",
+    "score": 500
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Phantoms appear around cabins and fairgrounds; Organ Cave has a boss",
-    "score": null
+    "detail": "Equip costume and kill masked cultists around cabins and fairgrounds",
+    "score": 500
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Wavy Willard's Water Park in Toxic Valley has many Scorched",
-    "score": null
+    "detail": "Find spawns at Wavy Willard's Water Park in Toxic Valley",
+    "score": 500
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it",
-    "score": null
+    "detail": "Craft and scrap Bulk Aluminum at Tinker's Workbench",
+    "score": 500
    },
    {
     "id": "c4d2c3a93ca7",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other dailies on three separate days",
-    "score": null
+    "detail": "Earn gold star on three separate days this week",
+    "score": 1500
    }
   ]
  },
@@ -127,7 +121,7 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Community contest to build slasher-inspired C.A.M.P.s and shelters for Atoms and exclusive titles."
+   "description": "Community building contest for slasher-themed C.A.M.P. designs with Atoms and exclusive titles as prizes."
   },
   {
    "id": "f1217905f981",
@@ -135,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Spooky Scorched enemies appear across Appalachia dropping mystery candy and legendary items."
+   "description": "Seasonal event featuring Spooky Scorched enemies and trick-or-treat activities with candy bowl challenges."
   },
   {
    "id": "54197332cee8",
@@ -143,15 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Players earn double experience points for all activities and gameplay."
-  },
-  {
-   "id": "d1f8b2fba513",
-   "name": "Night at the Morgue",
-   "type": "seasonal",
-   "starts": "2026-10-22",
-   "ends": "2026-11-03",
-   "description": "Limited-time mini season with weekly ticket challenges involving candy bowls and trick-or-treating."
+   "description": "Double XP weekend event to accelerate character progression."
   },
   {
    "id": "9ee75e191915",
@@ -159,7 +145,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance of catching seasonal fish throughout the weekend."
+   "description": "Increased chance to catch seasonal fish during this weekend event."
   }
  ],
  "season": {
