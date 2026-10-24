@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-23T22:25:07.188161+00:00",
+ "updated": "2026-10-24T17:48:35.724397+00:00",
  "daily": {
-  "period_start": "2026-10-23T12:00:00-04:00",
-  "resets_at": "2026-10-24T12:00:00-04:00",
+  "period_start": "2026-10-24T12:00:00-04:00",
+  "resets_at": "2026-10-25T12:00:00-04:00",
   "items": [
    {
-    "id": "25810e1bb37b",
-    "title": "Drink Purified Water",
-    "detail": "Collect from C.A.M.P. purifier or Rollins Labor Camp",
-    "score": 250
+    "id": "4126957e8e35",
+    "title": "Eat Pre-war Food",
+    "detail": "Collect from Weenie Wagon, Popcorn Machine, or Cookie Jar at C.A.M.P.s",
+    "score": null
    },
    {
-    "id": "d7ba1233645f",
-    "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Build and scrap basic wood or concrete floors at your C.A.M.P.",
-    "score": 250
+    "id": "f6747413bb7d",
+    "title": "Build Anything in a Shelter",
+    "detail": "Place any item in your shelter build menu",
+    "score": null
    },
    {
-    "id": "f0f319d92283",
-    "title": "Collect Purified Water",
-    "detail": "Gather from C.A.M.P. purifier or check chem boxes",
-    "score": 250
+    "id": "31168e6ab69b",
+    "title": "Collect a Teddy Bear",
+    "detail": "Northeast of Knife Edge; toss grenade to knock them down from ledge",
+    "score": null
    },
    {
-    "id": "a6800dca72df",
-    "title": "Gain XP",
-    "detail": "Earn through kills, events, or West Tek grinding",
-    "score": 250
+    "id": "9c1895ff83a9",
+    "title": "Kill a Creature while in a Team",
+    "detail": "Join a team, then kill creatures like Scorched at Morgantown Airport",
+    "score": null
    },
    {
-    "id": "6540066bb219",
-    "title": "Kill a Feral Ghoul",
-    "detail": "Fast travel to Whitespring Golf Club for reliable spawns",
-    "score": 250
+    "id": "e68064ab2966",
+    "title": "Kill a Human Enemy with a Power Tool Weapon",
+    "detail": "Chainsaw spawns at Crimson Prospect or Metal Dome; Point Pleasant has Cultists",
+    "score": null
    },
    {
-    "id": "ff81239073bd",
-    "title": "Kill a Spooky Scorched",
-    "detail": "Fast travel to Morgantown Airport during the event",
-    "score": 250
+    "id": "f1dafe53eefa",
+    "title": "Scrap junk to produce Silver",
+    "detail": "Buy silver jewelry and dinnerware from Helena in Aurum at Whitespring Mall",
+    "score": null
    },
    {
-    "id": "ddbff1ee0e9c",
-    "title": "Pick a Lock",
-    "detail": "Pick locks at West Tek or Morgantown",
-    "score": 250
+    "id": "d4f2dbd10772",
+    "title": "Use Photomode in your own C.A.M.P.",
+    "detail": "Open Photomode and take a photo at your C.A.M.P.",
+    "score": null
    }
   ]
  },
@@ -55,62 +55,62 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Sell looted items to vendors at train stations",
-    "score": 2500
+    "detail": "Sell looted weapons, junk, chems, or food to vendors at train stations",
+    "score": null
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "Find five gnomes behind The General's Steakhouse in the Mire",
-    "score": 2500
+    "detail": "Five to eight gnomes at The General's Steakhouse walled garden in the Mire",
+    "score": null
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and complete the operation",
-    "score": 2500
+    "detail": "Join or create a Daily Ops public team and enter the instance",
+    "score": null
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town bounty board and eliminate the assigned outlaw",
-    "score": 2500
+    "detail": "Start at Highway Town bounty board in Burning Springs; eliminate assigned Outlaw",
+    "score": null
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "Use energy weapons at RobCo Research Center",
-    "score": 2500
+    "detail": "Fast travel to RobCo Research Center for reliable robot spawns; use energy weapons",
+    "score": null
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Gather from Silva Homestead or plant your own at C.A.M.P.",
-    "score": 2500
+    "detail": "Harvest from wild or plant at C.A.M.P.; Silva Homestead in Forest region",
+    "score": null
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip a costume item and find masked cultists at cabins and fairgrounds",
-    "score": 2500
+    "detail": "Equip any costume piece; Phantoms appear at cabins and fairgrounds; Organ Cave has boss",
+    "score": null
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Find reliable spawns at Wavy Willard's Water Park",
-    "score": 2500
+    "detail": "Wavy Willard's Water Park in Toxic Valley has reliable spawns",
+    "score": null
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft and scrap bulk aluminum at a tinker's workbench",
-    "score": 2500
+    "detail": "Craft Bulk Aluminum at Tinker's Workbench then scrap it",
+    "score": null
    },
    {
     "id": "c4d2c3a93ca7",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six daily challenges on three separate days",
-    "score": 1500
+    "detail": "Earn gold star on three separate days by completing six other dailies each day",
+    "score": null
    }
   ]
  },
@@ -121,7 +121,15 @@
    "type": "other",
    "starts": "2026-10-02",
    "ends": "2026-10-26",
-   "description": "Build a slasher-themed C.A.M.P. or Shelter and submit for a chance to win Atoms and exclusive titles."
+   "description": "Build a C.A.M.P. or Shelter inspired by slasher movies; submit entries for prizes including Atoms and exclusive titles."
+  },
+  {
+   "id": "e67412e8d2ca",
+   "name": "Night at the Morgue",
+   "type": "seasonal",
+   "starts": "2026-10-20",
+   "ends": "2026-11-03",
+   "description": "Mini season event with SCORE ticket challenges focused on candy bowl interactions and costume-based activities."
   },
   {
    "id": "f1217905f981",
@@ -129,7 +137,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Fight Spooky Scorched enemies wearing Halloween costumes and complete trick-or-treat challenges with other players."
+   "description": "Encounter Halloween-themed Scorched enemies wearing masks and costumes that drop mystery candy and legendary items."
   },
   {
    "id": "54197332cee8",
@@ -137,23 +145,15 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Earn experience points at double rate throughout the weekend."
+   "description": "Earn experience points at double rate during this weekend event."
   },
   {
-   "id": "ee8fe925e5f2",
-   "name": "Night at the Morgue",
-   "type": "seasonal",
-   "starts": "2026-10-23",
-   "ends": "2026-11-03",
-   "description": "Mini season event with weekly ticket challenges involving candy bowls, costume activities, and pumpkin harvesting."
-  },
-  {
-   "id": "b00e3297de16",
-   "name": "Seasonal Fish Run",
+   "id": "9ee75e191915",
+   "name": "Seasonal Fish Run Weekend",
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chances of catching seasonal fish during this special weekend event."
+   "description": "Increased chance to catch seasonal fish during this weekend event."
   }
  ],
  "season": {
