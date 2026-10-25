@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-24T22:20:50.884684+00:00",
+ "updated": "2026-10-25T17:49:34.558452+00:00",
  "daily": {
-  "period_start": "2026-10-24T12:00:00-04:00",
-  "resets_at": "2026-10-25T12:00:00-04:00",
+  "period_start": "2026-10-25T12:00:00-04:00",
+  "resets_at": "2026-10-26T12:00:00-04:00",
   "items": [
    {
-    "id": "4126957e8e35",
-    "title": "Eat Pre-war Food",
-    "detail": "Eat any Pre-war Food like BlamCo Mac and Cheese or Pork n' Beans, or collect from Weenie Wagon, Popcorn Machine, or Cookie Jar.",
-    "score": 250
+    "id": "de57dc3bb0f0",
+    "title": "Drink Nuka-Cola Dark",
+    "detail": "Rare drop from Nuka-Cola mystery machine, or find in Eta Psi house basement on Fraternity Row",
+    "score": null
    },
    {
-    "id": "f6747413bb7d",
-    "title": "Build Anything in a Shelter",
-    "detail": "Enter your shelter and place any item in the build menu.",
-    "score": 250
+    "id": "91cadae63038",
+    "title": "Complete a Daily Quest",
+    "detail": "Cop a Squatter at Watoga Emergency Services is usually quick",
+    "score": null
    },
    {
-    "id": "31168e6ab69b",
-    "title": "Collect a Teddy Bear",
-    "detail": "Teddy Bears can be found on a ledge northeast of Knife Edge; use a grenade to knock them down.",
-    "score": 250
+    "id": "22b715a505a7",
+    "title": "Craft a Grenade, Mine, or Thrown Weapon",
+    "detail": "Use Tinker's workbench at your C.A.M.P. or Whitespring Resort",
+    "score": null
    },
    {
-    "id": "9c1895ff83a9",
-    "title": "Kill a Creature while in a Team",
-    "detail": "Join any team (can be solo), then kill creatures like Scorched at Morgantown Airport.",
-    "score": 250
+    "id": "201afd0c770b",
+    "title": "Drink Canned Coffee",
+    "detail": "Brew from coffee machine at C.A.M.P. or find on Crab Shack roof near Toxic Dried Lakebed",
+    "score": null
    },
    {
-    "id": "e68064ab2966",
-    "title": "Kill a Human Enemy with a Power Tool Weapon",
-    "detail": "Use motorized melee weapons like Chainsaws on human enemies; Point Pleasant has many Cultists.",
-    "score": 250
+    "id": "3f70033beadf",
+    "title": "Kill a Human while under the effects of Psycho",
+    "detail": "Fast travel to Point Pleasant for cultist spawns, use Psycho before killing",
+    "score": null
    },
    {
-    "id": "f1dafe53eefa",
-    "title": "Scrap junk to produce Silver",
-    "detail": "Buy silver jewelry and dinnerware from Helena at Aurum in Whitespring Mall, then scrap at any workbench.",
-    "score": 250
+    "id": "f4ea2c980c3a",
+    "title": "Kill a Spooky Scorched",
+    "detail": "Morgantown Airport is a reliable spawn location during the Spooky Scorched event",
+    "score": null
    },
    {
-    "id": "d4f2dbd10772",
-    "title": "Use Photomode in your own C.A.M.P.",
-    "detail": "Open Photomode at your C.A.M.P. and take a photo with available settings.",
-    "score": 250
+    "id": "aa7313afdb22",
+    "title": "Sell a Tesla Rifle to an NPC vendor",
+    "detail": "Any vendor will buy it; Whitespring Resort has multiple vendors",
+    "score": null
    }
   ]
  },
@@ -55,62 +55,56 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Collect Caps from containers or sell looted items to vendors at train stations.",
+    "detail": "Sell looted weapons, junk, chems, or food to vendors at train stations for fastest results",
     "score": 2500
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "Five to eight Garden Gnomes are in the walled garden and shed behind The General's Steakhouse in the Mire.",
-    "score": 2500
+    "detail": "The General's Steakhouse in the Mire has five to eight gnomes in the walled garden and shed",
+    "score": 5
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and enter the Daily Operation from World Activity on the map.",
-    "score": 2500
+    "detail": "Join a Daily Ops public team and complete the Daily Operation instance",
+    "score": 5
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Travel to Highway Town via Bounty Board, interact with the Bounty pile in The Last Resort, and eliminate the assigned Outlaw.",
-    "score": 2500
+    "detail": "Start from Bounty Board at Highway Town in Burning Springs, then eliminate the assigned Outlaw",
+    "score": 10
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for reliable robot spawns; use energy weapons or V.A.T.S.",
-    "score": 2500
+    "detail": "RobCo Research Center has dependable robot spawns; energy weapons work well",
+    "score": 30
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from wild locations or farms like Silva Homestead, or plant crops at your C.A.M.P.",
-    "score": 2500
+    "detail": "Plant vegetables at your C.A.M.P. or gather from Silva Homestead in the Forest",
+    "score": 30
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any costume item (hat or mask counts) and kill Pint-Sized Phantoms near cabins, campgrounds, and fairgrounds.",
-    "score": 2500
+    "detail": "Found around cabins and campgrounds; equip any costume piece before the kill",
+    "score": 18
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Fast travel to Wavy Willard's Water Park in Toxic Valley for reliable Scorched spawns; use V.A.T.S. targeting the head.",
-    "score": 2500
+    "detail": "Wavy Willard's Water Park in Toxic Valley has a dozen Scorched in one loop",
+    "score": 30
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench at your C.A.M.P. or Whitespring Resort, then scrap it.",
-    "score": 2500
-   },
-   {
-    "id": "c4d2c3a93ca7",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days during the week by completing all six regular dailies each day.",
-    "score": 2500
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it",
+    "score": 15
    }
   ]
  },
@@ -121,7 +115,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Spooky Scorched mini season event with daily and weekly challenges involving candy bowls, trick-or-treating, pumpkins, and seasonal enemies in costumes."
+   "description": "Mini Season ticket event with candy bowl challenges and trick-or-treat activities."
   },
   {
    "id": "f1217905f981",
@@ -129,7 +123,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring Halloween-themed Scorched enemies that spawn as legendary creatures wearing costumes."
+   "description": "Seasonal event featuring Spooky Scorched enemies with Halloween costumes and special rewards."
   },
   {
    "id": "54197332cee8",
@@ -137,15 +131,15 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Experience points are doubled during this weekend period."
+   "description": "Double XP weekend event for faster character progression."
   },
   {
-   "id": "b00e3297de16",
-   "name": "Seasonal Fish Run",
+   "id": "9ee75e191915",
+   "name": "Seasonal Fish Run Weekend",
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Improved rates for catching seasonal fish this weekend."
+   "description": "Increased chance of catching seasonal fish this weekend."
   }
  ],
  "season": {
