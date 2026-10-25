@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:49:34.558452+00:00",
+ "updated": "2026-10-25T22:19:01.691177+00:00",
  "daily": {
   "period_start": "2026-10-25T12:00:00-04:00",
   "resets_at": "2026-10-26T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "de57dc3bb0f0",
     "title": "Drink Nuka-Cola Dark",
-    "detail": "Rare drop from Nuka-Cola mystery machine, or find in Eta Psi house basement on Fraternity Row",
+    "detail": "Check Eta Psi house basement on Fraternity Row or use a Nuka-Cola mystery machine",
     "score": null
    },
    {
     "id": "91cadae63038",
     "title": "Complete a Daily Quest",
-    "detail": "Cop a Squatter at Watoga Emergency Services is usually quick",
+    "detail": "Cop a Squatter at Watoga Emergency Services is quick",
     "score": null
    },
    {
     "id": "22b715a505a7",
     "title": "Craft a Grenade, Mine, or Thrown Weapon",
-    "detail": "Use Tinker's workbench at your C.A.M.P. or Whitespring Resort",
+    "detail": "Use a Tinker's or Weapons workbench",
     "score": null
    },
    {
     "id": "201afd0c770b",
     "title": "Drink Canned Coffee",
-    "detail": "Brew from coffee machine at C.A.M.P. or find on Crab Shack roof near Toxic Dried Lakebed",
+    "detail": "Easiest from a coffee machine or the Crab Shack roof",
     "score": null
    },
    {
     "id": "3f70033beadf",
     "title": "Kill a Human while under the effects of Psycho",
-    "detail": "Fast travel to Point Pleasant for cultist spawns, use Psycho before killing",
+    "detail": "Fast travel to Point Pleasant, take Psycho, kill a Cultist",
     "score": null
    },
    {
     "id": "f4ea2c980c3a",
     "title": "Kill a Spooky Scorched",
-    "detail": "Morgantown Airport is a reliable spawn location during the Spooky Scorched event",
+    "detail": "Morgantown Airport is reliable; they spawn as Legendary enemies",
     "score": null
    },
    {
     "id": "aa7313afdb22",
     "title": "Sell a Tesla Rifle to an NPC vendor",
-    "detail": "Any vendor will buy it; Whitespring Resort has multiple vendors",
+    "detail": "Whitespring Resort or any vendor works",
     "score": null
    }
   ]
@@ -55,56 +55,62 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Sell looted weapons, junk, chems, or food to vendors at train stations for fastest results",
+    "detail": "Sell looted items to vendors at train stations",
     "score": 2500
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "The General's Steakhouse in the Mire has five to eight gnomes in the walled garden and shed",
-    "score": 5
+    "detail": "Five to eight gnomes at The General's Steakhouse walled garden",
+    "score": null
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and complete the Daily Operation instance",
-    "score": 5
+    "detail": "Join a Daily Ops public team and complete the operation",
+    "score": null
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start from Bounty Board at Highway Town in Burning Springs, then eliminate the assigned Outlaw",
-    "score": 10
+    "detail": "Start at Highway Town bounty board, eliminate the assigned Outlaw",
+    "score": null
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has dependable robot spawns; energy weapons work well",
-    "score": 30
+    "detail": "RobCo Research Center has reliable spawns",
+    "score": null
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Plant vegetables at your C.A.M.P. or gather from Silva Homestead in the Forest",
-    "score": 30
+    "detail": "Silva Homestead in Forest or plant vegetables at C.A.M.P.",
+    "score": null
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Found around cabins and campgrounds; equip any costume piece before the kill",
-    "score": 18
+    "detail": "Wear any costume item; Phantoms appear at cabins and fairgrounds",
+    "score": null
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Wavy Willard's Water Park in Toxic Valley has a dozen Scorched in one loop",
-    "score": 30
+    "detail": "Wavy Willard's Water Park has reliable spawns",
+    "score": null
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it",
-    "score": 15
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench then scrap it",
+    "score": null
+   },
+   {
+    "id": "c4d2c3a93ca7",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Earn the daily Gold Star on three separate days during the week",
+    "score": null
    }
   ]
  },
@@ -115,7 +121,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Mini Season ticket event with candy bowl challenges and trick-or-treat activities."
+   "description": "Mini season with weekly ticket challenges involving candy bowls, trick-or-treating, pumpkin harvesting, and costume-based activities"
   },
   {
    "id": "f1217905f981",
@@ -123,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring Spooky Scorched enemies with Halloween costumes and special rewards."
+   "description": "Hunt Spooky Scorched enemies wearing Halloween costumes for seasonal rewards and mystery candy"
   },
   {
    "id": "54197332cee8",
@@ -131,15 +137,15 @@
    "type": "weekend",
    "starts": "2026-10-22",
    "ends": "2026-10-26",
-   "description": "Double XP weekend event for faster character progression."
+   "description": "Double experience points for leveling and progression"
   },
   {
-   "id": "9ee75e191915",
-   "name": "Seasonal Fish Run Weekend",
+   "id": "b00e3297de16",
+   "name": "Seasonal Fish Run",
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance of catching seasonal fish this weekend."
+   "description": "Increased chance to catch seasonal fish this weekend"
   }
  ],
  "season": {
