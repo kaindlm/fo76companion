@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T17:59:16.585295+00:00",
+ "updated": "2026-10-26T22:29:08.629897+00:00",
  "daily": {
   "period_start": "2026-10-26T12:00:00-04:00",
   "resets_at": "2026-10-27T12:00:00-04:00",
@@ -19,19 +19,19 @@
    {
     "id": "a489f457ffb3",
     "title": "Collect Pre-War Money",
-    "detail": "Check Shredders, cash registers, and safes at Camden Park or Wavy Willard's Water Park.",
+    "detail": "Check Shredder at C.A.M.P., or loot cash registers and safes at Camden Park or Wavy Willard's.",
     "score": 250
    },
    {
     "id": "70b36e932ba2",
     "title": "Collect a Plunger",
-    "detail": "Search Whitespring Resort maintenance building or Wavy Willard's Water Park restrooms.",
+    "detail": "Search maintenance buildings at Whitespring Resort or restrooms at Wavy Willard's Water Park.",
     "score": 250
    },
    {
     "id": "49a1ed238bda",
     "title": "Complete a Daily Operation!",
-    "detail": "Join or start a Daily Ops public team and enter the Daily Operation instance.",
+    "detail": "Join or start a Daily Ops public team and complete the Daily Operation instance.",
     "score": 250
    },
    {
@@ -43,7 +43,7 @@
    {
     "id": "3e25c9a0c201",
     "title": "Kill an Enemy with any Energy Weapon",
-    "detail": "Any energy weapon counts; Vault-Tec Agricultural Research Center has reliable robot spawns.",
+    "detail": "Use Laser Rifles, Plasma Guns, Tesla Rifles, or similar at Vault-Tec Agricultural Research Center.",
     "score": 250
    }
   ]
@@ -55,55 +55,55 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Sell looted weapons, junk, chems, or food to vendors for fastest completion.",
+    "detail": "Sell looted weapons, junk, chems, or food to vendors at train stations.",
     "score": 2500
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "Five to eight gnomes stand in the walled garden at The General's Steakhouse in the Mire.",
+    "detail": "Find 5 gnomes at The General's Steakhouse walled garden in the Mire.",
     "score": 2500
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and complete the Daily Operation instance five times.",
+    "detail": "Join a Daily Ops public team and complete 5 Daily Operations.",
     "score": 2500
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town Bounty Board, then track and eliminate the assigned Outlaw enemy.",
+    "detail": "Start at Highway Town Bounty Board and eliminate 10 assigned Outlaw enemies.",
     "score": 2500
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has dependable robot spawns; energy weapons work best.",
+    "detail": "Fast travel to RobCo Research Center for dependable robot spawns.",
     "score": 2500
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from the wild or plant vegetables at your C.A.M.P. for on-demand gathering.",
+    "detail": "Harvest 30 from the wild or plant vegetables at your C.A.M.P.",
     "score": 2500
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any costume outfit; phantoms appear at cabins, campgrounds, and fairgrounds.",
+    "detail": "Wear any costume piece and kill 18 Phantoms from the Slasher event.",
     "score": 2500
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Wavy Willard's Water Park has reliable spawns of about a dozen Scorched.",
+    "detail": "Kill 30 Scorched, with reliable spawns at Wavy Willard's Water Park.",
     "score": 2500
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it for fastest completion.",
+    "detail": "Craft or scrap 15 bulk aluminum at a Tinker's Workbench.",
     "score": 2500
    }
   ]
@@ -115,7 +115,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring Spooky Scorched enemies with Halloween-themed rewards and candy bowl challenges."
+   "description": "Hunt Spooky Scorched enemies wearing Halloween costumes and complete trick-or-treat challenges with other players' candy bowls."
   },
   {
    "id": "9ee75e191915",
@@ -123,7 +123,15 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish with new local legend, recipes and challenges available."
+   "description": "Increased chance to catch seasonal fish during this special weekend event."
+  },
+  {
+   "id": "d8085ca52c2c",
+   "name": "Double SCORE and Caps-A-Plenty",
+   "type": "weekend",
+   "starts": "2026-11-05",
+   "ends": "2026-11-09",
+   "description": "Earn double SCORE and extra caps during this bonus event."
   }
  ],
  "season": {
