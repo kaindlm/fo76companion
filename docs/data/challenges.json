@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-25T22:19:01.691177+00:00",
+ "updated": "2026-10-26T17:59:16.585295+00:00",
  "daily": {
-  "period_start": "2026-10-25T12:00:00-04:00",
-  "resets_at": "2026-10-26T12:00:00-04:00",
+  "period_start": "2026-10-26T12:00:00-04:00",
+  "resets_at": "2026-10-27T12:00:00-04:00",
   "items": [
    {
-    "id": "de57dc3bb0f0",
-    "title": "Drink Nuka-Cola Dark",
-    "detail": "Check Eta Psi house basement on Fraternity Row or use a Nuka-Cola mystery machine",
-    "score": null
+    "id": "3d178ee63bc3",
+    "title": "Consume an Alcoholic Beverage",
+    "detail": "Get from a C.A.M.P. Brewing Vat or another player's C.A.M.P.",
+    "score": 250
    },
    {
-    "id": "91cadae63038",
-    "title": "Complete a Daily Quest",
-    "detail": "Cop a Squatter at Watoga Emergency Services is quick",
-    "score": null
+    "id": "0352f9dcc6b6",
+    "title": "Build a Generator in a C.A.M.P. or Workshop",
+    "detail": "Open C.A.M.P. build menu, navigate to Power and place any Generator.",
+    "score": 250
    },
    {
-    "id": "22b715a505a7",
-    "title": "Craft a Grenade, Mine, or Thrown Weapon",
-    "detail": "Use a Tinker's or Weapons workbench",
-    "score": null
+    "id": "a489f457ffb3",
+    "title": "Collect Pre-War Money",
+    "detail": "Check Shredders, cash registers, and safes at Camden Park or Wavy Willard's Water Park.",
+    "score": 250
    },
    {
-    "id": "201afd0c770b",
-    "title": "Drink Canned Coffee",
-    "detail": "Easiest from a coffee machine or the Crab Shack roof",
-    "score": null
+    "id": "70b36e932ba2",
+    "title": "Collect a Plunger",
+    "detail": "Search Whitespring Resort maintenance building or Wavy Willard's Water Park restrooms.",
+    "score": 250
    },
    {
-    "id": "3f70033beadf",
-    "title": "Kill a Human while under the effects of Psycho",
-    "detail": "Fast travel to Point Pleasant, take Psycho, kill a Cultist",
-    "score": null
+    "id": "49a1ed238bda",
+    "title": "Complete a Daily Operation!",
+    "detail": "Join or start a Daily Ops public team and enter the Daily Operation instance.",
+    "score": 250
    },
    {
-    "id": "f4ea2c980c3a",
-    "title": "Kill a Spooky Scorched",
-    "detail": "Morgantown Airport is reliable; they spawn as Legendary enemies",
-    "score": null
+    "id": "5832a8b9b237",
+    "title": "Kill a Super Mutant",
+    "detail": "Fast travel to West Tek Research Center for reliable spawns.",
+    "score": 250
    },
    {
-    "id": "aa7313afdb22",
-    "title": "Sell a Tesla Rifle to an NPC vendor",
-    "detail": "Whitespring Resort or any vendor works",
-    "score": null
+    "id": "3e25c9a0c201",
+    "title": "Kill an Enemy with any Energy Weapon",
+    "detail": "Any energy weapon counts; Vault-Tec Agricultural Research Center has reliable robot spawns.",
+    "score": 250
    }
   ]
  },
@@ -55,97 +55,75 @@
    {
     "id": "2d19e3e81ce5",
     "title": "Collect Caps",
-    "detail": "Sell looted items to vendors at train stations",
+    "detail": "Sell looted weapons, junk, chems, or food to vendors for fastest completion.",
     "score": 2500
    },
    {
     "id": "7b6f19ead788",
     "title": "Collect a Garden Gnome",
-    "detail": "Five to eight gnomes at The General's Steakhouse walled garden",
-    "score": null
+    "detail": "Five to eight gnomes stand in the walled garden at The General's Steakhouse in the Mire.",
+    "score": 2500
    },
    {
     "id": "366f4aaea681",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and complete the operation",
-    "score": null
+    "detail": "Join a Daily Ops public team and complete the Daily Operation instance five times.",
+    "score": 2500
    },
    {
     "id": "3e1f08ace07c",
     "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town bounty board, eliminate the assigned Outlaw",
-    "score": null
+    "detail": "Start at Highway Town Bounty Board, then track and eliminate the assigned Outlaw enemy.",
+    "score": 2500
    },
    {
     "id": "40e94cc06414",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has reliable spawns",
-    "score": null
+    "detail": "RobCo Research Center has dependable robot spawns; energy weapons work best.",
+    "score": 2500
    },
    {
     "id": "f84c7b650a05",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Silva Homestead in Forest or plant vegetables at C.A.M.P.",
-    "score": null
+    "detail": "Harvest from the wild or plant vegetables at your C.A.M.P. for on-demand gathering.",
+    "score": 2500
    },
    {
     "id": "85a9e6934832",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Wear any costume item; Phantoms appear at cabins and fairgrounds",
-    "score": null
+    "detail": "Equip any costume outfit; phantoms appear at cabins, campgrounds, and fairgrounds.",
+    "score": 2500
    },
    {
     "id": "b4988ff916a5",
     "title": "Kill a Scorched",
-    "detail": "Wavy Willard's Water Park has reliable spawns",
-    "score": null
+    "detail": "Wavy Willard's Water Park has reliable spawns of about a dozen Scorched.",
+    "score": 2500
    },
    {
     "id": "2022f8e7f68f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench then scrap it",
-    "score": null
-   },
-   {
-    "id": "c4d2c3a93ca7",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days during the week",
-    "score": null
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench and scrap it for fastest completion.",
+    "score": 2500
    }
   ]
  },
  "events": [
-  {
-   "id": "e67412e8d2ca",
-   "name": "Night at the Morgue",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Mini season with weekly ticket challenges involving candy bowls, trick-or-treating, pumpkin harvesting, and costume-based activities"
-  },
   {
    "id": "f1217905f981",
    "name": "Spooky Scorched",
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Hunt Spooky Scorched enemies wearing Halloween costumes for seasonal rewards and mystery candy"
+   "description": "Seasonal event featuring Spooky Scorched enemies with Halloween-themed rewards and candy bowl challenges."
   },
   {
-   "id": "54197332cee8",
-   "name": "Double XP",
-   "type": "weekend",
-   "starts": "2026-10-22",
-   "ends": "2026-10-26",
-   "description": "Double experience points for leveling and progression"
-  },
-  {
-   "id": "b00e3297de16",
-   "name": "Seasonal Fish Run",
+   "id": "9ee75e191915",
+   "name": "Seasonal Fish Run Weekend",
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish this weekend"
+   "description": "Increased chance to catch seasonal fish with new local legend, recipes and challenges available."
   }
  ],
  "season": {
