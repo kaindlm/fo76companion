@@ -1,110 +1,104 @@
 {
- "updated": "2026-10-26T22:29:08.629897+00:00",
+ "updated": "2026-10-27T21:24:25.911688+00:00",
  "daily": {
-  "period_start": "2026-10-26T12:00:00-04:00",
-  "resets_at": "2026-10-27T12:00:00-04:00",
+  "period_start": "2026-10-27T12:00:00-04:00",
+  "resets_at": "2026-10-28T12:00:00-04:00",
   "items": [
    {
-    "id": "3d178ee63bc3",
-    "title": "Consume an Alcoholic Beverage",
-    "detail": "Get from a C.A.M.P. Brewing Vat or another player's C.A.M.P.",
-    "score": 250
+    "id": "a9020925674f",
+    "title": "Scrap junk to produce Aluminum",
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it.",
+    "score": null
    },
    {
-    "id": "0352f9dcc6b6",
-    "title": "Build a Generator in a C.A.M.P. or Workshop",
-    "detail": "Open C.A.M.P. build menu, navigate to Power and place any Generator.",
-    "score": 250
+    "id": "d4cc03b7c087",
+    "title": "Cripple a Spooky Scorched's Leg",
+    "detail": "Fast travel to Morgantown Airport. Use V.A.T.S. to target the leg.",
+    "score": null
    },
    {
-    "id": "a489f457ffb3",
-    "title": "Collect Pre-War Money",
-    "detail": "Check Shredder at C.A.M.P., or loot cash registers and safes at Camden Park or Wavy Willard's.",
-    "score": 250
+    "id": "f3a9267603d3",
+    "title": "Eat a Plant-based Meal",
+    "detail": "Cook Corn Soup at a Cooking Station and consume it.",
+    "score": null
    },
    {
-    "id": "70b36e932ba2",
-    "title": "Collect a Plunger",
-    "detail": "Search maintenance buildings at Whitespring Resort or restrooms at Wavy Willard's Water Park.",
-    "score": 250
+    "id": "82b0944b5a0f",
+    "title": "Eat a tin of Cram",
+    "detail": "Found in Summersville diner kitchen or west of Mosstown.",
+    "score": null
    },
    {
-    "id": "49a1ed238bda",
-    "title": "Complete a Daily Operation!",
-    "detail": "Join or start a Daily Ops public team and complete the Daily Operation instance.",
-    "score": 250
+    "id": "65522aa5e26c",
+    "title": "Gain XP",
+    "detail": "Complete kills, events, or raid activities. West Tek is a fast grind.",
+    "score": null
    },
    {
-    "id": "5832a8b9b237",
-    "title": "Kill a Super Mutant",
-    "detail": "Fast travel to West Tek Research Center for reliable spawns.",
-    "score": 250
+    "id": "6fe1d264fbae",
+    "title": "Scrap junk to produce Black Titanium",
+    "detail": "Scrap Mole Miner suit scraps or excavator power armor mod boxes.",
+    "score": null
    },
    {
-    "id": "3e25c9a0c201",
-    "title": "Kill an Enemy with any Energy Weapon",
-    "detail": "Use Laser Rifles, Plasma Guns, Tesla Rifles, or similar at Vault-Tec Agricultural Research Center.",
-    "score": 250
+    "id": "c550d7697ea7",
+    "title": "Sell Mutant Hound Chops to an NPC vendor",
+    "detail": "Kill a Mutant Hound at Sunnytop Ski Lanes, then sell chops at any vendor.",
+    "score": null
    }
   ]
  },
  "weekly": {
-  "period_start": "2026-10-20T12:00:00-04:00",
-  "resets_at": "2026-10-27T12:00:00-04:00",
+  "period_start": "2026-10-27T12:00:00-04:00",
+  "resets_at": "2026-11-03T12:00:00-05:00",
   "items": [
    {
-    "id": "2d19e3e81ce5",
-    "title": "Collect Caps",
-    "detail": "Sell looted weapons, junk, chems, or food to vendors at train stations.",
-    "score": 2500
+    "id": "2765ca95c460",
+    "title": "Collect a Fuel Tank or Gas Canister",
+    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go or Grafton Steel.",
+    "score": null
    },
    {
-    "id": "7b6f19ead788",
-    "title": "Collect a Garden Gnome",
-    "detail": "Find 5 gnomes at The General's Steakhouse walled garden in the Mire.",
-    "score": 2500
+    "id": "0005159f733c",
+    "title": "Complete a Daily Operation!",
+    "detail": "Join a Daily Ops team or start one. Easier with a team.",
+    "score": null
    },
    {
-    "id": "366f4aaea681",
-    "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and complete 5 Daily Operations.",
-    "score": 2500
+    "id": "d17bc580c622",
+    "title": "Craft any Plushie at a Tinkerer's Bench",
+    "detail": "Build one at your C.A.M.P. or use the one at Whitespring Resort.",
+    "score": null
    },
    {
-    "id": "3e1f08ace07c",
-    "title": "Complete a Grunt Hunt",
-    "detail": "Start at Highway Town Bounty Board and eliminate 10 assigned Outlaw enemies.",
-    "score": 2500
+    "id": "d3dbdef63716",
+    "title": "Cripple a Spooky Scorched's Leg",
+    "detail": "Spooky Scorched appear during the seasonal event. Morgantown Airport is reliable.",
+    "score": null
    },
    {
-    "id": "40e94cc06414",
-    "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for dependable robot spawns.",
-    "score": 2500
+    "id": "1a5a664fbce2",
+    "title": "Drink Nuka-Grape",
+    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "score": null
    },
    {
-    "id": "f84c7b650a05",
-    "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest 30 from the wild or plant vegetables at your C.A.M.P.",
-    "score": 2500
+    "id": "9058f1b99e2b",
+    "title": "Drink Nuka-Orange",
+    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "score": null
    },
    {
-    "id": "85a9e6934832",
-    "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Wear any costume piece and kill 18 Phantoms from the Slasher event.",
-    "score": 2500
+    "id": "7ad484a2da71",
+    "title": "Kill a Creature",
+    "detail": "Whitespring Golf Club has dense Feral Ghouls.",
+    "score": null
    },
    {
-    "id": "b4988ff916a5",
-    "title": "Kill a Scorched",
-    "detail": "Kill 30 Scorched, with reliable spawns at Wavy Willard's Water Park.",
-    "score": 2500
-   },
-   {
-    "id": "2022f8e7f68f",
-    "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft or scrap 15 bulk aluminum at a Tinker's Workbench.",
-    "score": 2500
+    "id": "59368f5d1ed3",
+    "title": "Kill a Creature while Wearing a Costume",
+    "detail": "Equip any costume item and go to Poseidon Energy Plant.",
+    "score": null
    }
   ]
  },
@@ -115,7 +109,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Hunt Spooky Scorched enemies wearing Halloween costumes and complete trick-or-treat challenges with other players' candy bowls."
+   "description": "Hunt Spooky Scorched enemies wearing Halloween costumes and masks for exclusive rewards and seasonal challenges."
   },
   {
    "id": "9ee75e191915",
@@ -123,7 +117,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this special weekend event."
+   "description": "Increased chance to catch seasonal fish during this weekend-long event."
   },
   {
    "id": "d8085ca52c2c",
@@ -131,7 +125,15 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Earn double SCORE and extra caps during this bonus event."
+   "description": "Earn double SCORE points and extra caps during this weekend event."
+  },
+  {
+   "id": "126bb8c1df9f",
+   "name": "Anniversary Events",
+   "type": "other",
+   "starts": "2026-11-10",
+   "ends": "2026-11-17",
+   "description": "Special anniversary celebration with unique challenges and rewards."
   }
  ],
  "season": {
