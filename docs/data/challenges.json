@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:24:25.911688+00:00",
+ "updated": "2026-10-28T01:02:54.526756+00:00",
  "daily": {
   "period_start": "2026-10-27T12:00:00-04:00",
   "resets_at": "2026-10-28T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "a9020925674f",
     "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it.",
+    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it",
     "score": null
    },
    {
     "id": "d4cc03b7c087",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Fast travel to Morgantown Airport. Use V.A.T.S. to target the leg.",
+    "detail": "Fast travel to Morgantown Airport; use V.A.T.S. with a rifle",
     "score": null
    },
    {
     "id": "f3a9267603d3",
     "title": "Eat a Plant-based Meal",
-    "detail": "Cook Corn Soup at a Cooking Station and consume it.",
+    "detail": "Cook Corn Soup at a Cooking Station and consume it",
     "score": null
    },
    {
     "id": "82b0944b5a0f",
     "title": "Eat a tin of Cram",
-    "detail": "Found in Summersville diner kitchen or west of Mosstown.",
+    "detail": "Find in Summersville diner or west of Mosstown; eat from Pip-Boy",
     "score": null
    },
    {
     "id": "65522aa5e26c",
     "title": "Gain XP",
-    "detail": "Complete kills, events, or raid activities. West Tek is a fast grind.",
+    "detail": "West Tek or raids are fastest; often auto-completes with other challenges",
     "score": null
    },
    {
     "id": "6fe1d264fbae",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suit scraps or excavator power armor mod boxes.",
+    "detail": "Scrap Mole Miner suit scraps or excavator power armor mods",
     "score": null
    },
    {
     "id": "c550d7697ea7",
     "title": "Sell Mutant Hound Chops to an NPC vendor",
-    "detail": "Kill a Mutant Hound at Sunnytop Ski Lanes, then sell chops at any vendor.",
+    "detail": "Kill a Mutant Hound at Sunnytop Ski Lanes; sell chops at any vendor",
     "score": null
    }
   ]
@@ -55,61 +55,81 @@
    {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go or Grafton Steel.",
+    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go",
     "score": null
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Join a Daily Ops team or start one. Easier with a team.",
+    "detail": "Join or start a Daily Ops public team; easier with a group",
     "score": null
    },
    {
     "id": "d17bc580c622",
     "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build one at your C.A.M.P. or use the one at Whitespring Resort.",
+    "detail": "Build a Tinkerer's Bench in C.A.M.P. or use Whitespring Resort",
     "score": null
    },
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Spooky Scorched appear during the seasonal event. Morgantown Airport is reliable.",
+    "detail": "Morgantown Airport; appears during Spooky Scorched event",
     "score": null
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "detail": "Get from Nuka-Cola Collectron Station at a C.A.M.P.",
     "score": null
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "detail": "Get from Nuka-Cola Collectron Station at a C.A.M.P.",
     "score": null
    },
    {
     "id": "7ad484a2da71",
     "title": "Kill a Creature",
-    "detail": "Whitespring Golf Club has dense Feral Ghouls.",
+    "detail": "Whitespring Golf Club has dense Feral Ghoul populations",
     "score": null
    },
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume item and go to Poseidon Energy Plant.",
+    "detail": "Poseidon Energy Plant Yard is reliable for Scorched spawns",
+    "score": null
+   },
+   {
+    "id": "db558d43b1bc",
+    "title": "Take a Chem",
+    "detail": "Get Chems from Doctor's Orders Cigarette Machine at C.A.M.P.",
+    "score": null
+   },
+   {
+    "id": "7124157fcd13",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six daily challenges on three separate days during the week",
     "score": null
    }
   ]
  },
  "events": [
   {
+   "id": "e67412e8d2ca",
+   "name": "Night at the Morgue",
+   "type": "seasonal",
+   "starts": "2026-10-20",
+   "ends": "2026-11-03",
+   "description": "Mini Season ticket event with weekly challenges for giving out candy and trick-or-treating at player C.A.M.P.s."
+  },
+  {
    "id": "f1217905f981",
    "name": "Spooky Scorched",
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Hunt Spooky Scorched enemies wearing Halloween costumes and masks for exclusive rewards and seasonal challenges."
+   "description": "Seasonal event featuring Spooky Scorched enemies that spawn in Halloween costumes, dropping mystery candy and unique rewards."
   },
   {
    "id": "9ee75e191915",
@@ -117,23 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this weekend-long event."
-  },
-  {
-   "id": "d8085ca52c2c",
-   "name": "Double SCORE and Caps-A-Plenty",
-   "type": "weekend",
-   "starts": "2026-11-05",
-   "ends": "2026-11-09",
-   "description": "Earn double SCORE points and extra caps during this weekend event."
-  },
-  {
-   "id": "126bb8c1df9f",
-   "name": "Anniversary Events",
-   "type": "other",
-   "starts": "2026-11-10",
-   "ends": "2026-11-17",
-   "description": "Special anniversary celebration with unique challenges and rewards."
+   "description": "Increased chance to catch seasonal fish this weekend."
   }
  ],
  "season": {
