@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-28T01:02:54.526756+00:00",
+ "updated": "2026-10-28T21:46:56.056745+00:00",
  "daily": {
-  "period_start": "2026-10-27T12:00:00-04:00",
-  "resets_at": "2026-10-28T12:00:00-04:00",
+  "period_start": "2026-10-28T12:00:00-04:00",
+  "resets_at": "2026-10-29T12:00:00-04:00",
   "items": [
    {
-    "id": "a9020925674f",
-    "title": "Scrap junk to produce Aluminum",
-    "detail": "Craft Bulk Aluminum at a Tinker's Workbench, then scrap it",
-    "score": null
+    "id": "597cfaa551b4",
+    "title": "Craft Ammo at a Workbench",
+    "detail": "Build a Tinker's Workbench in your C.A.M.P. or use one at the Whitespring Resort.",
+    "score": 50
    },
    {
-    "id": "d4cc03b7c087",
-    "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Fast travel to Morgantown Airport; use V.A.T.S. with a rifle",
-    "score": null
+    "id": "b57be09f1ec6",
+    "title": "Build a Trap in a Workshop or C.A.M.P.",
+    "detail": "Place any trap in your C.A.M.P. from the Defense build menu; a Punji Board is a cheap option.",
+    "score": 5
    },
    {
-    "id": "f3a9267603d3",
-    "title": "Eat a Plant-based Meal",
-    "detail": "Cook Corn Soup at a Cooking Station and consume it",
-    "score": null
+    "id": "582a16124a50",
+    "title": "Collect Soap",
+    "detail": "Find soap at the Whitespring Resort bathrooms or collect from a Whitespring Robo Butler Collectron.",
+    "score": 2
    },
    {
-    "id": "82b0944b5a0f",
-    "title": "Eat a tin of Cram",
-    "detail": "Find in Summersville diner or west of Mosstown; eat from Pip-Boy",
-    "score": null
+    "id": "73e2f25e4670",
+    "title": "Craft or Scrap a Melee Weapon",
+    "detail": "Craft or scrap any melee weapon at a workbench; try the Whitespring Resort.",
+    "score": 5
    },
    {
-    "id": "65522aa5e26c",
-    "title": "Gain XP",
-    "detail": "West Tek or raids are fastest; often auto-completes with other challenges",
-    "score": null
+    "id": "f0eb5b80a09e",
+    "title": "Deal a Critical Hit to a Radtoad in VATS",
+    "detail": "Head to Grafton by the toxic river and use V.A.T.S. to crit a Radtoad's head.",
+    "score": 1
    },
    {
-    "id": "6fe1d264fbae",
-    "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suit scraps or excavator power armor mods",
-    "score": null
+    "id": "f5a76586713b",
+    "title": "Eat a box of Sugar Bombs",
+    "detail": "Find Sugar Bombs at New River Gorge Bridge - West or collect from a Santatron Collectron.",
+    "score": 1
    },
    {
-    "id": "c550d7697ea7",
-    "title": "Sell Mutant Hound Chops to an NPC vendor",
-    "detail": "Kill a Mutant Hound at Sunnytop Ski Lanes; sell chops at any vendor",
-    "score": null
+    "id": "1270da65364b",
+    "title": "Take a Camera Picture of a Super Mutant",
+    "detail": "Fast travel to West Tek Research Center with a camera equipped and photograph a Super Mutant.",
+    "score": 1
    }
   ]
  },
@@ -53,83 +53,75 @@
   "resets_at": "2026-11-03T12:00:00-05:00",
   "items": [
    {
+    "id": "7124157fcd13",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Earn the daily Gold Star on three separate days during the week by completing all six other dailies.",
+    "score": 1500
+   },
+   {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go",
-    "score": null
+    "detail": "Find Fuel Tanks or Gas Canisters at industrial locations like Toxic Larry's Meat 'n Go or Grafton Steel.",
+    "score": 5
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Join or start a Daily Ops public team; easier with a group",
-    "score": null
+    "detail": "Join or start a Daily Ops public team and complete a Daily Operation; easier with a team.",
+    "score": 3
    },
    {
     "id": "d17bc580c622",
     "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build a Tinkerer's Bench in C.A.M.P. or use Whitespring Resort",
-    "score": null
+    "detail": "Build a Tinkerer's Workbench in your C.A.M.P. or use the one at the Whitespring Resort.",
+    "score": 3
    },
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Morgantown Airport; appears during Spooky Scorched event",
-    "score": null
+    "detail": "Spooky Scorched appear during the seasonal event; aim at their leg with a rifle using V.A.T.S.",
+    "score": 30
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Get from Nuka-Cola Collectron Station at a C.A.M.P.",
-    "score": null
+    "detail": "Get Nuka-Grape from a Nuka-Cola Collectron Station in a C.A.M.P. and drink it.",
+    "score": 5
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station at a C.A.M.P.",
-    "score": null
+    "detail": "Get Nuka-Orange from a Nuka-Cola Collectron Station in a C.A.M.P. and drink it.",
+    "score": 5
    },
    {
     "id": "7ad484a2da71",
     "title": "Kill a Creature",
-    "detail": "Whitespring Golf Club has dense Feral Ghoul populations",
-    "score": null
+    "detail": "Fast travel to the Whitespring Golf Club where Feral Ghouls spawn; they're easy to take down.",
+    "score": 25
    },
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Poseidon Energy Plant Yard is reliable for Scorched spawns",
-    "score": null
+    "detail": "Equip any costume item and kill creatures at Poseidon Energy Plant.",
+    "score": 20
    },
    {
     "id": "db558d43b1bc",
     "title": "Take a Chem",
-    "detail": "Get Chems from Doctor's Orders Cigarette Machine at C.A.M.P.",
-    "score": null
-   },
-   {
-    "id": "7124157fcd13",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six daily challenges on three separate days during the week",
-    "score": null
+    "detail": "Get Chems from the Doctor's Orders Cigarette Machine in a C.A.M.P. or another player's C.A.M.P.",
+    "score": 9
    }
   ]
  },
  "events": [
-  {
-   "id": "e67412e8d2ca",
-   "name": "Night at the Morgue",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Mini Season ticket event with weekly challenges for giving out candy and trick-or-treating at player C.A.M.P.s."
-  },
   {
    "id": "f1217905f981",
    "name": "Spooky Scorched",
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring Spooky Scorched enemies that spawn in Halloween costumes, dropping mystery candy and unique rewards."
+   "description": "Spooky Scorched enemies spawn throughout the world with a chance to drop Mystery Candy and unique Halloween-themed rewards."
   },
   {
    "id": "9ee75e191915",
@@ -137,7 +129,31 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish this weekend."
+   "description": "Increased chance to catch seasonal fish during this weekend event."
+  },
+  {
+   "id": "56efaaeec444",
+   "name": "Minerva (List 7)",
+   "type": "other",
+   "starts": "2026-11-02",
+   "ends": "2026-11-04",
+   "description": "Minerva offers limited-time plans and items for sale using Gold Bullion."
+  },
+  {
+   "id": "d8085ca52c2c",
+   "name": "Double SCORE and Caps-A-Plenty",
+   "type": "weekend",
+   "starts": "2026-11-05",
+   "ends": "2026-11-09",
+   "description": "Earn double SCORE and caps during this special event weekend."
+  },
+  {
+   "id": "126bb8c1df9f",
+   "name": "Anniversary Events",
+   "type": "update",
+   "starts": "2026-11-10",
+   "ends": "2026-11-17",
+   "description": "Fallout 76 anniversary celebration with special events and rewards."
   }
  ],
  "season": {
