@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-29T01:39:03.160021+00:00",
+ "updated": "2026-10-29T21:53:47.650802+00:00",
  "daily": {
-  "period_start": "2026-10-28T12:00:00-04:00",
-  "resets_at": "2026-10-29T12:00:00-04:00",
+  "period_start": "2026-10-29T12:00:00-04:00",
+  "resets_at": "2026-10-30T12:00:00-04:00",
   "items": [
    {
-    "id": "597cfaa551b4",
-    "title": "Craft Ammo at a Workbench",
-    "detail": "Build a Tinker's Workbench in your C.A.M.P. or use one at Whitespring Resort",
-    "score": 50
+    "id": "ba0e105d9488",
+    "title": "Eat a Raw Fish",
+    "detail": "Fast travel to Fisherman's Rest and eat each catch raw from your Pip-Boy",
+    "score": 250
    },
    {
-    "id": "b57be09f1ec6",
-    "title": "Build a Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any trap in Defense menu; Punji Board is cheap at 4 steel and 8 wood",
-    "score": 5
+    "id": "e08602c7acd3",
+    "title": "Catch a Fish",
+    "detail": "Fish at any water source; Fisherman's Rest in The Mire is a good location",
+    "score": 250
    },
    {
-    "id": "582a16124a50",
-    "title": "Collect Soap",
-    "detail": "Find at Whitespring Resort in the red brick building behind main building or use Whitespring Robo Butler Collectron",
-    "score": 2
+    "id": "30507efd4fae",
+    "title": "Complete a Daily Quest",
+    "detail": "Open Pip-Boy Data tab and select a daily quest; Cop a Squatter is quick",
+    "score": 250
    },
    {
-    "id": "73e2f25e4670",
-    "title": "Craft or Scrap a Melee Weapon",
-    "detail": "Craft or scrap any melee weapon at a workbench",
-    "score": 5
+    "id": "6c55800c51a3",
+    "title": "Cook Grilled Fish",
+    "detail": "Requires Grilled Fish recipe from Casting Off quest; cook at any Cooking Station",
+    "score": 250
    },
    {
-    "id": "f0eb5b80a09e",
-    "title": "Deal a Critical Hit to a Radtoad in VATS",
-    "detail": "Head to Grafton by the toxic river; use V.A.T.S. targeting the head",
-    "score": 1
+    "id": "00bdbb578e8b",
+    "title": "Kill a Human while Wearing a Costume",
+    "detail": "Equip any costume item then kill cultists at Point Pleasant",
+    "score": 250
    },
    {
-    "id": "f5a76586713b",
-    "title": "Eat a box of Sugar Bombs",
-    "detail": "Find at New River Gorge Bridge - West or from Santatron/Fasnacht Collectron",
-    "score": 1
+    "id": "d4751898cd03",
+    "title": "Kill a Spooky Scorched",
+    "detail": "Fast travel to Morgantown Airport where Spooky Scorched spawn during event",
+    "score": 250
    },
    {
-    "id": "1270da65364b",
-    "title": "Take a Camera Picture of a Super Mutant",
-    "detail": "Fast travel to West Tek Research Center and photograph a Super Mutant",
-    "score": 1
+    "id": "af65c650b492",
+    "title": "Sell Grilled Fish to an NPC vendor",
+    "detail": "Sell at any NPC vendor; Whitespring Resort has multiple vendors",
+    "score": 250
    }
   ]
  },
@@ -55,62 +55,56 @@
    {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go or Grafton Steel",
-    "score": 5
+    "detail": "Find at industrial and roadside locations like Toxic Larry's Meat 'n Go or Grafton Steel",
+    "score": 1500
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Easier with a team; join a Daily Ops public team and complete the instance",
-    "score": 3
+    "detail": "Join a Daily Ops team and complete the operation; easier with a team",
+    "score": 1500
    },
    {
     "id": "d17bc580c622",
     "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build a Tinkerer's Bench in C.A.M.P. or use the one at Whitespring Resort",
-    "score": 3
+    "detail": "Build a Tinkerer's Bench in your C.A.M.P. or use the one at Whitespring Resort",
+    "score": 1500
    },
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Fast travel to Morgantown Airport; Spooky Scorched spawn during the seasonal event",
-    "score": 30
+    "detail": "Use V.A.T.S. to target the leg at Morgantown Airport where Spooky Scorched spawn",
+    "score": 1500
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
-    "score": 5
+    "detail": "Get from a Nuka-Cola Collectron Station in a C.A.M.P.",
+    "score": 1500
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
-    "score": 5
+    "detail": "Get from a Nuka-Cola Collectron Station in a C.A.M.P.",
+    "score": 1500
    },
    {
     "id": "7ad484a2da71",
     "title": "Kill a Creature",
-    "detail": "Feral Ghouls at Whitespring Golf Club are easy targets",
-    "score": 25
+    "detail": "Whitespring Golf Club has dense Feral Ghoul populations",
+    "score": 1500
    },
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume; Poseidon Energy Plant Yard is reliable for Scorched spawns",
-    "score": 20
+    "detail": "Equip any costume then kill creatures; Poseidon Energy Plant has reliable spawns",
+    "score": 1500
    },
    {
     "id": "db558d43b1bc",
     "title": "Take a Chem",
-    "detail": "Get Chems from Doctor's Orders Cigarette Machine in a C.A.M.P.",
-    "score": 9
-   },
-   {
-    "id": "7124157fcd13",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days during the week",
-    "score": null
+    "detail": "Get from Doctor's Orders Cigarette Machine in a C.A.M.P.",
+    "score": 1500
    }
   ]
  },
@@ -121,7 +115,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Mini season event with SCORE ticket challenges running weekly alongside the Spooky Scorched event."
+   "description": "Mini season ticket event running during Spooky Scorched with weekly completion challenges for candy and Halloween-themed tasks."
   },
   {
    "id": "f1217905f981",
@@ -129,7 +123,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal Halloween event featuring Spooky Scorched enemies in costumes that drop mystery candy and legendary items."
+   "description": "Seasonal Halloween event featuring Spooky Scorched enemies wearing costumes and masks that drop special rewards and mystery candy."
   },
   {
    "id": "9ee75e191915",
@@ -137,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this weekend event."
+   "description": "Weekend event increasing the chance to catch seasonal fish with new recipes and challenges available."
   },
   {
    "id": "d8085ca52c2c",
@@ -145,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Double SCORE rewards and increased caps from activities."
+   "description": "Weekend event providing double SCORE rewards and increased caps drops from defeated enemies."
   }
  ],
  "season": {
