@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-30T01:44:02.620216+00:00",
+ "updated": "2026-10-30T21:38:13.897475+00:00",
  "daily": {
-  "period_start": "2026-10-29T12:00:00-04:00",
-  "resets_at": "2026-10-30T12:00:00-04:00",
+  "period_start": "2026-10-30T12:00:00-04:00",
+  "resets_at": "2026-10-31T12:00:00-04:00",
   "items": [
    {
-    "id": "ba0e105d9488",
-    "title": "Eat a Raw Fish",
-    "detail": "Start at Fisherman's Rest and complete 'Big Fish in a Small Pond' daily so the same catches credit both challenges",
-    "score": 250
+    "id": "d133eb779e2b",
+    "title": "Eat a Fish Bit",
+    "detail": "Craft at a Cooking Station by processing caught fish.",
+    "score": 6
    },
    {
-    "id": "e08602c7acd3",
-    "title": "Catch a Fish",
-    "detail": "Fast travel to Fisherman's Rest in The Mire region and use a fishing rod",
-    "score": 250
+    "id": "430c1a3baa42",
+    "title": "Catch a Fish in the Forest Region",
+    "detail": "Fast travel to Deathclaw Island and use a fishing rod.",
+    "score": 2
    },
    {
-    "id": "30507efd4fae",
-    "title": "Complete a Daily Quest",
-    "detail": "Cop a Squatter Daily at Watoga Emergency Services is usually quick",
-    "score": 250
+    "id": "bf52f555f63a",
+    "title": "Complete an Event or Activity while in a Team",
+    "detail": "Join any team from Social menu; you can be alone on it.",
+    "score": 1
    },
    {
-    "id": "6c55800c51a3",
-    "title": "Cook Grilled Fish",
-    "detail": "Use 3 Fish Bits, 2 Salt, and 1 Wood at a Cooking Station; requires Grilled Fish recipe from Casting Off quest",
-    "score": 250
+    "id": "4a2912363377",
+    "title": "Cripple a Protectron or a Robobrain's Arm",
+    "detail": "Fast travel to RobCo Research Center and use V.A.T.S.",
+    "score": 2
    },
    {
-    "id": "00bdbb578e8b",
-    "title": "Kill a Human while Wearing a Costume",
-    "detail": "Equip any costume and fast travel to Point Pleasant to find Cultists",
-    "score": 250
+    "id": "87ae1c5791d2",
+    "title": "Eat a Cobbler, which is not a Pie.",
+    "detail": "Cook Cranberry Cobbler or Starlight Berry Cobbler at Cooking Station.",
+    "score": 1
    },
    {
-    "id": "d4751898cd03",
-    "title": "Kill a Spooky Scorched",
-    "detail": "Fast travel to Morgantown Airport where Spooky Scorched reliably spawn during the event",
-    "score": 250
+    "id": "6467f5ec6e5d",
+    "title": "Kill an Enemy with any Pistol",
+    "detail": "Craft 10mm Pistol at Weapons Workbench; try Wavy Willard's Water Park.",
+    "score": 8
    },
    {
-    "id": "af65c650b492",
-    "title": "Sell Grilled Fish to an NPC vendor",
-    "detail": "Cook Grilled Fish first, then sell at any NPC vendor such as Whitespring Resort",
-    "score": 250
+    "id": "25b2d9412aac",
+    "title": "Sell Bloatfly Meat to an NPC vendor",
+    "detail": "Find Bloatflies at New River Gorge Resort or Super Duper Mart.",
+    "score": 1
    }
   ]
  },
@@ -53,64 +53,76 @@
   "resets_at": "2026-11-03T12:00:00-05:00",
   "items": [
    {
+    "id": "7124157fcd13",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other dailies on three separate days during the week.",
+    "score": null
+   },
+   {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go and Grafton Steel",
-    "score": 1500
+    "detail": "Find at industrial and roadside locations like Toxic Larry's Meat 'n Go.",
+    "score": 5
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Easier with a team; join or start a Daily Ops public team and select from World Activity map",
-    "score": 1500
+    "detail": "Join or create a Daily Ops public team and complete one.",
+    "score": 3
    },
    {
     "id": "d17bc580c622",
     "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build a Tinkerer's Bench in your C.A.M.P. or use the one at Whitespring Resort",
-    "score": 1500
+    "detail": "Build a Tinkerer's Bench in C.A.M.P. or use one at Whitespring Resort.",
+    "score": 3
    },
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Use V.A.T.S. to target the leg at Morgantown Airport where they spawn regularly",
-    "score": 1500
+    "detail": "Spooky Scorched appear during seasonal event; try Morgantown Airport.",
+    "score": 30
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Get from Nuka-Cola Collectron Station in your C.A.M.P. or another player's",
-    "score": 1500
+    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "score": 5
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station in your C.A.M.P. or another player's",
-    "score": 1500
+    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "score": 5
    },
    {
     "id": "7ad484a2da71",
     "title": "Kill a Creature",
-    "detail": "Whitespring Golf Club has dense Feral Ghoul populations that are easy to defeat",
-    "score": 1500
+    "detail": "Whitespring Golf Club has dense Feral Ghouls that are easy targets.",
+    "score": 25
    },
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume item and go to Poseidon Energy Plant for reliable Scorched spawns",
-    "score": 1500
+    "detail": "Equip any costume (hat or mask works); try Poseidon Energy Plant.",
+    "score": 20
    },
    {
     "id": "db558d43b1bc",
     "title": "Take a Chem",
-    "detail": "Get Chems from Doctor's Orders Cigarette Machine in your C.A.M.P. or another player's",
-    "score": 1500
+    "detail": "Get from Doctor's Orders Cigarette Machine in a C.A.M.P.",
+    "score": 9
    },
    {
-    "id": "7124157fcd13",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Complete all six other daily challenges on three separate days during the week",
-    "score": 1500
+    "id": "fed39e281c5b",
+    "title": "Repeatable Under Rank 100: Gain XP",
+    "detail": "Earn XP by playing; repeats until Scoreboard rank 100.",
+    "score": 10000
+   },
+   {
+    "id": "3a374ac7e0a1",
+    "title": "Repeatable at Rank 100 or above: Complete a Public Event",
+    "detail": "Complete any public event; popular ones include Eviction Notice.",
+    "score": 3
    }
   ]
  },
@@ -121,15 +133,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal event featuring special Halloween-themed Scorched enemies that drop mystery candy and exclusive rewards."
-  },
-  {
-   "id": "8b56d5e44c7f",
-   "name": "Night at the Morgue",
-   "type": "seasonal",
-   "starts": "2026-10-29",
-   "ends": "2026-11-03",
-   "description": "Mini season event with ticket challenges that reset weekly, featuring Halloween-themed gameplay and rewards."
+   "description": "Spooky Scorched enemies appear across Appalachia with Halloween costumes and offer special rewards including mystery candy and legendary items."
   },
   {
    "id": "9ee75e191915",
@@ -137,7 +141,15 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this weekend event with new recipes and challenges."
+   "description": "Increased chance to catch seasonal fish during this weekend event."
+  },
+  {
+   "id": "56efaaeec444",
+   "name": "Minerva (List 7)",
+   "type": "other",
+   "starts": "2026-11-02",
+   "ends": "2026-11-04",
+   "description": "Minerva sells a rotating list of plans and items for Gold."
   },
   {
    "id": "d8085ca52c2c",
@@ -145,15 +157,23 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Earn double Scoreboard progress and increased caps from all sources."
+   "description": "Earn double SCORE and caps during this weekend bonus event."
   },
   {
    "id": "126bb8c1df9f",
    "name": "Anniversary Events",
-   "type": "other",
+   "type": "update",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Celebration event commemorating Fallout 76's anniversary."
+   "description": "Special anniversary celebration event with unique rewards."
+  },
+  {
+   "id": "16e2b172b55e",
+   "name": "Double XP Weekend",
+   "type": "weekend",
+   "starts": "2026-11-26",
+   "ends": "2026-11-30",
+   "description": "Earn double XP to level up faster during this weekend."
   },
   {
    "id": "eab26cc5304a",
@@ -161,7 +181,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Winter holiday-themed variant of the Spooky Scorched event with festive rewards and gift drops."
+   "description": "Holiday-themed Scorched enemies appear with festive rewards and special loot."
   }
  ],
  "season": {
