@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:53:47.650802+00:00",
+ "updated": "2026-10-30T01:44:02.620216+00:00",
  "daily": {
   "period_start": "2026-10-29T12:00:00-04:00",
   "resets_at": "2026-10-30T12:00:00-04:00",
@@ -7,43 +7,43 @@
    {
     "id": "ba0e105d9488",
     "title": "Eat a Raw Fish",
-    "detail": "Fast travel to Fisherman's Rest and eat each catch raw from your Pip-Boy",
+    "detail": "Start at Fisherman's Rest and complete 'Big Fish in a Small Pond' daily so the same catches credit both challenges",
     "score": 250
    },
    {
     "id": "e08602c7acd3",
     "title": "Catch a Fish",
-    "detail": "Fish at any water source; Fisherman's Rest in The Mire is a good location",
+    "detail": "Fast travel to Fisherman's Rest in The Mire region and use a fishing rod",
     "score": 250
    },
    {
     "id": "30507efd4fae",
     "title": "Complete a Daily Quest",
-    "detail": "Open Pip-Boy Data tab and select a daily quest; Cop a Squatter is quick",
+    "detail": "Cop a Squatter Daily at Watoga Emergency Services is usually quick",
     "score": 250
    },
    {
     "id": "6c55800c51a3",
     "title": "Cook Grilled Fish",
-    "detail": "Requires Grilled Fish recipe from Casting Off quest; cook at any Cooking Station",
+    "detail": "Use 3 Fish Bits, 2 Salt, and 1 Wood at a Cooking Station; requires Grilled Fish recipe from Casting Off quest",
     "score": 250
    },
    {
     "id": "00bdbb578e8b",
     "title": "Kill a Human while Wearing a Costume",
-    "detail": "Equip any costume item then kill cultists at Point Pleasant",
+    "detail": "Equip any costume and fast travel to Point Pleasant to find Cultists",
     "score": 250
    },
    {
     "id": "d4751898cd03",
     "title": "Kill a Spooky Scorched",
-    "detail": "Fast travel to Morgantown Airport where Spooky Scorched spawn during event",
+    "detail": "Fast travel to Morgantown Airport where Spooky Scorched reliably spawn during the event",
     "score": 250
    },
    {
     "id": "af65c650b492",
     "title": "Sell Grilled Fish to an NPC vendor",
-    "detail": "Sell at any NPC vendor; Whitespring Resort has multiple vendors",
+    "detail": "Cook Grilled Fish first, then sell at any NPC vendor such as Whitespring Resort",
     "score": 250
    }
   ]
@@ -55,13 +55,13 @@
    {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Find at industrial and roadside locations like Toxic Larry's Meat 'n Go or Grafton Steel",
+    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go and Grafton Steel",
     "score": 1500
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Join a Daily Ops team and complete the operation; easier with a team",
+    "detail": "Easier with a team; join or start a Daily Ops public team and select from World Activity map",
     "score": 1500
    },
    {
@@ -73,57 +73,63 @@
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Use V.A.T.S. to target the leg at Morgantown Airport where Spooky Scorched spawn",
+    "detail": "Use V.A.T.S. to target the leg at Morgantown Airport where they spawn regularly",
     "score": 1500
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Get from a Nuka-Cola Collectron Station in a C.A.M.P.",
+    "detail": "Get from Nuka-Cola Collectron Station in your C.A.M.P. or another player's",
     "score": 1500
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Get from a Nuka-Cola Collectron Station in a C.A.M.P.",
+    "detail": "Get from Nuka-Cola Collectron Station in your C.A.M.P. or another player's",
     "score": 1500
    },
    {
     "id": "7ad484a2da71",
     "title": "Kill a Creature",
-    "detail": "Whitespring Golf Club has dense Feral Ghoul populations",
+    "detail": "Whitespring Golf Club has dense Feral Ghoul populations that are easy to defeat",
     "score": 1500
    },
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume then kill creatures; Poseidon Energy Plant has reliable spawns",
+    "detail": "Equip any costume item and go to Poseidon Energy Plant for reliable Scorched spawns",
     "score": 1500
    },
    {
     "id": "db558d43b1bc",
     "title": "Take a Chem",
-    "detail": "Get from Doctor's Orders Cigarette Machine in a C.A.M.P.",
+    "detail": "Get Chems from Doctor's Orders Cigarette Machine in your C.A.M.P. or another player's",
+    "score": 1500
+   },
+   {
+    "id": "7124157fcd13",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Complete all six other daily challenges on three separate days during the week",
     "score": 1500
    }
   ]
  },
  "events": [
   {
-   "id": "e67412e8d2ca",
-   "name": "Night at the Morgue",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Mini season ticket event running during Spooky Scorched with weekly completion challenges for candy and Halloween-themed tasks."
-  },
-  {
    "id": "f1217905f981",
    "name": "Spooky Scorched",
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal Halloween event featuring Spooky Scorched enemies wearing costumes and masks that drop special rewards and mystery candy."
+   "description": "Seasonal event featuring special Halloween-themed Scorched enemies that drop mystery candy and exclusive rewards."
+  },
+  {
+   "id": "8b56d5e44c7f",
+   "name": "Night at the Morgue",
+   "type": "seasonal",
+   "starts": "2026-10-29",
+   "ends": "2026-11-03",
+   "description": "Mini season event with ticket challenges that reset weekly, featuring Halloween-themed gameplay and rewards."
   },
   {
    "id": "9ee75e191915",
@@ -131,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Weekend event increasing the chance to catch seasonal fish with new recipes and challenges available."
+   "description": "Increased chance to catch seasonal fish during this weekend event with new recipes and challenges."
   },
   {
    "id": "d8085ca52c2c",
@@ -139,7 +145,23 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Weekend event providing double SCORE rewards and increased caps drops from defeated enemies."
+   "description": "Earn double Scoreboard progress and increased caps from all sources."
+  },
+  {
+   "id": "126bb8c1df9f",
+   "name": "Anniversary Events",
+   "type": "other",
+   "starts": "2026-11-10",
+   "ends": "2026-11-17",
+   "description": "Celebration event commemorating Fallout 76's anniversary."
+  },
+  {
+   "id": "eab26cc5304a",
+   "name": "Holiday Scorched",
+   "type": "seasonal",
+   "starts": "2026-12-15",
+   "ends": "2026-12-29",
+   "description": "Winter holiday-themed variant of the Spooky Scorched event with festive rewards and gift drops."
   }
  ],
  "season": {
