@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:31:50.018437+00:00",
+ "updated": "2026-11-01T00:49:01.476583+00:00",
  "daily": {
   "period_start": "2026-10-31T12:00:00-04:00",
   "resets_at": "2026-11-01T12:00:00-05:00",
@@ -7,44 +7,44 @@
    {
     "id": "8ec1242a6722",
     "title": "Drink Nuka-Cola Quantum",
-    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P. if available",
-    "score": 2
+    "detail": "Get from Nuka-Cola Collectron Station or use Nuka-Cola Quantum Collectron for higher chance",
+    "score": null
    },
    {
     "id": "7a968ff51bdf",
     "title": "Catch a Fish in the Mire Region",
-    "detail": "Fast travel to Fisherman's Rest and fish in the water",
-    "score": 2
+    "detail": "Fast travel to Fisherman's Rest, equip fishing rod, cast and complete reeling mini-game",
+    "score": null
    },
    {
     "id": "fc1f79191aff",
     "title": "Complete an Event or Activity while Wearing a Costume",
-    "detail": "Equip any costume item and complete a public event or activity",
-    "score": 1
+    "detail": "Equip any costume item, then fast-travel to an active event or activity",
+    "score": null
    },
    {
     "id": "aaf4b50bb9f6",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Fast travel to Morgantown Airport and cripple using V.A.T.S.",
-    "score": 10
+    "detail": "Available during Spooky Scorched event; try Morgantown Airport",
+    "score": null
    },
    {
     "id": "af07ce12627d",
     "title": "Eat Mystery Candy",
-    "detail": "Kill Spooky Scorched or collect from other players' candy bowls",
-    "score": 3
+    "detail": "Kill Spooky Scorched or collect from Candy Bowls placed in C.A.M.P.s",
+    "score": null
    },
    {
     "id": "51364583f740",
     "title": "Kill a Spooky Scorched",
-    "detail": "Fast travel to Morgantown Airport where they reliably spawn",
-    "score": 10
+    "detail": "Fast travel to Morgantown Airport; each spawns as Legendary with ~10% chance among outdoor Scorched",
+    "score": null
    },
    {
     "id": "b6e73ec98745",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint on foot without fast traveling; open ground works best",
-    "score": 10
+    "detail": "Sprint on foot without fast traveling; open ground with few enemies works best",
+    "score": null
    }
   ]
  },
@@ -55,81 +55,67 @@
    {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go",
-    "score": 5
+    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go, Sons of Dane Compound",
+    "score": null
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Easier with a team; join a Daily Ops public team first",
-    "score": 3
+    "detail": "Join or start a Daily Ops public team; easier with teammates",
+    "score": null
    },
    {
     "id": "d17bc580c622",
     "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build one at C.A.M.P. or use the bench at Whitespring Resort",
-    "score": 3
+    "detail": "Build one in C.A.M.P. or use the one at Whitespring Resort",
+    "score": null
    },
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Morgantown Airport is reliable; use V.A.T.S. with a rifle",
-    "score": 30
+    "detail": "Appears during Spooky Scorched seasonal event",
+    "score": null
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Get from Nuka-Cola Collectron Station if available",
-    "score": 5
+    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "score": null
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station if available",
-    "score": 5
+    "detail": "Get from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "score": null
    },
    {
     "id": "7ad484a2da71",
     "title": "Kill a Creature",
     "detail": "Whitespring Golf Club has dense Feral Ghoul populations",
-    "score": 25
+    "score": null
    },
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume item and go to Poseidon Energy Plant",
-    "score": 20
+    "detail": "Equip any costume, try Poseidon Energy Plant for Scorched spawns",
+    "score": null
    },
    {
     "id": "db558d43b1bc",
     "title": "Take a Chem",
-    "detail": "Get from Doctor's Orders Cigarette Machine in C.A.M.P.",
-    "score": 9
-   },
-   {
-    "id": "7124157fcd13",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn gold star on three separate days this week",
+    "detail": "Get from Doctor's Orders Cigarette Machine in C.A.M.P. or another player's",
     "score": null
    }
   ]
  },
  "events": [
   {
-   "id": "e67412e8d2ca",
-   "name": "Night at the Morgue",
-   "type": "other",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Mini season event with daily and weekly ticket challenges for SCORE rewards during Spooky Scorched."
-  },
-  {
    "id": "f1217905f981",
    "name": "Spooky Scorched",
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Special scorched enemies wearing Halloween costumes spawn with increased frequency, dropping mystery candy and spooky treat bags."
+   "description": "Halloween-themed event featuring Spooky Scorched enemies that drop mystery candy and legendary rewards; also includes trick-or-treating challenges."
   },
   {
    "id": "9ee75e191915",
@@ -137,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish this weekend."
+   "description": "Increased chance to catch seasonal fish during this weekend event."
   },
   {
-   "id": "d8085ca52c2c",
-   "name": "Double SCORE and Caps-A-Plenty",
-   "type": "weekend",
-   "starts": "2026-11-05",
-   "ends": "2026-11-09",
-   "description": "Earn double SCORE points and increased caps from all activities."
+   "id": "191de01d7cef",
+   "name": "Night at the Morgue",
+   "type": "other",
+   "starts": "2026-10-30",
+   "ends": "2026-11-03",
+   "description": "Mini season event with SCORE ticket challenges that change weekly during the Spooky Scorched event."
   }
  ],
  "season": {
