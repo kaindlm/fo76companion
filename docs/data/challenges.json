@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-02T01:22:25.730189+00:00",
+ "updated": "2026-11-02T23:57:02.163219+00:00",
  "daily": {
-  "period_start": "2026-11-01T12:00:00-05:00",
-  "resets_at": "2026-11-02T12:00:00-05:00",
+  "period_start": "2026-11-02T12:00:00-05:00",
+  "resets_at": "2026-11-03T12:00:00-05:00",
   "items": [
    {
-    "id": "7f2921a20049",
-    "title": "Eat a Fish Bit",
-    "detail": "Fish Bits are crafted at a Cooking Station by processing caught fish.",
-    "score": 250
+    "id": "9cd326465cce",
+    "title": "Collect Gold Bullion",
+    "detail": "Talk to Smiley at The Wayward; requires Wastelanders completion",
+    "score": null
    },
    {
-    "id": "3c038c7a4b12",
-    "title": "Collect Wood",
-    "detail": "Prickett's Fort and Sylvie & Sons Logging Camp are reliable gathering locations.",
-    "score": 250
+    "id": "bf50bd2a8b35",
+    "title": "Build a Decoration in a Workshop or C.A.M.P.",
+    "detail": "Place any decoration from the Decorations category",
+    "score": null
    },
    {
-    "id": "5243db8d7c9b",
-    "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join or start a Daily Ops public team and complete the Daily Operation instance.",
-    "score": 250
+    "id": "46cbc625f04e",
+    "title": "Catch a Fish in the Toxic Valley Region",
+    "detail": "Fish at Graninger Farm toxic pools",
+    "score": null
    },
    {
-    "id": "8aa314b8196c",
-    "title": "Deal a Critical Hit to an Enemy in VATS",
-    "detail": "Use V.A.T.S. to target soft enemies like Scorched; Wavy Willard's Water Park has reliable spawns.",
-    "score": 250
+    "id": "4f51b8ae3cb0",
+    "title": "Complete an Event or Activity",
+    "detail": "Join any public event or activity",
+    "score": null
    },
    {
-    "id": "883ac266045b",
-    "title": "Kill a Mole Rat",
-    "detail": "Hillfolk Hotdogs is a reliable spawn location with several Mole Rats.",
-    "score": 250
+    "id": "5ecf7a6600ad",
+    "title": "Cripple a Super Mutant's Head",
+    "detail": "Use V.A.T.S. or aim at head; West Tek has dense spawns",
+    "score": null
    },
    {
-    "id": "7784cc338a68",
-    "title": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
-    "detail": "Join a team and equip any costume before killing Pint-Sized Phantoms from the Slasher event.",
-    "score": 250
+    "id": "93ff2ffae9c0",
+    "title": "Kill an Enemy in the Skyline Valley Region",
+    "detail": "Fast travel to Grindstone Arch for Super Mutants",
+    "score": null
    },
    {
-    "id": "d914a17d24dd",
-    "title": "Use Photomode while in a Team",
-    "detail": "Open Photomode while on any type of team and take a photo.",
-    "score": 250
+    "id": "f9baaff0f4ac",
+    "title": "Scrap junk to produce Bone",
+    "detail": "Craft and scrap Bulk Bone Shards at a Tinker's Workbench",
+    "score": null
    }
   ]
  },
@@ -53,64 +53,58 @@
   "resets_at": "2026-11-03T12:00:00-05:00",
   "items": [
    {
-    "id": "7124157fcd13",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days during the week.",
-    "score": 1500
-   },
-   {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go and Grafton Steel.",
-    "score": 1500
+    "detail": "Found at industrial locations like Toxic Larry's Meat 'n Go",
+    "score": null
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Easier when completing with a team; join or start a Daily Ops public team.",
-    "score": 1500
+    "detail": "Join Daily Ops team and complete the instance",
+    "score": null
    },
    {
     "id": "d17bc580c622",
     "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build one at your C.A.M.P. or use the one at Whitespring Resort.",
-    "score": 1500
+    "detail": "Build one at C.A.M.P. or use one at Whitespring Resort",
+    "score": null
    },
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Spooky Scorched appear during the seasonal event; use V.A.T.S. for easier targeting.",
-    "score": 1500
+    "detail": "Spooky Scorched appear during seasonal event; try Morgantown Airport",
+    "score": null
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Get it from the Nuka-Cola Collectron Station in a C.A.M.P.",
-    "score": 1500
+    "detail": "Get from Nuka-Cola Collectron Station",
+    "score": null
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Get it from the Nuka-Cola Collectron Station in a C.A.M.P.",
-    "score": 1500
+    "detail": "Get from Nuka-Cola Collectron Station",
+    "score": null
    },
    {
     "id": "7ad484a2da71",
     "title": "Kill a Creature",
-    "detail": "Whitespring Golf Club has dense populations of Feral Ghouls.",
-    "score": 1500
+    "detail": "Whitespring Golf Club has dense Feral Ghoul spawns",
+    "score": null
    },
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume and fast travel to Poseidon Energy Plant for reliable Scorched spawns.",
-    "score": 1500
+    "detail": "Equip any costume item; Poseidon Energy Plant has scorched",
+    "score": null
    },
    {
     "id": "db558d43b1bc",
     "title": "Take a Chem",
-    "detail": "Get Chems from the Doctor's Orders Cigarette Machine at a C.A.M.P.",
-    "score": 1500
+    "detail": "Get from Doctor's Orders Cigarette Machine at C.A.M.P.",
+    "score": null
    }
   ]
  },
@@ -121,7 +115,7 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Mini-season ticket event with weekly challenges and special rewards related to the Spooky Scorched theme."
+   "description": "Mini season event with weekly ticket challenges during the Spooky Scorched event."
   },
   {
    "id": "f1217905f981",
@@ -129,31 +123,47 @@
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Spooky Scorched enemies appear during this event, offering special rewards and seasonal challenges."
-  },
-  {
-   "id": "9ee75e191915",
-   "name": "Seasonal Fish Run Weekend",
-   "type": "weekend",
-   "starts": "2026-10-29",
-   "ends": "2026-11-02",
-   "description": "Weekend event featuring increased chances of catching seasonal fish and new recipes."
-  },
-  {
-   "id": "56efaaeec444",
-   "name": "Minerva (List 7)",
-   "type": "other",
-   "starts": "2026-11-02",
-   "ends": "2026-11-04",
-   "description": "Minerva's rotating vendor list featuring plans and recipes available for purchase with Gold."
+   "description": "Seasonal Halloween event featuring Spooky Scorched enemies with costume rewards and mystery candy drops."
   },
   {
    "id": "d8085ca52c2c",
    "name": "Double SCORE and Caps-A-Plenty",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Weekend event offering double SCORE rewards and increased caps rewards."
+   "description": "Double rewards for SCORE challenges and caps earned during gameplay."
+  },
+  {
+   "id": "126bb8c1df9f",
+   "name": "Anniversary Events",
+   "type": "weekend",
+   "starts": "2026-11-10",
+   "ends": "2026-11-17",
+   "description": "Special celebration event marking Fallout 76 anniversary milestone."
+  },
+  {
+   "id": "ecb3d7224821",
+   "name": "Gold Rush and Double Mutations",
+   "type": "weekend",
+   "starts": "2026-11-19",
+   "ends": "2026-11-23",
+   "description": "Double mutations in Daily Ops with bonus gold rewards available."
+  },
+  {
+   "id": "a03a0ac660a1",
+   "name": "Mutated Public Events",
+   "type": "seasonal",
+   "starts": "2026-11-24",
+   "ends": "2026-12-01",
+   "description": "Public events spawn with mutated versions offering enhanced rewards."
+  },
+  {
+   "id": "16e2b172b55e",
+   "name": "Double XP Weekend",
+   "type": "weekend",
+   "starts": "2026-11-26",
+   "ends": "2026-11-30",
+   "description": "Double experience points earned from all activities and combat."
   }
  ],
  "season": {
