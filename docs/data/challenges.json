@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:17:56.498768+00:00",
+ "updated": "2026-11-02T01:22:25.730189+00:00",
  "daily": {
   "period_start": "2026-11-01T12:00:00-05:00",
   "resets_at": "2026-11-02T12:00:00-05:00",
@@ -13,7 +13,7 @@
    {
     "id": "3c038c7a4b12",
     "title": "Collect Wood",
-    "detail": "Prickett's Fort and Sylvie & Sons Logging Camp are reliable gathering spots.",
+    "detail": "Prickett's Fort and Sylvie & Sons Logging Camp are reliable gathering locations.",
     "score": 250
    },
    {
@@ -25,19 +25,19 @@
    {
     "id": "8aa314b8196c",
     "title": "Deal a Critical Hit to an Enemy in VATS",
-    "detail": "Target soft enemies like Scorched at Wavy Willard's Water Park using V.A.T.S.",
+    "detail": "Use V.A.T.S. to target soft enemies like Scorched; Wavy Willard's Water Park has reliable spawns.",
     "score": 250
    },
    {
     "id": "883ac266045b",
     "title": "Kill a Mole Rat",
-    "detail": "Hillfolk Hotdogs in the Forest region has reliable Mole Rat spawns.",
+    "detail": "Hillfolk Hotdogs is a reliable spawn location with several Mole Rats.",
     "score": 250
    },
    {
     "id": "7784cc338a68",
     "title": "Kill a Pint-Sized Phantom while on a Team and wearing a Costume",
-    "detail": "Join a team, equip a costume, and find Pint-Sized Phantoms near cabins and fairgrounds.",
+    "detail": "Join a team and equip any costume before killing Pint-Sized Phantoms from the Slasher event.",
     "score": 250
    },
    {
@@ -53,39 +53,45 @@
   "resets_at": "2026-11-03T12:00:00-05:00",
   "items": [
    {
+    "id": "7124157fcd13",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Earn the daily Gold Star on three separate days during the week.",
+    "score": 1500
+   },
+   {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Find these at industrial and roadside locations like Toxic Larry's Meat 'n Go and Grafton Steel.",
+    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go and Grafton Steel.",
     "score": 1500
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Complete Daily Operations, easier with a team.",
+    "detail": "Easier when completing with a team; join or start a Daily Ops public team.",
     "score": 1500
    },
    {
     "id": "d17bc580c622",
     "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build or use a Tinkerer's Workbench to craft any plushie.",
+    "detail": "Build one at your C.A.M.P. or use the one at Whitespring Resort.",
     "score": 1500
    },
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Spooky Scorched appear during the seasonal event; use V.A.T.S. with a rifle.",
+    "detail": "Spooky Scorched appear during the seasonal event; use V.A.T.S. for easier targeting.",
     "score": 1500
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Obtain from a Nuka-Cola Collectron Station in a C.A.M.P.",
+    "detail": "Get it from the Nuka-Cola Collectron Station in a C.A.M.P.",
     "score": 1500
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Obtain from a Nuka-Cola Collectron Station in a C.A.M.P.",
+    "detail": "Get it from the Nuka-Cola Collectron Station in a C.A.M.P.",
     "score": 1500
    },
    {
@@ -97,25 +103,33 @@
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume and kill creatures at Poseidon Energy Plant.",
+    "detail": "Equip any costume and fast travel to Poseidon Energy Plant for reliable Scorched spawns.",
     "score": 1500
    },
    {
     "id": "db558d43b1bc",
     "title": "Take a Chem",
-    "detail": "Get Chems from the Doctor's Orders Cigarette Machine in a C.A.M.P.",
+    "detail": "Get Chems from the Doctor's Orders Cigarette Machine at a C.A.M.P.",
     "score": 1500
    }
   ]
  },
  "events": [
   {
+   "id": "e67412e8d2ca",
+   "name": "Night at the Morgue",
+   "type": "seasonal",
+   "starts": "2026-10-20",
+   "ends": "2026-11-03",
+   "description": "Mini-season ticket event with weekly challenges and special rewards related to the Spooky Scorched theme."
+  },
+  {
    "id": "f1217905f981",
    "name": "Spooky Scorched",
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Encounter Spooky Scorched enemies wearing Halloween costumes and masks for exclusive rewards and event challenges."
+   "description": "Spooky Scorched enemies appear during this event, offering special rewards and seasonal challenges."
   },
   {
    "id": "9ee75e191915",
@@ -123,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-10-29",
    "ends": "2026-11-02",
-   "description": "Increased chance to catch seasonal fish during this weekend event."
+   "description": "Weekend event featuring increased chances of catching seasonal fish and new recipes."
   },
   {
    "id": "56efaaeec444",
@@ -131,31 +145,15 @@
    "type": "other",
    "starts": "2026-11-02",
    "ends": "2026-11-04",
-   "description": "Minerva's trader inventory offers plans including Brotherhood recon pieces and Gauss weapon modifications."
+   "description": "Minerva's rotating vendor list featuring plans and recipes available for purchase with Gold."
   },
   {
    "id": "d8085ca52c2c",
    "name": "Double SCORE and Caps-A-Plenty",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Earn double SCORE progress and increased caps rewards from activities."
-  },
-  {
-   "id": "126bb8c1df9f",
-   "name": "Anniversary Events",
-   "type": "other",
-   "starts": "2026-11-10",
-   "ends": "2026-11-17",
-   "description": "Special anniversary celebration events with unique rewards."
-  },
-  {
-   "id": "eab26cc5304a",
-   "name": "Holiday Scorched",
-   "type": "seasonal",
-   "starts": "2026-12-15",
-   "ends": "2026-12-29",
-   "description": "Holiday-themed Scorched enemies appear with festive rewards and seasonal loot."
+   "description": "Weekend event offering double SCORE rewards and increased caps rewards."
   }
  ],
  "season": {
