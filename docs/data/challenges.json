@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:57:02.163219+00:00",
+ "updated": "2026-11-03T03:22:47.413210+00:00",
  "daily": {
   "period_start": "2026-11-02T12:00:00-05:00",
   "resets_at": "2026-11-03T12:00:00-05:00",
@@ -7,44 +7,44 @@
    {
     "id": "9cd326465cce",
     "title": "Collect Gold Bullion",
-    "detail": "Talk to Smiley at The Wayward; requires Wastelanders completion",
-    "score": null
+    "detail": "Purchase from Smiley at The Wayward for 1,000 caps per 50 bullion",
+    "score": 250
    },
    {
     "id": "bf50bd2a8b35",
     "title": "Build a Decoration in a Workshop or C.A.M.P.",
-    "detail": "Place any decoration from the Decorations category",
-    "score": null
+    "detail": "Place any decoration from the Decorations category in build menu",
+    "score": 250
    },
    {
     "id": "46cbc625f04e",
     "title": "Catch a Fish in the Toxic Valley Region",
-    "detail": "Fish at Graninger Farm toxic pools",
-    "score": null
+    "detail": "Fish at any water source in Toxic Valley, such as Graninger Farm's toxic pools",
+    "score": 250
    },
    {
     "id": "4f51b8ae3cb0",
     "title": "Complete an Event or Activity",
-    "detail": "Join any public event or activity",
-    "score": null
+    "detail": "Join any public event or activity available on the map",
+    "score": 250
    },
    {
     "id": "5ecf7a6600ad",
     "title": "Cripple a Super Mutant's Head",
-    "detail": "Use V.A.T.S. or aim at head; West Tek has dense spawns",
-    "score": null
+    "detail": "West Tek Research Center has dense Super Mutant spawns",
+    "score": 250
    },
    {
     "id": "93ff2ffae9c0",
     "title": "Kill an Enemy in the Skyline Valley Region",
-    "detail": "Fast travel to Grindstone Arch for Super Mutants",
-    "score": null
+    "detail": "Grindstone Arch at the western edge has dense Super Mutant populations",
+    "score": 250
    },
    {
     "id": "f9baaff0f4ac",
     "title": "Scrap junk to produce Bone",
-    "detail": "Craft and scrap Bulk Bone Shards at a Tinker's Workbench",
-    "score": null
+    "detail": "Craft Bulk Bone Shards at a Tinker's Workbench then scrap them",
+    "score": 250
    }
   ]
  },
@@ -55,75 +55,75 @@
    {
     "id": "2765ca95c460",
     "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial locations like Toxic Larry's Meat 'n Go",
-    "score": null
+    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go",
+    "score": 1500
    },
    {
     "id": "0005159f733c",
     "title": "Complete a Daily Operation!",
-    "detail": "Join Daily Ops team and complete the instance",
-    "score": null
+    "detail": "Join or start a Daily Ops public team and complete the operation",
+    "score": 1500
    },
    {
     "id": "d17bc580c622",
     "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build one at C.A.M.P. or use one at Whitespring Resort",
-    "score": null
+    "detail": "Build a Tinkerer's Bench at C.A.M.P. or use the one at Whitespring Resort",
+    "score": 1500
    },
    {
     "id": "d3dbdef63716",
     "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Spooky Scorched appear during seasonal event; try Morgantown Airport",
-    "score": null
+    "detail": "Spooky Scorched appear during the seasonal event; try Morgantown Airport",
+    "score": 1500
    },
    {
     "id": "1a5a664fbce2",
     "title": "Drink Nuka-Grape",
-    "detail": "Get from Nuka-Cola Collectron Station",
-    "score": null
+    "detail": "Get from Nuka-Cola Collectron Station at a C.A.M.P.",
+    "score": 1500
    },
    {
     "id": "9058f1b99e2b",
     "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station",
-    "score": null
+    "detail": "Get from Nuka-Cola Collectron Station at a C.A.M.P.",
+    "score": 1500
    },
    {
     "id": "7ad484a2da71",
     "title": "Kill a Creature",
-    "detail": "Whitespring Golf Club has dense Feral Ghoul spawns",
-    "score": null
+    "detail": "Whitespring Golf Club has dense Feral Ghoul populations",
+    "score": 1500
    },
    {
     "id": "59368f5d1ed3",
     "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume item; Poseidon Energy Plant has scorched",
-    "score": null
+    "detail": "Equip any costume item and kill creatures at Poseidon Energy Plant",
+    "score": 1500
    },
    {
     "id": "db558d43b1bc",
     "title": "Take a Chem",
-    "detail": "Get from Doctor's Orders Cigarette Machine at C.A.M.P.",
-    "score": null
+    "detail": "Obtain from Doctor's Orders Cigarette Machine at any C.A.M.P.",
+    "score": 1500
    }
   ]
  },
  "events": [
-  {
-   "id": "e67412e8d2ca",
-   "name": "Night at the Morgue",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Mini season event with weekly ticket challenges during the Spooky Scorched event."
-  },
   {
    "id": "f1217905f981",
    "name": "Spooky Scorched",
    "type": "seasonal",
    "starts": "2026-10-20",
    "ends": "2026-11-03",
-   "description": "Seasonal Halloween event featuring Spooky Scorched enemies with costume rewards and mystery candy drops."
+   "description": "Seasonal event featuring Spooky Scorched enemies with Halloween costumes and exclusive rewards including mystery candy and legendary drops."
+  },
+  {
+   "id": "56efaaeec444",
+   "name": "Minerva (List 7)",
+   "type": "weekend",
+   "starts": "2026-11-02",
+   "ends": "2026-11-04",
+   "description": "Weekend vendor rotation offering plans including Gauss weapons, Brotherhood recon armor, and other craftable items."
   },
   {
    "id": "d8085ca52c2c",
@@ -131,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Double rewards for SCORE challenges and caps earned during gameplay."
+   "description": "Double rewards for challenge completion and increased caps drops from enemies and looting."
   },
   {
    "id": "126bb8c1df9f",
@@ -139,7 +139,15 @@
    "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special celebration event marking Fallout 76 anniversary milestone."
+   "description": "Community celebration event with special rewards and activities."
+  },
+  {
+   "id": "76f713338438",
+   "name": "Minerva's Big Sale (List 8)",
+   "type": "weekend",
+   "starts": "2026-11-12",
+   "ends": "2026-11-16",
+   "description": "Major vendor sale event offering discounted gold bullion prices on various plans."
   },
   {
    "id": "ecb3d7224821",
@@ -147,23 +155,15 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Double mutations in Daily Ops with bonus gold rewards available."
+   "description": "Daily Operations event with double mutations and increased legendary rewards."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "seasonal",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutated versions offering enhanced rewards."
-  },
-  {
-   "id": "16e2b172b55e",
-   "name": "Double XP Weekend",
-   "type": "weekend",
-   "starts": "2026-11-26",
-   "ends": "2026-11-30",
-   "description": "Double experience points earned from all activities and combat."
+   "description": "Public events spawn with special mutations for enhanced difficulty and rewards."
   }
  ],
  "season": {
