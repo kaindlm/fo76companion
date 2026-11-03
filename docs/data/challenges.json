@@ -1,153 +1,149 @@
 {
- "updated": "2026-11-03T03:22:47.413210+00:00",
+ "updated": "2026-11-03T22:24:58.943038+00:00",
  "daily": {
-  "period_start": "2026-11-02T12:00:00-05:00",
-  "resets_at": "2026-11-03T12:00:00-05:00",
+  "period_start": "2026-11-03T12:00:00-05:00",
+  "resets_at": "2026-11-04T12:00:00-05:00",
   "items": [
    {
-    "id": "9cd326465cce",
-    "title": "Collect Gold Bullion",
-    "detail": "Purchase from Smiley at The Wayward for 1,000 caps per 50 bullion",
-    "score": 250
+    "id": "ba7a39effd74",
+    "title": "Scrap junk to produce Lead",
+    "detail": "Craft Bulk Lead at a Tinker's Workbench, then scrap it for the fastest completion.",
+    "score": 10
    },
    {
-    "id": "bf50bd2a8b35",
-    "title": "Build a Decoration in a Workshop or C.A.M.P.",
-    "detail": "Place any decoration from the Decorations category in build menu",
-    "score": 250
+    "id": "514ef3d51a88",
+    "title": "Collect a Microscope or Biometric Scanner",
+    "detail": "West Tek Research Center has several Microscopes in various rooms.",
+    "score": 2
    },
    {
-    "id": "46cbc625f04e",
-    "title": "Catch a Fish in the Toxic Valley Region",
-    "detail": "Fish at any water source in Toxic Valley, such as Graninger Farm's toxic pools",
-    "score": 250
+    "id": "8f3f95cb704a",
+    "title": "Craft any Flair at a Tinkerer's Bench",
+    "detail": "Flairs are cosmetic backpack trinkets unlocked from Season Scoreboards or Seasonal Events.",
+    "score": 1
    },
    {
-    "id": "4f51b8ae3cb0",
-    "title": "Complete an Event or Activity",
-    "detail": "Join any public event or activity available on the map",
-    "score": 250
+    "id": "1cf4498d05cb",
+    "title": "Kill a Blood Eagle",
+    "detail": "Dagger's Den is a reliable spawn location with 15 Blood Eagles.",
+    "score": 10
    },
    {
-    "id": "5ecf7a6600ad",
-    "title": "Cripple a Super Mutant's Head",
-    "detail": "West Tek Research Center has dense Super Mutant spawns",
-    "score": 250
+    "id": "36d0edd3b544",
+    "title": "Kill a Honey Beast",
+    "detail": "The Freak Show has reliable Honey Beast spawns; target the head for faster kills.",
+    "score": 1
    },
    {
-    "id": "93ff2ffae9c0",
-    "title": "Kill an Enemy in the Skyline Valley Region",
-    "detail": "Grindstone Arch at the western edge has dense Super Mutant populations",
-    "score": 250
+    "id": "2332e4bf5637",
+    "title": "Kill a Pint-Sized Phantom while wearing a Costume",
+    "detail": "Equip any costume outfit, hat, or mask before the kill. Found at cabins and fairgrounds.",
+    "score": 5
    },
    {
-    "id": "f9baaff0f4ac",
-    "title": "Scrap junk to produce Bone",
-    "detail": "Craft Bulk Bone Shards at a Tinker's Workbench then scrap them",
-    "score": 250
+    "id": "e249689299ec",
+    "title": "Take a Camera Picture at the Super Duper Mart in the Burning Springs",
+    "detail": "Equip the Camera from your Pip-Boy and take a picture at the location.",
+    "score": 1
    }
   ]
  },
  "weekly": {
-  "period_start": "2026-10-27T12:00:00-04:00",
-  "resets_at": "2026-11-03T12:00:00-05:00",
+  "period_start": "2026-11-03T12:00:00-05:00",
+  "resets_at": "2026-11-10T12:00:00-05:00",
   "items": [
    {
-    "id": "2765ca95c460",
-    "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Found at industrial and roadside locations like Toxic Larry's Meat 'n Go",
-    "score": 1500
+    "id": "4796f0e66f2b",
+    "title": "Build Anything in a Workshop or C.A.M.P.",
+    "detail": "Fast travel to your C.A.M.P. or claim a workshop, then place any small decoration or building piece.",
+    "score": 25
    },
    {
-    "id": "0005159f733c",
-    "title": "Complete a Daily Operation!",
-    "detail": "Join or start a Daily Ops public team and complete the operation",
-    "score": 1500
+    "id": "232e33a028d2",
+    "title": "Collect Ballistic Ammo",
+    "detail": "Pull ammo from your stash, craft it at a Tinker's Workbench, or loot from enemies.",
+    "score": 60
    },
    {
-    "id": "d17bc580c622",
-    "title": "Craft any Plushie at a Tinkerer's Bench",
-    "detail": "Build a Tinkerer's Bench at C.A.M.P. or use the one at Whitespring Resort",
-    "score": 1500
+    "id": "64ac57365c62",
+    "title": "Craft Bulk Steel",
+    "detail": "Craft at a Tinker's Workbench using Steel scrap and Plastic.",
+    "score": 3
    },
    {
-    "id": "d3dbdef63716",
-    "title": "Cripple a Spooky Scorched's Leg",
-    "detail": "Spooky Scorched appear during the seasonal event; try Morgantown Airport",
-    "score": 1500
+    "id": "8e0521382ac8",
+    "title": "Craft Bulk Wood",
+    "detail": "Craft at a Tinker's Workbench using Wood scraps and Plastic.",
+    "score": 3
    },
    {
-    "id": "1a5a664fbce2",
-    "title": "Drink Nuka-Grape",
-    "detail": "Get from Nuka-Cola Collectron Station at a C.A.M.P.",
-    "score": 1500
+    "id": "a22f41a5b8ca",
+    "title": "Cripple a Super Mutant's Limb",
+    "detail": "West Tek Research Center has dense Super Mutant spawns; use Enforcer perk or V.A.T.S. targeting.",
+    "score": 30
    },
    {
-    "id": "9058f1b99e2b",
-    "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station at a C.A.M.P.",
-    "score": 1500
+    "id": "8ad00faf2dd8",
+    "title": "Kill a Mole Miner",
+    "detail": "Blackwater Mine is a reliable spawn location; target the head in V.A.T.S.",
+    "score": 30
    },
    {
-    "id": "7ad484a2da71",
-    "title": "Kill a Creature",
-    "detail": "Whitespring Golf Club has dense Feral Ghoul populations",
-    "score": 1500
+    "id": "43f0ecf0bd9e",
+    "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
+    "detail": "Start a Head Hunt at Highway Town's Bounty Board, then kill with bladed melee weapons.",
+    "score": 18
    },
    {
-    "id": "59368f5d1ed3",
-    "title": "Kill a Creature while Wearing a Costume",
-    "detail": "Equip any costume item and kill creatures at Poseidon Energy Plant",
-    "score": 1500
+    "id": "b6985ec7951f",
+    "title": "Scrap junk to produce Black Titanium",
+    "detail": "Scrap Mole Miner suit scraps or Loose excavator power armor mod boxes at any workbench.",
+    "score": 10
    },
    {
-    "id": "db558d43b1bc",
-    "title": "Take a Chem",
-    "detail": "Obtain from Doctor's Orders Cigarette Machine at any C.A.M.P.",
-    "score": 1500
+    "id": "3a53f9ee4a87",
+    "title": "Sell a Weapon to an NPC vendor",
+    "detail": "Any NPC vendor works; Whitespring Resort has multiple vendors.",
+    "score": 15
+   },
+   {
+    "id": "74ad21363615",
+    "title": "Repeatable Under Rank 100: Gain XP",
+    "detail": "Earn XP by playing normally; only appears if Scoreboard rank is below 100.",
+    "score": 10000
+   },
+   {
+    "id": "d71579708ee8",
+    "title": "Repeatable at Rank 100 or above: Complete a Public Event",
+    "detail": "Complete any public event; only appears at Scoreboard rank 100 or above.",
+    "score": 3
    }
   ]
  },
  "events": [
-  {
-   "id": "f1217905f981",
-   "name": "Spooky Scorched",
-   "type": "seasonal",
-   "starts": "2026-10-20",
-   "ends": "2026-11-03",
-   "description": "Seasonal event featuring Spooky Scorched enemies with Halloween costumes and exclusive rewards including mystery candy and legendary drops."
-  },
-  {
-   "id": "56efaaeec444",
-   "name": "Minerva (List 7)",
-   "type": "weekend",
-   "starts": "2026-11-02",
-   "ends": "2026-11-04",
-   "description": "Weekend vendor rotation offering plans including Gauss weapons, Brotherhood recon armor, and other craftable items."
-  },
   {
    "id": "d8085ca52c2c",
    "name": "Double SCORE and Caps-A-Plenty",
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Double rewards for challenge completion and increased caps drops from enemies and looting."
+   "description": "Earn double SCORE from challenges and double caps from vendors."
   },
   {
    "id": "126bb8c1df9f",
    "name": "Anniversary Events",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Community celebration event with special rewards and activities."
+   "description": "Special anniversary-themed event with unique rewards."
   },
   {
    "id": "76f713338438",
    "name": "Minerva's Big Sale (List 8)",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Major vendor sale event offering discounted gold bullion prices on various plans."
+   "description": "Minerva offers discounted legendary crafting and armor plans."
   },
   {
    "id": "ecb3d7224821",
@@ -155,15 +151,31 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Daily Operations event with double mutations and increased legendary rewards."
+   "description": "Earn bonus caps and encounter mutated enemy variants in public events."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with special mutations for enhanced difficulty and rewards."
+   "description": "Public events feature mutated enemies with special rewards."
+  },
+  {
+   "id": "16e2b172b55e",
+   "name": "Double XP Weekend",
+   "type": "weekend",
+   "starts": "2026-11-26",
+   "ends": "2026-11-30",
+   "description": "Earn double experience from all activities."
+  },
+  {
+   "id": "eab26cc5304a",
+   "name": "Holiday Scorched",
+   "type": "seasonal",
+   "starts": "2026-12-15",
+   "ends": "2026-12-29",
+   "description": "Hunt holiday-themed Scorched creatures for festive rewards."
   }
  ],
  "season": {
