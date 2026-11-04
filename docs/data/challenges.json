@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-04T02:00:27.717220+00:00",
+ "updated": "2026-11-04T22:43:23.561208+00:00",
  "daily": {
-  "period_start": "2026-11-03T12:00:00-05:00",
-  "resets_at": "2026-11-04T12:00:00-05:00",
+  "period_start": "2026-11-04T12:00:00-05:00",
+  "resets_at": "2026-11-05T12:00:00-05:00",
   "items": [
    {
-    "id": "ba7a39effd74",
-    "title": "Scrap junk to produce Lead",
-    "detail": "Craft Bulk Lead at a Tinker's Workbench then scrap it, or scrap junk containing Lead",
+    "id": "b4a0d98dde62",
+    "title": "Eat a Cooked Meal",
+    "detail": "Cook at any cooking station or buy from Mr Waiter/Ms Waitress at Whitespring Resort",
     "score": 10
    },
    {
-    "id": "514ef3d51a88",
-    "title": "Collect a Microscope or Biometric Scanner",
-    "detail": "Find them at West Tek Research Center",
-    "score": 2
-   },
-   {
-    "id": "8f3f95cb704a",
-    "title": "Craft any Flair at a Tinkerer's Bench",
-    "detail": "Flairs are cosmetic backpack trinkets from Season Scoreboards or Seasonal Events",
-    "score": 1
-   },
-   {
-    "id": "1cf4498d05cb",
-    "title": "Kill a Blood Eagle",
-    "detail": "Reliable spawn at Dagger's Den in the Mire",
-    "score": 10
-   },
-   {
-    "id": "36d0edd3b544",
-    "title": "Kill a Honey Beast",
-    "detail": "Found at The Freak Show in the Savage Divide",
-    "score": 1
-   },
-   {
-    "id": "2332e4bf5637",
-    "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Wear any outfit with 'Costume' in description; Phantoms appear near cabins and campgrounds",
+    "id": "acd91cf9542a",
+    "title": "Collect a Lighter, Cigarette or Cigar",
+    "detail": "Doctor's Orders Cigarette Machine at C.A.M.P. passively produces these items",
     "score": 5
    },
    {
-    "id": "e249689299ec",
-    "title": "Take a Camera Picture at the Super Duper Mart in the Burning Springs",
-    "detail": "Equip Camera from Pip-Boy weapons slot and take a picture",
+    "id": "f7beb037eb19",
+    "title": "Collect a piece of Bone",
+    "detail": "Braxson's Quality Medical Supplies in the Mire has skeleton bones on shelves and tables",
+    "score": 3
+   },
+   {
+    "id": "484c7aabd6f3",
+    "title": "Kill a Pint-Sized Phantom while in a Team",
+    "detail": "Join any team; Phantoms spawn near cabins and campgrounds during Slasher event",
+    "score": 10
+   },
+   {
+    "id": "429b56ec365f",
+    "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Grunt Hunt",
+    "detail": "Pick up Grunt Hunt bounty at Highway Town, finish with blade; easier than Head Hunt",
+    "score": 5
+   },
+   {
+    "id": "5028d6e234e0",
+    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
+    "detail": "Complete a public event first to get the quest; kills anywhere count, not just at grave",
+    "score": 6
+   },
+   {
+    "id": "4a44d8b7dc17",
+    "title": "Use Photomode while in a Team",
+    "detail": "Open Photomode settings while on any team and take a photo",
     "score": 1
    }
   ]
@@ -55,13 +55,13 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any decoration or C.A.M.P. piece from build menu",
+    "detail": "Place any small decoration or C.A.M.P. piece like a floor or stair from build menu",
     "score": 25
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
-    "detail": "Pull from stash, craft at Tinker's Workbench, or loot from enemies",
+    "detail": "Pull from stash, craft with Ammosmith perk, or loot from enemies; Forward Station Tango is reliable",
     "score": 60
    },
    {
@@ -79,31 +79,31 @@
    {
     "id": "a22f41a5b8ca",
     "title": "Cripple a Super Mutant's Limb",
-    "detail": "Aim at arm or leg at West Tek Research Center; use Enforcer perk or V.A.T.S.",
+    "detail": "West Tek Research Center has dense Super Mutant spawns; use shotgun with Enforcer perk or rifle via V.A.T.S.",
     "score": 30
    },
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Reliable spawn at Blackwater Mine; use V.A.T.S. on head",
+    "detail": "Blackwater Mine is reliable spawn location; target the head as weak spot with V.A.T.S.",
     "score": 30
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start Head Hunt at Highway Town Bounty Board; use bladed melee weapon for final hit",
+    "detail": "Start at Highway Town Bounty Board; any bladed melee weapon counts, only final hit needs blade",
     "score": 18
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suits and excavator power armor mods at any workbench",
+    "detail": "Scrap Mole Miner suit scraps and excavator power armor mod boxes at any workbench",
     "score": 10
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any looted weapon or crafted grenade to any vendor",
+    "detail": "Whitespring Resort has multiple vendors; can craft and sell inexpensive grenades",
     "score": 15
    }
   ]
@@ -115,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Double SCORE rewards and bonus Caps from activities throughout the event period."
+   "description": "Double rewards for SCORE progress and caps earned from activities."
   },
   {
    "id": "126bb8c1df9f",
@@ -123,7 +123,15 @@
    "type": "seasonal",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special celebration event marking an anniversary with unique rewards and activities."
+   "description": "Special events celebrating Fallout 76 anniversary with unique rewards."
+  },
+  {
+   "id": "76f713338438",
+   "name": "Minerva's Big Sale (List 8)",
+   "type": "weekend",
+   "starts": "2026-11-12",
+   "ends": "2026-11-16",
+   "description": "Limited-time vendor rotation offering rare plans and items at discounted gold prices."
   },
   {
    "id": "ecb3d7224821",
@@ -131,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Gold Rush caps bonus combined with double mutation rates on creatures."
+   "description": "Double caps rewards and mutated enemy encounters with special loot drops."
   },
   {
    "id": "a03a0ac660a1",
@@ -139,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events with mutated variants offering special party packages and rewards."
+   "description": "Public events with mutated variants offering exclusive rewards from mutated packages."
   },
   {
    "id": "16e2b172b55e",
@@ -147,15 +155,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Double experience points earned from all activities for accelerated character leveling."
+   "description": "Double experience points earned from all activities for faster leveling."
   },
   {
-   "id": "eab26cc5304a",
-   "name": "Holiday Scorched",
-   "type": "seasonal",
-   "starts": "2026-12-15",
-   "ends": "2026-12-29",
-   "description": "Holiday-themed Scorched creatures spawn throughout Appalachia with festive rewards."
+   "id": "991950db22f6",
+   "name": "World Pets Update (Patch 72) / Season 27",
+   "type": "update",
+   "starts": "2026-12-01",
+   "ends": "",
+   "description": "Major update introducing world pets feature and launching Season 27 You're S.P.E.C.I.A.L."
   }
  ],
  "season": {
