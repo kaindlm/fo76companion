@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:24:58.943038+00:00",
+ "updated": "2026-11-04T02:00:27.717220+00:00",
  "daily": {
   "period_start": "2026-11-03T12:00:00-05:00",
   "resets_at": "2026-11-04T12:00:00-05:00",
@@ -7,43 +7,43 @@
    {
     "id": "ba7a39effd74",
     "title": "Scrap junk to produce Lead",
-    "detail": "Craft Bulk Lead at a Tinker's Workbench, then scrap it for the fastest completion.",
+    "detail": "Craft Bulk Lead at a Tinker's Workbench then scrap it, or scrap junk containing Lead",
     "score": 10
    },
    {
     "id": "514ef3d51a88",
     "title": "Collect a Microscope or Biometric Scanner",
-    "detail": "West Tek Research Center has several Microscopes in various rooms.",
+    "detail": "Find them at West Tek Research Center",
     "score": 2
    },
    {
     "id": "8f3f95cb704a",
     "title": "Craft any Flair at a Tinkerer's Bench",
-    "detail": "Flairs are cosmetic backpack trinkets unlocked from Season Scoreboards or Seasonal Events.",
+    "detail": "Flairs are cosmetic backpack trinkets from Season Scoreboards or Seasonal Events",
     "score": 1
    },
    {
     "id": "1cf4498d05cb",
     "title": "Kill a Blood Eagle",
-    "detail": "Dagger's Den is a reliable spawn location with 15 Blood Eagles.",
+    "detail": "Reliable spawn at Dagger's Den in the Mire",
     "score": 10
    },
    {
     "id": "36d0edd3b544",
     "title": "Kill a Honey Beast",
-    "detail": "The Freak Show has reliable Honey Beast spawns; target the head for faster kills.",
+    "detail": "Found at The Freak Show in the Savage Divide",
     "score": 1
    },
    {
     "id": "2332e4bf5637",
     "title": "Kill a Pint-Sized Phantom while wearing a Costume",
-    "detail": "Equip any costume outfit, hat, or mask before the kill. Found at cabins and fairgrounds.",
+    "detail": "Wear any outfit with 'Costume' in description; Phantoms appear near cabins and campgrounds",
     "score": 5
    },
    {
     "id": "e249689299ec",
     "title": "Take a Camera Picture at the Super Duper Mart in the Burning Springs",
-    "detail": "Equip the Camera from your Pip-Boy and take a picture at the location.",
+    "detail": "Equip Camera from Pip-Boy weapons slot and take a picture",
     "score": 1
    }
   ]
@@ -55,68 +55,56 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Fast travel to your C.A.M.P. or claim a workshop, then place any small decoration or building piece.",
+    "detail": "Place any decoration or C.A.M.P. piece from build menu",
     "score": 25
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
-    "detail": "Pull ammo from your stash, craft it at a Tinker's Workbench, or loot from enemies.",
+    "detail": "Pull from stash, craft at Tinker's Workbench, or loot from enemies",
     "score": 60
    },
    {
     "id": "64ac57365c62",
     "title": "Craft Bulk Steel",
-    "detail": "Craft at a Tinker's Workbench using Steel scrap and Plastic.",
+    "detail": "Craft at Tinker's Workbench using Steel scrap and Plastic",
     "score": 3
    },
    {
     "id": "8e0521382ac8",
     "title": "Craft Bulk Wood",
-    "detail": "Craft at a Tinker's Workbench using Wood scraps and Plastic.",
+    "detail": "Craft at Tinker's Workbench using Wood scraps and Plastic",
     "score": 3
    },
    {
     "id": "a22f41a5b8ca",
     "title": "Cripple a Super Mutant's Limb",
-    "detail": "West Tek Research Center has dense Super Mutant spawns; use Enforcer perk or V.A.T.S. targeting.",
+    "detail": "Aim at arm or leg at West Tek Research Center; use Enforcer perk or V.A.T.S.",
     "score": 30
    },
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Blackwater Mine is a reliable spawn location; target the head in V.A.T.S.",
+    "detail": "Reliable spawn at Blackwater Mine; use V.A.T.S. on head",
     "score": 30
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start a Head Hunt at Highway Town's Bounty Board, then kill with bladed melee weapons.",
+    "detail": "Start Head Hunt at Highway Town Bounty Board; use bladed melee weapon for final hit",
     "score": 18
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suit scraps or Loose excavator power armor mod boxes at any workbench.",
+    "detail": "Scrap Mole Miner suits and excavator power armor mods at any workbench",
     "score": 10
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Any NPC vendor works; Whitespring Resort has multiple vendors.",
+    "detail": "Sell any looted weapon or crafted grenade to any vendor",
     "score": 15
-   },
-   {
-    "id": "74ad21363615",
-    "title": "Repeatable Under Rank 100: Gain XP",
-    "detail": "Earn XP by playing normally; only appears if Scoreboard rank is below 100.",
-    "score": 10000
-   },
-   {
-    "id": "d71579708ee8",
-    "title": "Repeatable at Rank 100 or above: Complete a Public Event",
-    "detail": "Complete any public event; only appears at Scoreboard rank 100 or above.",
-    "score": 3
    }
   ]
  },
@@ -127,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Earn double SCORE from challenges and double caps from vendors."
+   "description": "Double SCORE rewards and bonus Caps from activities throughout the event period."
   },
   {
    "id": "126bb8c1df9f",
@@ -135,15 +123,7 @@
    "type": "seasonal",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special anniversary-themed event with unique rewards."
-  },
-  {
-   "id": "76f713338438",
-   "name": "Minerva's Big Sale (List 8)",
-   "type": "other",
-   "starts": "2026-11-12",
-   "ends": "2026-11-16",
-   "description": "Minerva offers discounted legendary crafting and armor plans."
+   "description": "Special celebration event marking an anniversary with unique rewards and activities."
   },
   {
    "id": "ecb3d7224821",
@@ -151,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Earn bonus caps and encounter mutated enemy variants in public events."
+   "description": "Gold Rush caps bonus combined with double mutation rates on creatures."
   },
   {
    "id": "a03a0ac660a1",
@@ -159,7 +139,7 @@
    "type": "seasonal",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events feature mutated enemies with special rewards."
+   "description": "Public events with mutated variants offering special party packages and rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -167,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Earn double experience from all activities."
+   "description": "Double experience points earned from all activities for accelerated character leveling."
   },
   {
    "id": "eab26cc5304a",
@@ -175,7 +155,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Hunt holiday-themed Scorched creatures for festive rewards."
+   "description": "Holiday-themed Scorched creatures spawn throughout Appalachia with festive rewards."
   }
  ],
  "season": {
