@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-05T02:03:49.792429+00:00",
+ "updated": "2026-11-05T22:44:14.612051+00:00",
  "daily": {
-  "period_start": "2026-11-04T12:00:00-05:00",
-  "resets_at": "2026-11-05T12:00:00-05:00",
+  "period_start": "2026-11-05T12:00:00-05:00",
+  "resets_at": "2026-11-06T12:00:00-05:00",
   "items": [
    {
-    "id": "b4a0d98dde62",
-    "title": "Eat a Cooked Meal",
-    "detail": "Cook at any cooking station or buy from vendors at Whitespring Resort",
+    "id": "93638cefa105",
+    "title": "Sell a Ski Sword to an NPC vendor",
+    "detail": "Pleasant Valley Ski Resort has Ski Swords near the vendor bot",
+    "score": 1
+   },
+   {
+    "id": "17d7ace7c025",
+    "title": "Collect a Burnt Book",
+    "detail": "Summersville has over 200 Burnt Books in a marked house",
     "score": 10
    },
    {
-    "id": "acd91cf9542a",
-    "title": "Collect a Lighter, Cigarette or Cigar",
-    "detail": "Collect from Doctor's Orders Cigarette Machine or player C.A.M.P.s",
-    "score": 5
+    "id": "9eba545a3812",
+    "title": "Complete Daily Operations on a Public Team!",
+    "detail": "Join a Daily Ops team and complete the operation",
+    "score": null
    },
    {
-    "id": "f7beb037eb19",
-    "title": "Collect a piece of Bone",
-    "detail": "Found at Braxson's Quality Medical Supplies in the Mire",
-    "score": 3
+    "id": "6d4227375e26",
+    "title": "Cripple a Human's Head",
+    "detail": "Point Pleasant has dense Cultist spawns",
+    "score": 2
    },
    {
-    "id": "484c7aabd6f3",
-    "title": "Kill a Pint-Sized Phantom while in a Team",
-    "detail": "Join any team; Phantoms appear near cabins and campgrounds",
+    "id": "47d64e77675c",
+    "title": "Hack a Terminal",
+    "detail": "Watoga Transit Hub has a terminal right at spawn",
+    "score": 1
+   },
+   {
+    "id": "ccfc7d8fa529",
+    "title": "Kill a Human while Wearing a Costume",
+    "detail": "Point Pleasant for humans; any costume outfit or hat counts",
     "score": 10
    },
    {
-    "id": "429b56ec365f",
-    "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Grunt Hunt",
-    "detail": "Get bounty from Highway Town, use blade weapon in marked area",
-    "score": 5
-   },
-   {
-    "id": "5028d6e234e0",
-    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-    "detail": "Start quest after any public event, equip shovel for kills",
-    "score": 6
-   },
-   {
-    "id": "4a44d8b7dc17",
-    "title": "Use Photomode while in a Team",
-    "detail": "Join a team and open Photomode to take a photo",
+    "id": "af6348a6fece",
+    "title": "Visit another Player's Shelter",
+    "detail": "Fast travel to a player camp with a shelter icon",
     "score": 1
    }
   ]
@@ -55,55 +55,55 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any small decoration or C.A.M.P. piece from build menu",
+    "detail": "Place any small decoration or C.A.M.P. piece at your base",
     "score": 25
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
-    "detail": "Retrieve from stash, craft at Tinker's Workbench, or loot from enemies",
+    "detail": "Pull ammo from stash or loot from enemies",
     "score": 60
    },
    {
     "id": "64ac57365c62",
     "title": "Craft Bulk Steel",
-    "detail": "Craft at Tinker's Workbench using Steel scrap and Plastic",
+    "detail": "Craft at a Tinker's Workbench using steel scrap and plastic",
     "score": 3
    },
    {
     "id": "8e0521382ac8",
     "title": "Craft Bulk Wood",
-    "detail": "Craft at Tinker's Workbench using Wood scrap and Plastic",
+    "detail": "Craft at a Tinker's Workbench using wood scraps and plastic",
     "score": 3
    },
    {
     "id": "a22f41a5b8ca",
     "title": "Cripple a Super Mutant's Limb",
-    "detail": "Target limbs at West Tek Research Center with rifle or shotgun",
+    "detail": "West Tek Research Center has dense Super Mutant spawns",
     "score": 30
    },
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Fast travel to Blackwater Mine for reliable spawn",
+    "detail": "Blackwater Mine has reliable Mole Miner spawns",
     "score": 30
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start at Highway Town bounty board, use blade weapon at event",
+    "detail": "Start a Head Hunt event at Highway Town using the bounty board",
     "score": 18
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suits and excavator mod boxes at workbench",
+    "detail": "Scrap Mole Miner suits and excavator power armor mod boxes",
     "score": 10
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to vendors like those at Whitespring Resort",
+    "detail": "Whitespring Resort has multiple vendors",
     "score": 15
    }
   ]
@@ -115,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Earn double Scoreboard progress and gain Caps more quickly."
+   "description": "Earn double Scoreboard progress and additional Caps from vendors and enemies."
   },
   {
    "id": "126bb8c1df9f",
@@ -123,7 +123,7 @@
    "type": "other",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Celebrate Fallout 76 anniversary with special limited-time content."
+   "description": "Special celebration event with unique rewards during the game's anniversary period."
   },
   {
    "id": "76f713338438",
@@ -131,7 +131,7 @@
    "type": "other",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Limited-time vendor sale featuring plans and equipment at discounted prices."
+   "description": "Minerva offers a rotating selection of rare plans and mods at discounted gold prices."
   },
   {
    "id": "ecb3d7224821",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Earn bonus Caps and encounter double mutated creatures in public events."
+   "description": "Increased legendary drop rates and double mutation effects on public events."
   },
   {
    "id": "a03a0ac660a1",
@@ -147,7 +147,7 @@
    "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Participate in public events with mutated enemies for enhanced rewards."
+   "description": "Public events spawn with random mutations and enhanced rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -155,31 +155,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Gain experience points at double rate for faster character progression."
+   "description": "Earn double experience points from all activities and combat."
   },
   {
-   "id": "0772e4f028ba",
-   "name": "World Pets Update (Patch 72) Start: Season 27",
+   "id": "99097e378421",
+   "name": "World Pets Update (Patch 72) / Season 27 Start",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "Major update introducing World Pets feature and beginning Season 27 You're S.P.E.C.I.A.L."
-  },
-  {
-   "id": "d37fd4924971",
-   "name": "Treasure Hunter and Double Mutations",
-   "type": "weekend",
-   "starts": "2026-12-03",
-   "ends": "2026-12-07",
-   "description": "Hunt treasure from special enemy drops while mutations are doubled."
-  },
-  {
-   "id": "eab26cc5304a",
-   "name": "Holiday Scorched",
-   "type": "seasonal",
-   "starts": "2026-12-15",
-   "ends": "2026-12-29",
-   "description": "Seasonal event featuring holiday-themed Scorched enemies and festive rewards."
+   "ends": "",
+   "description": "Major update introducing world pets system and beginning of Season 27 You're S.P.E.C.I.A.L."
   }
  ],
  "season": {
