@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:44:14.612051+00:00",
+ "updated": "2026-11-06T02:05:43.796184+00:00",
  "daily": {
   "period_start": "2026-11-05T12:00:00-05:00",
   "resets_at": "2026-11-06T12:00:00-05:00",
@@ -13,37 +13,37 @@
    {
     "id": "17d7ace7c025",
     "title": "Collect a Burnt Book",
-    "detail": "Summersville has over 200 Burnt Books in a marked house",
+    "detail": "Summersville has a house with over 160 Burnt Books on shelves",
     "score": 10
    },
    {
     "id": "9eba545a3812",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops team and complete the operation",
+    "detail": "Join a Daily Ops public team and complete the instance",
     "score": null
    },
    {
     "id": "6d4227375e26",
     "title": "Cripple a Human's Head",
-    "detail": "Point Pleasant has dense Cultist spawns",
+    "detail": "Point Pleasant has up to 34 Cultists for reliable spawns",
     "score": 2
    },
    {
     "id": "47d64e77675c",
     "title": "Hack a Terminal",
-    "detail": "Watoga Transit Hub has a terminal right at spawn",
+    "detail": "Watoga Transit Hub has a terminal straight ahead of spawn",
     "score": 1
    },
    {
     "id": "ccfc7d8fa529",
     "title": "Kill a Human while Wearing a Costume",
-    "detail": "Point Pleasant for humans; any costume outfit or hat counts",
+    "detail": "Any costume item works; Point Pleasant has Cultist spawns",
     "score": 10
    },
    {
     "id": "af6348a6fece",
     "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to a player camp with a shelter icon",
+    "detail": "Fast travel to a player C.A.M.P. with a shelter icon",
     "score": 1
    }
   ]
@@ -55,25 +55,25 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any small decoration or C.A.M.P. piece at your base",
+    "detail": "Place any decoration or C.A.M.P. piece at your C.A.M.P. or claimed workshop",
     "score": 25
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
-    "detail": "Pull ammo from stash or loot from enemies",
+    "detail": "Pull from stash, craft with Ammosmith perk, or loot from enemies",
     "score": 60
    },
    {
     "id": "64ac57365c62",
     "title": "Craft Bulk Steel",
-    "detail": "Craft at a Tinker's Workbench using steel scrap and plastic",
+    "detail": "Craft at Tinker's Workbench using Steel scrap and Plastic",
     "score": 3
    },
    {
     "id": "8e0521382ac8",
     "title": "Craft Bulk Wood",
-    "detail": "Craft at a Tinker's Workbench using wood scraps and plastic",
+    "detail": "Craft at Tinker's Workbench using Wood scraps and Plastic",
     "score": 3
    },
    {
@@ -85,25 +85,25 @@
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Blackwater Mine has reliable Mole Miner spawns",
+    "detail": "Blackwater Mine spawns up to 25 Mole Miners",
     "score": 30
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start a Head Hunt event at Highway Town using the bounty board",
+    "detail": "Start a Head Hunt at Highway Town bounty board, use bladed weapons",
     "score": 18
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suits and excavator power armor mod boxes",
+    "detail": "Scrap Mole Miner suit scraps and excavator armor mod boxes",
     "score": 10
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Whitespring Resort has multiple vendors",
+    "detail": "Sell any looted weapon or craft grenades to sell",
     "score": 15
    }
   ]
@@ -115,15 +115,15 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Earn double Scoreboard progress and additional Caps from vendors and enemies."
+   "description": "Earn double SCORE points and bonus caps from vendor sales."
   },
   {
    "id": "126bb8c1df9f",
    "name": "Anniversary Events",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special celebration event with unique rewards during the game's anniversary period."
+   "description": "Special anniversary celebration event with unique rewards."
   },
   {
    "id": "76f713338438",
@@ -131,7 +131,7 @@
    "type": "other",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva offers a rotating selection of rare plans and mods at discounted gold prices."
+   "description": "Minerva offers a rotating selection of rare plans and mods for gold."
   },
   {
    "id": "ecb3d7224821",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Increased legendary drop rates and double mutation effects on public events."
+   "description": "Earn bonus gold and encounter mutated public events."
   },
   {
    "id": "a03a0ac660a1",
@@ -147,7 +147,7 @@
    "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with random mutations and enhanced rewards."
+   "description": "Public events spawn with mutations and enhanced rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -155,15 +155,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Earn double experience points from all activities and combat."
+   "description": "Earn double experience points for all activities."
   },
   {
-   "id": "99097e378421",
-   "name": "World Pets Update (Patch 72) / Season 27 Start",
+   "id": "b03507e4d9a7",
+   "name": "World Pets Update (Patch 72) and Season 27",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "",
-   "description": "Major update introducing world pets system and beginning of Season 27 You're S.P.E.C.I.A.L."
+   "ends": "2026-12-01",
+   "description": "Major update introducing world pets and new season 27 content."
   }
  ],
  "season": {
