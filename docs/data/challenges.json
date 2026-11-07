@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:13:03.399018+00:00",
+ "updated": "2026-11-07T01:43:12.124316+00:00",
  "daily": {
   "period_start": "2026-11-06T12:00:00-05:00",
   "resets_at": "2026-11-07T12:00:00-05:00",
@@ -7,43 +7,43 @@
    {
     "id": "76bb1520e9fe",
     "title": "Collect a Blood pack",
-    "detail": "Check tables and first aid boxes in Summersville, or loot Blood Eagles.",
+    "detail": "Loot from Blood Eagles or first aid boxes in Summersville",
     "score": 250
    },
    {
     "id": "63d4cd93adf6",
     "title": "Build Anything in a Shelter in Free Cam",
-    "detail": "Enter your C.A.M.P. Shelter, switch to Free Cam before placing an item.",
+    "detail": "Enter shelter, use build menu in Free Cam mode, place any item",
     "score": 250
    },
    {
     "id": "b123d911d88c",
     "title": "Collect Mirelurk Eggs",
-    "detail": "Collect from nests at Ohio River Adventures; Mirelurk Hatchlings may spawn.",
+    "detail": "Find nests at Ohio River Adventures along the riverbanks",
     "score": 250
    },
    {
     "id": "54cc1b3fea0d",
     "title": "Kill a Mirelurk",
-    "detail": "Spruce Knob Lake is a reliable spawn; use V.A.T.S. on the head.",
+    "detail": "Spruce Knob Lake has reliable spawns; target the head with V.A.T.S.",
     "score": 250
    },
    {
     "id": "a47fa7ab7296",
     "title": "Kill an Enemy in the Ash Heap Region",
-    "detail": "Camden Park has dense Scorched spawns.",
+    "detail": "Camden Park has dense Scorched spawns",
     "score": 250
    },
    {
     "id": "d4e1c0f6aa8b",
     "title": "Kill an Enemy with any Shotgun",
-    "detail": "Eastern Regional Penitentiary has close-range encounters with Feral Ghouls.",
+    "detail": "Eastern Regional Penitentiary has Feral Ghouls in corridors",
     "score": 250
    },
    {
     "id": "4df475b86b1e",
     "title": "Sell a Black Powder Pistol to an NPC vendor",
-    "detail": "Whitespring Resort or any train station vendor will buy it.",
+    "detail": "Any NPC vendor accepts them; Whitespring Resort or train stations",
     "score": 250
    }
   ]
@@ -55,55 +55,55 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any small decoration or C.A.M.P. piece at your C.A.M.P. or claimed workshop.",
+    "detail": "Place any small decoration or structure piece",
     "score": 1500
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
-    "detail": "Pull from stash, craft at Tinker's Workbench, or loot from enemies.",
+    "detail": "Pull from stash, craft at Tinker's Workbench, or loot from enemies",
     "score": 1500
    },
    {
     "id": "64ac57365c62",
     "title": "Craft Bulk Steel",
-    "detail": "Craft at a Tinker's Workbench; requires Steel scrap and Plastic.",
+    "detail": "Craft at Tinker's Workbench; requires Steel scrap and Plastic",
     "score": 1500
    },
    {
     "id": "8e0521382ac8",
     "title": "Craft Bulk Wood",
-    "detail": "Craft at a Tinker's Workbench; requires Wood scraps and Plastic.",
+    "detail": "Craft at Tinker's Workbench; requires Wood scrap and Plastic",
     "score": 1500
    },
    {
     "id": "a22f41a5b8ca",
     "title": "Cripple a Super Mutant's Limb",
-    "detail": "West Tek Research Center has dense Super Mutant spawns; use Enforcer perk or V.A.T.S.",
+    "detail": "West Tek Research Center has dense spawns; aim at limbs with V.A.T.S.",
     "score": 1500
    },
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Blackwater Mine spawns up to 25 Mole Miners; use V.A.T.S. on the head.",
+    "detail": "Blackwater Mine spawns up to 25; use V.A.T.S. on head",
     "score": 1500
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start Head Hunt at Highway Town Bounty Board; any bladed melee weapon works.",
+    "detail": "Start at Highway Town Bounty Board; any bladed melee weapon works",
     "score": 1500
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suit scraps or excavator power armor mod boxes at any workbench.",
+    "detail": "Scrap Mole Miner suit scraps and excavator armor pieces",
     "score": 1500
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to any NPC vendor; Whitespring Resort has multiple vendors.",
+    "detail": "Any weapon to any NPC vendor",
     "score": 1500
    }
   ]
@@ -115,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Double SCORE gains and bonus Caps rewards active during this weekend event."
+   "description": "Earn double SCORE and caps during this event period."
   },
   {
    "id": "126bb8c1df9f",
@@ -123,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special anniversary-themed activities and rewards for players."
+   "description": "Celebration event with anniversary-themed rewards and activities."
   },
   {
    "id": "76f713338438",
    "name": "Minerva's Big Sale (List 8)",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva offers rare plans and items at reduced gold prices."
+   "description": "Minerva offers rotating vendor lists with discounted plans and recipes."
   },
   {
    "id": "ecb3d7224821",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Extra Caps rewards and mutated enemies with double mutations active."
+   "description": "Earn bonus caps and encounter mutated enemies with special rewards."
   },
   {
    "id": "a03a0ac660a1",
@@ -147,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutated variants offering special rewards."
+   "description": "Public events spawn mutated versions of enemies with enhanced loot."
   },
   {
    "id": "16e2b172b55e",
@@ -155,15 +155,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Double experience gains across all activities."
+   "description": "Earn double experience points during this weekend."
   },
   {
    "id": "d451a54766d4",
    "name": "World Pets Update (Patch 72) and Season 27 Start",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "",
-   "description": "New World Pets feature launches alongside Season 27 'You're S.P.E.C.I.A.L.'."
+   "ends": "2026-12-01",
+   "description": "Major update introducing world pets and launching Season 27 with new content."
   },
   {
    "id": "d37fd4924971",
@@ -171,7 +171,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event with double mutations for increased loot and rewards."
+   "description": "Treasure Hunter creatures spawn with rare loot while mutations are doubled."
   },
   {
    "id": "eab26cc5304a",
@@ -179,7 +179,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Scorched enemies dressed for the holidays spawn throughout Appalachia with festive rewards."
+   "description": "Holiday-themed Scorched enemies appear with festive rewards and unique items."
   }
  ],
  "season": {
