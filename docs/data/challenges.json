@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:59:45.751567+00:00",
+ "updated": "2026-11-08T01:12:28.953593+00:00",
  "daily": {
   "period_start": "2026-11-07T12:00:00-05:00",
   "resets_at": "2026-11-08T12:00:00-05:00",
@@ -7,43 +7,43 @@
    {
     "id": "0c3e69e09121",
     "title": "Collect an audio Holotape",
-    "detail": "Fast travel to the Rusty Pick and look on a barrel next to a lantern",
+    "detail": "Fast travel to the Rusty Pick and turn right as soon as you enter. There is an Audio Holotape on a barrel next to a lantern.",
     "score": 1
    },
    {
     "id": "d700bd6ab064",
     "title": "Collect Deathclaw eggs",
-    "detail": "Check nests outside Abandoned Waste Dump in The Mire",
+    "detail": "Check the two nests directly outside the entrance to Abandoned Waste Dump in The Mire. Server hop if none found or if more are needed.",
     "score": 1
    },
    {
     "id": "fac227929b1b",
     "title": "Collect Toilet Paper",
-    "detail": "Find it at The Whitespring Resort maintenance building or use a Collectron",
+    "detail": "Fast travel to The Whitespring Resort Exterior and head right, behind the main resort building. Enter the red brick maintenance building. Inside, a table can hold both soap and toilet paper.",
     "score": 2
    },
    {
     "id": "b552a00112ca",
     "title": "Collect a Board Game",
-    "detail": "Take from a Games Cupboard at your C.A.M.P. if available",
+    "detail": "If your C.A.M.P. has a Games Cupboard, take a Board Game from it. It produces Blast Radius, Autopsy, Catch the Commie, Rad Poker and Unstoppables! board games.",
     "score": 1
    },
    {
     "id": "186f2540fb0a",
     "title": "Kill a Legendary Enemy",
-    "detail": "Join events like Eviction Notice or Radiation Rumble for spawns",
+    "detail": "Join a public event that spawns many Legendary enemies, such as Eviction Notice, Radiation Rumble or Uranium Fever.",
     "score": 1
    },
    {
     "id": "3d4792acddd3",
     "title": "Kill a Scorched",
-    "detail": "Fast travel to Wavy Willard's Water Park in Toxic Valley",
+    "detail": "Fast travel to Wavy Willard's Water Park in the Toxic Valley for a reliable Scorched spawn. A quick circle around the park can turn up to a dozen Scorched.",
     "score": 10
    },
    {
     "id": "ef5c5f672d48",
     "title": "Take a Camera Picture at Nuka-World On Tour",
-    "detail": "Equip Camera from Pip-Boy and take a photo there",
+    "detail": "Fast travel to Nuka-World On Tour, equip the Camera from your Pip-Boy weapons slot, and take a picture there.",
     "score": 1
    }
   ]
@@ -55,55 +55,55 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any small decoration or piece like a floor or stair",
+    "detail": "Fast travel to your own C.A.M.P. or take over a workshop. Then from the C.A.M.P. build menu, place any small decoration or C.A.M.P. pieces, such as a floor or stair piece.",
     "score": 25
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
-    "detail": "Pull from stash, craft, or loot from enemies",
+    "detail": "The quickest option is to just go to your stash or ammo storage box and pull some out. Or equip the Ammosmith perk and craft any ballistic ammo plan at a Tinker's Workbench.",
     "score": 60
    },
    {
     "id": "64ac57365c62",
     "title": "Craft Bulk Steel",
-    "detail": "Craft at Tinker's Workbench using Steel scrap and Plastic",
+    "detail": "Craft Bulk Steel at a Tinker's Workbench at your C.A.M.P. or use the one at the Whitespring Resort. Requires Steel scrap and Plastic.",
     "score": 3
    },
    {
     "id": "8e0521382ac8",
     "title": "Craft Bulk Wood",
-    "detail": "Craft at Tinker's Workbench using Wood scraps and Plastic",
+    "detail": "Craft Bulk Wood at a Tinker's Workbench at your C.A.M.P. or use the one at the Whitespring Resort. Requires Wood scraps and Plastic.",
     "score": 3
    },
    {
     "id": "a22f41a5b8ca",
     "title": "Cripple a Super Mutant's Limb",
-    "detail": "Fast travel to West Tek Research Center and aim at limbs",
+    "detail": "Fast travel to West Tek Research Center and cripple a Super Mutant's Arm or Leg by aiming at the Arm or Leg with a rifle.",
     "score": 30
    },
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Fast travel to Blackwater Mine where up to 25 spawn",
+    "detail": "Fast travel to Blackwater Mine, where up to 25 Mole Miners spawn in and around the mine (18 inside).",
     "score": 30
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start Head Hunt at Highway Town Bounty Board, use bladed weapons",
+    "detail": "Any bladed melee weapon counts: Combat Knife, Bowie Knife, Cultist Dagger, Pitchfork, Fire Axe, Chainsaw, or Ultracite Terror Sword. Only the final hit has to land with the blade.",
     "score": 18
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suit scraps and excavator armor mods at workbench",
+    "detail": "Scrap Mole Miner suit scraps and Loose excavator power armor mod boxes and other junk that contains Black Titanium at any workbench.",
     "score": 10
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any looted or crafted weapon at any vendor",
+    "detail": "Sell any weapon to any NPC vendor. The Whitespring Resort is one good spot with several vendors.",
     "score": 15
    }
   ]
@@ -115,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Earn double SCORE progress on challenges and gain bonus Caps from all sources."
+   "description": "Double rewards for both SCORE progress and in-game currency earnings."
   },
   {
    "id": "126bb8c1df9f",
@@ -123,31 +123,31 @@
    "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special anniversary celebration with unique activities and rewards."
+   "description": "Special celebration event marking the anniversary with various activities and rewards."
   },
   {
    "id": "76f713338438",
    "name": "Minerva's Big Sale (List 8)",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva offers a rotating selection of plans and recipes at reduced gold prices."
+   "description": "Minerva offers a rotating selection of rare plans and recipes at discounted prices."
   },
   {
    "id": "ecb3d7224821",
    "name": "Gold Rush and Double Mutations",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Earn bonus caps and encounter mutated creatures in public events."
+   "description": "Double mutation rates and increased caps rewards during gameplay."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events feature mutated enemies with special rewards."
+   "description": "Public events spawn with mutated variants offering enhanced rewards and challenges."
   },
   {
    "id": "16e2b172b55e",
@@ -155,7 +155,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Gain double experience points for all activities and progression."
+   "description": "All experience gained is doubled, accelerating character progression and farming."
   },
   {
    "id": "0ab269bd874c",
@@ -163,15 +163,7 @@
    "type": "update",
    "starts": "2026-12-01",
    "ends": "2026-12-01",
-   "description": "New update introducing world pets and starting Season 27."
-  },
-  {
-   "id": "d37fd4924971",
-   "name": "Treasure Hunter and Double Mutations",
-   "type": "other",
-   "starts": "2026-12-03",
-   "ends": "2026-12-07",
-   "description": "Treasure Hunter event returns with double mutations in public events."
+   "description": "Major patch introducing world pets feature and launching Season 27: You're S.P.E.C.I.A.L."
   },
   {
    "id": "eab26cc5304a",
@@ -179,7 +171,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Hunt holiday-themed Scorched enemies for exclusive seasonal rewards."
+   "description": "Special scorched creatures spawn with holiday-themed rewards including gifts and exclusive items."
   }
  ],
  "season": {
