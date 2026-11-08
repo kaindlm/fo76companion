@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-08T01:12:28.953593+00:00",
+ "updated": "2026-11-08T21:15:44.156636+00:00",
  "daily": {
-  "period_start": "2026-11-07T12:00:00-05:00",
-  "resets_at": "2026-11-08T12:00:00-05:00",
+  "period_start": "2026-11-08T12:00:00-05:00",
+  "resets_at": "2026-11-09T12:00:00-05:00",
   "items": [
    {
-    "id": "0c3e69e09121",
-    "title": "Collect an audio Holotape",
-    "detail": "Fast travel to the Rusty Pick and turn right as soon as you enter. There is an Audio Holotape on a barrel next to a lantern.",
-    "score": 1
+    "id": "e511303c107f",
+    "title": "Drink Nuka-Cola",
+    "detail": "Get from Nuka-Cola Collectron or drink from inventory",
+    "score": null
    },
    {
-    "id": "d700bd6ab064",
-    "title": "Collect Deathclaw eggs",
-    "detail": "Check the two nests directly outside the entrance to Abandoned Waste Dump in The Mire. Server hop if none found or if more are needed.",
-    "score": 1
+    "id": "ed2327300fca",
+    "title": "Collect a Teapot",
+    "detail": "Palace of the Winding Path has several on tables",
+    "score": null
    },
    {
-    "id": "fac227929b1b",
-    "title": "Collect Toilet Paper",
-    "detail": "Fast travel to The Whitespring Resort Exterior and head right, behind the main resort building. Enter the red brick maintenance building. Inside, a table can hold both soap and toilet paper.",
-    "score": 2
+    "id": "06d1bdf4e5d6",
+    "title": "Cripple a Protectron or a Robobrain's Arm",
+    "detail": "RobCo Research Center has Protectrons outside and inside",
+    "score": null
    },
    {
-    "id": "b552a00112ca",
-    "title": "Collect a Board Game",
-    "detail": "If your C.A.M.P. has a Games Cupboard, take a Board Game from it. It produces Blast Radius, Autopsy, Catch the Commie, Rad Poker and Unstoppables! board games.",
-    "score": 1
+    "id": "b2c665b2a491",
+    "title": "Kill a Cryptid",
+    "detail": "Toxic Larry's Meat 'n Go has three Snallygasters",
+    "score": null
    },
    {
-    "id": "186f2540fb0a",
-    "title": "Kill a Legendary Enemy",
-    "detail": "Join a public event that spawns many Legendary enemies, such as Eviction Notice, Radiation Rumble or Uranium Fever.",
-    "score": 1
+    "id": "5ab843c32342",
+    "title": "Sell Glowing Fungus Soup to an NPC vendor",
+    "detail": "Gather glowing fungus near The Wayward, craft at cooking station",
+    "score": null
    },
    {
-    "id": "3d4792acddd3",
-    "title": "Kill a Scorched",
-    "detail": "Fast travel to Wavy Willard's Water Park in the Toxic Valley for a reliable Scorched spawn. A quick circle around the park can turn up to a dozen Scorched.",
-    "score": 10
+    "id": "03c414dc8463",
+    "title": "Sell a Sweet Roll to an NPC vendor",
+    "detail": "Find in wicker basket at Berkeley Springs or buy from Mr Waiter",
+    "score": null
    },
    {
-    "id": "ef5c5f672d48",
-    "title": "Take a Camera Picture at Nuka-World On Tour",
-    "detail": "Fast travel to Nuka-World On Tour, equip the Camera from your Pip-Boy weapons slot, and take a picture there.",
-    "score": 1
+    "id": "c791a57fb05a",
+    "title": "Use Photomode in a Teammate's C.A.M.P.",
+    "detail": "Join a team, fast travel to teammate's C.A.M.P., use Photomode overlay",
+    "score": null
    }
   ]
  },
@@ -55,56 +55,56 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Fast travel to your own C.A.M.P. or take over a workshop. Then from the C.A.M.P. build menu, place any small decoration or C.A.M.P. pieces, such as a floor or stair piece.",
-    "score": 25
+    "detail": "Place any small decoration or C.A.M.P. piece at your base",
+    "score": null
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
-    "detail": "The quickest option is to just go to your stash or ammo storage box and pull some out. Or equip the Ammosmith perk and craft any ballistic ammo plan at a Tinker's Workbench.",
-    "score": 60
+    "detail": "Pull from stash, craft with Ammosmith perk, or loot from enemies",
+    "score": null
    },
    {
     "id": "64ac57365c62",
     "title": "Craft Bulk Steel",
-    "detail": "Craft Bulk Steel at a Tinker's Workbench at your C.A.M.P. or use the one at the Whitespring Resort. Requires Steel scrap and Plastic.",
-    "score": 3
+    "detail": "Craft at Tinker's Workbench using Steel and Plastic",
+    "score": null
    },
    {
     "id": "8e0521382ac8",
     "title": "Craft Bulk Wood",
-    "detail": "Craft Bulk Wood at a Tinker's Workbench at your C.A.M.P. or use the one at the Whitespring Resort. Requires Wood scraps and Plastic.",
-    "score": 3
+    "detail": "Craft at Tinker's Workbench using Wood and Plastic",
+    "score": null
    },
    {
     "id": "a22f41a5b8ca",
     "title": "Cripple a Super Mutant's Limb",
-    "detail": "Fast travel to West Tek Research Center and cripple a Super Mutant's Arm or Leg by aiming at the Arm or Leg with a rifle.",
-    "score": 30
+    "detail": "West Tek Research Center has dense Super Mutant spawns",
+    "score": null
    },
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Fast travel to Blackwater Mine, where up to 25 Mole Miners spawn in and around the mine (18 inside).",
-    "score": 30
+    "detail": "Blackwater Mine spawns up to 25 Mole Miners",
+    "score": null
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Any bladed melee weapon counts: Combat Knife, Bowie Knife, Cultist Dagger, Pitchfork, Fire Axe, Chainsaw, or Ultracite Terror Sword. Only the final hit has to land with the blade.",
-    "score": 18
+    "detail": "Start Head Hunt at Highway Town Bounty Board, use bladed melee weapons",
+    "score": null
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suit scraps and Loose excavator power armor mod boxes and other junk that contains Black Titanium at any workbench.",
-    "score": 10
+    "detail": "Scrap Mole Miner suit scraps or excavator power armor mod boxes",
+    "score": null
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to any NPC vendor. The Whitespring Resort is one good spot with several vendors.",
-    "score": 15
+    "detail": "Sell any weapon to any NPC vendor at Whitespring or elsewhere",
+    "score": null
    }
   ]
  },
@@ -115,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-05",
    "ends": "2026-11-09",
-   "description": "Double rewards for both SCORE progress and in-game currency earnings."
+   "description": "Bonus rewards for completing challenges and earning caps from vendors."
   },
   {
    "id": "126bb8c1df9f",
@@ -123,7 +123,7 @@
    "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special celebration event marking the anniversary with various activities and rewards."
+   "description": "Special celebration event marking the game's anniversary."
   },
   {
    "id": "76f713338438",
@@ -131,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva offers a rotating selection of rare plans and recipes at discounted prices."
+   "description": "Limited-time vendor sale with discounted plans and rare items."
   },
   {
    "id": "ecb3d7224821",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Double mutation rates and increased caps rewards during gameplay."
+   "description": "Increased gold rewards and mutated enemies in public events."
   },
   {
    "id": "a03a0ac660a1",
@@ -147,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutated variants offering enhanced rewards and challenges."
+   "description": "Public events feature mutated enemies with special rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -155,15 +155,23 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "All experience gained is doubled, accelerating character progression and farming."
+   "description": "Earn double experience points from all activities."
   },
   {
-   "id": "0ab269bd874c",
-   "name": "World Pets Update (Patch 72)",
+   "id": "99097e378421",
+   "name": "World Pets Update (Patch 72) / Season 27 Start",
    "type": "update",
    "starts": "2026-12-01",
    "ends": "2026-12-01",
-   "description": "Major patch introducing world pets feature and launching Season 27: You're S.P.E.C.I.A.L."
+   "description": "Major update introducing world pets and beginning Season 27."
+  },
+  {
+   "id": "d37fd4924971",
+   "name": "Treasure Hunter and Double Mutations",
+   "type": "weekend",
+   "starts": "2026-12-03",
+   "ends": "2026-12-07",
+   "description": "Treasure Hunter event with increased rewards and mutated enemies."
   },
   {
    "id": "eab26cc5304a",
@@ -171,7 +179,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Special scorched creatures spawn with holiday-themed rewards including gifts and exclusive items."
+   "description": "Festive seasonal event with special scorched enemies and holiday rewards."
   }
  ],
  "season": {
