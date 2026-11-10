@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:45:43.991656+00:00",
+ "updated": "2026-11-10T03:59:51.943032+00:00",
  "daily": {
   "period_start": "2026-11-09T12:00:00-05:00",
   "resets_at": "2026-11-10T12:00:00-05:00",
@@ -7,43 +7,43 @@
    {
     "id": "ec85efd41715",
     "title": "Kill Insects",
-    "detail": "Giant Teapot or Tanagra Town for reliable spawns",
+    "detail": "Giant Teapot or Tanagra Town are reliable spawn locations.",
     "score": 5
    },
    {
     "id": "64c990ce7204",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your C.A.M.P. shelter and place any decoration",
+    "detail": "Enter your C.A.M.P. shelter and place any decoration from the Decorations category.",
     "score": 5
    },
    {
     "id": "c5be271f8d9a",
     "title": "Collect a piece of Bone",
-    "detail": "Braxson's Quality Medical Supplies in the Mire has bones on shelves",
+    "detail": "Human bones are found at Braxson's Quality Medical Supplies in the Mire.",
     "score": 3
    },
    {
     "id": "a66891c7b4aa",
     "title": "Eat a Cake, Pie, or Candy",
-    "detail": "Popcorn from C.A.M.P. Popcorn Machine counts as candy",
+    "detail": "Popcorn from a C.A.M.P. Popcorn Machine counts as candy.",
     "score": 10
    },
    {
     "id": "d0ff95e20185",
     "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-    "detail": "Start quest from Pint-Sized Phantoms map, equip shovel for final blow",
+    "detail": "Start Disturbed Grave after any public event, then finish enemies with a shovel.",
     "score": 6
    },
    {
     "id": "58ba1fb25751",
     "title": "Sell Swamp Tofu to an NPC vendor",
-    "detail": "Craft at cooking station with Swamp plant and Wood, then sell to any vendor",
+    "detail": "Craft Swamp Tofu from Swamp Plant and Wood, then sell to any vendor.",
     "score": 1
    },
    {
     "id": "5e68336da63b",
     "title": "Sell a Shotgun to an NPC vendor",
-    "detail": "Whitespring Resort has multiple vendors",
+    "detail": "Any shotgun type works; Whitespring Resort has multiple vendors.",
     "score": 1
    }
   ]
@@ -55,62 +55,56 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Fast travel to C.A.M.P. or claim workshop, place any small piece",
+    "detail": "Place any small decoration or C.A.M.P. piece at your C.A.M.P. or a claimed workshop.",
     "score": 25
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
-    "detail": "Pull from stash, craft at Tinker's Workbench, or loot from enemies",
+    "detail": "Withdraw from stash, craft at Tinker's Workbench, or loot from enemies.",
     "score": 60
    },
    {
     "id": "64ac57365c62",
     "title": "Craft Bulk Steel",
-    "detail": "At Tinker's Workbench using Steel and Plastic",
+    "detail": "Craft at a Tinker's Workbench using Steel scrap and Plastic.",
     "score": 3
    },
    {
     "id": "8e0521382ac8",
     "title": "Craft Bulk Wood",
-    "detail": "At Tinker's Workbench using Wood and Plastic",
+    "detail": "Craft at a Tinker's Workbench using Wood scraps and Plastic.",
     "score": 3
    },
    {
     "id": "a22f41a5b8ca",
     "title": "Cripple a Super Mutant's Limb",
-    "detail": "West Tek Research Center has dense spawns; aim at limbs with rifle",
+    "detail": "West Tek Research Center has dense Super Mutant spawns for reliable limb cripples.",
     "score": 30
    },
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Blackwater Mine spawns up to 25 Mole Miners",
+    "detail": "Blackwater Mine spawns up to 25 Mole Miners inside and around the mine.",
     "score": 30
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start public event at Highway Town Bounty Board with sharp or piercing weapon",
+    "detail": "Start Head Hunt at Highway Town bounty board, then kill marked targets and posse with melee blades.",
     "score": 18
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suit scraps at any workbench",
+    "detail": "Scrap Mole Miner suit scraps and excavator armor mods at any workbench.",
     "score": 10
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Any weapon at any NPC vendor",
+    "detail": "Sell any weapon to any vendor; Whitespring Resort has multiple options.",
     "score": 15
-   },
-   {
-    "id": "90167e614cc8",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Finish six daily challenges on three separate days this week",
-    "score": 1500
    }
   ]
  },
@@ -121,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special celebration event with rewards and bonuses"
+   "description": "Anniversary celebration event with special activities and rewards."
   },
   {
    "id": "76f713338438",
@@ -129,7 +123,7 @@
    "type": "weekend",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva offers discounted plans and weapon mods"
+   "description": "Limited-time vendor rotation featuring discounted plans and rare items."
   },
   {
    "id": "ecb3d7224821",
@@ -137,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Increased gold rewards and double mutation rates in Daily Ops"
+   "description": "Increased gold rewards and double mutation rates for creatures and rewards."
   },
   {
    "id": "a03a0ac660a1",
@@ -145,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutations for special rewards"
+   "description": "Public events spawn with mutated modifiers and special mutated rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -153,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Double experience points for all activities and progression"
+   "description": "Double experience points earned from all activities and combat."
   },
   {
    "id": "99097e378421",
@@ -161,7 +155,7 @@
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "Major update introducing world pets and new season content"
+   "description": "New patch introducing world pets system and beginning of Season 27."
   },
   {
    "id": "d37fd4924971",
@@ -169,7 +163,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event with special loot and mutation bonuses"
+   "description": "Treasure Hunter event with increased loot drops and double mutations."
   },
   {
    "id": "eab26cc5304a",
@@ -177,15 +171,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Holiday-themed Scorched enemies with festive rewards"
-  },
-  {
-   "id": "30cf0acd44fe",
-   "name": "Double XP Weekend",
-   "type": "weekend",
-   "starts": "2026-12-24",
-   "ends": "2026-12-28",
-   "description": "Double experience points throughout the holiday period"
+   "description": "Holiday-themed Scorched creatures with festive rewards and unique gifts."
   }
  ],
  "season": {
