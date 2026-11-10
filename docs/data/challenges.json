@@ -1,110 +1,110 @@
 {
- "updated": "2026-11-10T03:59:51.943032+00:00",
+ "updated": "2026-11-10T22:26:59.013649+00:00",
  "daily": {
-  "period_start": "2026-11-09T12:00:00-05:00",
-  "resets_at": "2026-11-10T12:00:00-05:00",
+  "period_start": "2026-11-10T12:00:00-05:00",
+  "resets_at": "2026-11-11T12:00:00-05:00",
   "items": [
    {
-    "id": "ec85efd41715",
-    "title": "Kill Insects",
-    "detail": "Giant Teapot or Tanagra Town are reliable spawn locations.",
-    "score": 5
+    "id": "5bc665691e33",
+    "title": "Drink Nuka-Cola Cranberry",
+    "detail": "Get from Nuka-Cola Collectron or save some in stash for this recurring challenge.",
+    "score": null
    },
    {
-    "id": "64c990ce7204",
-    "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your C.A.M.P. shelter and place any decoration from the Decorations category.",
-    "score": 5
+    "id": "568aa6973c9b",
+    "title": "Collect Ballistic Ammo",
+    "detail": "Pull from stash, craft at Tinker's Workbench, or loot from enemies.",
+    "score": null
    },
    {
-    "id": "c5be271f8d9a",
-    "title": "Collect a piece of Bone",
-    "detail": "Human bones are found at Braxson's Quality Medical Supplies in the Mire.",
-    "score": 3
+    "id": "d48359a992c4",
+    "title": "Complete the Event: \"Invaders From Beyond\"",
+    "detail": "Watch map for seasonal event; use World Activity tab to fast travel free.",
+    "score": null
    },
    {
-    "id": "a66891c7b4aa",
-    "title": "Eat a Cake, Pie, or Candy",
-    "detail": "Popcorn from a C.A.M.P. Popcorn Machine counts as candy.",
-    "score": 10
+    "id": "d71ebed0448b",
+    "title": "Cripple a Blood Eagle's Arm",
+    "detail": "Fast travel to The Kill Box and aim at arm with rifle; V.A.T.S. recommended.",
+    "score": null
    },
    {
-    "id": "d0ff95e20185",
-    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
-    "detail": "Start Disturbed Grave after any public event, then finish enemies with a shovel.",
-    "score": 6
+    "id": "666f728e311b",
+    "title": "Kill an Enemy in the Mire Region",
+    "detail": "Fast travel to Harpers Ferry where many enemies spawn including Scorched.",
+    "score": null
    },
    {
-    "id": "58ba1fb25751",
-    "title": "Sell Swamp Tofu to an NPC vendor",
-    "detail": "Craft Swamp Tofu from Swamp Plant and Wood, then sell to any vendor.",
-    "score": 1
+    "id": "4d7dccb18c69",
+    "title": "Scrap junk to produce Circuitry",
+    "detail": "Use Enclave Data Center or scrap Telephones and Military-grade Circuit Boards at workbench.",
+    "score": null
    },
    {
-    "id": "5e68336da63b",
-    "title": "Sell a Shotgun to an NPC vendor",
-    "detail": "Any shotgun type works; Whitespring Resort has multiple vendors.",
-    "score": 1
+    "id": "f32096c13f07",
+    "title": "Take a Camera Picture of an Alien Enemy",
+    "detail": "Alien enemies spawn during Invaders from Beyond event; equip camera and frame enemy.",
+    "score": null
    }
   ]
  },
  "weekly": {
-  "period_start": "2026-11-03T12:00:00-05:00",
-  "resets_at": "2026-11-10T12:00:00-05:00",
+  "period_start": "2026-11-10T12:00:00-05:00",
+  "resets_at": "2026-11-17T12:00:00-05:00",
   "items": [
    {
-    "id": "4796f0e66f2b",
-    "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any small decoration or C.A.M.P. piece at your C.A.M.P. or a claimed workshop.",
-    "score": 25
+    "id": "881e854360fb",
+    "title": "Destroy Robots with an Energy Weapon",
+    "detail": "RobCo Research Center has dependable robot spawns; use V.A.T.S. on weak spots.",
+    "score": null
    },
    {
-    "id": "232e33a028d2",
-    "title": "Collect Ballistic Ammo",
-    "detail": "Withdraw from stash, craft at Tinker's Workbench, or loot from enemies.",
-    "score": 60
+    "id": "e0ef3dc26c66",
+    "title": "Collect Energy Ammo",
+    "detail": "Pull from stash, craft at Tinker's Workbench, or loot from enemies using energy weapons.",
+    "score": null
    },
    {
-    "id": "64ac57365c62",
-    "title": "Craft Bulk Steel",
-    "detail": "Craft at a Tinker's Workbench using Steel scrap and Plastic.",
-    "score": 3
+    "id": "b352f993ddeb",
+    "title": "Collect a Board Game",
+    "detail": "Use Games Cupboard at C.A.M.P. to collect board games like Blast Radius or Autopsy.",
+    "score": null
    },
    {
-    "id": "8e0521382ac8",
-    "title": "Craft Bulk Wood",
-    "detail": "Craft at a Tinker's Workbench using Wood scraps and Plastic.",
-    "score": 3
+    "id": "f58cc08b464a",
+    "title": "Destroy a Robot",
+    "detail": "Fast travel to RobCo Research Center for reliable spawns; any robot counts.",
+    "score": null
    },
    {
-    "id": "a22f41a5b8ca",
-    "title": "Cripple a Super Mutant's Limb",
-    "detail": "West Tek Research Center has dense Super Mutant spawns for reliable limb cripples.",
-    "score": 30
+    "id": "64cac1e5154a",
+    "title": "Harvest a Wild Plant or Fungi",
+    "detail": "Harvest in wild or farm locations like Silva Homestead; plant in C.A.M.P. to gather on demand.",
+    "score": null
    },
    {
-    "id": "8ad00faf2dd8",
-    "title": "Kill a Mole Miner",
-    "detail": "Blackwater Mine spawns up to 25 Mole Miners inside and around the mine.",
-    "score": 30
+    "id": "ac7b903a0226",
+    "title": "Kill The Reborn Pint-Sized Slasher",
+    "detail": "Appears as uninvited guest at Head Hunt during Slasher seasonal event's last stage at Highway Town.",
+    "score": null
    },
    {
-    "id": "43f0ecf0bd9e",
-    "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start Head Hunt at Highway Town bounty board, then kill marked targets and posse with melee blades.",
-    "score": 18
+    "id": "331defc93725",
+    "title": "Sell Pumpkin Pie to an NPC vendor",
+    "detail": "Find at Pumpkin House kitchen table or buy from Mr/Ms Waiter at Whitespring Resort dining area.",
+    "score": null
    },
    {
-    "id": "b6985ec7951f",
-    "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suit scraps and excavator armor mods at any workbench.",
-    "score": 10
-   },
-   {
-    "id": "3a53f9ee4a87",
+    "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to any vendor; Whitespring Resort has multiple options.",
-    "score": 15
+    "detail": "Sell any looted weapon or inexpensive crafted grenades to any NPC vendor.",
+    "score": null
+   },
+   {
+    "id": "c1227445dbb2",
+    "title": "Visit another Player's Shelter",
+    "detail": "Fast travel to another player's C.A.M.P. with shelter indicator and enter it.",
+    "score": null
    }
   ]
  },
@@ -112,10 +112,18 @@
   {
    "id": "126bb8c1df9f",
    "name": "Anniversary Events",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Anniversary celebration event with special activities and rewards."
+   "description": "Week-long celebration with special activities and rewards."
+  },
+  {
+   "id": "906312a00ba3",
+   "name": "Invaders from Beyond",
+   "type": "seasonal",
+   "starts": "2026-11-10",
+   "ends": "2026-11-17",
+   "description": "Seasonal event with alien enemy invasions at random locations offering unique rewards."
   },
   {
    "id": "76f713338438",
@@ -123,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Limited-time vendor rotation featuring discounted plans and rare items."
+   "description": "Minerva offers rotating vendor plans and items at discounted gold prices."
   },
   {
    "id": "ecb3d7224821",
@@ -131,15 +139,15 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Increased gold rewards and double mutation rates for creatures and rewards."
+   "description": "Double mutation spawn rates with increased caps rewards from Daily Ops and events."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutated modifiers and special mutated rewards."
+   "description": "Public events spawn with mutated variants offering enhanced rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -147,7 +155,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Double experience points earned from all activities and combat."
+   "description": "Double experience points earned from all activities to accelerate leveling."
   },
   {
    "id": "99097e378421",
@@ -155,23 +163,7 @@
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "New patch introducing world pets system and beginning of Season 27."
-  },
-  {
-   "id": "d37fd4924971",
-   "name": "Treasure Hunter and Double Mutations",
-   "type": "weekend",
-   "starts": "2026-12-03",
-   "ends": "2026-12-07",
-   "description": "Treasure Hunter event with increased loot drops and double mutations."
-  },
-  {
-   "id": "eab26cc5304a",
-   "name": "Holiday Scorched",
-   "type": "seasonal",
-   "starts": "2026-12-15",
-   "ends": "2026-12-29",
-   "description": "Holiday-themed Scorched creatures with festive rewards and unique gifts."
+   "description": "Major update introducing world pets system and launching Season 27 scoreboard."
   }
  ],
  "season": {
