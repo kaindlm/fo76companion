@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-09T01:30:44.700704+00:00",
+ "updated": "2026-11-10T00:45:43.991656+00:00",
  "daily": {
-  "period_start": "2026-11-08T12:00:00-05:00",
-  "resets_at": "2026-11-09T12:00:00-05:00",
+  "period_start": "2026-11-09T12:00:00-05:00",
+  "resets_at": "2026-11-10T12:00:00-05:00",
   "items": [
    {
-    "id": "e511303c107f",
-    "title": "Drink Nuka-Cola",
-    "detail": "Get from Nuka-Cola Collectron Station or craft at cooking station",
-    "score": 250
+    "id": "ec85efd41715",
+    "title": "Kill Insects",
+    "detail": "Giant Teapot or Tanagra Town for reliable spawns",
+    "score": 5
    },
    {
-    "id": "ed2327300fca",
-    "title": "Collect a Teapot",
-    "detail": "Palace of the Winding Path has several on tables in the back building",
-    "score": 250
+    "id": "64c990ce7204",
+    "title": "Build a Decoration in a Shelter",
+    "detail": "Enter your C.A.M.P. shelter and place any decoration",
+    "score": 5
    },
    {
-    "id": "06d1bdf4e5d6",
-    "title": "Cripple a Protectron or a Robobrain's Arm",
-    "detail": "RobCo Research Center has Protectrons outside and inside",
-    "score": 250
+    "id": "c5be271f8d9a",
+    "title": "Collect a piece of Bone",
+    "detail": "Braxson's Quality Medical Supplies in the Mire has bones on shelves",
+    "score": 3
    },
    {
-    "id": "b2c665b2a491",
-    "title": "Kill a Cryptid",
-    "detail": "Three Snallygasters spawn at Toxic Larry's Meat 'n Go",
-    "score": 250
+    "id": "a66891c7b4aa",
+    "title": "Eat a Cake, Pie, or Candy",
+    "detail": "Popcorn from C.A.M.P. Popcorn Machine counts as candy",
+    "score": 10
    },
    {
-    "id": "5ab843c32342",
-    "title": "Sell Glowing Fungus Soup to an NPC vendor",
-    "detail": "Gather glowing fungus behind The Wayward, craft at cooking station",
-    "score": 250
+    "id": "d0ff95e20185",
+    "title": "Kill an Enemy with a Shovel during the \"Disturbed Grave\" Quest",
+    "detail": "Start quest from Pint-Sized Phantoms map, equip shovel for final blow",
+    "score": 6
    },
    {
-    "id": "03c414dc8463",
-    "title": "Sell a Sweet Roll to an NPC vendor",
-    "detail": "Find in Berkeley Springs or buy from Mr. Waiter at Whitespring Resort",
-    "score": 250
+    "id": "58ba1fb25751",
+    "title": "Sell Swamp Tofu to an NPC vendor",
+    "detail": "Craft at cooking station with Swamp plant and Wood, then sell to any vendor",
+    "score": 1
    },
    {
-    "id": "c791a57fb05a",
-    "title": "Use Photomode in a Teammate's C.A.M.P.",
-    "detail": "Join a public team, fast travel to teammate's C.A.M.P., open Photomode overlay",
-    "score": 250
+    "id": "5e68336da63b",
+    "title": "Sell a Shotgun to an NPC vendor",
+    "detail": "Whitespring Resort has multiple vendors",
+    "score": 1
    }
   ]
  },
@@ -55,75 +55,73 @@
    {
     "id": "4796f0e66f2b",
     "title": "Build Anything in a Workshop or C.A.M.P.",
-    "detail": "Place any small decoration or floor piece at your C.A.M.P. or claimed workshop",
-    "score": 1500
+    "detail": "Fast travel to C.A.M.P. or claim workshop, place any small piece",
+    "score": 25
    },
    {
     "id": "232e33a028d2",
     "title": "Collect Ballistic Ammo",
     "detail": "Pull from stash, craft at Tinker's Workbench, or loot from enemies",
-    "score": 1500
+    "score": 60
    },
    {
     "id": "64ac57365c62",
     "title": "Craft Bulk Steel",
-    "detail": "Craft at Tinker's Workbench using Steel scrap and Plastic",
-    "score": 1500
+    "detail": "At Tinker's Workbench using Steel and Plastic",
+    "score": 3
    },
    {
     "id": "8e0521382ac8",
     "title": "Craft Bulk Wood",
-    "detail": "Craft at Tinker's Workbench using Wood scrap and Plastic",
-    "score": 1500
+    "detail": "At Tinker's Workbench using Wood and Plastic",
+    "score": 3
    },
    {
     "id": "a22f41a5b8ca",
     "title": "Cripple a Super Mutant's Limb",
-    "detail": "West Tek Research Center has dense Super Mutant spawns",
-    "score": 1500
+    "detail": "West Tek Research Center has dense spawns; aim at limbs with rifle",
+    "score": 30
    },
    {
     "id": "8ad00faf2dd8",
     "title": "Kill a Mole Miner",
-    "detail": "Blackwater Mine has up to 25 Mole Miners spawning inside and around",
-    "score": 1500
+    "detail": "Blackwater Mine spawns up to 25 Mole Miners",
+    "score": 30
    },
    {
     "id": "43f0ecf0bd9e",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Head Hunt",
-    "detail": "Start Head Hunt at Highway Town Bounty Board, use melee blades for kills",
-    "score": 1500
+    "detail": "Start public event at Highway Town Bounty Board with sharp or piercing weapon",
+    "score": 18
    },
    {
     "id": "b6985ec7951f",
     "title": "Scrap junk to produce Black Titanium",
-    "detail": "Scrap Mole Miner suits and excavator power armor mods at workbench",
-    "score": 1500
+    "detail": "Scrap Mole Miner suit scraps at any workbench",
+    "score": 10
    },
    {
     "id": "3a53f9ee4a87",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to any NPC vendor",
+    "detail": "Any weapon at any NPC vendor",
+    "score": 15
+   },
+   {
+    "id": "90167e614cc8",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Finish six daily challenges on three separate days this week",
     "score": 1500
    }
   ]
  },
  "events": [
   {
-   "id": "d8085ca52c2c",
-   "name": "Double SCORE and Caps-A-Plenty",
-   "type": "weekend",
-   "starts": "2026-11-05",
-   "ends": "2026-11-09",
-   "description": "Earn double SCORE and additional caps throughout this weekend event."
-  },
-  {
    "id": "126bb8c1df9f",
    "name": "Anniversary Events",
    "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Special anniversary celebration event with various rewards and bonuses."
+   "description": "Special celebration event with rewards and bonuses"
   },
   {
    "id": "76f713338438",
@@ -131,7 +129,7 @@
    "type": "weekend",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva offers discounted gold plans from rotating merchant lists."
+   "description": "Minerva offers discounted plans and weapon mods"
   },
   {
    "id": "ecb3d7224821",
@@ -139,7 +137,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Bonus gold and double mutations with increased rewards in Daily Ops."
+   "description": "Increased gold rewards and double mutation rates in Daily Ops"
   },
   {
    "id": "a03a0ac660a1",
@@ -147,7 +145,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events become mutated with special modifiers and enhanced rewards."
+   "description": "Public events spawn with mutations for special rewards"
   },
   {
    "id": "16e2b172b55e",
@@ -155,7 +153,39 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Earn double experience points on all activities."
+   "description": "Double experience points for all activities and progression"
+  },
+  {
+   "id": "99097e378421",
+   "name": "World Pets Update (Patch 72) / Season 27 Start",
+   "type": "update",
+   "starts": "2026-12-01",
+   "ends": "",
+   "description": "Major update introducing world pets and new season content"
+  },
+  {
+   "id": "d37fd4924971",
+   "name": "Treasure Hunter and Double Mutations",
+   "type": "weekend",
+   "starts": "2026-12-03",
+   "ends": "2026-12-07",
+   "description": "Treasure Hunter event with special loot and mutation bonuses"
+  },
+  {
+   "id": "eab26cc5304a",
+   "name": "Holiday Scorched",
+   "type": "seasonal",
+   "starts": "2026-12-15",
+   "ends": "2026-12-29",
+   "description": "Holiday-themed Scorched enemies with festive rewards"
+  },
+  {
+   "id": "30cf0acd44fe",
+   "name": "Double XP Weekend",
+   "type": "weekend",
+   "starts": "2026-12-24",
+   "ends": "2026-12-28",
+   "description": "Double experience points throughout the holiday period"
   }
  ],
  "season": {
