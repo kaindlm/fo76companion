@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:33:30.150717+00:00",
+ "updated": "2026-11-12T02:45:26.451846+00:00",
  "daily": {
   "period_start": "2026-11-11T12:00:00-05:00",
   "resets_at": "2026-11-12T12:00:00-05:00",
@@ -7,43 +7,43 @@
    {
     "id": "2cfb371f5c52",
     "title": "Drink Nuka-Cola",
-    "detail": "Get from Nuka-Cola Collectron Station or drink any Nuka-Cola variant",
+    "detail": "Get from Nuka-Cola Collectron Station or craft at Tinker's Workbench",
     "score": null
    },
    {
     "id": "0931186d502c",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your shelter and place any decoration from the build menu",
+    "detail": "Place any decoration in your Shelter using the build menu",
     "score": null
    },
    {
     "id": "c3b1f354bee1",
     "title": "Collect a Teddy Bear",
-    "detail": "Northeast of Knife Edge; use grenade to knock bears down from ledge",
+    "detail": "Several spawn on a ledge northeast of Knife Edge; use grenades to knock them down",
     "score": null
    },
    {
     "id": "db32a9e0b8da",
     "title": "Eat a Cooked Meal",
-    "detail": "Cook at any cooking station or buy from Mr/Ms Waiter at Whitespring",
+    "detail": "Cook at any cooking station or buy from Mr. Waiter/Ms. Waitress at Whitespring Resort",
     "score": null
    },
    {
     "id": "6844feb69a6f",
     "title": "Kill a Festive Scorched",
-    "detail": "Only during Holiday Scorched event; spawns at Wavy Willard's Water Park",
+    "detail": "Available only during Holiday Scorched event; they wear holiday costumes and spawn where regular Scorched do",
     "score": null
    },
    {
     "id": "9e85ff8f93c8",
     "title": "Kill a Honey Beast",
-    "detail": "Fast travel to Middle Mountain Pitstop for reliable spawn",
+    "detail": "Fast travel to Middle Mountain Pitstop for reliable spawns",
     "score": null
    },
    {
     "id": "d825728a02e5",
     "title": "Kill a Radhog",
-    "detail": "Head southwest from Ash Cave fast travel point near windmill",
+    "detail": "Several spawn southwest of Ash Cave fast travel point near a windmill",
     "score": null
    }
   ]
@@ -53,57 +53,57 @@
   "resets_at": "2026-11-17T12:00:00-05:00",
   "items": [
    {
+    "id": "881e854360fb",
+    "title": "Destroy Robots with an Energy Weapon",
+    "detail": "RobCo Research Center has dependable robot spawns; use Laser Rifles, Plasma Guns, Tesla Rifles, or Gauss weapons",
+    "score": null
+   },
+   {
     "id": "e0ef3dc26c66",
     "title": "Collect Energy Ammo",
-    "detail": "Take from stash, craft at Tinker's Workbench, or loot from enemies with energy weapons",
+    "detail": "Take from stash, craft at Tinker's Workbench, or loot from enemies killed with energy weapons",
     "score": null
    },
    {
     "id": "b352f993ddeb",
     "title": "Collect a Board Game",
-    "detail": "Use Games Cupboard at C.A.M.P. to produce board games",
-    "score": null
-   },
-   {
-    "id": "881e854360fb",
-    "title": "Destroy Robots with an Energy Weapon",
-    "detail": "RobCo Research Center has dependable robot spawns; tag weak spots with V.A.T.S.",
+    "detail": "Take from a Games Cupboard at your C.A.M.P. if you have one placed",
     "score": null
    },
    {
     "id": "f58cc08b464a",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has reliable robot spawns of all types",
+    "detail": "RobCo Research Center offers dependable spawns for Protectrons, Eyebots, Assaultrons, and other robot types",
     "score": null
    },
    {
     "id": "64cac1e5154a",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from wild locations or plant vegetables at C.A.M.P. for on-demand gathering",
+    "detail": "Gather from Silva Homestead or plant vegetables at your C.A.M.P. to harvest on demand",
     "score": null
    },
    {
     "id": "ac7b903a0226",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Only appears at Head Hunt event during Slasher seasonal event; join or start from Highway Town bounty board",
+    "detail": "Only appears as uninvited guest at Head Hunt events during Slasher seasonal event final stage",
     "score": null
    },
    {
     "id": "331defc93725",
     "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Buy from Whitespring dining area or find at Pumpkin House, then sell to any vendor",
+    "detail": "Buy from Mr. Waiter/Ms. Waitress at Whitespring Resort or find one at Pumpkin House kitchen table",
     "score": null
    },
    {
     "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon or craft cheap grenades to sell",
+    "detail": "Any weapon works; Whitespring Resort has multiple vendors or craft inexpensive grenades to sell",
     "score": null
    },
    {
     "id": "c1227445dbb2",
     "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to a player C.A.M.P. with shelter access via map radiation symbol",
+    "detail": "Fast travel to another player's C.A.M.P. marked with red radiation symbol and enter their Shelter",
     "score": null
    }
   ]
@@ -112,26 +112,26 @@
   {
    "id": "906312a00ba3",
    "name": "Invaders from Beyond",
-   "type": "seasonal",
+   "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Seasonal anniversary event currently running with unique rewards."
+   "description": "Alien-themed event running through mid-November with special rewards available."
   },
   {
    "id": "07ed450e1863",
    "name": "Holiday Scorched",
    "type": "seasonal",
    "starts": "2026-11-11",
-   "ends": "2026-11-17",
-   "description": "Holiday-themed scorched creatures spawn with festive costumes and special rewards."
+   "ends": "2026-12-29",
+   "description": "Holiday-costumed Scorched enemies spawn worldwide offering seasonal rewards and gifts."
   },
   {
    "id": "76f713338438",
    "name": "Minerva's Big Sale (List 8)",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva's rotating vendor inventory with discounted gold plans."
+   "description": "Minerva offers discounted plans including Gauss weapons, Secret Service armor, and Thorn armor pieces."
   },
   {
    "id": "ecb3d7224821",
@@ -139,15 +139,15 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Weekend event with bonus caps and mutation effects on public events."
+   "description": "Double rewards in Daily Ops with new and seasonal rewards plus bonus gold gains."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "seasonal",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events are mutated with new challenges and rewards."
+   "description": "Public events spawn with mutations offering rewards from special Mutated Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -155,15 +155,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Weekend bonus period with double experience points."
+   "description": "Double XP rates across all activities for faster leveling and Scoreboard progression."
   },
   {
-   "id": "0772e4f028ba",
-   "name": "World Pets Update (Patch 72) Start: Season 27",
+   "id": "99097e378421",
+   "name": "World Pets Update (Patch 72) / Season 27 Start",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "Major update introducing world pets and beginning of Season 27."
+   "ends": "",
+   "description": "Major update introducing World Pets system and beginning Season 27 You're S.P.E.C.I.A.L."
   }
  ],
  "season": {
