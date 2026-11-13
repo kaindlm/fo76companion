@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:48:04.069306+00:00",
+ "updated": "2026-11-13T02:29:07.232547+00:00",
  "daily": {
   "period_start": "2026-11-12T12:00:00-05:00",
   "resets_at": "2026-11-13T12:00:00-05:00",
@@ -7,43 +7,43 @@
    {
     "id": "d739a109cac7",
     "title": "Drink Nuka-Cola Wild",
-    "detail": "Collect from a Nuka-Cola Collectron Station or another player's C.A.M.P.",
+    "detail": "Use a Nuka-Cola Collectron Station or find one at another player's camp",
     "score": null
    },
    {
     "id": "8f942150e318",
     "title": "Collect Pre-war Food",
-    "detail": "Gather from a C.A.M.P. food production item or find in Sunday Brothers' Cabin basement.",
+    "detail": "Check a C.A.M.P. food dispenser or loot Sunday Brothers' Cabin basement",
     "score": null
    },
    {
     "id": "2cfcc83eb8fe",
     "title": "Collect Wood",
-    "detail": "Harvest from wood piles at Prickett's Fort, Sylvie & Sons Logging Camp, or Smith Farm.",
+    "detail": "Gather from wood piles at Prickett's Fort or Sylvie & Sons Logging Camp",
     "score": null
    },
    {
     "id": "7f382e78579e",
     "title": "Complete the Event: \"Grahm's Meat-Cook\"",
-    "detail": "Seasonal event at Moonshiner's Shack during Meat Week; check World Activity tab hourly.",
+    "detail": "Seasonal event at Moonshiner's Shack during Meat Week",
     "score": null
    },
    {
     "id": "e1f293bf6029",
     "title": "Cook a Meat-Based Meal",
-    "detail": "Use a Cooking Station with meat recipes like Wolf Ribs or Ribeye Steak.",
+    "detail": "Cook any meat recipe at a cooking station",
     "score": null
    },
    {
     "id": "8d34d2c8d763",
     "title": "Kill Animals with a Pipe Gun",
-    "detail": "Hunt squirrels and rabbits near The Whitespring Resort exterior.",
+    "detail": "Find squirrels and rabbits near The Whitespring Resort exterior",
     "score": null
    },
    {
     "id": "3e70f2723565",
     "title": "Kill a Creature",
-    "detail": "Feral Ghouls at The Whitespring Golf Club clubhouse are easy targets.",
+    "detail": "Feral Ghouls spawn inside The Whitespring Golf Club clubhouse",
     "score": null
    }
   ]
@@ -55,61 +55,55 @@
    {
     "id": "881e854360fb",
     "title": "Destroy Robots with an Energy Weapon",
-    "detail": "RobCo Research Center has dependable robot spawns; use laser rifles, plasma guns, or tesla rifles.",
+    "detail": "RobCo Research Center has dependable robot spawns",
     "score": null
    },
    {
     "id": "e0ef3dc26c66",
     "title": "Collect Energy Ammo",
-    "detail": "Take from stash, craft at a Tinker's Workbench, or loot from energy weapon-wielding enemies.",
+    "detail": "Take from stash, craft at Tinker's Workbench, or loot from energy weapon kills",
     "score": null
    },
    {
     "id": "b352f993ddeb",
     "title": "Collect a Board Game",
-    "detail": "Use a Games Cupboard at your C.A.M.P. to collect board games like Blast Radius or Autopsy.",
+    "detail": "Use a Games Cupboard at your C.A.M.P. or another player's",
     "score": null
    },
    {
     "id": "f58cc08b464a",
     "title": "Destroy a Robot",
-    "detail": "Visit RobCo Research Center for consistent robot spawns of all types.",
+    "detail": "Any robot type counts; RobCo Research Center is reliable",
     "score": null
    },
    {
     "id": "64cac1e5154a",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Gather from natural locations or plant vegetables at your C.A.M.P. for easier collection.",
+    "detail": "Gather from wild plants or farm locations like Silva Homestead",
     "score": null
    },
    {
     "id": "ac7b903a0226",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest at Head Hunt events during the Slasher seasonal event's final stage.",
+    "detail": "Appears as uninvited guest at Head Hunt during Slasher event final stage",
     "score": null
    },
    {
     "id": "331defc93725",
     "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Find at Pumpkin House kitchen table or buy from Mr Waiter/Ms Waitress at The Whitespring Resort.",
+    "detail": "Find Pumpkin Pie at Pumpkin House or buy from Whitespring waiters",
     "score": null
    },
    {
     "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon or craft grenades to sell; multiple vendors available at The Whitespring Resort.",
+    "detail": "Any weapon works; Whitespring Resort has multiple vendors",
     "score": null
    },
    {
     "id": "c1227445dbb2",
     "title": "Visit another Player's Shelter",
-    "detail": "Travel to another player's C.A.M.P. and enter their shelter marked with a radiation symbol.",
-    "score": null
-   },
-   {
-    "id": "b449b86242e1",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Finish six daily challenges on three separate days during the week.",
+    "detail": "Fast travel to a player's C.A.M.P. with a shelter icon",
     "score": null
    }
   ]
@@ -121,7 +115,7 @@
    "type": "seasonal",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Seasonal event running through the anniversary celebration week."
+   "description": "Seasonal event running during the anniversary week with unique rewards."
   },
   {
    "id": "07ed450e1863",
@@ -129,7 +123,7 @@
    "type": "seasonal",
    "starts": "2026-11-11",
    "ends": "2026-11-17",
-   "description": "Festive seasonal event featuring holiday-themed scorched enemies."
+   "description": "Limited-time seasonal event featuring holiday-themed scorched enemies."
   },
   {
    "id": "ef00f22115e1",
@@ -137,7 +131,7 @@
    "type": "seasonal",
    "starts": "2026-11-12",
    "ends": "2026-11-17",
-   "description": "Seasonal event featuring Grahm's Meat-Cook and other meat-themed activities."
+   "description": "Seasonal cooking event featuring Grahm's Meat-Cook and special rewards."
   },
   {
    "id": "76f713338438",
@@ -145,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva offers rotating plans and recipes at discounted gold prices."
+   "description": "Limited-time vendor sale featuring plans and crafting recipes."
   },
   {
    "id": "ecb3d7224821",
@@ -153,15 +147,15 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Weekend event featuring bonus gold rewards and doubled mutations in Daily Ops."
+   "description": "Weekend event offering increased gold rewards and mutated public events."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutated variants and special rewards."
+   "description": "Public events with mutated modifiers and special rewards from party packages."
   },
   {
    "id": "16e2b172b55e",
@@ -169,15 +163,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Weekend event offering double experience point gains on all activities."
+   "description": "Weekend featuring doubled experience gains for faster progression."
   },
   {
-   "id": "7db23be6315f",
-   "name": "World Pets Update (Patch 72) - Season 27 Start",
+   "id": "d02501aa30f5",
+   "name": "World Pets Update (Patch 72) - Season 27",
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "Major update introducing world pets system and beginning Season 27."
+   "description": "Major update introducing world pets and starting Season 27."
   },
   {
    "id": "d37fd4924971",
@@ -185,7 +179,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event with bonus mutations and special event rewards."
+   "description": "Weekend event combining treasure hunting with mutated public events."
   },
   {
    "id": "eab26cc5304a",
@@ -193,7 +187,15 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Holiday-themed seasonal event with special scorched variants and festive rewards."
+   "description": "Extended holiday-themed event with festive scorched enemies and rewards."
+  },
+  {
+   "id": "30cf0acd44fe",
+   "name": "Double XP Weekend",
+   "type": "weekend",
+   "starts": "2026-12-24",
+   "ends": "2026-12-28",
+   "description": "Festive weekend with doubled experience gains."
   }
  ],
  "season": {
