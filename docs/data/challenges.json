@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:44:03.754848+00:00",
+ "updated": "2026-11-14T02:04:07.285487+00:00",
  "daily": {
   "period_start": "2026-11-13T12:00:00-05:00",
   "resets_at": "2026-11-14T12:00:00-05:00",
@@ -13,37 +13,37 @@
    {
     "id": "75e8603632c2",
     "title": "Collect Mothman Eggs",
-    "detail": "Harvest from a C.A.M.P. Mothman Nest or near the large Mothman statue in southwest Point Pleasant.",
+    "detail": "If your C.A.M.P. has a Mothman Nest, harvest the Mothman Eggs it produces directly from the nest.",
     "score": null
    },
    {
     "id": "ddbba046b891",
     "title": "Complete the Event: \"The Mothman Equinox\"",
-    "detail": "Fast travel to Point Pleasant when the event is active on the map.",
+    "detail": "Fast travel to Point Pleasant and complete the event: destroy vines, kill cultists, destroy totems, place blood, light pyres, and defend them.",
     "score": null
    },
    {
     "id": "f20c8019226c",
     "title": "Kill Cultists during The Mothman Equinox event",
-    "detail": "Use area-of-effect weapons like Tesla Rifles to tag multiple enemies during the event.",
+    "detail": "Concentrate on defending the Church Pyre through event waves and use area-of-effect weapons to tag enemies.",
     "score": null
    },
    {
     "id": "a3232002089f",
     "title": "Kill a Cryptid with a Bow or Crossbow",
-    "detail": "Fast travel to Toxic Larry's Meat 'n Go where up to three Snallygasters can spawn.",
+    "detail": "Fast travel to Toxic Larry's Meat 'n Go and walk straight ahead where Snallygasters spawn; equip a bow or crossbow before the kill.",
     "score": null
    },
    {
     "id": "74e0a52f0b76",
     "title": "Sell Mothman Egg Omelette to an NPC vendor",
-    "detail": "Craft omelette using one Mothman Egg and one Wood at any cooking station.",
+    "detail": "Craft Mothman Egg Omelette (one Mothman Egg + one Wood) at a cooking station and sell to any NPC vendor.",
     "score": null
    },
    {
     "id": "d24a1b2a16fb",
     "title": "Sell Ribeye Steak to an NPC vendor",
-    "detail": "Kill a Brahmin, then cook Ribeye Steak using one Brahmin Meat and one Wood.",
+    "detail": "Kill a Brahmin, cook Ribeye Steak (one Brahmin Meat + one Wood), and sell to any NPC vendor.",
     "score": null
    }
   ]
@@ -55,61 +55,61 @@
    {
     "id": "e0ef3dc26c66",
     "title": "Collect Energy Ammo",
-    "detail": "Take some from your stash, craft at a Tinker's Workbench, or loot from enemies killed with energy weapons.",
+    "detail": "Take energy ammo from your stash, craft it at a Tinker's Workbench, or loot it from enemies killed with energy weapons.",
     "score": null
    },
    {
     "id": "b352f993ddeb",
     "title": "Collect a Board Game",
-    "detail": "Use a Games Cupboard at your C.A.M.P. to collect board games like Blast Radius or Autopsy.",
+    "detail": "If your C.A.M.P. has a Games Cupboard, take a Board Game from it to receive Blast Radius, Autopsy, Catch the Commie, Rad Poker or Unstoppables! games.",
     "score": null
    },
    {
     "id": "881e854360fb",
     "title": "Destroy Robots with an Energy Weapon",
-    "detail": "Fast travel to RobCo Research Center and use energy weapons like Laser Rifles or Plasma Guns.",
+    "detail": "Fast travel to RobCo Research Center and destroy robots using energy weapons like Laser Rifles, Plasma Guns, or Tesla Rifles.",
     "score": null
    },
    {
     "id": "f58cc08b464a",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for dependable robot spawns.",
+    "detail": "Fast travel to RobCo Research Center for dependable robot spawns and destroy any robots encountered.",
     "score": null
    },
    {
     "id": "64cac1e5154a",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from wild locations or plant vegetable plants in your C.A.M.P. to gather on demand.",
+    "detail": "Harvest from wild plants or fungi in the world, or plant vegetables in your C.A.M.P. and harvest them.",
     "score": null
    },
    {
     "id": "ac7b903a0226",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Join a Head Hunt at Highway Town's Last Resort; the Slasher appears as an uninvited guest in the final stage.",
+    "detail": "Start a Head Hunt at Highway Town Bounty Board by hanging a wanted poster (5,000 caps or from Grunt Hunts) and complete it to trigger the Slasher appearance.",
     "score": null
    },
    {
     "id": "331defc93725",
     "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Buy from Mr Waiter or Ms Waitress at Whitespring Resort dining area, or find one at Pumpkin House.",
+    "detail": "Buy Pumpkin Pie from Mr Waiter or Ms Waitress at The Whitespring Resort or find one at Pumpkin House, then sell to an NPC vendor.",
     "score": null
    },
    {
     "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any looted weapon or inexpensively crafted grenades to any NPC vendor.",
+    "detail": "Sell any weapon to an NPC vendor; The Whitespring Resort has multiple vendors or craft inexpensive grenades to sell.",
     "score": null
    },
    {
     "id": "c1227445dbb2",
     "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter; look for camps with radiation symbol icons.",
+    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter by finding camps with a shelter icon on the map.",
     "score": null
    },
    {
     "id": "b449b86242e1",
     "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn the daily Gold Star on three separate days during the week.",
+    "detail": "Earn the daily Gold Star on three separate days during the week by finishing any six daily challenges each day.",
     "score": null
    }
   ]
@@ -121,7 +121,7 @@
    "type": "seasonal",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Anniversary event featuring alien-themed challenges and rewards."
+   "description": "Limited-time event during Anniversary Events week offering exclusive rewards."
   },
   {
    "id": "07ed450e1863",
@@ -129,7 +129,7 @@
    "type": "seasonal",
    "starts": "2026-11-11",
    "ends": "2026-11-17",
-   "description": "Festive variant of Scorched enemies with holiday-themed rewards."
+   "description": "Seasonal event featuring holiday-themed Scorched enemies with special rewards."
   },
   {
    "id": "ef00f22115e1",
@@ -137,7 +137,7 @@
    "type": "seasonal",
    "starts": "2026-11-12",
    "ends": "2026-11-17",
-   "description": "Event featuring Graham and meat-themed challenges, rewards, and cooking."
+   "description": "Event centered around cooking and Brahmin with Graham's Meat Cook activities."
   },
   {
    "id": "76f713338438",
@@ -145,7 +145,7 @@
    "type": "other",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Limited-time merchant sale offering discounted plans and recipes."
+   "description": "Special vendor sale featuring discounted plans and equipment."
   },
   {
    "id": "ccc8205afd50",
@@ -153,15 +153,15 @@
    "type": "seasonal",
    "starts": "2026-11-13",
    "ends": "2026-11-17",
-   "description": "Anniversary event at Point Pleasant where players defend ritual pyres against cultists."
+   "description": "Public event at Point Pleasant featuring cultists, rituals, and Mothman-themed challenges."
   },
   {
    "id": "ecb3d7224821",
    "name": "Gold Rush and Double Mutations",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Double SCORE and mutation-themed Daily Ops with special rewards."
+   "description": "Event offering increased rewards and mutated Daily Ops with new seasonal loot."
   },
   {
    "id": "a03a0ac660a1",
@@ -169,7 +169,7 @@
    "type": "seasonal",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events with mutated modifiers offering unique rewards."
+   "description": "Public events with mutation modifiers offering special rewards from Mutated Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -177,15 +177,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Extended weekend with double experience point gain for all activities."
+   "description": "Weekend event providing double experience points for faster character progression."
   },
   {
-   "id": "99097e378421",
-   "name": "World Pets Update (Patch 72) / Season 27 Start",
+   "id": "90bfb7d5d353",
+   "name": "World Pets Update",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "",
-   "description": "Major update introducing World Pets feature and launching Season 27: You're S.P.E.C.I.A.L."
+   "ends": "2026-12-01",
+   "description": "Major update introducing world pets and launching Season 27."
   }
  ],
  "season": {
