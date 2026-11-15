@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-15T01:36:03.573557+00:00",
+ "updated": "2026-11-15T21:55:31.844151+00:00",
  "daily": {
-  "period_start": "2026-11-14T12:00:00-05:00",
-  "resets_at": "2026-11-15T12:00:00-05:00",
+  "period_start": "2026-11-15T12:00:00-05:00",
+  "resets_at": "2026-11-16T12:00:00-05:00",
   "items": [
    {
-    "id": "2661301396f8",
-    "title": "Scrap junk to produce Wood",
-    "detail": "Craft Bulk Wood at a Tinker's Workbench or collect fallen trees",
-    "score": 250
+    "id": "d819af25f2b1",
+    "title": "Craft Bulk Steel",
+    "detail": "Craft at a Tinker's Workbench using Steel scrap and Plastic",
+    "score": null
    },
    {
-    "id": "4efb002c70da",
-    "title": "Complete the Event: \"Fasnacht Day\" while wearing a Fasnacht Mask",
-    "detail": "Help the Protectron marchers and equip any Fasnacht Mask before event ends",
-    "score": 250
+    "id": "0486e16674cf",
+    "title": "Collect Deathclaw eggs",
+    "detail": "Check nests outside Abandoned Waste Dump in The Mire",
+    "score": null
    },
    {
-    "id": "faf6c85560a7",
-    "title": "Drink Nuka-Cherry",
-    "detail": "Check a Nuka-Cola Collectron Station at a C.A.M.P.",
-    "score": 250
+    "id": "6f7ebfbd5cea",
+    "title": "Complete the Event: \"Mischief Night\"",
+    "detail": "Join at Rapidan Camp on the hour, light the pyre and complete all acts",
+    "score": null
    },
    {
-    "id": "430255e37053",
-    "title": "Eat a Cake, Pie, or Candy",
-    "detail": "Popcorn from a Popcorn Machine counts as candy",
-    "score": 250
+    "id": "d0ddddf3ee84",
+    "title": "Craft a Grenade, Mine, or Thrown Weapon",
+    "detail": "Craft at a Tinker's Workbench or Weapons Workbench",
+    "score": null
    },
    {
-    "id": "0a2011193c45",
-    "title": "Kill a Super Mutant",
-    "detail": "Fast travel to West Tek Research Center for reliable spawns",
-    "score": 250
+    "id": "5fd5be0bcfa8",
+    "title": "Hack a Terminal",
+    "detail": "Level 2 terminal at Watoga Transit Hub or level 0 at Fort Atlas",
+    "score": null
    },
    {
-    "id": "ffe7d0af5418",
-    "title": "Kill an Enemy with any Pistol",
-    "detail": "Craft a 10mm or Pipe Pistol and use it at Wavy Willard's Water Park",
-    "score": 250
+    "id": "17b843d8abb0",
+    "title": "Kill a Lost during the \"Mischief Night\" Event",
+    "detail": "Kill Lost Dwellers during the Mischief Night public event",
+    "score": null
    },
    {
-    "id": "34aa34512184",
-    "title": "Take a Camera Picture at the Rust Kingdom",
-    "detail": "Equip Camera from Pip-Boy and take a picture there",
-    "score": 250
+    "id": "7c3612bcbd0e",
+    "title": "Kill an Enemy with any Shotgun",
+    "detail": "Eastern Regional Penitentiary has close-range combat favoring shotguns",
+    "score": null
    }
   ]
  },
@@ -53,58 +53,58 @@
   "resets_at": "2026-11-17T12:00:00-05:00",
   "items": [
    {
-    "id": "881e854360fb",
-    "title": "Destroy Robots with an Energy Weapon",
-    "detail": "RobCo Research Center has dependable robot spawns",
-    "score": 1500
-   },
-   {
     "id": "e0ef3dc26c66",
     "title": "Collect Energy Ammo",
-    "detail": "Take from stash, craft at Tinker's Workbench, or loot from killed enemies",
-    "score": 1500
+    "detail": "Take from stash, craft at Tinker's Workbench, or loot from enemies with energy weapons",
+    "score": null
    },
    {
     "id": "b352f993ddeb",
     "title": "Collect a Board Game",
-    "detail": "Games Cupboard at C.A.M.P. produces board games",
-    "score": 1500
+    "detail": "Take from a Games Cupboard at your C.A.M.P. if one is placed",
+    "score": null
+   },
+   {
+    "id": "881e854360fb",
+    "title": "Destroy Robots with an Energy Weapon",
+    "detail": "Use laser rifles, plasma guns, Tesla rifles, or gauss weapons at RobCo Research Center",
+    "score": null
    },
    {
     "id": "f58cc08b464a",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has reliable robot spawns",
-    "score": 1500
+    "detail": "RobCo Research Center has dependable robot spawns",
+    "score": null
    },
    {
     "id": "64cac1e5154a",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Plant vegetables in C.A.M.P. for on-demand gathering",
-    "score": 1500
+    "detail": "Collect from wild plants or farms like Silva Homestead",
+    "score": null
    },
    {
     "id": "ac7b903a0226",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest at Head Hunt during Slasher seasonal event final stage",
-    "score": 1500
+    "detail": "Appears as an uninvited guest at Head Hunt events during Slasher season's final stage",
+    "score": null
    },
    {
     "id": "331defc93725",
     "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Find at Pumpkin House kitchen table or buy from Mr/Ms Waiter at Whitespring",
-    "score": 1500
+    "detail": "Find Pumpkin Pie at Pumpkin House kitchen or buy from Whitespring vendors",
+    "score": null
    },
    {
     "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Any weapon to any vendor works",
-    "score": 1500
+    "detail": "Sell any weapon to any NPC vendor such as those at Whitespring Resort",
+    "score": null
    },
    {
     "id": "c1227445dbb2",
     "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to camps marked with radiation symbol on map",
-    "score": 1500
+    "detail": "Fast travel to a player's C.A.M.P. with a shelter and enter it",
+    "score": null
    }
   ]
  },
@@ -112,18 +112,18 @@
   {
    "id": "126bb8c1df9f",
    "name": "Anniversary Events",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Weekly celebration featuring Invaders from Beyond, Holiday Scorched, Meat Week, Mothman Equinox, and Fasnacht rotating daily."
+   "description": "Week-long celebration featuring multiple rotating daily events including Invaders from Beyond, Holiday Scorched, Meat Week, Mothman Equinox, Fasnacht, and Mischief Night."
   },
   {
-   "id": "76f713338438",
-   "name": "Minerva's Big Sale (List 8)",
-   "type": "other",
-   "starts": "2026-11-12",
-   "ends": "2026-11-16",
-   "description": "Minerva offers discounted plans from rotating vendor lists."
+   "id": "fc8fa3b9e2e5",
+   "name": "Mischief Night",
+   "type": "seasonal",
+   "starts": "2026-11-15",
+   "ends": "2026-11-17",
+   "description": "Seasonal public event at Rapidan Camp featuring mayhem activities and Lost Dweller encounters."
   },
   {
    "id": "ecb3d7224821",
@@ -131,15 +131,15 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Double Gold rewards in Daily Ops with mutated enemy spawns."
+   "description": "Weekend event offering increased gold rewards and double mutation rates in daily operations."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events feature mutated enemies with bonus rewards."
+   "description": "Public events with mutated modifiers and special rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -147,7 +147,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Experience gains are doubled across all activities."
+   "description": "Weekend event providing double experience points for all activities."
   },
   {
    "id": "991950db22f6",
@@ -155,23 +155,7 @@
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "Major update introducing world pets and starting Season 27 You're S.P.E.C.I.A.L."
-  },
-  {
-   "id": "d37fd4924971",
-   "name": "Treasure Hunter and Double Mutations",
-   "type": "weekend",
-   "starts": "2026-12-03",
-   "ends": "2026-12-07",
-   "description": "Treasure Hunter event with mutated enemies offering special rewards."
-  },
-  {
-   "id": "eab26cc5304a",
-   "name": "Holiday Scorched",
-   "type": "seasonal",
-   "starts": "2026-12-15",
-   "ends": "2026-12-29",
-   "description": "Holiday-themed Scorched enemies spawn throughout Appalachia with festive rewards."
+   "description": "Major update introducing world pets system and starting Season 27 themed You're S.P.E.C.I.A.L."
   }
  ],
  "season": {
