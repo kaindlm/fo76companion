@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:37:14.908868+00:00",
+ "updated": "2026-11-15T01:36:03.573557+00:00",
  "daily": {
   "period_start": "2026-11-14T12:00:00-05:00",
   "resets_at": "2026-11-15T12:00:00-05:00",
@@ -13,13 +13,13 @@
    {
     "id": "4efb002c70da",
     "title": "Complete the Event: \"Fasnacht Day\" while wearing a Fasnacht Mask",
-    "detail": "Help Protectron marchers at Helvetia and equip a Fasnacht Mask before event ends",
+    "detail": "Help the Protectron marchers and equip any Fasnacht Mask before event ends",
     "score": 250
    },
    {
     "id": "faf6c85560a7",
     "title": "Drink Nuka-Cherry",
-    "detail": "Obtain from a Nuka-Cola Collectron Station in a C.A.M.P.",
+    "detail": "Check a Nuka-Cola Collectron Station at a C.A.M.P.",
     "score": 250
    },
    {
@@ -37,13 +37,13 @@
    {
     "id": "ffe7d0af5418",
     "title": "Kill an Enemy with any Pistol",
-    "detail": "Craft a 10mm or Pipe Pistol and visit Wavy Willard's Water Park",
+    "detail": "Craft a 10mm or Pipe Pistol and use it at Wavy Willard's Water Park",
     "score": 250
    },
    {
     "id": "34aa34512184",
     "title": "Take a Camera Picture at the Rust Kingdom",
-    "detail": "Equip Camera from Pip-Boy and take a picture at the location",
+    "detail": "Equip Camera from Pip-Boy and take a picture there",
     "score": 250
    }
   ]
@@ -53,57 +53,57 @@
   "resets_at": "2026-11-17T12:00:00-05:00",
   "items": [
    {
+    "id": "881e854360fb",
+    "title": "Destroy Robots with an Energy Weapon",
+    "detail": "RobCo Research Center has dependable robot spawns",
+    "score": 1500
+   },
+   {
     "id": "e0ef3dc26c66",
     "title": "Collect Energy Ammo",
-    "detail": "Take from stash, craft at Tinker's Workbench, or loot from enemies with energy weapons",
+    "detail": "Take from stash, craft at Tinker's Workbench, or loot from killed enemies",
     "score": 1500
    },
    {
     "id": "b352f993ddeb",
     "title": "Collect a Board Game",
-    "detail": "Take from a Games Cupboard at your C.A.M.P. if you have one placed",
-    "score": 1500
-   },
-   {
-    "id": "881e854360fb",
-    "title": "Destroy Robots with an Energy Weapon",
-    "detail": "Use laser rifles, plasma guns, or tesla rifles at RobCo Research Center",
+    "detail": "Games Cupboard at C.A.M.P. produces board games",
     "score": 1500
    },
    {
     "id": "f58cc08b464a",
     "title": "Destroy a Robot",
-    "detail": "Fast travel to RobCo Research Center for dependable robot spawns",
+    "detail": "RobCo Research Center has reliable robot spawns",
     "score": 1500
    },
    {
     "id": "64cac1e5154a",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from the wild or plant vegetables at your C.A.M.P.",
+    "detail": "Plant vegetables in C.A.M.P. for on-demand gathering",
     "score": 1500
    },
    {
     "id": "ac7b903a0226",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest at Head Hunt event during Slasher seasonal event final stage",
+    "detail": "Appears as uninvited guest at Head Hunt during Slasher seasonal event final stage",
     "score": 1500
    },
    {
     "id": "331defc93725",
     "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Buy from Mr Waiter/Ms Waitress at Whitespring or find at Pumpkin House, then sell to vendor",
+    "detail": "Find at Pumpkin House kitchen table or buy from Mr/Ms Waiter at Whitespring",
     "score": 1500
    },
    {
     "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon or craft inexpensive grenades to sell",
+    "detail": "Any weapon to any vendor works",
     "score": 1500
    },
    {
     "id": "c1227445dbb2",
     "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter",
+    "detail": "Fast travel to camps marked with radiation symbol on map",
     "score": 1500
    }
   ]
@@ -112,18 +112,18 @@
   {
    "id": "126bb8c1df9f",
    "name": "Anniversary Events",
-   "type": "seasonal",
+   "type": "weekend",
    "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Multi-day celebration featuring Invaders from Beyond, Holiday Scorched, Meat Week, Mothman Equinox, and Fasnacht events."
+   "description": "Weekly celebration featuring Invaders from Beyond, Holiday Scorched, Meat Week, Mothman Equinox, and Fasnacht rotating daily."
   },
   {
    "id": "76f713338438",
    "name": "Minerva's Big Sale (List 8)",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-12",
    "ends": "2026-11-16",
-   "description": "Minerva offers discounted plans and weapons for gold."
+   "description": "Minerva offers discounted plans from rotating vendor lists."
   },
   {
    "id": "ecb3d7224821",
@@ -131,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Earn double gold in Daily Ops with double mutation effects on public events."
+   "description": "Double Gold rewards in Daily Ops with mutated enemy spawns."
   },
   {
    "id": "a03a0ac660a1",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutation effects and offer special mutated loot packages."
+   "description": "Public events feature mutated enemies with bonus rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -147,15 +147,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Earn double XP from all activities including events, quests, and kills."
+   "description": "Experience gains are doubled across all activities."
   },
   {
-   "id": "d02501aa30f5",
-   "name": "World Pets Update (Patch 72) - Season 27",
+   "id": "991950db22f6",
+   "name": "World Pets Update (Patch 72) / Season 27",
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "New update introduces World Pets feature and begins Season 27 \"You're S.P.E.C.I.A.L.\"."
+   "description": "Major update introducing world pets and starting Season 27 You're S.P.E.C.I.A.L."
   },
   {
    "id": "d37fd4924971",
@@ -163,7 +163,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event with rare rewards combined with double mutation effects."
+   "description": "Treasure Hunter event with mutated enemies offering special rewards."
   },
   {
    "id": "eab26cc5304a",
@@ -171,7 +171,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Holiday-themed scorched creatures spawn with festive rewards and gift farming opportunities."
+   "description": "Holiday-themed Scorched enemies spawn throughout Appalachia with festive rewards."
   }
  ],
  "season": {
