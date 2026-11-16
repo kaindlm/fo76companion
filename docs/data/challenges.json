@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T21:55:31.844151+00:00",
+ "updated": "2026-11-16T01:39:50.299285+00:00",
  "daily": {
   "period_start": "2026-11-15T12:00:00-05:00",
   "resets_at": "2026-11-16T12:00:00-05:00",
@@ -19,7 +19,7 @@
    {
     "id": "6f7ebfbd5cea",
     "title": "Complete the Event: \"Mischief Night\"",
-    "detail": "Join at Rapidan Camp on the hour, light the pyre and complete all acts",
+    "detail": "Event at Rapidan Camp on the hour; light the pyre and follow the Eyebot",
     "score": null
    },
    {
@@ -31,19 +31,19 @@
    {
     "id": "5fd5be0bcfa8",
     "title": "Hack a Terminal",
-    "detail": "Level 2 terminal at Watoga Transit Hub or level 0 at Fort Atlas",
+    "detail": "Level 0 or 2 terminals available at Watoga Transit Hub or Fort Atlas",
     "score": null
    },
    {
     "id": "17b843d8abb0",
     "title": "Kill a Lost during the \"Mischief Night\" Event",
-    "detail": "Kill Lost Dwellers during the Mischief Night public event",
+    "detail": "Kill Lost Dwellers during the Mischief Night event at Rapidan Camp",
     "score": null
    },
    {
     "id": "7c3612bcbd0e",
     "title": "Kill an Enemy with any Shotgun",
-    "detail": "Eastern Regional Penitentiary has close-range combat favoring shotguns",
+    "detail": "Eastern Regional Penitentiary in Toxic Valley has close-range combat",
     "score": null
    }
   ]
@@ -55,75 +55,67 @@
    {
     "id": "e0ef3dc26c66",
     "title": "Collect Energy Ammo",
-    "detail": "Take from stash, craft at Tinker's Workbench, or loot from enemies with energy weapons",
+    "detail": "Take from stash, craft at Tinker's Workbench, or loot from energy weapon kills",
     "score": null
    },
    {
     "id": "b352f993ddeb",
     "title": "Collect a Board Game",
-    "detail": "Take from a Games Cupboard at your C.A.M.P. if one is placed",
+    "detail": "Take from a Games Cupboard at your C.A.M.P. or Whitespring Resort",
     "score": null
    },
    {
     "id": "881e854360fb",
     "title": "Destroy Robots with an Energy Weapon",
-    "detail": "Use laser rifles, plasma guns, Tesla rifles, or gauss weapons at RobCo Research Center",
+    "detail": "Fast travel to RobCo Research Center and use energy weapons on robots",
     "score": null
    },
    {
     "id": "f58cc08b464a",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has dependable robot spawns",
+    "detail": "RobCo Research Center has reliable robot spawns",
     "score": null
    },
    {
     "id": "64cac1e5154a",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Collect from wild plants or farms like Silva Homestead",
+    "detail": "Harvest from the wild or plant crops at your C.A.M.P.",
     "score": null
    },
    {
     "id": "ac7b903a0226",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as an uninvited guest at Head Hunt events during Slasher season's final stage",
+    "detail": "Appears as a four-star legendary during Head Hunt events at Highway Town",
     "score": null
    },
    {
     "id": "331defc93725",
     "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Find Pumpkin Pie at Pumpkin House kitchen or buy from Whitespring vendors",
+    "detail": "Buy from Whitespring Resort dining area or find at Pumpkin House, then sell",
     "score": null
    },
    {
     "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to any NPC vendor such as those at Whitespring Resort",
+    "detail": "Sell any weapon to any NPC vendor",
     "score": null
    },
    {
     "id": "c1227445dbb2",
     "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to a player's C.A.M.P. with a shelter and enter it",
+    "detail": "Fast travel to a player C.A.M.P. with a shelter and enter it",
     "score": null
    }
   ]
  },
  "events": [
   {
-   "id": "126bb8c1df9f",
-   "name": "Anniversary Events",
-   "type": "other",
-   "starts": "2026-11-10",
-   "ends": "2026-11-17",
-   "description": "Week-long celebration featuring multiple rotating daily events including Invaders from Beyond, Holiday Scorched, Meat Week, Mothman Equinox, Fasnacht, and Mischief Night."
-  },
-  {
    "id": "fc8fa3b9e2e5",
    "name": "Mischief Night",
    "type": "seasonal",
    "starts": "2026-11-15",
    "ends": "2026-11-17",
-   "description": "Seasonal public event at Rapidan Camp featuring mayhem activities and Lost Dweller encounters."
+   "description": "Seasonal event at Rapidan Camp featuring Lost Dwellers and the Reborn Pint-Sized Slasher."
   },
   {
    "id": "ecb3d7224821",
@@ -131,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Weekend event offering increased gold rewards and double mutation rates in daily operations."
+   "description": "Daily Ops event with new and seasonal rewards combined with double mutations."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events with mutated modifiers and special rewards."
+   "description": "Public events with mutated variants offering rewards from mutated packages."
   },
   {
    "id": "16e2b172b55e",
@@ -147,15 +139,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Weekend event providing double experience points for all activities."
+   "description": "Increased experience gain across all activities for faster leveling."
   },
   {
-   "id": "991950db22f6",
-   "name": "World Pets Update (Patch 72) / Season 27",
+   "id": "99097e378421",
+   "name": "World Pets Update (Patch 72) / Season 27 Start",
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "Major update introducing world pets system and starting Season 27 themed You're S.P.E.C.I.A.L."
+   "description": "Major update introducing world pets and launching Season 27 You're S.P.E.C.I.A.L."
   }
  ],
  "season": {
