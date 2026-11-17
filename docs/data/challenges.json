@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:54:37.441001+00:00",
+ "updated": "2026-11-17T04:22:32.629502+00:00",
  "daily": {
   "period_start": "2026-11-16T12:00:00-05:00",
   "resets_at": "2026-11-17T12:00:00-05:00",
@@ -7,7 +7,7 @@
    {
     "id": "5053f03c036b",
     "title": "Drink Tea",
-    "detail": "Use Company Tea generator at C.A.M.P. if available",
+    "detail": "Use a Company Tea machine at your C.A.M.P. if available",
     "score": null
    },
    {
@@ -19,13 +19,13 @@
    {
     "id": "79bc1c63f07e",
     "title": "Complete the Event: \"The Big Bloom\"",
-    "detail": "Event runs hourly at Susan's Cabin in Skyline Valley",
+    "detail": "Runs hourly at Susan's Cabin in Skyline Valley",
     "score": null
    },
    {
     "id": "f794426ec16e",
     "title": "Craft a Flower Crown",
-    "detail": "",
+    "detail": "Requires 5 Carnal Weepers and 3 Cloth at an Armor Workbench",
     "score": null
    },
    {
@@ -43,7 +43,7 @@
    {
     "id": "f537deb62e23",
     "title": "Kill an Overgrown during The Big Bloom Event while wearing a Flower Crown",
-    "detail": "Equip flower crown and kill Overgrown during event waves",
+    "detail": "Equip a flower crown before killing Overgrown during event waves",
     "score": null
    }
   ]
@@ -67,55 +67,55 @@
    {
     "id": "b352f993ddeb",
     "title": "Collect a Board Game",
-    "detail": "Use Games Cupboard at C.A.M.P. to collect board games",
+    "detail": "Use a Games Cupboard at your C.A.M.P. to collect board games",
     "score": null
    },
    {
     "id": "f58cc08b464a",
     "title": "Destroy a Robot",
-    "detail": "Any robot type counts; RobCo Research Center is ideal",
+    "detail": "Any robot type counts; RobCo Research Center is a good farming spot",
     "score": null
    },
    {
     "id": "64cac1e5154a",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from wild locations or plant at C.A.M.P. for on-demand gathering",
+    "detail": "Harvest from the wild or plant crops at your C.A.M.P.",
     "score": null
    },
    {
     "id": "ac7b903a0226",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest during final stage of Slasher seasonal event at Head Hunt",
+    "detail": "Appears as uninvited guest at Head Hunt event during Slasher seasonal stage",
     "score": null
    },
    {
     "id": "331defc93725",
     "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Buy from Whitespring Resort vendors or find at Pumpkin House",
+    "detail": "Buy from Mr Waiter or Ms Waitress at Whitespring, or find at Pumpkin House",
     "score": null
    },
    {
     "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to any NPC vendor; cheap grenades work",
+    "detail": "Sell any weapon to any vendor; Whitespring Resort has multiple vendors",
     "score": null
    },
    {
     "id": "c1227445dbb2",
     "title": "Visit another Player's Shelter",
-    "detail": "Find player camps with shelters marked by radiation symbol on map",
+    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter",
     "score": null
    }
   ]
  },
  "events": [
   {
-   "id": "126bb8c1df9f",
-   "name": "Anniversary Events",
+   "id": "dc282d465038",
+   "name": "The Big Bloom",
    "type": "seasonal",
-   "starts": "2026-11-10",
+   "starts": "2026-11-16",
    "ends": "2026-11-17",
-   "description": "Week-long celebration featuring The Big Bloom, Holiday Scorched, Meat Week, Mothman Equinox, Fasnacht, Mischief Night, and Invaders from Beyond."
+   "description": "Collect flowers, ignite overgrowth, and defeat Beezlebub in three-stage seasonal event running hourly at Susan's Cabin."
   },
   {
    "id": "ecb3d7224821",
@@ -123,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Double mutations event with bonus rewards during daily operations."
+   "description": "Weekend event offering increased rewards and double mutation chances during Daily Operations."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events feature mutations with special mutated event packages as rewards."
+   "description": "Public events feature mutated variants with enhanced rewards from Mutated Party Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -139,23 +139,23 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Weekend event providing double experience points and XP buffs for faster progression."
+   "description": "Experience points earned are doubled, accelerating leveling and Scoreboard progression."
   },
   {
-   "id": "0ab269bd874c",
-   "name": "World Pets Update (Patch 72)",
+   "id": "991950db22f6",
+   "name": "World Pets Update (Patch 72) / Season 27",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "Major update introducing world pets and starting Season 27."
+   "ends": "",
+   "description": "Major update introducing world pets feature and launching Season 27 titled \"You're S.P.E.C.I.A.L.\""
   },
   {
    "id": "d37fd4924971",
    "name": "Treasure Hunter and Double Mutations",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event combined with double mutations for increased farming rewards."
+   "description": "Treasure Hunter event with double mutation chances and special rewards from Treasure Hunter loot."
   },
   {
    "id": "eab26cc5304a",
@@ -163,7 +163,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Festive seasonal event featuring holiday-themed Scorched enemies and gift rewards."
+   "description": "Limited-time seasonal event featuring festive scorched enemies and exclusive holiday-themed rewards."
   }
  ],
  "season": {
