@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-16T01:39:50.299285+00:00",
+ "updated": "2026-11-17T00:54:37.441001+00:00",
  "daily": {
-  "period_start": "2026-11-15T12:00:00-05:00",
-  "resets_at": "2026-11-16T12:00:00-05:00",
+  "period_start": "2026-11-16T12:00:00-05:00",
+  "resets_at": "2026-11-17T12:00:00-05:00",
   "items": [
    {
-    "id": "d819af25f2b1",
-    "title": "Craft Bulk Steel",
-    "detail": "Craft at a Tinker's Workbench using Steel scrap and Plastic",
+    "id": "5053f03c036b",
+    "title": "Drink Tea",
+    "detail": "Use Company Tea generator at C.A.M.P. if available",
     "score": null
    },
    {
-    "id": "0486e16674cf",
-    "title": "Collect Deathclaw eggs",
-    "detail": "Check nests outside Abandoned Waste Dump in The Mire",
+    "id": "0a03cbbe2550",
+    "title": "Collect Brain Fungus",
+    "detail": "Found in dark caves like Wendigo Cave, Kerwood Mine, or Abandoned Waste Dump",
     "score": null
    },
    {
-    "id": "6f7ebfbd5cea",
-    "title": "Complete the Event: \"Mischief Night\"",
-    "detail": "Event at Rapidan Camp on the hour; light the pyre and follow the Eyebot",
+    "id": "79bc1c63f07e",
+    "title": "Complete the Event: \"The Big Bloom\"",
+    "detail": "Event runs hourly at Susan's Cabin in Skyline Valley",
     "score": null
    },
    {
-    "id": "d0ddddf3ee84",
-    "title": "Craft a Grenade, Mine, or Thrown Weapon",
-    "detail": "Craft at a Tinker's Workbench or Weapons Workbench",
+    "id": "f794426ec16e",
+    "title": "Craft a Flower Crown",
+    "detail": "",
     "score": null
    },
    {
-    "id": "5fd5be0bcfa8",
-    "title": "Hack a Terminal",
-    "detail": "Level 0 or 2 terminals available at Watoga Transit Hub or Fort Atlas",
+    "id": "293b00a6d821",
+    "title": "Harvest a Firecracker Berry",
+    "detail": "Found north and northwest of Arktos Pharma; harvest quickly before they explode",
     "score": null
    },
    {
-    "id": "17b843d8abb0",
-    "title": "Kill a Lost during the \"Mischief Night\" Event",
-    "detail": "Kill Lost Dwellers during the Mischief Night event at Rapidan Camp",
+    "id": "3b9ab57f9615",
+    "title": "Kill an Insect during The Big Bloom Event",
+    "detail": "Kill insects during event waves at Susan's Cabin",
     "score": null
    },
    {
-    "id": "7c3612bcbd0e",
-    "title": "Kill an Enemy with any Shotgun",
-    "detail": "Eastern Regional Penitentiary in Toxic Valley has close-range combat",
+    "id": "f537deb62e23",
+    "title": "Kill an Overgrown during The Big Bloom Event while wearing a Flower Crown",
+    "detail": "Equip flower crown and kill Overgrown during event waves",
     "score": null
    }
   ]
@@ -53,69 +53,69 @@
   "resets_at": "2026-11-17T12:00:00-05:00",
   "items": [
    {
+    "id": "881e854360fb",
+    "title": "Destroy Robots with an Energy Weapon",
+    "detail": "RobCo Research Center has reliable robot spawns",
+    "score": null
+   },
+   {
     "id": "e0ef3dc26c66",
     "title": "Collect Energy Ammo",
-    "detail": "Take from stash, craft at Tinker's Workbench, or loot from energy weapon kills",
+    "detail": "Take from stash, craft at Tinker's Workbench, or loot from killed enemies",
     "score": null
    },
    {
     "id": "b352f993ddeb",
     "title": "Collect a Board Game",
-    "detail": "Take from a Games Cupboard at your C.A.M.P. or Whitespring Resort",
-    "score": null
-   },
-   {
-    "id": "881e854360fb",
-    "title": "Destroy Robots with an Energy Weapon",
-    "detail": "Fast travel to RobCo Research Center and use energy weapons on robots",
+    "detail": "Use Games Cupboard at C.A.M.P. to collect board games",
     "score": null
    },
    {
     "id": "f58cc08b464a",
     "title": "Destroy a Robot",
-    "detail": "RobCo Research Center has reliable robot spawns",
+    "detail": "Any robot type counts; RobCo Research Center is ideal",
     "score": null
    },
    {
     "id": "64cac1e5154a",
     "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from the wild or plant crops at your C.A.M.P.",
+    "detail": "Harvest from wild locations or plant at C.A.M.P. for on-demand gathering",
     "score": null
    },
    {
     "id": "ac7b903a0226",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as a four-star legendary during Head Hunt events at Highway Town",
+    "detail": "Appears as uninvited guest during final stage of Slasher seasonal event at Head Hunt",
     "score": null
    },
    {
     "id": "331defc93725",
     "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Buy from Whitespring Resort dining area or find at Pumpkin House, then sell",
+    "detail": "Buy from Whitespring Resort vendors or find at Pumpkin House",
     "score": null
    },
    {
     "id": "c0f7cd6cdbb3",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to any NPC vendor",
+    "detail": "Sell any weapon to any NPC vendor; cheap grenades work",
     "score": null
    },
    {
     "id": "c1227445dbb2",
     "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to a player C.A.M.P. with a shelter and enter it",
+    "detail": "Find player camps with shelters marked by radiation symbol on map",
     "score": null
    }
   ]
  },
  "events": [
   {
-   "id": "fc8fa3b9e2e5",
-   "name": "Mischief Night",
+   "id": "126bb8c1df9f",
+   "name": "Anniversary Events",
    "type": "seasonal",
-   "starts": "2026-11-15",
+   "starts": "2026-11-10",
    "ends": "2026-11-17",
-   "description": "Seasonal event at Rapidan Camp featuring Lost Dwellers and the Reborn Pint-Sized Slasher."
+   "description": "Week-long celebration featuring The Big Bloom, Holiday Scorched, Meat Week, Mothman Equinox, Fasnacht, Mischief Night, and Invaders from Beyond."
   },
   {
    "id": "ecb3d7224821",
@@ -123,7 +123,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Daily Ops event with new and seasonal rewards combined with double mutations."
+   "description": "Double mutations event with bonus rewards during daily operations."
   },
   {
    "id": "a03a0ac660a1",
@@ -131,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events with mutated variants offering rewards from mutated packages."
+   "description": "Public events feature mutations with special mutated event packages as rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -139,15 +139,31 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Increased experience gain across all activities for faster leveling."
+   "description": "Weekend event providing double experience points and XP buffs for faster progression."
   },
   {
-   "id": "99097e378421",
-   "name": "World Pets Update (Patch 72) / Season 27 Start",
+   "id": "0ab269bd874c",
+   "name": "World Pets Update (Patch 72)",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "",
-   "description": "Major update introducing world pets and launching Season 27 You're S.P.E.C.I.A.L."
+   "ends": "2026-12-01",
+   "description": "Major update introducing world pets and starting Season 27."
+  },
+  {
+   "id": "d37fd4924971",
+   "name": "Treasure Hunter and Double Mutations",
+   "type": "weekend",
+   "starts": "2026-12-03",
+   "ends": "2026-12-07",
+   "description": "Treasure Hunter event combined with double mutations for increased farming rewards."
+  },
+  {
+   "id": "eab26cc5304a",
+   "name": "Holiday Scorched",
+   "type": "seasonal",
+   "starts": "2026-12-15",
+   "ends": "2026-12-29",
+   "description": "Festive seasonal event featuring holiday-themed Scorched enemies and gift rewards."
   }
  ],
  "season": {
