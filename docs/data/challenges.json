@@ -1,129 +1,121 @@
 {
- "updated": "2026-11-17T04:22:32.629502+00:00",
+ "updated": "2026-11-17T23:53:51.476276+00:00",
  "daily": {
-  "period_start": "2026-11-16T12:00:00-05:00",
-  "resets_at": "2026-11-17T12:00:00-05:00",
+  "period_start": "2026-11-17T12:00:00-05:00",
+  "resets_at": "2026-11-18T12:00:00-05:00",
   "items": [
    {
-    "id": "5053f03c036b",
-    "title": "Drink Tea",
-    "detail": "Use a Company Tea machine at your C.A.M.P. if available",
-    "score": null
+    "id": "6e407903f8bf",
+    "title": "Consume an Alcoholic Beverage",
+    "detail": "Get from a C.A.M.P. Brewing Vat or another player's C.A.M.P.",
+    "score": 5
    },
    {
-    "id": "0a03cbbe2550",
-    "title": "Collect Brain Fungus",
-    "detail": "Found in dark caves like Wendigo Cave, Kerwood Mine, or Abandoned Waste Dump",
-    "score": null
+    "id": "4509513b1238",
+    "title": "Collect Caps",
+    "detail": "Sell looted weapons, junk, chems, or food to a vendor for fastest completion.",
+    "score": 250
    },
    {
-    "id": "79bc1c63f07e",
-    "title": "Complete the Event: \"The Big Bloom\"",
-    "detail": "Runs hourly at Susan's Cabin in Skyline Valley",
-    "score": null
+    "id": "b03299a99df6",
+    "title": "Collect Energy Ammo",
+    "detail": "Take from stash, craft at Tinker's Workbench, or loot from energy weapon users.",
+    "score": 10
    },
    {
-    "id": "f794426ec16e",
-    "title": "Craft a Flower Crown",
-    "detail": "Requires 5 Carnal Weepers and 3 Cloth at an Armor Workbench",
-    "score": null
+    "id": "c316dce4eeca",
+    "title": "Collect a Blood pack",
+    "detail": "Fast travel to Summersville; check the Laundromat table next to jukebox and first aid boxes.",
+    "score": 3
    },
    {
-    "id": "293b00a6d821",
-    "title": "Harvest a Firecracker Berry",
-    "detail": "Found north and northwest of Arktos Pharma; harvest quickly before they explode",
-    "score": null
+    "id": "c95c70354b2e",
+    "title": "Kill an Enemy in the Cranberry Bog Region",
+    "detail": "Fast travel to Crimson Prospect for Blood Eagles.",
+    "score": 5
    },
    {
-    "id": "3b9ab57f9615",
-    "title": "Kill an Insect during The Big Bloom Event",
-    "detail": "Kill insects during event waves at Susan's Cabin",
-    "score": null
+    "id": "bf84c3715cd1",
+    "title": "Kill an Enemy in the Toxic Valley Region",
+    "detail": "Fast travel to Grafton Steel for a dense concentration of Super Mutants.",
+    "score": 5
    },
    {
-    "id": "f537deb62e23",
-    "title": "Kill an Overgrown during The Big Bloom Event while wearing a Flower Crown",
-    "detail": "Equip a flower crown before killing Overgrown during event waves",
-    "score": null
+    "id": "47b1f49e6de8",
+    "title": "Scrap junk to produce Concrete",
+    "detail": "Craft Bulk Concrete at Tinker's Workbench, then scrap it.",
+    "score": 10
    }
   ]
  },
  "weekly": {
-  "period_start": "2026-11-10T12:00:00-05:00",
-  "resets_at": "2026-11-17T12:00:00-05:00",
+  "period_start": "2026-11-17T12:00:00-05:00",
+  "resets_at": "2026-11-24T12:00:00-05:00",
   "items": [
    {
-    "id": "881e854360fb",
-    "title": "Destroy Robots with an Energy Weapon",
-    "detail": "RobCo Research Center has reliable robot spawns",
-    "score": null
+    "id": "6015eceabe69",
+    "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
+    "detail": "Place any turret or trap under Defense in build menu; Punji Board requires only 4 steel and 8 wood.",
+    "score": 10
    },
    {
-    "id": "e0ef3dc26c66",
-    "title": "Collect Energy Ammo",
-    "detail": "Take from stash, craft at Tinker's Workbench, or loot from killed enemies",
-    "score": null
+    "id": "e2ca6b0cc1d7",
+    "title": "Harvest a Prickeye",
+    "detail": "Fast travel to Tycoon Lake in Burning Springs; look for unusual orange bulbs.",
+    "score": 25
    },
    {
-    "id": "b352f993ddeb",
-    "title": "Collect a Board Game",
-    "detail": "Use a Games Cupboard at your C.A.M.P. to collect board games",
-    "score": null
+    "id": "f70d6b54b72d",
+    "title": "Kill Insects",
+    "detail": "Giant Teapot for bees via Strange Brew quest, or Tanagra Town cave for up to ten Cave Crickets.",
+    "score": 30
    },
    {
-    "id": "f58cc08b464a",
-    "title": "Destroy a Robot",
-    "detail": "Any robot type counts; RobCo Research Center is a good farming spot",
-    "score": null
-   },
-   {
-    "id": "64cac1e5154a",
-    "title": "Harvest a Wild Plant or Fungi",
-    "detail": "Harvest from the wild or plant crops at your C.A.M.P.",
-    "score": null
-   },
-   {
-    "id": "ac7b903a0226",
+    "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest at Head Hunt event during Slasher seasonal stage",
-    "score": null
+    "detail": "Appears as uninvited guest at Head Hunt event in final stage; check Highway Town Bounty Board.",
+    "score": 1
    },
    {
-    "id": "331defc93725",
-    "title": "Sell Pumpkin Pie to an NPC vendor",
-    "detail": "Buy from Mr Waiter or Ms Waitress at Whitespring, or find at Pumpkin House",
-    "score": null
+    "id": "35e533056dcd",
+    "title": "Kill a Cultist",
+    "detail": "Fast travel to Point Pleasant for up to 33 Cultists; target head with V.A.T.S. for quick kills.",
+    "score": 25
    },
    {
-    "id": "c0f7cd6cdbb3",
-    "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to any vendor; Whitespring Resort has multiple vendors",
-    "score": null
+    "id": "441396059a95",
+    "title": "Repair Armor, Weapons, or Power Armor",
+    "detail": "Grab a Protest Sign, hit an enemy to degrade it, repair at workbench with 1 wood.",
+    "score": 10
    },
    {
-    "id": "c1227445dbb2",
-    "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to another player's C.A.M.P. and enter their Shelter",
-    "score": null
+    "id": "d4ff5564bd3b",
+    "title": "Scrap junk to produce Acid",
+    "detail": "Craft Bulk Acid at Tinker's Workbench and scrap it.",
+    "score": 15
+   },
+   {
+    "id": "4ee13a7e723f",
+    "title": "Scrap junk to produce Crystal",
+    "detail": "Scrap Crystal liquor decanters and Floater freezer pus sacs; find decanters at Clancy Manor.",
+    "score": 15
+   },
+   {
+    "id": "d45269960ff0",
+    "title": "Travel on foot (KM)",
+    "detail": "Fast travel does not count; sprint over open ground for fastest distance, holster weapon to move faster.",
+    "score": 50
    }
   ]
  },
  "events": [
-  {
-   "id": "dc282d465038",
-   "name": "The Big Bloom",
-   "type": "seasonal",
-   "starts": "2026-11-16",
-   "ends": "2026-11-17",
-   "description": "Collect flowers, ignite overgrowth, and defeat Beezlebub in three-stage seasonal event running hourly at Susan's Cabin."
-  },
   {
    "id": "ecb3d7224821",
    "name": "Gold Rush and Double Mutations",
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Weekend event offering increased rewards and double mutation chances during Daily Operations."
+   "description": "Weekend event offering bonus caps and double mutation rates on creatures."
   },
   {
    "id": "a03a0ac660a1",
@@ -131,7 +123,7 @@
    "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events feature mutated variants with enhanced rewards from Mutated Party Packages."
+   "description": "Public events spawn with mutations during this period with special rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -139,23 +131,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Experience points earned are doubled, accelerating leveling and Scoreboard progression."
-  },
-  {
-   "id": "991950db22f6",
-   "name": "World Pets Update (Patch 72) / Season 27",
-   "type": "update",
-   "starts": "2026-12-01",
-   "ends": "",
-   "description": "Major update introducing world pets feature and launching Season 27 titled \"You're S.P.E.C.I.A.L.\""
+   "description": "Experience points earned are doubled during this weekend event."
   },
   {
    "id": "d37fd4924971",
    "name": "Treasure Hunter and Double Mutations",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event with double mutation chances and special rewards from Treasure Hunter loot."
+   "description": "Weekend featuring Treasure Hunter enemies with increased mutation rates and unique rewards."
   },
   {
    "id": "eab26cc5304a",
@@ -163,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Limited-time seasonal event featuring festive scorched enemies and exclusive holiday-themed rewards."
+   "description": "Seasonal event with holiday-themed scorched enemies offering festive rewards."
   }
  ],
  "season": {
