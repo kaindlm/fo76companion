@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-18T03:26:16.812093+00:00",
+ "updated": "2026-11-18T23:27:16.268615+00:00",
  "daily": {
-  "period_start": "2026-11-17T12:00:00-05:00",
-  "resets_at": "2026-11-18T12:00:00-05:00",
+  "period_start": "2026-11-18T12:00:00-05:00",
+  "resets_at": "2026-11-19T12:00:00-05:00",
   "items": [
    {
-    "id": "6e407903f8bf",
-    "title": "Consume an Alcoholic Beverage",
-    "detail": "Get from a C.A.M.P. Brewing Vat or another player's C.A.M.P.",
-    "score": 5
-   },
-   {
-    "id": "4509513b1238",
-    "title": "Collect Caps",
-    "detail": "Sell looted weapons, junk, chems, or food to a vendor for fastest completion.",
+    "id": "213280fe4c86",
+    "title": "Collect an audio Holotape",
+    "detail": "Audio Holotape on a barrel at the Rusty Pick",
     "score": 250
    },
    {
-    "id": "b03299a99df6",
-    "title": "Collect Energy Ammo",
-    "detail": "Take from stash or craft at a Tinker's Workbench under Ammo - Energy.",
-    "score": 10
+    "id": "6b2cd2499c0d",
+    "title": "Build Anything in a Shelter",
+    "detail": "Enter shelter at C.A.M.P. and place any item",
+    "score": 250
    },
    {
-    "id": "c316dce4eeca",
-    "title": "Collect a Blood pack",
-    "detail": "Fast travel to Summersville and loot Blood Eagles or check first aid boxes.",
-    "score": 3
+    "id": "f877c9ebe808",
+    "title": "Collect a Burnt Book",
+    "detail": "Burnt Books spawn in burned buildings; Summersville has many",
+    "score": 250
    },
    {
-    "id": "c95c70354b2e",
-    "title": "Kill an Enemy in the Cranberry Bog Region",
-    "detail": "Fast travel to Crimson Prospect and kill Blood Eagles.",
-    "score": 5
+    "id": "750a7d5e4f4c",
+    "title": "Complete a Daily Operation!",
+    "detail": "Enemy faction and mutation change daily",
+    "score": 250
    },
    {
-    "id": "bf84c3715cd1",
-    "title": "Kill an Enemy in the Toxic Valley Region",
-    "detail": "Fast travel to Grafton Steel for Super Mutants.",
-    "score": 5
+    "id": "5c130b45a7d8",
+    "title": "Kill a Fanatic",
+    "detail": "",
+    "score": 250
    },
    {
-    "id": "47b1f49e6de8",
-    "title": "Scrap junk to produce Concrete",
-    "detail": "Craft Bulk Concrete at a Tinker's Workbench and scrap it.",
-    "score": 10
+    "id": "a5e1f177fb6d",
+    "title": "Kill a Pint-Sized Phantom",
+    "detail": "Masked cultists from Slasher event at cabins and campgrounds",
+    "score": 250
+   },
+   {
+    "id": "a8063f3e4532",
+    "title": "Pick a Lock",
+    "detail": "Orange locked tool case in first room of West Tek Research Center",
+    "score": 250
    }
   ]
  },
@@ -55,75 +55,83 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any turret or trap under Defense in build menu; Punji Board requires 4 steel and 8 wood.",
-    "score": 10
+    "detail": "Punji Board only requires 4 steel and 8 wood",
+    "score": 250
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest orange bulbs, or plant in C.A.M.P. as Slipper Cactus.",
-    "score": 25
+    "detail": "Grows around Tycoon Lake in Burning Springs; orange bulbs",
+    "score": 250
    },
    {
     "id": "f70d6b54b72d",
     "title": "Kill Insects",
-    "detail": "Visit Giant Teapot for bees or Tanagra Town for Cave Crickets in the giant tree cave.",
-    "score": 30
+    "detail": "Giant Teapot or Tanagra Town cave for reliable spawns",
+    "score": 250
    },
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Only appears at Head Hunt during Slasher event's last stage; check Highway Town Bounty Board.",
-    "score": 1
+    "detail": "Appears as uninvited guest at Head Hunt during Slasher event",
+    "score": 250
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Fast travel to Point Pleasant for up to 34 Cultists; target heads with V.A.T.S.",
-    "score": 25
+    "detail": "Point Pleasant has up to 34 Cultists; target head in V.A.T.S.",
+    "score": 250
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Get a Protest Sign from Grafton, degrade it on an enemy, then repair with wood at a workbench.",
-    "score": 10
+    "detail": "Degrade a Protest Sign then repair with Wood at workbench",
+    "score": 250
    },
    {
     "id": "d4ff5564bd3b",
     "title": "Scrap junk to produce Acid",
-    "detail": "Craft Bulk Acid at a Tinker's Workbench and scrap it.",
-    "score": 15
+    "detail": "Craft Bulk Acid at Tinker's Workbench then scrap it",
+    "score": 250
    },
    {
     "id": "4ee13a7e723f",
     "title": "Scrap junk to produce Crystal",
-    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs; find decanters at Clancy Manor.",
-    "score": 15
+    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs",
+    "score": 250
    },
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "Fast travel does not count; sprint over flat terrain like the route north from Vault-Tec Agricultural Research Center.",
-    "score": 50
+    "detail": "50 km; fast travel does not count; sprint while under-encumbered",
+    "score": 250
    }
   ]
  },
  "events": [
+  {
+   "id": "9e1c2f487408",
+   "name": "Mothman Equinox (Anniversary Events Extension)",
+   "type": "seasonal",
+   "starts": "2026-11-17",
+   "ends": "2026-11-19",
+   "description": "Limited-time extension of the Mothman anniversary event with special rewards available."
+  },
   {
    "id": "ecb3d7224821",
    "name": "Gold Rush and Double Mutations",
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Weekend event featuring increased caps rewards and double mutations in public events."
+   "description": "Increased rewards and double mutation effects in Daily Operations and public events."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutated modifiers offering bonus rewards in Mutated Party Packages."
+   "description": "Public events feature mutations with exclusive Mutated Packages as rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -131,7 +139,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Weekend event providing double experience points for all activities."
+   "description": "Earn experience points at double rate across all activities and content."
+  },
+  {
+   "id": "99097e378421",
+   "name": "World Pets Update (Patch 72) / Season 27 Start",
+   "type": "update",
+   "starts": "2026-12-01",
+   "ends": "",
+   "description": "Major update introducing world pets feature and launching Season 27 You're S.P.E.C.I.A.L."
   },
   {
    "id": "d37fd4924971",
@@ -139,7 +155,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Weekend event featuring the Treasure Hunter event with double mutations."
+   "description": "Treasure Hunter event returns with double mutations for enhanced loot opportunities."
   },
   {
    "id": "eab26cc5304a",
@@ -147,7 +163,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Festive event with holiday-themed Scorched enemies dropping unique seasonal rewards."
+   "description": "Limited holiday-themed event featuring special Scorched enemies and festive rewards."
   }
  ],
  "season": {
