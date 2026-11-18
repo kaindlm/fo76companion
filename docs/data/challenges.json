@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:53:51.476276+00:00",
+ "updated": "2026-11-18T03:26:16.812093+00:00",
  "daily": {
   "period_start": "2026-11-17T12:00:00-05:00",
   "resets_at": "2026-11-18T12:00:00-05:00",
@@ -19,31 +19,31 @@
    {
     "id": "b03299a99df6",
     "title": "Collect Energy Ammo",
-    "detail": "Take from stash, craft at Tinker's Workbench, or loot from energy weapon users.",
+    "detail": "Take from stash or craft at a Tinker's Workbench under Ammo - Energy.",
     "score": 10
    },
    {
     "id": "c316dce4eeca",
     "title": "Collect a Blood pack",
-    "detail": "Fast travel to Summersville; check the Laundromat table next to jukebox and first aid boxes.",
+    "detail": "Fast travel to Summersville and loot Blood Eagles or check first aid boxes.",
     "score": 3
    },
    {
     "id": "c95c70354b2e",
     "title": "Kill an Enemy in the Cranberry Bog Region",
-    "detail": "Fast travel to Crimson Prospect for Blood Eagles.",
+    "detail": "Fast travel to Crimson Prospect and kill Blood Eagles.",
     "score": 5
    },
    {
     "id": "bf84c3715cd1",
     "title": "Kill an Enemy in the Toxic Valley Region",
-    "detail": "Fast travel to Grafton Steel for a dense concentration of Super Mutants.",
+    "detail": "Fast travel to Grafton Steel for Super Mutants.",
     "score": 5
    },
    {
     "id": "47b1f49e6de8",
     "title": "Scrap junk to produce Concrete",
-    "detail": "Craft Bulk Concrete at Tinker's Workbench, then scrap it.",
+    "detail": "Craft Bulk Concrete at a Tinker's Workbench and scrap it.",
     "score": 10
    }
   ]
@@ -55,55 +55,55 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any turret or trap under Defense in build menu; Punji Board requires only 4 steel and 8 wood.",
+    "detail": "Place any turret or trap under Defense in build menu; Punji Board requires 4 steel and 8 wood.",
     "score": 10
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs; look for unusual orange bulbs.",
+    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest orange bulbs, or plant in C.A.M.P. as Slipper Cactus.",
     "score": 25
    },
    {
     "id": "f70d6b54b72d",
     "title": "Kill Insects",
-    "detail": "Giant Teapot for bees via Strange Brew quest, or Tanagra Town cave for up to ten Cave Crickets.",
+    "detail": "Visit Giant Teapot for bees or Tanagra Town for Cave Crickets in the giant tree cave.",
     "score": 30
    },
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest at Head Hunt event in final stage; check Highway Town Bounty Board.",
+    "detail": "Only appears at Head Hunt during Slasher event's last stage; check Highway Town Bounty Board.",
     "score": 1
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Fast travel to Point Pleasant for up to 33 Cultists; target head with V.A.T.S. for quick kills.",
+    "detail": "Fast travel to Point Pleasant for up to 34 Cultists; target heads with V.A.T.S.",
     "score": 25
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Grab a Protest Sign, hit an enemy to degrade it, repair at workbench with 1 wood.",
+    "detail": "Get a Protest Sign from Grafton, degrade it on an enemy, then repair with wood at a workbench.",
     "score": 10
    },
    {
     "id": "d4ff5564bd3b",
     "title": "Scrap junk to produce Acid",
-    "detail": "Craft Bulk Acid at Tinker's Workbench and scrap it.",
+    "detail": "Craft Bulk Acid at a Tinker's Workbench and scrap it.",
     "score": 15
    },
    {
     "id": "4ee13a7e723f",
     "title": "Scrap junk to produce Crystal",
-    "detail": "Scrap Crystal liquor decanters and Floater freezer pus sacs; find decanters at Clancy Manor.",
+    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs; find decanters at Clancy Manor.",
     "score": 15
    },
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "Fast travel does not count; sprint over open ground for fastest distance, holster weapon to move faster.",
+    "detail": "Fast travel does not count; sprint over flat terrain like the route north from Vault-Tec Agricultural Research Center.",
     "score": 50
    }
   ]
@@ -115,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Weekend event offering bonus caps and double mutation rates on creatures."
+   "description": "Weekend event featuring increased caps rewards and double mutations in public events."
   },
   {
    "id": "a03a0ac660a1",
@@ -123,7 +123,7 @@
    "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events spawn with mutations during this period with special rewards."
+   "description": "Public events spawn with mutated modifiers offering bonus rewards in Mutated Party Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -131,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Experience points earned are doubled during this weekend event."
+   "description": "Weekend event providing double experience points for all activities."
   },
   {
    "id": "d37fd4924971",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Weekend featuring Treasure Hunter enemies with increased mutation rates and unique rewards."
+   "description": "Weekend event featuring the Treasure Hunter event with double mutations."
   },
   {
    "id": "eab26cc5304a",
@@ -147,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Seasonal event with holiday-themed scorched enemies offering festive rewards."
+   "description": "Festive event with holiday-themed Scorched enemies dropping unique seasonal rewards."
   }
  ],
  "season": {
