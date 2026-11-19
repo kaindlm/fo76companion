@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:27:16.268615+00:00",
+ "updated": "2026-11-19T02:59:36.642229+00:00",
  "daily": {
   "period_start": "2026-11-18T12:00:00-05:00",
   "resets_at": "2026-11-19T12:00:00-05:00",
@@ -7,44 +7,44 @@
    {
     "id": "213280fe4c86",
     "title": "Collect an audio Holotape",
-    "detail": "Audio Holotape on a barrel at the Rusty Pick",
-    "score": 250
+    "detail": "Audio Holotape on a barrel at The Rusty Pick",
+    "score": null
    },
    {
     "id": "6b2cd2499c0d",
     "title": "Build Anything in a Shelter",
-    "detail": "Enter shelter at C.A.M.P. and place any item",
-    "score": 250
+    "detail": "Place any item in your C.A.M.P. shelter",
+    "score": null
    },
    {
     "id": "f877c9ebe808",
     "title": "Collect a Burnt Book",
     "detail": "Burnt Books spawn in burned buildings; Summersville has many",
-    "score": 250
+    "score": null
    },
    {
     "id": "750a7d5e4f4c",
     "title": "Complete a Daily Operation!",
-    "detail": "Enemy faction and mutation change daily",
-    "score": 250
+    "detail": "Join or start a Daily Ops public team and complete the instance",
+    "score": null
    },
    {
     "id": "5c130b45a7d8",
     "title": "Kill a Fanatic",
-    "detail": "",
-    "score": 250
+    "detail": "Fanatics are raiders in The Pitt; reach via Expeditions",
+    "score": null
    },
    {
     "id": "a5e1f177fb6d",
     "title": "Kill a Pint-Sized Phantom",
-    "detail": "Masked cultists from Slasher event at cabins and campgrounds",
-    "score": 250
+    "detail": "Masked cultists from the Slasher event at cabins and campgrounds",
+    "score": null
    },
    {
     "id": "a8063f3e4532",
     "title": "Pick a Lock",
     "detail": "Orange locked tool case in first room of West Tek Research Center",
-    "score": 250
+    "score": null
    }
   ]
  },
@@ -55,56 +55,56 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Punji Board only requires 4 steel and 8 wood",
-    "score": 250
+    "detail": "Place any turret or trap under Defense in build menu",
+    "score": null
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Grows around Tycoon Lake in Burning Springs; orange bulbs",
-    "score": 250
+    "detail": "Orange bulbs at Tycoon Lake in Burning Springs; can plant in C.A.M.P.",
+    "score": null
    },
    {
     "id": "f70d6b54b72d",
     "title": "Kill Insects",
     "detail": "Giant Teapot or Tanagra Town cave for reliable spawns",
-    "score": 250
+    "score": null
    },
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest at Head Hunt during Slasher event",
-    "score": 250
+    "detail": "Appears as uninvited guest at Head Hunt during Slasher event final stage",
+    "score": null
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Point Pleasant has up to 34 Cultists; target head in V.A.T.S.",
-    "score": 250
+    "detail": "Up to 34 Cultists at Point Pleasant; target head for weak spot",
+    "score": null
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Degrade a Protest Sign then repair with Wood at workbench",
-    "score": 250
+    "detail": "Degrade a Protest Sign from Grafton, then repair at workbench with Wood",
+    "score": null
    },
    {
     "id": "d4ff5564bd3b",
     "title": "Scrap junk to produce Acid",
-    "detail": "Craft Bulk Acid at Tinker's Workbench then scrap it",
-    "score": 250
+    "detail": "Craft Bulk Acid at Tinker's Workbench and scrap it",
+    "score": null
    },
    {
     "id": "4ee13a7e723f",
     "title": "Scrap junk to produce Crystal",
-    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs",
-    "score": 250
+    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs at workbench",
+    "score": null
    },
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "50 km; fast travel does not count; sprint while under-encumbered",
-    "score": 250
+    "detail": "Sprint on foot to cover distance faster; fast travel does not count",
+    "score": null
    }
   ]
  },
@@ -115,7 +115,7 @@
    "type": "seasonal",
    "starts": "2026-11-17",
    "ends": "2026-11-19",
-   "description": "Limited-time extension of the Mothman anniversary event with special rewards available."
+   "description": "Anniversary event extension featuring Mothman-themed rewards and activities."
   },
   {
    "id": "ecb3d7224821",
@@ -123,7 +123,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Increased rewards and double mutation effects in Daily Operations and public events."
+   "description": "Double mutation chance in Daily Ops with gold rush incentives."
   },
   {
    "id": "a03a0ac660a1",
@@ -131,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events feature mutations with exclusive Mutated Packages as rewards."
+   "description": "Public events with mutation effects and special rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Earn experience points at double rate across all activities and content."
+   "description": "Weekend event offering double experience points for all activities."
   },
   {
    "id": "99097e378421",
@@ -147,7 +147,7 @@
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "Major update introducing world pets feature and launching Season 27 You're S.P.E.C.I.A.L."
+   "description": "Major update introducing world pets and beginning Season 27."
   },
   {
    "id": "d37fd4924971",
@@ -155,7 +155,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event returns with double mutations for enhanced loot opportunities."
+   "description": "Treasure Hunter event combined with double mutation chance in Daily Ops."
   },
   {
    "id": "eab26cc5304a",
@@ -163,7 +163,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Limited holiday-themed event featuring special Scorched enemies and festive rewards."
+   "description": "Holiday-themed Scorched event with special gift rewards."
   }
  ],
  "season": {
