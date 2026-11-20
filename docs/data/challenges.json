@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:39:48.545012+00:00",
+ "updated": "2026-11-20T02:53:16.728598+00:00",
  "daily": {
   "period_start": "2026-11-19T12:00:00-05:00",
   "resets_at": "2026-11-20T12:00:00-05:00",
@@ -7,19 +7,19 @@
    {
     "id": "f3f7c16f6ec1",
     "title": "Gain XP",
-    "detail": "Complete other challenges or grind West Tek for fastest XP",
+    "detail": "Completes passively or grind West Tek for fastest XP",
     "score": 2500
    },
    {
     "id": "b7657844f099",
     "title": "Collect Legendary Scrip",
-    "detail": "Trade a Legendary weapon or armor at a Legendary Exchange Machine",
+    "detail": "Trade legendary weapons or armor at a Legendary Exchange Machine",
     "score": 50
    },
    {
     "id": "d02b7083b445",
     "title": "Drink Nuka-Grape",
-    "detail": "Get from Nuka-Cola Collectron Station if available",
+    "detail": "Obtain from Nuka-Cola Collectron Station in a C.A.M.P.",
     "score": null
    },
    {
@@ -31,19 +31,19 @@
    {
     "id": "28cec9749951",
     "title": "Kill an Enemy during a Daily Operation",
-    "detail": "Join a Daily Ops team and enter the operation",
+    "detail": "Join a Daily Ops and kill enemies; completion not required",
     "score": null
    },
    {
     "id": "b2ea3a194fa8",
     "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon at Whitespring Resort or any vendor",
+    "detail": "Sell any weapon to a vendor; Whitespring Resort has multiple",
     "score": null
    },
    {
     "id": "5c29f286c0ea",
     "title": "Use Photomode in a Teammate's C.A.M.P.",
-    "detail": "Join a team and use Photomode overlay at their C.A.M.P.",
+    "detail": "Join a team, fast travel to teammate's C.A.M.P., use Photomode overlay",
     "score": null
    }
   ]
@@ -55,13 +55,13 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any turret or trap in Defense menu, can scrap after",
+    "detail": "Place any turret or trap from Defense menu; Punji Board costs 4 steel and 8 wood",
     "score": 10
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs region",
+    "detail": "Fast travel to Tycoon Lake in Burning Springs or plant in C.A.M.P.",
     "score": 25
    },
    {
@@ -73,19 +73,19 @@
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears only during Head Hunt at Highway Town when Slasher event is in final stage",
+    "detail": "Appears as uninvited guest during final stage of Slasher event at Head Hunt",
     "score": 1
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Fast travel to Point Pleasant for up to 34 Cultists",
+    "detail": "Fast travel to Point Pleasant for up to 34 cultists",
     "score": 25
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Grab a Protest Sign and repair it at a workbench with wood",
+    "detail": "Degrade a weapon by hitting enemies, then repair at workbench",
     "score": 10
    },
    {
@@ -103,8 +103,14 @@
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint on foot without fast travel; run along river north of Vault-Tec Agricultural Center",
+    "detail": "Sprint under encumbrance limit on open ground; fast travel does not count",
     "score": 50
+   },
+   {
+    "id": "922a98310d31",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Finish any six of that day's daily challenges on three separate days",
+    "score": null
    }
   ]
  },
@@ -115,7 +121,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Increased caps rewards and double mutations on enemies."
+   "description": "Increased caps rewards and double mutation spawns in public events."
   },
   {
    "id": "a03a0ac660a1",
@@ -123,7 +129,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events have enhanced mutations and special rewards."
+   "description": "All public events feature mutated variants with special party package rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -131,15 +137,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "All earned experience is doubled for faster leveling."
-  },
-  {
-   "id": "7db23be6315f",
-   "name": "World Pets Update (Patch 72) - Season 27 Start",
-   "type": "update",
-   "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "Major update introducing world pets and beginning Season 27."
+   "description": "Experience gain is doubled across all activities."
   },
   {
    "id": "d37fd4924971",
@@ -147,7 +145,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event with rare rewards and double mutations."
+   "description": "Treasure Hunter event with rare rewards concurrent with double mutations."
   },
   {
    "id": "eab26cc5304a",
@@ -155,7 +153,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Holiday-themed Scorched enemies spawn with special festive rewards."
+   "description": "Limited-time event featuring holiday-themed Scorched enemies with gift rewards."
   }
  ],
  "season": {
