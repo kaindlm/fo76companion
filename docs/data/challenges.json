@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-20T02:53:16.728598+00:00",
+ "updated": "2026-11-20T23:13:13.796695+00:00",
  "daily": {
-  "period_start": "2026-11-19T12:00:00-05:00",
-  "resets_at": "2026-11-20T12:00:00-05:00",
+  "period_start": "2026-11-20T12:00:00-05:00",
+  "resets_at": "2026-11-21T12:00:00-05:00",
   "items": [
    {
-    "id": "f3f7c16f6ec1",
-    "title": "Gain XP",
-    "detail": "Completes passively or grind West Tek for fastest XP",
-    "score": 2500
-   },
-   {
-    "id": "b7657844f099",
-    "title": "Collect Legendary Scrip",
-    "detail": "Trade legendary weapons or armor at a Legendary Exchange Machine",
-    "score": 50
-   },
-   {
-    "id": "d02b7083b445",
-    "title": "Drink Nuka-Grape",
-    "detail": "Obtain from Nuka-Cola Collectron Station in a C.A.M.P.",
+    "id": "8cd1b4b62e2e",
+    "title": "Drink Purified Water",
+    "detail": "Collect from water purifiers or chem boxes",
     "score": null
    },
    {
-    "id": "0269006beb1d",
-    "title": "Kill a Rust Raider",
-    "detail": "Fast travel to The Rust Kingdom in Burning Springs",
+    "id": "56910029931e",
+    "title": "Collect Stimpaks or Chems",
+    "detail": "Craft diluted Stimpaks at Chemistry Station with Purified Water",
     "score": null
    },
    {
-    "id": "28cec9749951",
-    "title": "Kill an Enemy during a Daily Operation",
-    "detail": "Join a Daily Ops and kill enemies; completion not required",
+    "id": "b2724b2166be",
+    "title": "Cripple a Ghoul's Leg",
+    "detail": "Use V.A.T.S. targeting at The Whitespring Golf Club",
     "score": null
    },
    {
-    "id": "b2ea3a194fa8",
-    "title": "Sell a Weapon to an NPC vendor",
-    "detail": "Sell any weapon to a vendor; Whitespring Resort has multiple",
+    "id": "d6c6fdaa1fdb",
+    "title": "Drink Nuka-Orange",
+    "detail": "Get from Nuka-Cola Collectron Station or drink from inventory",
     "score": null
    },
    {
-    "id": "5c29f286c0ea",
-    "title": "Use Photomode in a Teammate's C.A.M.P.",
-    "detail": "Join a team, fast travel to teammate's C.A.M.P., use Photomode overlay",
+    "id": "6aba7717db8a",
+    "title": "Kill a Pint-Sized Phantom while in a Team",
+    "detail": "Join any team; Phantoms spawn near cabins and campgrounds",
+    "score": null
+   },
+   {
+    "id": "5801445ef5b9",
+    "title": "Take a Camera Picture of a Radscorpion",
+    "detail": "Find Burning Radscorpions at Hocking Hills Little League Field",
+    "score": null
+   },
+   {
+    "id": "106afba78d2d",
+    "title": "Visit your Shelter",
+    "detail": "Enter any owned shelter from your C.A.M.P.",
     "score": null
    }
   ]
@@ -55,61 +55,55 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any turret or trap from Defense menu; Punji Board costs 4 steel and 8 wood",
-    "score": 10
+    "detail": "Place any turret or trap under Defense in build menu; Punji Board is cheapest",
+    "score": null
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs or plant in C.A.M.P.",
-    "score": 25
+    "detail": "Harvest at Tycoon Lake or plant Slipper Cactus in C.A.M.P.",
+    "score": null
    },
    {
     "id": "f70d6b54b72d",
     "title": "Kill Insects",
-    "detail": "Giant Teapot or Tanagra Town cave for reliable spawns",
-    "score": 30
+    "detail": "Hunt bees at Giant Teapot or cave crickets at Tanagra Town",
+    "score": null
    },
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest during final stage of Slasher event at Head Hunt",
-    "score": 1
+    "detail": "Appears at Head Hunt events during final Slasher season stage",
+    "score": null
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Fast travel to Point Pleasant for up to 34 cultists",
-    "score": 25
+    "detail": "Hunt at Point Pleasant; use V.A.T.S. targeting on head",
+    "score": null
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Degrade a weapon by hitting enemies, then repair at workbench",
-    "score": 10
+    "detail": "Degrade a Protest Sign and repair with wood at workbench",
+    "score": null
    },
    {
     "id": "d4ff5564bd3b",
     "title": "Scrap junk to produce Acid",
     "detail": "Craft Bulk Acid at Tinker's Workbench and scrap it",
-    "score": 15
+    "score": null
    },
    {
     "id": "4ee13a7e723f",
     "title": "Scrap junk to produce Crystal",
-    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs",
-    "score": 15
+    "detail": "Scrap crystal liquor decanters at Clancy Manor",
+    "score": null
    },
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint under encumbrance limit on open ground; fast travel does not count",
-    "score": 50
-   },
-   {
-    "id": "922a98310d31",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Finish any six of that day's daily challenges on three separate days",
+    "detail": "Sprint without fast travel; run from Vault-Tec Agricultural Research Center north toward Morgantown",
     "score": null
    }
   ]
@@ -121,7 +115,7 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Increased caps rewards and double mutation spawns in public events."
+   "description": "Increased experience gains and mutated creature spawns during this limited event."
   },
   {
    "id": "a03a0ac660a1",
@@ -129,7 +123,7 @@
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "All public events feature mutated variants with special party package rewards."
+   "description": "Public events feature mutated variants with enhanced rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -137,23 +131,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Experience gain is doubled across all activities."
+   "description": "All experience gains are doubled across all activities."
   },
   {
-   "id": "d37fd4924971",
-   "name": "Treasure Hunter and Double Mutations",
-   "type": "weekend",
-   "starts": "2026-12-03",
-   "ends": "2026-12-07",
-   "description": "Treasure Hunter event with rare rewards concurrent with double mutations."
-  },
-  {
-   "id": "eab26cc5304a",
-   "name": "Holiday Scorched",
-   "type": "seasonal",
-   "starts": "2026-12-15",
-   "ends": "2026-12-29",
-   "description": "Limited-time event featuring holiday-themed Scorched enemies with gift rewards."
+   "id": "0ab269bd874c",
+   "name": "World Pets Update (Patch 72)",
+   "type": "update",
+   "starts": "2026-12-01",
+   "ends": "2026-12-01",
+   "description": "Major update introduces world pets and starts Season 27."
   }
  ],
  "season": {
