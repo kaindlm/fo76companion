@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:13:13.796695+00:00",
+ "updated": "2026-11-21T03:02:01.247863+00:00",
  "daily": {
   "period_start": "2026-11-20T12:00:00-05:00",
   "resets_at": "2026-11-21T12:00:00-05:00",
@@ -7,44 +7,44 @@
    {
     "id": "8cd1b4b62e2e",
     "title": "Drink Purified Water",
-    "detail": "Collect from water purifiers or chem boxes",
-    "score": null
+    "detail": "Collect from water purifier, cooler, or chem boxes",
+    "score": 250
    },
    {
     "id": "56910029931e",
     "title": "Collect Stimpaks or Chems",
     "detail": "Craft diluted Stimpaks at Chemistry Station with Purified Water",
-    "score": null
+    "score": 250
    },
    {
     "id": "b2724b2166be",
     "title": "Cripple a Ghoul's Leg",
-    "detail": "Use V.A.T.S. targeting at The Whitespring Golf Club",
-    "score": null
+    "detail": "Use V.A.T.S. at Whitespring Golf Club",
+    "score": 250
    },
    {
     "id": "d6c6fdaa1fdb",
     "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station or drink from inventory",
-    "score": null
+    "detail": "Get from Nuka-Cola Collectron Station",
+    "score": 250
    },
    {
     "id": "6aba7717db8a",
     "title": "Kill a Pint-Sized Phantom while in a Team",
-    "detail": "Join any team; Phantoms spawn near cabins and campgrounds",
-    "score": null
+    "detail": "Join team first, find Phantoms near cabins and campgrounds",
+    "score": 250
    },
    {
     "id": "5801445ef5b9",
     "title": "Take a Camera Picture of a Radscorpion",
-    "detail": "Find Burning Radscorpions at Hocking Hills Little League Field",
-    "score": null
+    "detail": "Find burning radscorpions at Hocking Hills Little League Field",
+    "score": 250
    },
    {
     "id": "106afba78d2d",
     "title": "Visit your Shelter",
     "detail": "Enter any owned shelter from your C.A.M.P.",
-    "score": null
+    "score": 250
    }
   ]
  },
@@ -55,56 +55,56 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any turret or trap under Defense in build menu; Punji Board is cheapest",
-    "score": null
+    "detail": "Place any turret or trap under Defense in build menu",
+    "score": 500
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Harvest at Tycoon Lake or plant Slipper Cactus in C.A.M.P.",
-    "score": null
+    "detail": "Fast travel to Tycoon Lake in Burning Springs region",
+    "score": 500
    },
    {
     "id": "f70d6b54b72d",
     "title": "Kill Insects",
-    "detail": "Hunt bees at Giant Teapot or cave crickets at Tanagra Town",
-    "score": null
+    "detail": "Find insects at Giant Teapot or Tanagra Town cave",
+    "score": 500
    },
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears at Head Hunt events during final Slasher season stage",
-    "score": null
+    "detail": "Appears at Head Hunt events during Slasher seasonal event final stage",
+    "score": 500
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Hunt at Point Pleasant; use V.A.T.S. targeting on head",
-    "score": null
+    "detail": "Fast travel to Point Pleasant for reliable cultist spawns",
+    "score": 500
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Degrade a Protest Sign and repair with wood at workbench",
-    "score": null
+    "detail": "Degrade Protest Sign from Grafton and repair with wood",
+    "score": 500
    },
    {
     "id": "d4ff5564bd3b",
     "title": "Scrap junk to produce Acid",
     "detail": "Craft Bulk Acid at Tinker's Workbench and scrap it",
-    "score": null
+    "score": 500
    },
    {
     "id": "4ee13a7e723f",
     "title": "Scrap junk to produce Crystal",
     "detail": "Scrap crystal liquor decanters at Clancy Manor",
-    "score": null
+    "score": 500
    },
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint without fast travel; run from Vault-Tec Agricultural Research Center north toward Morgantown",
-    "score": null
+    "detail": "Sprint on foot without fast traveling, stay under encumbrance limit",
+    "score": 500
    }
   ]
  },
@@ -115,15 +115,15 @@
    "type": "weekend",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Increased experience gains and mutated creature spawns during this limited event."
+   "description": "Double mutation drops in Daily Ops and increased rewards during this bonus event weekend."
   },
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events feature mutated variants with enhanced rewards."
+   "description": "Public events gain mutated variants with special party package rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -131,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "All experience gains are doubled across all activities."
+   "description": "Experience points earned are doubled during this bonus weekend."
   },
   {
    "id": "0ab269bd874c",
@@ -139,7 +139,23 @@
    "type": "update",
    "starts": "2026-12-01",
    "ends": "2026-12-01",
-   "description": "Major update introduces world pets and starts Season 27."
+   "description": "New update introducing world pets feature and beginning Season 27."
+  },
+  {
+   "id": "d37fd4924971",
+   "name": "Treasure Hunter and Double Mutations",
+   "type": "weekend",
+   "starts": "2026-12-03",
+   "ends": "2026-12-07",
+   "description": "Treasure Hunter event returns with double mutations in Daily Ops."
+  },
+  {
+   "id": "eab26cc5304a",
+   "name": "Holiday Scorched",
+   "type": "seasonal",
+   "starts": "2026-12-15",
+   "ends": "2026-12-29",
+   "description": "Seasonal event featuring holiday-themed scorched enemies and waterlogged gift rewards."
   }
  ],
  "season": {
