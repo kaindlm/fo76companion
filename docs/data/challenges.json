@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-21T03:02:01.247863+00:00",
+ "updated": "2026-11-21T22:15:10.726282+00:00",
  "daily": {
-  "period_start": "2026-11-20T12:00:00-05:00",
-  "resets_at": "2026-11-21T12:00:00-05:00",
+  "period_start": "2026-11-21T12:00:00-05:00",
+  "resets_at": "2026-11-22T12:00:00-05:00",
   "items": [
    {
-    "id": "8cd1b4b62e2e",
-    "title": "Drink Purified Water",
-    "detail": "Collect from water purifier, cooler, or chem boxes",
-    "score": 250
+    "id": "ad585a32b9b3",
+    "title": "Eat Dog Food",
+    "detail": "Take Canned Dog Food from the Weenie Wagon at your C.A.M.P. or another player's camp and consume it.",
+    "score": 5
    },
    {
-    "id": "56910029931e",
-    "title": "Collect Stimpaks or Chems",
-    "detail": "Craft diluted Stimpaks at Chemistry Station with Purified Water",
-    "score": 250
+    "id": "0bc9fd201981",
+    "title": "Build a Trap in a Workshop or C.A.M.P.",
+    "detail": "Open build menu, go to Defense, and place any trap. A Punji Board costs only 4 steel and 8 wood.",
+    "score": 5
    },
    {
-    "id": "b2724b2166be",
-    "title": "Cripple a Ghoul's Leg",
-    "detail": "Use V.A.T.S. at Whitespring Golf Club",
-    "score": 250
+    "id": "8ae7a21a7ef3",
+    "title": "Collect a Fuel Tank or Gas Canister",
+    "detail": "Find them at industrial and roadside locations like Toxic Larry's Meat 'n Go or Grafton Steel.",
+    "score": null
    },
    {
-    "id": "d6c6fdaa1fdb",
-    "title": "Drink Nuka-Orange",
-    "detail": "Get from Nuka-Cola Collectron Station",
-    "score": 250
+    "id": "74d12d2c603e",
+    "title": "Collect a Teddy Bear",
+    "detail": "Northeast of Knife Edge in a half-destroyed shack; use a grenade to knock them down from a ledge.",
+    "score": null
    },
    {
-    "id": "6aba7717db8a",
-    "title": "Kill a Pint-Sized Phantom while in a Team",
-    "detail": "Join team first, find Phantoms near cabins and campgrounds",
-    "score": 250
+    "id": "3a6432b2963e",
+    "title": "Cripple a Mirelurk's Limb",
+    "detail": "Fast travel to Spruce Knob Lake and cripple a Mirelurk's limb with a rifle using V.A.T.S.",
+    "score": null
    },
    {
-    "id": "5801445ef5b9",
-    "title": "Take a Camera Picture of a Radscorpion",
-    "detail": "Find burning radscorpions at Hocking Hills Little League Field",
-    "score": 250
+    "id": "bddb969abe00",
+    "title": "Cripple enemy limbs",
+    "detail": "Fast travel to Morgantown Airport and cripple Scorched limbs with a rifle; each limb counts separately.",
+    "score": null
    },
    {
-    "id": "106afba78d2d",
-    "title": "Visit your Shelter",
-    "detail": "Enter any owned shelter from your C.A.M.P.",
-    "score": 250
+    "id": "0eefea0f0669",
+    "title": "Scrap junk to produce Circuitry",
+    "detail": "Scrap Sensor Modules, Enhanced Targeting Cards, Telephones, or Military-grade Circuit Boards at a workbench.",
+    "score": 5
    }
   ]
  },
@@ -55,56 +55,62 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any turret or trap under Defense in build menu",
-    "score": 500
+    "detail": "Open C.A.M.P. build menu and place any turret or trap under Defense. A Punji Board requires only 4 steel and 8 wood.",
+    "score": 10
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs region",
-    "score": 500
+    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest from the orange bulbs around the lake, or plant Slipper Cactus at your C.A.M.P.",
+    "score": 25
    },
    {
     "id": "f70d6b54b72d",
     "title": "Kill Insects",
-    "detail": "Find insects at Giant Teapot or Tanagra Town cave",
-    "score": 500
+    "detail": "Visit the Giant Teapot and start the Strange Brew quest, or go to Tanagra Town for up to ten Cave Crickets in the cave.",
+    "score": 30
    },
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears at Head Hunt events during Slasher seasonal event final stage",
-    "score": 500
+    "detail": "Start a Head Hunt at Highway Town's bounty board; the Slasher appears as an uninvited guest during the final stage.",
+    "score": 1
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Fast travel to Point Pleasant for reliable cultist spawns",
-    "score": 500
+    "detail": "Fast travel to Point Pleasant for up to 34 Cultists; target the head as a weak spot.",
+    "score": 25
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Degrade Protest Sign from Grafton and repair with wood",
-    "score": 500
+    "detail": "Grab a Protest Sign at Grafton, degrade it by hitting an enemy, then repair it with 1 Wood at a workbench.",
+    "score": 10
    },
    {
     "id": "d4ff5564bd3b",
     "title": "Scrap junk to produce Acid",
-    "detail": "Craft Bulk Acid at Tinker's Workbench and scrap it",
-    "score": 500
+    "detail": "Craft Bulk Acid at a Tinker's Workbench and scrap it, or use the one at Whitespring Resort.",
+    "score": 15
    },
    {
     "id": "4ee13a7e723f",
     "title": "Scrap junk to produce Crystal",
-    "detail": "Scrap crystal liquor decanters at Clancy Manor",
-    "score": 500
+    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs at any workbench; Clancy Manor has decanters inside.",
+    "score": 15
    },
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint on foot without fast traveling, stay under encumbrance limit",
-    "score": 500
+    "detail": "Only movement on foot counts, not fast travel; sprinting while under-encumbered covers distance faster.",
+    "score": 50
+   },
+   {
+    "id": "922a98310d31",
+    "title": "Complete a Gold Star Daily Challenge!",
+    "detail": "Earn the daily Gold Star on three separate days during the week by completing any six daily challenges per day.",
+    "score": null
    }
   ]
  },
@@ -112,10 +118,10 @@
   {
    "id": "ecb3d7224821",
    "name": "Gold Rush and Double Mutations",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Double mutation drops in Daily Ops and increased rewards during this bonus event weekend."
+   "description": "Double mutation chance and bonus caps event running through Monday noon."
   },
   {
    "id": "a03a0ac660a1",
@@ -123,7 +129,7 @@
    "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Public events gain mutated variants with special party package rewards."
+   "description": "All public events feature mutated variants with special rewards from mutated party packages."
   },
   {
    "id": "16e2b172b55e",
@@ -131,23 +137,23 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Experience points earned are doubled during this bonus weekend."
+   "description": "Experience gain is doubled and max XP buffs are active across all activities."
   },
   {
-   "id": "0ab269bd874c",
-   "name": "World Pets Update (Patch 72)",
+   "id": "991950db22f6",
+   "name": "World Pets Update (Patch 72) / Season 27",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "New update introducing world pets feature and beginning Season 27."
+   "ends": "",
+   "description": "Major update introducing world pets and beginning of Season 27 You're S.P.E.C.I.A.L."
   },
   {
    "id": "d37fd4924971",
    "name": "Treasure Hunter and Double Mutations",
-   "type": "weekend",
+   "type": "other",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event returns with double mutations in Daily Ops."
+   "description": "Treasure Hunter event returns with double mutation chance and special rewards."
   },
   {
    "id": "eab26cc5304a",
@@ -155,7 +161,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Seasonal event featuring holiday-themed scorched enemies and waterlogged gift rewards."
+   "description": "Holiday-themed Scorched creatures appear with seasonal rewards and waterlogged gifts."
   }
  ],
  "season": {
