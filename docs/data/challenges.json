@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-22T01:58:18.728596+00:00",
+ "updated": "2026-11-22T22:38:09.547011+00:00",
  "daily": {
-  "period_start": "2026-11-21T12:00:00-05:00",
-  "resets_at": "2026-11-22T12:00:00-05:00",
+  "period_start": "2026-11-22T12:00:00-05:00",
+  "resets_at": "2026-11-23T12:00:00-05:00",
   "items": [
    {
-    "id": "ad585a32b9b3",
-    "title": "Eat Dog Food",
-    "detail": "Take Canned Dog Food from the Weenie Wagon at your C.A.M.P. or another player's camp and eat it.",
+    "id": "1ab888242c06",
+    "title": "Chew some Bubblegum",
+    "detail": "Open a perk card pack or find Bubblegum at Whitespring Robo Butler Collectron.",
     "score": 250
    },
    {
-    "id": "0bc9fd201981",
-    "title": "Build a Trap in a Workshop or C.A.M.P.",
-    "detail": "Open build menu, go to Defense, and place any trap. Punji Board costs only 4 steel and 8 wood.",
+    "id": "d4c62a9172ec",
+    "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
+    "detail": "Build a basic wood or concrete floor at your C.A.M.P. and scrap it.",
     "score": 250
    },
    {
-    "id": "8ae7a21a7ef3",
-    "title": "Collect a Fuel Tank or Gas Canister",
-    "detail": "Find at industrial and roadside locations like Toxic Larry's Meat 'n Go, Sons of Dane Compound, or Grafton Steel.",
+    "id": "45242188497f",
+    "title": "Collect Purified Water",
+    "detail": "Collect from your C.A.M.P. water purifier or find at Rollins Labor Camp.",
     "score": 250
    },
    {
-    "id": "74d12d2c603e",
-    "title": "Collect a Teddy Bear",
-    "detail": "Northeast of Knife Edge in a half-destroyed shack; use a grenade to knock bears down from the ledge.",
+    "id": "efea05a13534",
+    "title": "Complete Daily Operations on a Public Team!",
+    "detail": "Join a Daily Ops public team and complete the Daily Operation instance.",
     "score": 250
    },
    {
-    "id": "3a6432b2963e",
-    "title": "Cripple a Mirelurk's Limb",
-    "detail": "Fast travel to Spruce Knob Lake and cripple a Mirelurk's limb with a rifle; V.A.T.S. makes it easier.",
+    "id": "17ca41455aab",
+    "title": "Cripple a Blood Eagle's Arm",
+    "detail": "Fast travel to The Kill Box and use V.A.T.S. to cripple a Blood Eagle's arm.",
     "score": 250
    },
    {
-    "id": "bddb969abe00",
-    "title": "Cripple enemy limbs",
-    "detail": "Go to Morgantown Airport and cripple Scorched limbs with a rifle; each crippled limb counts separately.",
+    "id": "c4e41fb34d8f",
+    "title": "Kill a Pint-Sized Phantom",
+    "detail": "Find masked cultists around cabins and campgrounds; listen for child's laughter.",
     "score": 250
    },
    {
-    "id": "0eefea0f0669",
-    "title": "Scrap junk to produce Circuitry",
-    "detail": "Scrap Sensor Modules, Enhanced Targeting Cards, Telephones, or Military-grade Circuit Boards at any workbench.",
+    "id": "60dc0fab7cd4",
+    "title": "Kill an Enemy in the Skyline Valley Region",
+    "detail": "Fast travel to Grindstone Arch for a dense Super Mutant group.",
     "score": 250
    }
   ]
@@ -55,61 +55,55 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Open C.A.M.P. build menu and place any turret or trap under Defense. Punji Board costs 4 steel and 8 wood.",
-    "score": 250
+    "detail": "Place any turret or trap under Defense in build menu; Punji Board costs 4 steel and 8 wood.",
+    "score": 1500
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs region and harvest orange bulbs. Can also plant as Slipper Cactus in C.A.M.P.",
-    "score": 250
+    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest orange bulbs, or plant in C.A.M.P.",
+    "score": 1500
    },
    {
     "id": "f70d6b54b72d",
     "title": "Kill Insects",
-    "detail": "Visit Giant Teapot and start Strange Brew Daily Quest with Sweetwater, or go to Tanagra Town for up to ten Cave Crickets.",
-    "score": 250
+    "detail": "Visit Giant Teapot for bees or Tanagra Town for Cave Crickets in the giant tree cave.",
+    "score": 1500
    },
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Start a Head Hunt at Highway Town bounty board for 5,000 caps; Slasher appears as final opponent in this four-star event.",
-    "score": 250
+    "detail": "Start a Head Hunt at Highway Town; Slasher appears as uninvited guest at event completion.",
+    "score": 1500
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Fast travel to Point Pleasant for up to 34 Cultists. Use V.A.T.S. targeting the head as weak spot.",
-    "score": 250
+    "detail": "Fast travel to Point Pleasant for up to 34 Cultists; target heads with V.A.T.S.",
+    "score": 1500
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Grab a Protest Sign at Grafton, degrade it on an enemy, then repair at workbench with one Wood.",
-    "score": 250
+    "detail": "Grab a Protest Sign, hit an enemy to degrade it, then repair with 1 Wood at a workbench.",
+    "score": 1500
    },
    {
     "id": "d4ff5564bd3b",
     "title": "Scrap junk to produce Acid",
-    "detail": "Craft Bulk Acid at Tinker's Workbench in C.A.M.P. or Whitespring Resort, then scrap it.",
-    "score": 250
+    "detail": "Craft Bulk Acid at a Tinker's Workbench and scrap it for fastest completion.",
+    "score": 1500
    },
    {
     "id": "4ee13a7e723f",
     "title": "Scrap junk to produce Crystal",
-    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs at any workbench. Clancy Manor has decanters on tables.",
-    "score": 250
+    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs; Clancy Manor has decanters inside.",
+    "score": 1500
    },
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint under encumbered limit on open ground avoiding enemies. Route from Vault-Tec Agricultural Research Center north to Morgantown works well.",
-    "score": 250
-   },
-   {
-    "id": "922a98310d31",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn Gold Star on three separate days this week by completing any six daily challenges per day.",
+    "detail": "Sprint under encumbrance limit on open ground; route from Vault-Tec to Morgantown works well.",
     "score": 1500
    }
   ]
@@ -121,7 +115,7 @@
    "type": "other",
    "starts": "2026-11-19",
    "ends": "2026-11-23",
-   "description": "Increased caps rewards and double mutation spawns in public events."
+   "description": "Double currency rewards and mutated enemies during this bonus event period."
   },
   {
    "id": "a03a0ac660a1",
@@ -129,7 +123,7 @@
    "type": "other",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "All public events feature mutated variants with special rewards from Mutated Packages."
+   "description": "Public events feature mutated variants with special rewards in party packages."
   },
   {
    "id": "16e2b172b55e",
@@ -137,15 +131,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Double experience rewards for all activities and faster character leveling."
+   "description": "Experience gain is doubled, enabling faster leveling and scoreboard progression."
   },
   {
-   "id": "0ab269bd874c",
-   "name": "World Pets Update (Patch 72)",
+   "id": "991950db22f6",
+   "name": "World Pets Update (Patch 72) / Season 27",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "Major update introducing world pets and beginning Season 27."
+   "ends": "",
+   "description": "Major update introducing world pets and beginning of Season 27."
   },
   {
    "id": "d37fd4924971",
@@ -153,15 +147,15 @@
    "type": "other",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event with special loot and double mutation spawns in events."
+   "description": "Treasure Hunter event returns with mutated variants and special loot."
   },
   {
    "id": "eab26cc5304a",
    "name": "Holiday Scorched",
-   "type": "other",
+   "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Limited-time event featuring holiday-themed Scorched enemies with special rewards."
+   "description": "Holiday-themed scorched enemies spawn with festive rewards and waterlogged gifts."
   }
  ],
  "season": {
