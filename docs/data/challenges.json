@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-23T02:24:02.383767+00:00",
+ "updated": "2026-11-24T03:23:57.512058+00:00",
  "daily": {
-  "period_start": "2026-11-22T12:00:00-05:00",
-  "resets_at": "2026-11-23T12:00:00-05:00",
+  "period_start": "2026-11-23T12:00:00-05:00",
+  "resets_at": "2026-11-24T12:00:00-05:00",
   "items": [
    {
-    "id": "1ab888242c06",
-    "title": "Chew some Bubblegum",
-    "detail": "Open a perk card pack or find Bubblegum in Whitespring Robo Butler Collectron.",
+    "id": "efb62f8c27ab",
+    "title": "Drink Nuka-Cola Wild",
+    "detail": "A Nuka-Cola Collectron Station in a C.A.M.P. can produce it, or find it at The Whitespring Resort.",
     "score": null
    },
    {
-    "id": "d4c62a9172ec",
-    "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P.",
-    "detail": "Build a basic wood or concrete floor at your C.A.M.P., then scrap it.",
+    "id": "87fcb65be200",
+    "title": "Collect Toilet Paper",
+    "detail": "Check a Whitespring Robo Butler Collectron or find it in the red brick maintenance building at The Whitespring Resort.",
     "score": null
    },
    {
-    "id": "45242188497f",
-    "title": "Collect Purified Water",
-    "detail": "Collect from a Water Purifier or Vintage Water Cooler at your C.A.M.P.",
+    "id": "397e3e5955f0",
+    "title": "Craft any Flair at a Tinkerer's Bench",
+    "detail": "Craft any Flair under Souvenirs category; requires a learned Flair plan.",
     "score": null
    },
    {
-    "id": "efea05a13534",
-    "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and complete the Daily Operation instance.",
+    "id": "e36409fad3d8",
+    "title": "Kill a Cryptid",
+    "detail": "Toxic Larry's Meat 'n Go has up to three Snallygasters spawning ahead of the fast travel point.",
     "score": null
    },
    {
-    "id": "17ca41455aab",
-    "title": "Cripple a Blood Eagle's Arm",
-    "detail": "Fast travel to The Kill Box and use V.A.T.S. to target the arm with a rifle.",
+    "id": "4fac745541b9",
+    "title": "Kill an Enemy with any Energy Weapon",
+    "detail": "Head to Vault-Tec Agricultural Research Center where low-level robots spawn reliably.",
     "score": null
    },
    {
-    "id": "c4e41fb34d8f",
-    "title": "Kill a Pint-Sized Phantom",
-    "detail": "Find masked cultists around cabins, campgrounds, and fairgrounds during the Slasher event.",
+    "id": "702b1dc21139",
+    "title": "Mod a Weapon",
+    "detail": "Apply or swap any known mod at a weapons workbench; changing a weapon skin counts.",
     "score": null
    },
    {
-    "id": "60dc0fab7cd4",
-    "title": "Kill an Enemy in the Skyline Valley Region",
-    "detail": "Fast travel to Grindstone Arch for a dense group of Super Mutants.",
+    "id": "f70254eb6450",
+    "title": "Scrap junk to produce Cork",
+    "detail": "Craft Bulk Cork at a Tinker's Workbench in your C.A.M.P. or at The Whitespring Resort, then scrap it.",
     "score": null
    }
   ]
@@ -55,75 +55,67 @@
    {
     "id": "6015eceabe69",
     "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any turret or trap under Defense in build menu; Punji Board requires 4 steel and 8 wood.",
+    "detail": "Place any turret or trap under Defense in build menu; a Punji Board costs only 4 steel and 8 wood.",
     "score": null
    },
    {
     "id": "e2ca6b0cc1d7",
     "title": "Harvest a Prickeye",
-    "detail": "Fast travel to Tycoon Lake in Burning Springs and harvest orange bulbs, or plant in C.A.M.P.",
+    "detail": "Fast travel to Tycoon Lake in Burning Springs region; look for unusual orange bulbs or plant it in your C.A.M.P.",
     "score": null
    },
    {
     "id": "f70d6b54b72d",
     "title": "Kill Insects",
-    "detail": "Visit Giant Teapot for bees or Tanagra Town for Cave Crickets in the giant tree cave.",
+    "detail": "Start the Strange Brew Daily Quest at the Giant Teapot to kill bees, or go to Tanagra Town for up to ten Cave Crickets.",
     "score": null
    },
    {
     "id": "abd971c701e1",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Start a Head Hunt at Highway Town bounty board; Slasher appears as final stage boss.",
+    "detail": "Only appears during the Slasher seasonal event's last stage as an uninvited guest at a Head Hunt.",
     "score": null
    },
    {
     "id": "35e533056dcd",
     "title": "Kill a Cultist",
-    "detail": "Fast travel to Point Pleasant for up to 34 Cultists; target weak spot on head.",
+    "detail": "Fast travel to Point Pleasant for up to 34 Cultists; target the head with V.A.T.S. for faster kills.",
     "score": null
    },
    {
     "id": "441396059a95",
     "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Grab Protest Sign from Grafton or Whitespring, degrade it, repair at workbench with wood.",
+    "detail": "Grab a Protest Sign and degrade it, then repair it at a workbench with just one Wood each time.",
     "score": null
    },
    {
     "id": "d4ff5564bd3b",
     "title": "Scrap junk to produce Acid",
-    "detail": "Craft Bulk Acid at Tinker's Workbench and scrap it, or scrap junk containing acid.",
+    "detail": "Craft Bulk Acid at a Tinker's Workbench and scrap it, or scrap items that contain acid.",
     "score": null
    },
    {
     "id": "4ee13a7e723f",
     "title": "Scrap junk to produce Crystal",
-    "detail": "Scrap crystal liquor decanters or floater freezer pus sacs; visit Clancy Manor for decanters.",
+    "detail": "Scrap crystal liquor decanters or other junk containing crystal at any workbench.",
     "score": null
    },
    {
     "id": "d45269960ff0",
     "title": "Travel on foot (KM)",
-    "detail": "Sprint under encumbrance limit on open ground; fast travel does not count.",
+    "detail": "Fast travel does not count; sprint over open ground with few enemies to reach 50 KM.",
     "score": null
    }
   ]
  },
  "events": [
   {
-   "id": "ecb3d7224821",
-   "name": "Gold Rush and Double Mutations",
-   "type": "weekend",
-   "starts": "2026-11-19",
-   "ends": "2026-11-23",
-   "description": "Earn extra caps and face mutated enemy variations in public events."
-  },
-  {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
    "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "All public events feature mutated enemy variants with special rewards."
+   "description": "All public events are mutated with enhanced challenges and special rewards from Mutated Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -131,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Earn double experience points across all activities."
+   "description": "Earn double XP while leveling up and progressing through the Scoreboard."
   },
   {
-   "id": "0ab269bd874c",
-   "name": "World Pets Update (Patch 72)",
+   "id": "90bfb7d5d353",
+   "name": "World Pets Update",
    "type": "update",
    "starts": "2026-12-01",
    "ends": "2026-12-01",
-   "description": "Major update introduces world pets and starts Season 27."
+   "description": "Patch 72 releases and Season 27 begins."
   },
   {
    "id": "d37fd4924971",
@@ -147,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Hunt for rare plans and face double mutated enemies for bonus rewards."
+   "description": "Treasure Hunter event runs alongside double mutation rates for legendary enemies."
   },
   {
    "id": "eab26cc5304a",
@@ -155,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Festive seasonal event featuring Holiday Scorched enemies and limited rewards."
+   "description": "Limited-time event featuring holiday-themed Scorched enemies and special gift rewards."
   }
  ],
  "season": {
