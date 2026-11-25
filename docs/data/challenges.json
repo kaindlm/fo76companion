@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:29:18.586431+00:00",
+ "updated": "2026-11-25T04:49:31.563203+00:00",
  "daily": {
   "period_start": "2026-11-24T12:00:00-05:00",
   "resets_at": "2026-11-25T12:00:00-05:00",
@@ -13,38 +13,38 @@
    {
     "id": "f02513e12e8e",
     "title": "Build a Decoration in a Workshop or C.A.M.P.",
-    "detail": "Open build menu and place any decoration from the Decorations category",
+    "detail": "Open build menu and place any decoration from Decorations category",
     "score": 5
    },
    {
     "id": "57c362ae5b8a",
     "title": "Collect Legendary Scrip",
-    "detail": "Trade Legendary items at a Legendary Exchange Machine or kill Legendary enemies",
+    "detail": "Trade Legendary items at a Legendary Exchange Machine",
     "score": 50
    },
    {
     "id": "3985399960a3",
     "title": "Complete a Mutated Public Event",
-    "detail": "Look for mutated event icons on the map and fast travel to join",
-    "score": 100
+    "detail": "Look for mutated event icons on the map and fast travel there",
+    "score": null
    },
    {
     "id": "79768b174001",
     "title": "Complete an Infestation",
-    "detail": "Find and clear an active Infestation zone on your map",
-    "score": 100
+    "detail": "Find and clear a marked Infestation hotspot for rare 4-Star loot",
+    "score": null
    },
    {
     "id": "213b750d970a",
     "title": "Kill a Wendigo",
-    "detail": "Fast travel to Vault 51 for a reliable spawn",
-    "score": 50
+    "detail": "Fast travel to Vault 51; head to Atrium then north through dining area",
+    "score": 1
    },
    {
     "id": "f5b4bc74adbc",
     "title": "Kill an Enemy during an Infestation",
-    "detail": "Kill 3 enemies while completing an Infestation",
-    "score": 50
+    "detail": "Kill enemies inside an active Infestation hotspot",
+    "score": 3
    }
   ]
  },
@@ -55,7 +55,7 @@
    {
     "id": "1e0c7e29bfa9",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your Shelter and place any decoration from the build menu",
+    "detail": "Enter your C.A.M.P. Shelter, access build menu, place any decoration",
     "score": 15
    },
    {
@@ -67,44 +67,44 @@
    {
     "id": "f581455e3f28",
     "title": "Collect Caps",
-    "detail": "Fastest way is selling looted items to vendors at train stations",
+    "detail": "Sell looted items to vendors at train stations for fastest results",
     "score": 2500
    },
    {
     "id": "7574c0650f36",
     "title": "Complete an Event or Activity",
-    "detail": "Public Events spawn server-wide every 20 minutes",
-    "score": 100
+    "detail": "Public events spawn server-wide every 20 minutes with yellow icons on map",
+    "score": 3
    },
    {
     "id": "7ff6d395fa1c",
     "title": "Complete an Infestation",
-    "detail": "Find and clear an active Infestation zone",
-    "score": 100
+    "detail": "Find and clear an Infestation hotspot for rare legendary rewards",
+    "score": 3
    },
    {
     "id": "85c05a6a3d14",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Available during Head Hunt events at Highway Town",
-    "score": 100
-   },
-   {
-    "id": "62aa30b3dbba",
-    "title": "Kill a Mutated Enemy",
-    "detail": "Join a Mutated Public Event marked with radioactivity symbol",
-    "score": 100
-   },
-   {
-    "id": "56e252140249",
-    "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Kill 20 masked cultists while completing Infestations",
-    "score": 100
+    "detail": "Start a Head Hunt at Highway Town; Slasher appears as a four-star legendary during Slasher event finale",
+    "score": 1
    },
    {
     "id": "ff1bd233d019",
     "title": "Kill a Legendary Creature",
-    "detail": "Join public events like Radiation Rumble or Uranium Fever",
-    "score": 100
+    "detail": "Join public events like Radiation Rumble or Uranium Fever for Legendary enemies",
+    "score": 5
+   },
+   {
+    "id": "62aa30b3dbba",
+    "title": "Kill a Mutated Enemy",
+    "detail": "Join Mutated Public Events that start on the hour with radioactivity symbol",
+    "score": 30
+   },
+   {
+    "id": "56e252140249",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "These masked cultists can appear during Infestations; kill them in the hotspot",
+    "score": 20
    }
   ]
  },
@@ -112,10 +112,10 @@
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Special mutated variants of public events with unique rewards."
+   "description": "Special public events with mutated enemies offering exclusive rewards from Mutated Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -123,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Earn experience points at double rate across all activities."
+   "description": "Weekend event providing double experience points and XP buffs for faster leveling."
   },
   {
-   "id": "90bfb7d5d353",
-   "name": "World Pets Update",
+   "id": "0ab269bd874c",
+   "name": "World Pets Update (Patch 72)",
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "Major patch introducing collectible world pets and starting Season 27."
+   "description": "Major update introducing world pets feature and launching Season 27 You're S.P.E.C.I.A.L."
   },
   {
    "id": "d37fd4924971",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event combined with double mutation weekend bonuses."
+   "description": "Weekend event combining Treasure Hunter activities with double mutation effects."
   },
   {
    "id": "eab26cc5304a",
@@ -147,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Limited-time seasonal event featuring holiday-themed Scorched enemies and rewards."
+   "description": "Holiday-themed event with special Scorched enemies and waterlogged gift rewards."
   }
  ],
  "season": {
