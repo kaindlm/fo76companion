@@ -1,116 +1,110 @@
 {
- "updated": "2026-11-24T05:47:17.367319+00:00",
+ "updated": "2026-11-25T01:29:18.586431+00:00",
  "daily": {
-  "period_start": "2026-11-23T12:00:00-05:00",
-  "resets_at": "2026-11-24T12:00:00-05:00",
+  "period_start": "2026-11-24T12:00:00-05:00",
+  "resets_at": "2026-11-25T12:00:00-05:00",
   "items": [
    {
-    "id": "efb62f8c27ab",
-    "title": "Drink Nuka-Cola Wild",
-    "detail": "Nuka-Cola Collectron Station produces it, or find it at Whitespring Resort.",
-    "score": null
+    "id": "1fa30a990a78",
+    "title": "Scrap junk to produce Steel",
+    "detail": "Craft Bulk Steel at a Tinker's Workbench and scrap it",
+    "score": 10
    },
    {
-    "id": "87fcb65be200",
-    "title": "Collect Toilet Paper",
-    "detail": "Whitespring Robo Butler Collectron produces it, or check the maintenance building at Whitespring Resort.",
-    "score": null
+    "id": "f02513e12e8e",
+    "title": "Build a Decoration in a Workshop or C.A.M.P.",
+    "detail": "Open build menu and place any decoration from the Decorations category",
+    "score": 5
    },
    {
-    "id": "397e3e5955f0",
-    "title": "Craft any Flair at a Tinkerer's Bench",
-    "detail": "Craft at Tinker's Workbench under Souvenirs category with a learned plan.",
-    "score": null
+    "id": "57c362ae5b8a",
+    "title": "Collect Legendary Scrip",
+    "detail": "Trade Legendary items at a Legendary Exchange Machine or kill Legendary enemies",
+    "score": 50
    },
    {
-    "id": "e36409fad3d8",
-    "title": "Kill a Cryptid",
-    "detail": "Toxic Larry's Meat 'n Go spawns up to three Snallygasters reliably.",
-    "score": null
+    "id": "3985399960a3",
+    "title": "Complete a Mutated Public Event",
+    "detail": "Look for mutated event icons on the map and fast travel to join",
+    "score": 100
    },
    {
-    "id": "4fac745541b9",
-    "title": "Kill an Enemy with any Energy Weapon",
-    "detail": "Vault-Tec Agricultural Research Center has low-level robots.",
-    "score": null
+    "id": "79768b174001",
+    "title": "Complete an Infestation",
+    "detail": "Find and clear an active Infestation zone on your map",
+    "score": 100
    },
    {
-    "id": "702b1dc21139",
-    "title": "Mod a Weapon",
-    "detail": "Apply any mod or weapon skin at a weapons workbench.",
-    "score": null
+    "id": "213b750d970a",
+    "title": "Kill a Wendigo",
+    "detail": "Fast travel to Vault 51 for a reliable spawn",
+    "score": 50
    },
    {
-    "id": "f70254eb6450",
-    "title": "Scrap junk to produce Cork",
-    "detail": "Craft Bulk Cork at a Tinker's Workbench and scrap it.",
-    "score": null
+    "id": "f5b4bc74adbc",
+    "title": "Kill an Enemy during an Infestation",
+    "detail": "Kill 3 enemies while completing an Infestation",
+    "score": 50
    }
   ]
  },
  "weekly": {
-  "period_start": "2026-11-17T12:00:00-05:00",
-  "resets_at": "2026-11-24T12:00:00-05:00",
+  "period_start": "2026-11-24T12:00:00-05:00",
+  "resets_at": "2026-12-01T12:00:00-05:00",
   "items": [
    {
-    "id": "6015eceabe69",
-    "title": "Build a Turret or Trap in a Workshop or C.A.M.P.",
-    "detail": "Place any turret or trap in Defense menu; Punji Board costs only 4 steel and 8 wood.",
-    "score": null
+    "id": "1e0c7e29bfa9",
+    "title": "Build a Decoration in a Shelter",
+    "detail": "Enter your Shelter and place any decoration from the build menu",
+    "score": 15
    },
    {
-    "id": "e2ca6b0cc1d7",
-    "title": "Harvest a Prickeye",
-    "detail": "Harvest at Tycoon Lake in Burning Springs, or plant Slipper Cactus in your C.A.M.P.",
-    "score": null
+    "id": "3b0fac3d872d",
+    "title": "Buy an item from or Sell an item to another Player",
+    "detail": "Visit another player's vendor at their C.A.M.P.",
+    "score": 15
    },
    {
-    "id": "f70d6b54b72d",
-    "title": "Kill Insects",
-    "detail": "Giant Teapot or Tanagra Town cave near the top of the giant tree have reliable spawns.",
-    "score": null
+    "id": "f581455e3f28",
+    "title": "Collect Caps",
+    "detail": "Fastest way is selling looted items to vendors at train stations",
+    "score": 2500
    },
    {
-    "id": "abd971c701e1",
+    "id": "7574c0650f36",
+    "title": "Complete an Event or Activity",
+    "detail": "Public Events spawn server-wide every 20 minutes",
+    "score": 100
+   },
+   {
+    "id": "7ff6d395fa1c",
+    "title": "Complete an Infestation",
+    "detail": "Find and clear an active Infestation zone",
+    "score": 100
+   },
+   {
+    "id": "85c05a6a3d14",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as uninvited guest at Head Hunt event in final Slasher stage at Highway Town.",
-    "score": null
+    "detail": "Available during Head Hunt events at Highway Town",
+    "score": 100
    },
    {
-    "id": "35e533056dcd",
-    "title": "Kill a Cultist",
-    "detail": "Point Pleasant has up to 34 Cultists; target the head for faster kills.",
-    "score": null
+    "id": "62aa30b3dbba",
+    "title": "Kill a Mutated Enemy",
+    "detail": "Join a Mutated Public Event marked with radioactivity symbol",
+    "score": 100
    },
    {
-    "id": "441396059a95",
-    "title": "Repair Armor, Weapons, or Power Armor",
-    "detail": "Degrade a Protest Sign from Grafton with one hit, then repair with Wood at a workbench.",
-    "score": null
+    "id": "56e252140249",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "Kill 20 masked cultists while completing Infestations",
+    "score": 100
    },
    {
-    "id": "d4ff5564bd3b",
-    "title": "Scrap junk to produce Acid",
-    "detail": "Craft Bulk Acid at a Tinker's Workbench and scrap it.",
-    "score": null
-   },
-   {
-    "id": "4ee13a7e723f",
-    "title": "Scrap junk to produce Crystal",
-    "detail": "Scrap crystal liquor decanters at any workbench; Clancy Manor has decanters on tables.",
-    "score": null
-   },
-   {
-    "id": "d45269960ff0",
-    "title": "Travel on foot (KM)",
-    "detail": "Sprint under encumbrance limit on open ground; running from Vault-Tec Agricultural Research Center north toward Morgantown works well.",
-    "score": null
-   },
-   {
-    "id": "922a98310d31",
-    "title": "Complete a Gold Star Daily Challenge!",
-    "detail": "Earn Gold Star on three separate days during the week by completing six daily challenges each day.",
-    "score": null
+    "id": "ff1bd233d019",
+    "title": "Kill a Legendary Creature",
+    "detail": "Join public events like Radiation Rumble or Uranium Fever",
+    "score": 100
    }
   ]
  },
@@ -118,10 +112,10 @@
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "All public events spawn with mutations and award special mutated rewards."
+   "description": "Special mutated variants of public events with unique rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -136,16 +130,16 @@
    "name": "World Pets Update",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "Patch 72 releases and Season 27 begins with new world pet companion system."
+   "ends": "",
+   "description": "Major patch introducing collectible world pets and starting Season 27."
   },
   {
    "id": "d37fd4924971",
    "name": "Treasure Hunter and Double Mutations",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event runs alongside doubled mutation effects on creatures and events."
+   "description": "Treasure Hunter event combined with double mutation weekend bonuses."
   },
   {
    "id": "eab26cc5304a",
@@ -153,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Special holiday-themed Scorched creatures appear with festive rewards and waterlogged gifts."
+   "description": "Limited-time seasonal event featuring holiday-themed Scorched enemies and rewards."
   }
  ],
  "season": {
