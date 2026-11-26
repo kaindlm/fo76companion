@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-25T04:49:31.563203+00:00",
+ "updated": "2026-11-26T01:03:39.120640+00:00",
  "daily": {
-  "period_start": "2026-11-24T12:00:00-05:00",
-  "resets_at": "2026-11-25T12:00:00-05:00",
+  "period_start": "2026-11-25T12:00:00-05:00",
+  "resets_at": "2026-11-26T12:00:00-05:00",
   "items": [
    {
-    "id": "1fa30a990a78",
-    "title": "Scrap junk to produce Steel",
-    "detail": "Craft Bulk Steel at a Tinker's Workbench and scrap it",
-    "score": 10
-   },
-   {
-    "id": "f02513e12e8e",
-    "title": "Build a Decoration in a Workshop or C.A.M.P.",
-    "detail": "Open build menu and place any decoration from Decorations category",
-    "score": 5
-   },
-   {
-    "id": "57c362ae5b8a",
-    "title": "Collect Legendary Scrip",
-    "detail": "Trade Legendary items at a Legendary Exchange Machine",
-    "score": 50
-   },
-   {
-    "id": "3985399960a3",
-    "title": "Complete a Mutated Public Event",
-    "detail": "Look for mutated event icons on the map and fast travel there",
+    "id": "ed1bd0f90fe9",
+    "title": "Craft any Chems",
+    "detail": "Craft at Chemistry Station; Stimpak Diluted is cheapest",
     "score": null
    },
    {
-    "id": "79768b174001",
-    "title": "Complete an Infestation",
-    "detail": "Find and clear a marked Infestation hotspot for rare 4-Star loot",
+    "id": "d287e0487b60",
+    "title": "Buy an item from or Sell an item to another Player",
+    "detail": "Visit a player's C.A.M.P. with vendor",
     "score": null
    },
    {
-    "id": "213b750d970a",
-    "title": "Kill a Wendigo",
-    "detail": "Fast travel to Vault 51; head to Atrium then north through dining area",
-    "score": 1
+    "id": "9122cf9f4468",
+    "title": "Collect Toilet Paper",
+    "detail": "Available at Whitespring Resort maintenance building or Collectron",
+    "score": null
    },
    {
-    "id": "f5b4bc74adbc",
-    "title": "Kill an Enemy during an Infestation",
-    "detail": "Kill enemies inside an active Infestation hotspot",
-    "score": 3
+    "id": "a64bc9ce030c",
+    "title": "Complete Daily Operations on a Public Team!",
+    "detail": "Join a Daily Ops public team and enter the operation",
+    "score": null
+   },
+   {
+    "id": "df20980ae5ac",
+    "title": "Kill a Mutated Enemy",
+    "detail": "Join a Mutated Public Event marked with green hexagon and DNA strand",
+    "score": null
+   },
+   {
+    "id": "06cba41c8ad7",
+    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
+    "detail": "Pint-Sized Phantoms appear as enemies in Daily Ops during the Slasher event",
+    "score": null
+   },
+   {
+    "id": "5b533c29888a",
+    "title": "Visit another Player's Shelter",
+    "detail": "Find a player's C.A.M.P. with shelter (red radiation symbol on map)",
+    "score": null
    }
   ]
  },
@@ -55,56 +55,56 @@
    {
     "id": "1e0c7e29bfa9",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your C.A.M.P. Shelter, access build menu, place any decoration",
-    "score": 15
+    "detail": "Enter your shelter and place any decoration from the Decorations category",
+    "score": null
    },
    {
     "id": "3b0fac3d872d",
     "title": "Buy an item from or Sell an item to another Player",
-    "detail": "Visit another player's vendor at their C.A.M.P.",
-    "score": 15
+    "detail": "Visit a player's C.A.M.P. and use their vendor",
+    "score": null
    },
    {
     "id": "f581455e3f28",
     "title": "Collect Caps",
-    "detail": "Sell looted items to vendors at train stations for fastest results",
-    "score": 2500
+    "detail": "Fastest method is selling looted items to vendors at train stations",
+    "score": null
    },
    {
     "id": "7574c0650f36",
     "title": "Complete an Event or Activity",
-    "detail": "Public events spawn server-wide every 20 minutes with yellow icons on map",
-    "score": 3
+    "detail": "Public Events spawn server-wide every 20 minutes with yellow icon",
+    "score": null
    },
    {
     "id": "7ff6d395fa1c",
     "title": "Complete an Infestation",
-    "detail": "Find and clear an Infestation hotspot for rare legendary rewards",
-    "score": 3
+    "detail": "Find gray cloudy area on map, locate red hotspot, defeat the boss",
+    "score": null
    },
    {
     "id": "85c05a6a3d14",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Start a Head Hunt at Highway Town; Slasher appears as a four-star legendary during Slasher event finale",
-    "score": 1
-   },
-   {
-    "id": "ff1bd233d019",
-    "title": "Kill a Legendary Creature",
-    "detail": "Join public events like Radiation Rumble or Uranium Fever for Legendary enemies",
-    "score": 5
+    "detail": "Appears as guest at Head Hunt events; buy poster at Highway Town for 5000 caps",
+    "score": null
    },
    {
     "id": "62aa30b3dbba",
     "title": "Kill a Mutated Enemy",
-    "detail": "Join Mutated Public Events that start on the hour with radioactivity symbol",
-    "score": 30
+    "detail": "Join Mutated Public Events or Daily Ops for mutated variants",
+    "score": null
    },
    {
     "id": "56e252140249",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "These masked cultists can appear during Infestations; kill them in the hotspot",
-    "score": 20
+    "detail": "These masked cultists can appear during Infestation encounters",
+    "score": null
+   },
+   {
+    "id": "ff1bd233d019",
+    "title": "Kill a Legendary Creature",
+    "detail": "Leader of the Pack event at Tyler County Fairgrounds spawns Legendary wolves",
+    "score": null
    }
   ]
  },
@@ -112,10 +112,10 @@
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "seasonal",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Special public events with mutated enemies offering exclusive rewards from Mutated Packages."
+   "description": "Special mutated variants of public events offer exclusive rewards from Mutated Party Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -123,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Weekend event providing double experience points and XP buffs for faster leveling."
+   "description": "Experience points earned are doubled during this weekend promotion."
   },
   {
    "id": "0ab269bd874c",
    "name": "World Pets Update (Patch 72)",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "",
-   "description": "Major update introducing world pets feature and launching Season 27 You're S.P.E.C.I.A.L."
+   "ends": "2026-12-01",
+   "description": "Major content update introducing world pets and beginning Season 27."
   },
   {
    "id": "d37fd4924971",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Weekend event combining Treasure Hunter activities with double mutation effects."
+   "description": "Treasure Hunter event combines with double mutation effects for enhanced rewards."
   },
   {
    "id": "eab26cc5304a",
@@ -147,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Holiday-themed event with special Scorched enemies and waterlogged gift rewards."
+   "description": "Holiday-themed Scorched creatures appear across Appalachia with special seasonal rewards."
   }
  ],
  "season": {
