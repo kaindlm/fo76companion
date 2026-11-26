@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:03:39.120640+00:00",
+ "updated": "2026-11-26T04:01:37.417427+00:00",
  "daily": {
   "period_start": "2026-11-25T12:00:00-05:00",
   "resets_at": "2026-11-26T12:00:00-05:00",
@@ -7,44 +7,44 @@
    {
     "id": "ed1bd0f90fe9",
     "title": "Craft any Chems",
-    "detail": "Craft at Chemistry Station; Stimpak Diluted is cheapest",
-    "score": null
+    "detail": "Craft at a Chemistry Station; Stimpak Diluted is cheapest",
+    "score": 250
    },
    {
     "id": "d287e0487b60",
     "title": "Buy an item from or Sell an item to another Player",
-    "detail": "Visit a player's C.A.M.P. with vendor",
-    "score": null
+    "detail": "Visit another player's C.A.M.P. vendor",
+    "score": 250
    },
    {
     "id": "9122cf9f4468",
     "title": "Collect Toilet Paper",
-    "detail": "Available at Whitespring Resort maintenance building or Collectron",
-    "score": null
+    "detail": "Find at Whitespring Resort maintenance building or use Collectron",
+    "score": 250
    },
    {
     "id": "a64bc9ce030c",
     "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops public team and enter the operation",
-    "score": null
+    "detail": "Join a Daily Ops team and complete the operation",
+    "score": 250
    },
    {
     "id": "df20980ae5ac",
     "title": "Kill a Mutated Enemy",
-    "detail": "Join a Mutated Public Event marked with green hexagon and DNA strand",
-    "score": null
+    "detail": "Join a Mutated Public Event (marked with green DNA hexagon)",
+    "score": 250
    },
    {
     "id": "06cba41c8ad7",
     "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Pint-Sized Phantoms appear as enemies in Daily Ops during the Slasher event",
-    "score": null
+    "detail": "Pint-Sized Phantoms are the enemy in Daily Ops during the Slasher event",
+    "score": 250
    },
    {
     "id": "5b533c29888a",
     "title": "Visit another Player's Shelter",
-    "detail": "Find a player's C.A.M.P. with shelter (red radiation symbol on map)",
-    "score": null
+    "detail": "Fast travel to a player's C.A.M.P. with a shelter icon",
+    "score": 250
    }
   ]
  },
@@ -55,56 +55,56 @@
    {
     "id": "1e0c7e29bfa9",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your shelter and place any decoration from the Decorations category",
-    "score": null
+    "detail": "Place any decoration in your shelter and scrap it",
+    "score": 1500
    },
    {
     "id": "3b0fac3d872d",
     "title": "Buy an item from or Sell an item to another Player",
-    "detail": "Visit a player's C.A.M.P. and use their vendor",
-    "score": null
+    "detail": "Complete one transaction with another player",
+    "score": 1500
    },
    {
     "id": "f581455e3f28",
     "title": "Collect Caps",
-    "detail": "Fastest method is selling looted items to vendors at train stations",
-    "score": null
+    "detail": "Sell weapons, junk, or chems to vendors at train stations",
+    "score": 2500
    },
    {
     "id": "7574c0650f36",
     "title": "Complete an Event or Activity",
-    "detail": "Public Events spawn server-wide every 20 minutes with yellow icon",
-    "score": null
+    "detail": "Finish three public events or activities total",
+    "score": 1500
    },
    {
     "id": "7ff6d395fa1c",
     "title": "Complete an Infestation",
-    "detail": "Find gray cloudy area on map, locate red hotspot, defeat the boss",
-    "score": null
+    "detail": "Clear all three infestations during the week",
+    "score": 1500
    },
    {
     "id": "85c05a6a3d14",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Appears as guest at Head Hunt events; buy poster at Highway Town for 5000 caps",
-    "score": null
+    "detail": "Start a Head Hunt at Highway Town and defeat the Slasher during Slasher event final stage",
+    "score": 1500
    },
    {
     "id": "62aa30b3dbba",
     "title": "Kill a Mutated Enemy",
-    "detail": "Join Mutated Public Events or Daily Ops for mutated variants",
-    "score": null
+    "detail": "Kill five mutated enemies from Mutated Public Events or Daily Ops",
+    "score": 1500
    },
    {
     "id": "56e252140249",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "These masked cultists can appear during Infestation encounters",
-    "score": null
+    "detail": "Defeat twenty Phantoms inside infestations",
+    "score": 1500
    },
    {
     "id": "ff1bd233d019",
     "title": "Kill a Legendary Creature",
-    "detail": "Leader of the Pack event at Tyler County Fairgrounds spawns Legendary wolves",
-    "score": null
+    "detail": "Defeat five legendary creatures; Leader of the Pack event is reliable",
+    "score": 1500
    }
   ]
  },
@@ -112,10 +112,10 @@
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "seasonal",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Special mutated variants of public events offer exclusive rewards from Mutated Party Packages."
+   "description": "Special mutated enemy variants appear in public events with exclusive rewards from Mutated Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -123,15 +123,7 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Experience points earned are doubled during this weekend promotion."
-  },
-  {
-   "id": "0ab269bd874c",
-   "name": "World Pets Update (Patch 72)",
-   "type": "update",
-   "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "Major content update introducing world pets and beginning Season 27."
+   "description": "Experience gain is doubled, allowing faster leveling and scoreboard progression."
   },
   {
    "id": "d37fd4924971",
@@ -139,7 +131,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event combines with double mutation effects for enhanced rewards."
+   "description": "Treasure Hunter creatures spawn with double mutation rates and exclusive rewards."
   },
   {
    "id": "eab26cc5304a",
@@ -147,7 +139,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Holiday-themed Scorched creatures appear across Appalachia with special seasonal rewards."
+   "description": "Special holiday-themed Scorched enemies appear with festive rewards and waterlogged gifts."
   }
  ],
  "season": {
