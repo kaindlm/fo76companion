@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-26T04:01:37.417427+00:00",
+ "updated": "2026-11-27T01:04:14.592836+00:00",
  "daily": {
-  "period_start": "2026-11-25T12:00:00-05:00",
-  "resets_at": "2026-11-26T12:00:00-05:00",
+  "period_start": "2026-11-26T12:00:00-05:00",
+  "resets_at": "2026-11-27T12:00:00-05:00",
   "items": [
    {
-    "id": "ed1bd0f90fe9",
-    "title": "Craft any Chems",
-    "detail": "Craft at a Chemistry Station; Stimpak Diluted is cheapest",
+    "id": "13db5bdb0f6b",
+    "title": "Drink Nuka-Cola Quantum",
+    "detail": "Get from a Nuka-Cola Collectron Station in your C.A.M.P.",
+    "score": null
+   },
+   {
+    "id": "fffbec22079c",
+    "title": "Build a Generator in a C.A.M.P. or Workshop",
+    "detail": "Open C.A.M.P. build menu, navigate to Power and place any Generator.",
+    "score": null
+   },
+   {
+    "id": "32036706a968",
+    "title": "Collect Caps",
+    "detail": "Sell looted weapons, junk, chems, or food to a vendor.",
     "score": 250
    },
    {
-    "id": "d287e0487b60",
-    "title": "Buy an item from or Sell an item to another Player",
-    "detail": "Visit another player's C.A.M.P. vendor",
-    "score": 250
+    "id": "43b22028812d",
+    "title": "Cripple a Super Mutant's Leg",
+    "detail": "Fast travel to West Tek Research Center.",
+    "score": null
    },
    {
-    "id": "9122cf9f4468",
-    "title": "Collect Toilet Paper",
-    "detail": "Find at Whitespring Resort maintenance building or use Collectron",
-    "score": 250
+    "id": "441121488063",
+    "title": "Eat a box of Blamco Brand Mac and Cheese",
+    "detail": "Find one at Grafton Dam rowboat or Watoga Underground diner.",
+    "score": null
    },
    {
-    "id": "a64bc9ce030c",
-    "title": "Complete Daily Operations on a Public Team!",
-    "detail": "Join a Daily Ops team and complete the operation",
-    "score": 250
+    "id": "035bd9e4896c",
+    "title": "Kill a Super Mutant",
+    "detail": "Fast travel to West Tek Research Center for reliable spawns.",
+    "score": null
    },
    {
-    "id": "df20980ae5ac",
-    "title": "Kill a Mutated Enemy",
-    "detail": "Join a Mutated Public Event (marked with green DNA hexagon)",
-    "score": 250
-   },
-   {
-    "id": "06cba41c8ad7",
-    "title": "Kill a Pint-Sized Phantom during a Daily Operation!",
-    "detail": "Pint-Sized Phantoms are the enemy in Daily Ops during the Slasher event",
-    "score": 250
-   },
-   {
-    "id": "5b533c29888a",
-    "title": "Visit another Player's Shelter",
-    "detail": "Fast travel to a player's C.A.M.P. with a shelter icon",
-    "score": 250
+    "id": "710ee4ddab10",
+    "title": "Take a Camera Picture of a Super Mutant",
+    "detail": "Fast travel to West Tek Research Center.",
+    "score": null
    }
   ]
  },
@@ -55,55 +55,55 @@
    {
     "id": "1e0c7e29bfa9",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Place any decoration in your shelter and scrap it",
+    "detail": "Enter Shelter, access build menu, select Decorations category.",
     "score": 1500
    },
    {
     "id": "3b0fac3d872d",
     "title": "Buy an item from or Sell an item to another Player",
-    "detail": "Complete one transaction with another player",
+    "detail": "Visit another player's C.A.M.P. and use their vendor.",
     "score": 1500
    },
    {
     "id": "f581455e3f28",
     "title": "Collect Caps",
-    "detail": "Sell weapons, junk, or chems to vendors at train stations",
+    "detail": "Sell looted items to vendors at train stations.",
     "score": 2500
    },
    {
     "id": "7574c0650f36",
     "title": "Complete an Event or Activity",
-    "detail": "Finish three public events or activities total",
+    "detail": "Public events spawn server-wide every 20 minutes.",
     "score": 1500
    },
    {
     "id": "7ff6d395fa1c",
     "title": "Complete an Infestation",
-    "detail": "Clear all three infestations during the week",
+    "detail": "Check Pip-Boy map for gray cloudy areas and clear the infestation.",
     "score": 1500
    },
    {
     "id": "85c05a6a3d14",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Start a Head Hunt at Highway Town and defeat the Slasher during Slasher event final stage",
-    "score": 1500
-   },
-   {
-    "id": "62aa30b3dbba",
-    "title": "Kill a Mutated Enemy",
-    "detail": "Kill five mutated enemies from Mutated Public Events or Daily Ops",
-    "score": 1500
-   },
-   {
-    "id": "56e252140249",
-    "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Defeat twenty Phantoms inside infestations",
+    "detail": "Start a Head Hunt at Highway Town; Slasher appears during the final stage.",
     "score": 1500
    },
    {
     "id": "ff1bd233d019",
     "title": "Kill a Legendary Creature",
-    "detail": "Defeat five legendary creatures; Leader of the Pack event is reliable",
+    "detail": "Join public events like Radiation Rumble or Uranium Fever.",
+    "score": 1500
+   },
+   {
+    "id": "62aa30b3dbba",
+    "title": "Kill a Mutated Enemy",
+    "detail": "Join Mutated Public Events that start on the hour with green hexagon icon.",
+    "score": 1500
+   },
+   {
+    "id": "56e252140249",
+    "title": "Kill a Pint-Sized Phantom during an Infestation",
+    "detail": "Pint-Sized Phantoms can take over Infestations; kill them inside the hotspot.",
     "score": 1500
    }
   ]
@@ -112,10 +112,10 @@
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "seasonal",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Special mutated enemy variants appear in public events with exclusive rewards from Mutated Packages."
+   "description": "Mutated enemies appear in public events on the hour, offering special rewards from Mutated Party Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -123,7 +123,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Experience gain is doubled, allowing faster leveling and scoreboard progression."
+   "description": "Experience points are doubled, allowing players to level up faster and maximize scoreboard progression."
+  },
+  {
+   "id": "90bfb7d5d353",
+   "name": "World Pets Update",
+   "type": "update",
+   "starts": "2026-12-01",
+   "ends": "",
+   "description": "Major update introducing world pets and starting Season 27 You're S.P.E.C.I.A.L."
   },
   {
    "id": "d37fd4924971",
@@ -131,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter creatures spawn with double mutation rates and exclusive rewards."
+   "description": "Treasure Hunter event combines with double mutation effects for enhanced rewards."
   },
   {
    "id": "eab26cc5304a",
@@ -139,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Special holiday-themed Scorched enemies appear with festive rewards and waterlogged gifts."
+   "description": "Holiday-themed scorched enemies appear with festive gifts and waterlogged gift rewards."
   }
  ],
  "season": {
