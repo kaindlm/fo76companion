@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:36:41.153930+00:00",
+ "updated": "2026-11-28T03:46:51.658296+00:00",
  "daily": {
   "period_start": "2026-11-27T12:00:00-05:00",
   "resets_at": "2026-11-28T12:00:00-05:00",
@@ -13,7 +13,7 @@
    {
     "id": "f9cff664f1d6",
     "title": "Build a Decoration in a Shelter in Free Cam",
-    "detail": "Enter your Shelter, open build menu, toggle free cam, and place a decoration in the Decorations category.",
+    "detail": "Enter your shelter, open build menu, toggle free cam, place a decoration in the Decorations category, then scrap it.",
     "score": 250
    },
    {
@@ -37,13 +37,13 @@
    {
     "id": "32fa0c4b9dc2",
     "title": "Kill a Pint-Sized Phantom during an Infestation while on a Team",
-    "detail": "Join a team and kill Pint-Sized Phantoms inside an active Infestation hotspot.",
+    "detail": "Join a team and kill Pint-Sized Phantoms (masked cultists) inside an Infestation hotspot.",
     "score": 250
    },
    {
     "id": "693d9735ebdc",
     "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Grunt Hunt",
-    "detail": "Pick up a Grunt Hunt bounty at Highway Town and kill enemies with a Sharp or Piercing Weapon.",
+    "detail": "Pick up a Grunt Hunt bounty at Highway Town, then kill enemies with a melee weapon like Combat Knife or Fire Axe.",
     "score": 250
    }
   ]
@@ -55,56 +55,56 @@
    {
     "id": "1e0c7e29bfa9",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your Shelter, access build menu, select Decorations category, and place any decoration.",
-    "score": 250
+    "detail": "Enter your shelter, access the build menu, select Decorations category, and place any decoration.",
+    "score": 1500
    },
    {
     "id": "3b0fac3d872d",
     "title": "Buy an item from or Sell an item to another Player",
-    "detail": "Visit another player's C.A.M.P. and buy from or sell to their vendor.",
-    "score": 250
+    "detail": "Visit another player's C.A.M.P. and buy or sell an item at their vendor.",
+    "score": 1500
    },
    {
     "id": "f581455e3f28",
     "title": "Collect Caps",
-    "detail": "Collect Caps from containers, loot, or by selling items to vendors.",
-    "score": 250
+    "detail": "Collect 2500 Caps from loot, containers, or by selling items to vendors.",
+    "score": 1500
    },
    {
     "id": "7574c0650f36",
     "title": "Complete an Event or Activity",
-    "detail": "Complete any public event or activity.",
-    "score": 250
+    "detail": "Complete 3 public events or activities.",
+    "score": 1500
    },
    {
     "id": "7ff6d395fa1c",
     "title": "Complete an Infestation",
-    "detail": "Find and complete an Infestation by defeating all enemies in the marked hotspot.",
-    "score": 250
+    "detail": "Complete 3 Infestations by clearing the marked hotspots.",
+    "score": 1500
    },
    {
     "id": "85c05a6a3d14",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Start a Head Hunt at Highway Town and defeat the Reborn Pint-Sized Slasher if it appears.",
-    "score": 250
+    "detail": "Start a Head Hunt at Highway Town and defeat the Reborn Pint-Sized Slasher that appears as a legendary phantom.",
+    "score": 1500
    },
    {
     "id": "62aa30b3dbba",
     "title": "Kill a Mutated Enemy",
-    "detail": "Kill enemies during a Mutated Public Event, which occur hourly.",
-    "score": 250
+    "detail": "Kill 30 mutated enemies during Mutated Public Events or Daily Ops.",
+    "score": 1500
    },
    {
     "id": "56e252140249",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Find Pint-Sized Phantoms within an active Infestation hotspot and defeat them.",
-    "score": 250
+    "detail": "Kill 20 Pint-Sized Phantoms inside Infestation hotspots.",
+    "score": 1500
    },
    {
     "id": "ff1bd233d019",
     "title": "Kill a Legendary Creature",
-    "detail": "Join an event like Leader of the Pack or Radiation Rumble to find Legendary creatures.",
-    "score": 250
+    "detail": "Kill 5 Legendary creatures such as Legendary wolves from Leader of the Pack events.",
+    "score": 1500
    }
   ]
  },
@@ -112,10 +112,10 @@
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "weekend",
+   "type": "weekly",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Special mutated public events spawn on the hour with exclusive rewards from Mutated Packages."
+   "description": "Special mutated variants of public events offer increased challenge and unique rewards."
   },
   {
    "id": "16e2b172b55e",
@@ -123,15 +123,15 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Experience points are doubled, allowing faster leveling and Scoreboard progression."
+   "description": "Earn experience points at double rate during this limited weekend event."
   },
   {
-   "id": "0ab269bd874c",
-   "name": "World Pets Update (Patch 72)",
+   "id": "991950db22f6",
+   "name": "World Pets Update (Patch 72) / Season 27",
    "type": "update",
    "starts": "2026-12-01",
    "ends": "",
-   "description": "Major update introducing world pets and starting Season 27."
+   "description": "Major update introducing world pets and starting Season 27 You're S.P.E.C.I.A.L."
   },
   {
    "id": "d37fd4924971",
@@ -139,7 +139,7 @@
    "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event returns alongside Double Mutations with exclusive rewards."
+   "description": "Treasure Hunter event returns with double mutation spawns for increased legendary drops."
   },
   {
    "id": "eab26cc5304a",
@@ -147,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Seasonal event featuring holiday-themed Scorched enemies with special gift rewards."
+   "description": "Limited-time seasonal event featuring holiday-themed scorched enemies with unique rewards."
   }
  ],
  "season": {
