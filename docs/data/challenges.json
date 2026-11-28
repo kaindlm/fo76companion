@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-27T03:59:09.861080+00:00",
+ "updated": "2026-11-28T00:36:41.153930+00:00",
  "daily": {
-  "period_start": "2026-11-26T12:00:00-05:00",
-  "resets_at": "2026-11-27T12:00:00-05:00",
+  "period_start": "2026-11-27T12:00:00-05:00",
+  "resets_at": "2026-11-28T12:00:00-05:00",
   "items": [
    {
-    "id": "13db5bdb0f6b",
-    "title": "Drink Nuka-Cola Quantum",
-    "detail": "Get from a Nuka-Cola Collectron Station in your C.A.M.P.",
-    "score": null
-   },
-   {
-    "id": "fffbec22079c",
-    "title": "Build a Generator in a C.A.M.P. or Workshop",
-    "detail": "Open C.A.M.P. build menu, navigate to Power and place any Generator.",
-    "score": null
-   },
-   {
-    "id": "32036706a968",
-    "title": "Collect Caps",
-    "detail": "Sell looted weapons, junk, chems, or food to a vendor at train stations.",
+    "id": "ba9f49582a8a",
+    "title": "Eat Pre-war Food",
+    "detail": "Eat any qualifying Pre-war Food such as BlamCo Mac and Cheese or Dandy Boy Apples.",
     "score": 250
    },
    {
-    "id": "43b22028812d",
-    "title": "Cripple a Super Mutant's Leg",
-    "detail": "Fast travel to West Tek Research Center and cripple a Super Mutant's Leg.",
-    "score": null
+    "id": "f9cff664f1d6",
+    "title": "Build a Decoration in a Shelter in Free Cam",
+    "detail": "Enter your Shelter, open build menu, toggle free cam, and place a decoration in the Decorations category.",
+    "score": 250
    },
    {
-    "id": "441121488063",
-    "title": "Eat a box of Blamco Brand Mac and Cheese",
-    "detail": "Find a box at Grafton Dam rowboat or Watoga Underground diner storeroom.",
-    "score": null
+    "id": "30e6d53925d6",
+    "title": "Eat a Plant-based Meal",
+    "detail": "Cook Corn Soup at a Cooking Station and consume it.",
+    "score": 250
    },
    {
-    "id": "035bd9e4896c",
-    "title": "Kill a Super Mutant",
-    "detail": "Fast travel to West Tek Research Center for reliable spawns.",
-    "score": null
+    "id": "feb8faad92b4",
+    "title": "Harvest a Wild Plant or Fungi",
+    "detail": "Harvest plants or fungi from the wild or from farms such as Silva Homestead.",
+    "score": 250
    },
    {
-    "id": "710ee4ddab10",
-    "title": "Take a Camera Picture of a Super Mutant",
-    "detail": "Fast travel to West Tek Research Center, equip Camera and photograph a Super Mutant.",
-    "score": null
+    "id": "a270a2c6d5e5",
+    "title": "Kill a Creature while in a Team",
+    "detail": "Join or create a team, then kill creatures such as Scorched.",
+    "score": 250
+   },
+   {
+    "id": "32fa0c4b9dc2",
+    "title": "Kill a Pint-Sized Phantom during an Infestation while on a Team",
+    "detail": "Join a team and kill Pint-Sized Phantoms inside an active Infestation hotspot.",
+    "score": 250
+   },
+   {
+    "id": "693d9735ebdc",
+    "title": "Kill an Enemy with a Sharp or Piercing Weapon during a Grunt Hunt",
+    "detail": "Pick up a Grunt Hunt bounty at Highway Town and kill enemies with a Sharp or Piercing Weapon.",
+    "score": 250
    }
   ]
  },
@@ -55,56 +55,56 @@
    {
     "id": "1e0c7e29bfa9",
     "title": "Build a Decoration in a Shelter",
-    "detail": "Enter your Shelter, access build menu and place any decoration from Decorations category.",
-    "score": 1500
+    "detail": "Enter your Shelter, access build menu, select Decorations category, and place any decoration.",
+    "score": 250
    },
    {
     "id": "3b0fac3d872d",
     "title": "Buy an item from or Sell an item to another Player",
-    "detail": "Visit another player's C.A.M.P. and buy or sell at their vendor.",
-    "score": 1500
+    "detail": "Visit another player's C.A.M.P. and buy from or sell to their vendor.",
+    "score": 250
    },
    {
     "id": "f581455e3f28",
     "title": "Collect Caps",
-    "detail": "Sell looted items to vendors or collect from world containers.",
-    "score": 2500
+    "detail": "Collect Caps from containers, loot, or by selling items to vendors.",
+    "score": 250
    },
    {
     "id": "7574c0650f36",
     "title": "Complete an Event or Activity",
-    "detail": "Public Events spawn server-wide every 20 minutes with yellow Event icons.",
-    "score": 1500
+    "detail": "Complete any public event or activity.",
+    "score": 250
    },
    {
     "id": "7ff6d395fa1c",
     "title": "Complete an Infestation",
-    "detail": "Find gray cloudy Infestation area on map, locate hotspot and clear all enemies including boss.",
-    "score": 1500
+    "detail": "Find and complete an Infestation by defeating all enemies in the marked hotspot.",
+    "score": 250
    },
    {
     "id": "85c05a6a3d14",
     "title": "Kill The Reborn Pint-Sized Slasher",
-    "detail": "Start a Head Hunt at Highway Town Bounty Board to trigger the encounter.",
-    "score": 1500
+    "detail": "Start a Head Hunt at Highway Town and defeat the Reborn Pint-Sized Slasher if it appears.",
+    "score": 250
    },
    {
     "id": "62aa30b3dbba",
     "title": "Kill a Mutated Enemy",
-    "detail": "Join a Mutated Public Event marked with green hexagon DNA icon on map.",
-    "score": 1500
+    "detail": "Kill enemies during a Mutated Public Event, which occur hourly.",
+    "score": 250
    },
    {
     "id": "56e252140249",
     "title": "Kill a Pint-Sized Phantom during an Infestation",
-    "detail": "Pint-Sized Phantoms are masked cultists that can appear during Infestations.",
-    "score": 1500
+    "detail": "Find Pint-Sized Phantoms within an active Infestation hotspot and defeat them.",
+    "score": 250
    },
    {
     "id": "ff1bd233d019",
     "title": "Kill a Legendary Creature",
-    "detail": "Join public events like Radiation Rumble or trigger Leader of the Pack at Tyler County Fairgrounds.",
-    "score": 1500
+    "detail": "Join an event like Leader of the Pack or Radiation Rumble to find Legendary creatures.",
+    "score": 250
    }
   ]
  },
@@ -112,10 +112,10 @@
   {
    "id": "a03a0ac660a1",
    "name": "Mutated Public Events",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-11-24",
    "ends": "2026-12-01",
-   "description": "Special mutated public events with exclusive mutant enemy packages as rewards."
+   "description": "Special mutated public events spawn on the hour with exclusive rewards from Mutated Packages."
   },
   {
    "id": "16e2b172b55e",
@@ -123,23 +123,23 @@
    "type": "weekend",
    "starts": "2026-11-26",
    "ends": "2026-11-30",
-   "description": "Double experience weekend with XP buffs during the specified period."
+   "description": "Experience points are doubled, allowing faster leveling and Scoreboard progression."
   },
   {
-   "id": "99097e378421",
-   "name": "World Pets Update (Patch 72) / Season 27 Start",
+   "id": "0ab269bd874c",
+   "name": "World Pets Update (Patch 72)",
    "type": "update",
    "starts": "2026-12-01",
-   "ends": "2026-12-01",
-   "description": "Major update introducing world pets and beginning of Season 27."
+   "ends": "",
+   "description": "Major update introducing world pets and starting Season 27."
   },
   {
    "id": "d37fd4924971",
    "name": "Treasure Hunter and Double Mutations",
-   "type": "other",
+   "type": "weekend",
    "starts": "2026-12-03",
    "ends": "2026-12-07",
-   "description": "Treasure Hunter event with double mutation chance in encounters."
+   "description": "Treasure Hunter event returns alongside Double Mutations with exclusive rewards."
   },
   {
    "id": "eab26cc5304a",
@@ -147,7 +147,7 @@
    "type": "seasonal",
    "starts": "2026-12-15",
    "ends": "2026-12-29",
-   "description": "Holiday-themed scorched enemy event with festive rewards and gifts."
+   "description": "Seasonal event featuring holiday-themed Scorched enemies with special gift rewards."
   }
  ],
  "season": {
